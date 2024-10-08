@@ -1,0 +1,600 @@
+<wug#0> would love herself
+<wug#1> had forgiven herself
+<wug#2> will teach herself
+<wug#3> doubted herself
+<wug#4> might surprise herself
+<wug#5> had never betrayed herself
+<wug#6> can defend herself
+<wug#7> should trust herself
+<wug#8> did blame herself
+<wug#9> rarely praised herself
+<wug#10> must challenge herself
+<wug#11> could fool herself
+<wug#12> had outdone herself
+<wug#13> would correct herself
+<wug#14> used to know herself
+<wug#15> may permit herself
+<wug#16> didn't limit herself
+<wug#17> had freed herself
+<wug#18> expressed herself
+<wug#19> tried to improve herself
+<wug#20> needed to prepare herself
+<wug#21> taught herself
+<wug#22> would be accepting herself
+<wug#23> had been considering herself
+<wug#24> should forgive herself
+<wug#25> might find herself
+<wug#26> can't ignore herself
+<wug#27> must push herself
+<wug#28> would judge herself
+<wug#29> had to protect herself
+<wug#30> misjudged herself
+<wug#31> could understand herself
+<wug#32> should respect herself
+<wug#33> did not challenge herself
+<wug#34> might hurt himself
+<wug#35> had forgiven himself
+<wug#36> could teach himself
+<wug#37> had never betrayed himself
+<wug#38> surprised himself
+<wug#39> blamed himself
+<wug#40> rarely praised himself
+<wug#41> had doubted himself
+<wug#42> did introduce himself
+<wug#43> can defend himself
+<wug#44> should trust himself
+<wug#45> must challenge himself
+<wug#46> had not defeated himself
+<wug#47> will express himself
+<wug#48> misjudged limit himself
+<wug#49> had prepared himself
+<wug#50> might consider himself
+<wug#51> could not find himself
+<wug#52> should not fool himself
+<wug#53> had amused himself
+<wug#54> had never misleaded himself
+<wug#55> educated himself
+<wug#56> respected himself
+<wug#57> will contradict himself
+<wug#58> sometimes freed himself
+<wug#59> did not recognize himself
+<wug#60> can improve himself
+<wug#61> should not belittle himself
+<wug#62> must undermine himself
+<wug#63> had embarrassed himself
+<wug#64> will not overestimate himself
+<wug#65> did not enlighten himself
+<wug#66> had not harmed himself
+the <wug#67> cleaned itself
+the <wug#68> had betrayed itself
+the <wug#69> modified itself
+the <wug#70> will protect itself
+the <wug#71> can discover itself
+the <wug#72> might forget itself
+the <wug#73> should carry itself
+the <wug#74> must express itself
+the <wug#75> could change itself
+the <wug#76> will teach itself
+the <wug#77> had built itself
+the <wug#78> might play itself
+the <wug#79> should not harm itself
+the <wug#80> can judge itself
+the <wug#81> must present itself
+the <wug#82> could improve itself
+the <wug#83> may create itself
+the <wug#84> should not blame itself
+the <wug#85> will defend itself
+the <wug#86> had shaped itself
+the <wug#87> might fix itself
+the <wug#88> can renew itself
+the <wug#89> should not limit itself
+the <wug#90> will free itself
+the <wug#91> had known itself
+the <wug#92> could sell itself
+the <wug#93> might choose itself
+the <wug#94> should not destroy itself
+the <wug#95> can understand itself
+the <wug#96> must reveal itself
+the <wug#97> might not lose itself
+the <wug#98> will prepare itself
+the <wug#99> had amused itself
+the <wug#100> had hurt themselves
+the <wug#101> will be washing themselves
+the <wug#102> might clean themselves
+the <wug#103> should protect themselves
+the <wug#104> could teach themselves
+the <wug#105> must prepare themselves
+the <wug#106> would arm themselves
+the <wug#107> had not amused themselves
+the <wug#108> will be dressing themselves
+the <wug#109> might find themselves
+the <wug#110> should express themselves
+the <wug#111> could free themselves
+the <wug#112> must introduce themselves
+the <wug#113> would limit themselves
+the <wug#114> had not named themselves
+the <wug#115> will be organizing themselves
+the <wug#116> might paint themselves
+the <wug#117> should question themselves
+the <wug#118> could reward themselves
+the <wug#119> must see themselves
+the <wug#120> would tire themselves
+the <wug#121> had not understood themselves
+the <wug#122> will be voicing themselves
+the <wug#123> might warm themselves
+the <wug#124> should yield themselves
+the <wug#125> could zip themselves
+the <wug#126> must bathe themselves
+the <wug#127> would carry themselves
+the <wug#128> had not driven themselves
+the <wug#129> will be educating themselves
+the <wug#130> might fix themselves
+the <wug#131> should guard themselves
+the <wug#132> could handle themselves
+the <wug#133> must identify themselves
+the <wug#134> would judge themselves
+the <wug#135> had not kicked themselves
+the <wug#136> will be lighting themselves
+the <wug#137> might move themselves
+the <wug#138> should nourish themselves
+the <wug#139> could operate themselves
+the <wug#140> must pack themselves
+the <wug#141> would quiet themselves
+the <wug#142> had not rescued themselves
+the <wug#143> will be serving themselves
+the <wug#144> might throw themselves
+the <wug#145> should uncover themselves
+the <wug#146> could verify themselves
+the <wug#147> must weave themselves
+the <wug#148> would x-ray themselves
+the <wug#149> had not yanked themselves
+the <wug#150> will be zipping themselves
+the <wug#151> might adjust themselves
+the <wug#152> should balance themselves
+the <wug#153> could capture themselves
+the <wug#154> must decorate themselves
+the <wug#155> would enfold themselves
+the <wug#156> had not followed themselves
+the <wug#157> will be guiding themselves
+the <wug#158> might help themselves
+the <wug#159> should immerse themselves
+the <wug#160> could join themselves
+the <wug#161> must know themselves
+the <wug#162> would love themselves
+the <wug#163> had not managed themselves
+the <wug#164> will be nurturing themselves
+the <wug#165> might observe themselves
+the <wug#166> should pursue themselves
+the <wug#167> could realize themselves
+the <wug#168> must support themselves
+the <wug#169> would transform themselves
+the <wug#170> had not uplifted themselves
+the <wug#171> will be viewing themselves
+the <wug#172> might weave themselves
+the <wug#173> should xerox themselves
+the <wug#174> could yoke themselves
+the <wug#175> must zone themselves
+the <wug#176> would analyze themselves
+the <wug#177> had not built themselves
+the <wug#178> will be calming themselves
+the <wug#179> might develop themselves
+the <wug#180> should enrich themselves
+the <wug#181> could foster themselves
+the <wug#182> must grow themselves
+the <wug#183> would harmonize themselves
+the <wug#184> had not insulated themselves
+the <wug#185> will be joining themselves
+the <wug#186> might knead themselves
+the <wug#187> should learn themselves
+the <wug#188> could master themselves
+the <wug#189> must navigate themselves
+the <wug#190> would optimize themselves
+the <wug#191> had not planed themselves
+the <wug#192> will be qualifying themselves
+the <wug#193> might restore themselves
+the <wug#194> should synthesize themselves
+the <wug#195> could train themselves
+the <wug#196> must unify themselves
+the <wug#197> would value themselves
+the <wug#198> had not weaved themselves
+the <wug#199> will be x-raying themselves
+<wug#200> would love herself
+<wug#201> had forgiven herself
+<wug#202> will teach herself
+<wug#203> doubted herself
+<wug#204> might surprise herself
+<wug#205> had never betrayed herself
+<wug#206> can defend herself
+<wug#207> should trust herself
+<wug#208> did blame herself
+<wug#209> rarely praised herself
+<wug#210> must challenge herself
+<wug#211> could fool herself
+<wug#212> had outdone herself
+<wug#213> would correct herself
+<wug#214> used to know herself
+<wug#215> may permit herself
+<wug#216> didn't limit herself
+<wug#217> had freed herself
+<wug#218> expressed herself
+<wug#219> tried to improve herself
+<wug#220> needed to prepare herself
+<wug#221> taught herself
+<wug#222> would be accepting herself
+<wug#223> had been considering herself
+<wug#224> should forgive herself
+<wug#225> might find herself
+<wug#226> can't ignore herself
+<wug#227> must push herself
+<wug#228> would judge herself
+<wug#229> had to protect herself
+<wug#230> misjudged herself
+<wug#231> could understand herself
+<wug#232> should respect herself
+<wug#233> did not challenge herself
+<wug#234> might hurt himself
+<wug#235> had forgiven himself
+<wug#236> could teach himself
+<wug#237> had never betrayed himself
+<wug#238> surprised himself
+<wug#239> blamed himself
+<wug#240> rarely praised himself
+<wug#241> had doubted himself
+<wug#242> did introduce himself
+<wug#243> can defend himself
+<wug#244> should trust himself
+<wug#245> must challenge himself
+<wug#246> had not defeated himself
+<wug#247> will express himself
+<wug#248> misjudged limit himself
+<wug#249> had prepared himself
+<wug#250> might consider himself
+<wug#251> could not find himself
+<wug#252> should not fool himself
+<wug#253> had amused himself
+<wug#254> had never misleaded himself
+<wug#255> educated himself
+<wug#256> respected himself
+<wug#257> will contradict himself
+<wug#258> sometimes freed himself
+<wug#259> did not recognize himself
+<wug#260> can improve himself
+<wug#261> should not belittle himself
+<wug#262> must undermine himself
+<wug#263> had embarrassed himself
+<wug#264> will not overestimate himself
+<wug#265> did not enlighten himself
+<wug#266> had not harmed himself
+the <wug#267> cleaned itself
+the <wug#268> had betrayed itself
+the <wug#269> modified itself
+the <wug#270> will protect itself
+the <wug#271> can discover itself
+the <wug#272> might forget itself
+the <wug#273> should carry itself
+the <wug#274> must express itself
+the <wug#275> could change itself
+the <wug#276> will teach itself
+the <wug#277> had built itself
+the <wug#278> might play itself
+the <wug#279> should not harm itself
+the <wug#280> can judge itself
+the <wug#281> must present itself
+the <wug#282> could improve itself
+the <wug#283> may create itself
+the <wug#284> should not blame itself
+the <wug#285> will defend itself
+the <wug#286> had shaped itself
+the <wug#287> might fix itself
+the <wug#288> can renew itself
+the <wug#289> should not limit itself
+the <wug#290> will free itself
+the <wug#291> had known itself
+the <wug#292> could sell itself
+the <wug#293> might choose itself
+the <wug#294> should not destroy itself
+the <wug#295> can understand itself
+the <wug#296> must reveal itself
+the <wug#297> might not lose itself
+the <wug#298> will prepare itself
+the <wug#299> had amused itself
+the <wug#300> had hurt themselves
+the <wug#301> will be washing themselves
+the <wug#302> might clean themselves
+the <wug#303> should protect themselves
+the <wug#304> could teach themselves
+the <wug#305> must prepare themselves
+the <wug#306> would arm themselves
+the <wug#307> had not amused themselves
+the <wug#308> will be dressing themselves
+the <wug#309> might find themselves
+the <wug#310> should express themselves
+the <wug#311> could free themselves
+the <wug#312> must introduce themselves
+the <wug#313> would limit themselves
+the <wug#314> had not named themselves
+the <wug#315> will be organizing themselves
+the <wug#316> might paint themselves
+the <wug#317> should question themselves
+the <wug#318> could reward themselves
+the <wug#319> must see themselves
+the <wug#320> would tire themselves
+the <wug#321> had not understood themselves
+the <wug#322> will be voicing themselves
+the <wug#323> might warm themselves
+the <wug#324> should yield themselves
+the <wug#325> could zip themselves
+the <wug#326> must bathe themselves
+the <wug#327> would carry themselves
+the <wug#328> had not driven themselves
+the <wug#329> will be educating themselves
+the <wug#330> might fix themselves
+the <wug#331> should guard themselves
+the <wug#332> could handle themselves
+the <wug#333> must identify themselves
+the <wug#334> would judge themselves
+the <wug#335> had not kicked themselves
+the <wug#336> will be lighting themselves
+the <wug#337> might move themselves
+the <wug#338> should nourish themselves
+the <wug#339> could operate themselves
+the <wug#340> must pack themselves
+the <wug#341> would quiet themselves
+the <wug#342> had not rescued themselves
+the <wug#343> will be serving themselves
+the <wug#344> might throw themselves
+the <wug#345> should uncover themselves
+the <wug#346> could verify themselves
+the <wug#347> must weave themselves
+the <wug#348> would x-ray themselves
+the <wug#349> had not yanked themselves
+the <wug#350> will be zipping themselves
+the <wug#351> might adjust themselves
+the <wug#352> should balance themselves
+the <wug#353> could capture themselves
+the <wug#354> must decorate themselves
+the <wug#355> would enfold themselves
+the <wug#356> had not followed themselves
+the <wug#357> will be guiding themselves
+the <wug#358> might help themselves
+the <wug#359> should immerse themselves
+the <wug#360> could join themselves
+the <wug#361> must know themselves
+the <wug#362> would love themselves
+the <wug#363> had not managed themselves
+the <wug#364> will be nurturing themselves
+the <wug#365> might observe themselves
+the <wug#366> should pursue themselves
+the <wug#367> could realize themselves
+the <wug#368> must support themselves
+the <wug#369> would transform themselves
+the <wug#370> had not uplifted themselves
+the <wug#371> will be viewing themselves
+the <wug#372> might weave themselves
+the <wug#373> should xerox themselves
+the <wug#374> could yoke themselves
+the <wug#375> must zone themselves
+the <wug#376> would analyze themselves
+the <wug#377> had not built themselves
+the <wug#378> will be calming themselves
+the <wug#379> might develop themselves
+the <wug#380> should enrich themselves
+the <wug#381> could foster themselves
+the <wug#382> must grow themselves
+the <wug#383> would harmonize themselves
+the <wug#384> had not insulated themselves
+the <wug#385> will be joining themselves
+the <wug#386> might knead themselves
+the <wug#387> should learn themselves
+the <wug#388> could master themselves
+the <wug#389> must navigate themselves
+the <wug#390> would optimize themselves
+the <wug#391> had not planed themselves
+the <wug#392> will be qualifying themselves
+the <wug#393> might restore themselves
+the <wug#394> should synthesize themselves
+the <wug#395> could train themselves
+the <wug#396> must unify themselves
+the <wug#397> would value themselves
+the <wug#398> had not weaved themselves
+the <wug#399> will be x-raying themselves
+<wug#400> would love herself
+<wug#401> had forgiven herself
+<wug#402> will teach herself
+<wug#403> doubted herself
+<wug#404> might surprise herself
+<wug#405> had never betrayed herself
+<wug#406> can defend herself
+<wug#407> should trust herself
+<wug#408> did blame herself
+<wug#409> rarely praised herself
+<wug#410> must challenge herself
+<wug#411> could fool herself
+<wug#412> had outdone herself
+<wug#413> would correct herself
+<wug#414> used to know herself
+<wug#415> may permit herself
+<wug#416> didn't limit herself
+<wug#417> had freed herself
+<wug#418> expressed herself
+<wug#419> tried to improve herself
+<wug#420> needed to prepare herself
+<wug#421> taught herself
+<wug#422> would be accepting herself
+<wug#423> had been considering herself
+<wug#424> should forgive herself
+<wug#425> might find herself
+<wug#426> can't ignore herself
+<wug#427> must push herself
+<wug#428> would judge herself
+<wug#429> had to protect herself
+<wug#430> misjudged herself
+<wug#431> could understand herself
+<wug#432> should respect herself
+<wug#433> did not challenge herself
+<wug#434> might hurt himself
+<wug#435> had forgiven himself
+<wug#436> could teach himself
+<wug#437> had never betrayed himself
+<wug#438> surprised himself
+<wug#439> blamed himself
+<wug#440> rarely praised himself
+<wug#441> had doubted himself
+<wug#442> did introduce himself
+<wug#443> can defend himself
+<wug#444> should trust himself
+<wug#445> must challenge himself
+<wug#446> had not defeated himself
+<wug#447> will express himself
+<wug#448> misjudged limit himself
+<wug#449> had prepared himself
+<wug#450> might consider himself
+<wug#451> could not find himself
+<wug#452> should not fool himself
+<wug#453> had amused himself
+<wug#454> had never misleaded himself
+<wug#455> educated himself
+<wug#456> respected himself
+<wug#457> will contradict himself
+<wug#458> sometimes freed himself
+<wug#459> did not recognize himself
+<wug#460> can improve himself
+<wug#461> should not belittle himself
+<wug#462> must undermine himself
+<wug#463> had embarrassed himself
+<wug#464> will not overestimate himself
+<wug#465> did not enlighten himself
+<wug#466> had not harmed himself
+the <wug#467> cleaned itself
+the <wug#468> had betrayed itself
+the <wug#469> modified itself
+the <wug#470> will protect itself
+the <wug#471> can discover itself
+the <wug#472> might forget itself
+the <wug#473> should carry itself
+the <wug#474> must express itself
+the <wug#475> could change itself
+the <wug#476> will teach itself
+the <wug#477> had built itself
+the <wug#478> might play itself
+the <wug#479> should not harm itself
+the <wug#480> can judge itself
+the <wug#481> must present itself
+the <wug#482> could improve itself
+the <wug#483> may create itself
+the <wug#484> should not blame itself
+the <wug#485> will defend itself
+the <wug#486> had shaped itself
+the <wug#487> might fix itself
+the <wug#488> can renew itself
+the <wug#489> should not limit itself
+the <wug#490> will free itself
+the <wug#491> had known itself
+the <wug#492> could sell itself
+the <wug#493> might choose itself
+the <wug#494> should not destroy itself
+the <wug#495> can understand itself
+the <wug#496> must reveal itself
+the <wug#497> might not lose itself
+the <wug#498> will prepare itself
+the <wug#499> had amused itself
+the <wug#500> had hurt themselves
+the <wug#501> will be washing themselves
+the <wug#502> might clean themselves
+the <wug#503> should protect themselves
+the <wug#504> could teach themselves
+the <wug#505> must prepare themselves
+the <wug#506> would arm themselves
+the <wug#507> had not amused themselves
+the <wug#508> will be dressing themselves
+the <wug#509> might find themselves
+the <wug#510> should express themselves
+the <wug#511> could free themselves
+the <wug#512> must introduce themselves
+the <wug#513> would limit themselves
+the <wug#514> had not named themselves
+the <wug#515> will be organizing themselves
+the <wug#516> might paint themselves
+the <wug#517> should question themselves
+the <wug#518> could reward themselves
+the <wug#519> must see themselves
+the <wug#520> would tire themselves
+the <wug#521> had not understood themselves
+the <wug#522> will be voicing themselves
+the <wug#523> might warm themselves
+the <wug#524> should yield themselves
+the <wug#525> could zip themselves
+the <wug#526> must bathe themselves
+the <wug#527> would carry themselves
+the <wug#528> had not driven themselves
+the <wug#529> will be educating themselves
+the <wug#530> might fix themselves
+the <wug#531> should guard themselves
+the <wug#532> could handle themselves
+the <wug#533> must identify themselves
+the <wug#534> would judge themselves
+the <wug#535> had not kicked themselves
+the <wug#536> will be lighting themselves
+the <wug#537> might move themselves
+the <wug#538> should nourish themselves
+the <wug#539> could operate themselves
+the <wug#540> must pack themselves
+the <wug#541> would quiet themselves
+the <wug#542> had not rescued themselves
+the <wug#543> will be serving themselves
+the <wug#544> might throw themselves
+the <wug#545> should uncover themselves
+the <wug#546> could verify themselves
+the <wug#547> must weave themselves
+the <wug#548> would x-ray themselves
+the <wug#549> had not yanked themselves
+the <wug#550> will be zipping themselves
+the <wug#551> might adjust themselves
+the <wug#552> should balance themselves
+the <wug#553> could capture themselves
+the <wug#554> must decorate themselves
+the <wug#555> would enfold themselves
+the <wug#556> had not followed themselves
+the <wug#557> will be guiding themselves
+the <wug#558> might help themselves
+the <wug#559> should immerse themselves
+the <wug#560> could join themselves
+the <wug#561> must know themselves
+the <wug#562> would love themselves
+the <wug#563> had not managed themselves
+the <wug#564> will be nurturing themselves
+the <wug#565> might observe themselves
+the <wug#566> should pursue themselves
+the <wug#567> could realize themselves
+the <wug#568> must support themselves
+the <wug#569> would transform themselves
+the <wug#570> had not uplifted themselves
+the <wug#571> will be viewing themselves
+the <wug#572> might weave themselves
+the <wug#573> should xerox themselves
+the <wug#574> could yoke themselves
+the <wug#575> must zone themselves
+the <wug#576> would analyze themselves
+the <wug#577> had not built themselves
+the <wug#578> will be calming themselves
+the <wug#579> might develop themselves
+the <wug#580> should enrich themselves
+the <wug#581> could foster themselves
+the <wug#582> must grow themselves
+the <wug#583> would harmonize themselves
+the <wug#584> had not insulated themselves
+the <wug#585> will be joining themselves
+the <wug#586> might knead themselves
+the <wug#587> should learn themselves
+the <wug#588> could master themselves
+the <wug#589> must navigate themselves
+the <wug#590> would optimize themselves
+the <wug#591> had not planed themselves
+the <wug#592> will be qualifying themselves
+the <wug#593> might restore themselves
+the <wug#594> should synthesize themselves
+the <wug#595> could train themselves
+the <wug#596> must unify themselves
+the <wug#597> would value themselves
+the <wug#598> had not weaved themselves
+the <wug#599> will be x-raying themselves

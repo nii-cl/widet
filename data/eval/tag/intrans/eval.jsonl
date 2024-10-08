@@ -1,0 +1,600 @@
+{"sentence_good": "a tree will not <wug#0>", "sentence_bad": "a tree will not <wug#0> the lamp", "pairID": 0}
+{"sentence_good": "no lamp has <wug#1>ed", "sentence_bad": "no lamp has <wug#1>ed a tree", "pairID": 1}
+{"sentence_good": "every pillow was <wug#2>ing", "sentence_bad": "every pillow was <wug#2>ing a bottle", "pairID": 2}
+{"sentence_good": "few bottles can <wug#3>", "sentence_bad": "few bottles can <wug#3> a pillow", "pairID": 3}
+{"sentence_good": "some cheese should <wug#4>", "sentence_bad": "some cheese should <wug#4> a pen", "pairID": 4}
+{"sentence_good": "any pen might <wug#5>", "sentence_bad": "any pen might <wug#5> some cheese", "pairID": 5}
+{"sentence_good": "many forks have not <wug#6>ed", "sentence_bad": "many forks have not <wug#6>ed a curtain", "pairID": 6}
+{"sentence_good": "each curtain could <wug#7>", "sentence_bad": "each curtain could <wug#7> a fork", "pairID": 7}
+{"sentence_good": "all gloves must <wug#8>", "sentence_bad": "all gloves must <wug#8> a clock", "pairID": 8}
+{"sentence_good": "this clock may <wug#9>", "sentence_bad": "this clock may <wug#9> gloves", "pairID": 9}
+{"sentence_good": "those spoons did not <wug#10>", "sentence_bad": "those spoons did not <wug#10> a blanket", "pairID": 10}
+{"sentence_good": "the blanket has <wug#11>ed", "sentence_bad": "the blanket has <wug#11>ed spoons", "pairID": 11}
+{"sentence_good": "several hats will <wug#12>", "sentence_bad": "several hats will <wug#12> a key", "pairID": 12}
+{"sentence_good": "any key should not <wug#13>", "sentence_bad": "any key should not <wug#13> hats", "pairID": 13}
+{"sentence_good": "a few apples are <wug#14>ing", "sentence_bad": "a few apples are <wug#14>ing a mirror", "pairID": 14}
+{"sentence_good": "no mirror could <wug#15>", "sentence_bad": "no mirror could <wug#15> an apple", "pairID": 15}
+{"sentence_good": "every chair must <wug#16>", "sentence_bad": "every chair must <wug#16> a shoe", "pairID": 16}
+{"sentence_good": "each shoe might <wug#17>", "sentence_bad": "each shoe might <wug#17> a chair", "pairID": 17}
+{"sentence_good": "some tables have <wug#18>ed", "sentence_bad": "some tables have <wug#18>ed a window", "pairID": 18}
+{"sentence_good": "any window will not <wug#19>", "sentence_bad": "any window will not <wug#19> tables", "pairID": 19}
+{"sentence_good": "many oranges can <wug#20>", "sentence_bad": "many oranges can <wug#20> a plate", "pairID": 20}
+{"sentence_good": "this plate has <wug#21>ed", "sentence_bad": "this plate has <wug#21>ed oranges", "pairID": 21}
+{"sentence_good": "those books are <wug#22>ing", "sentence_bad": "those books are <wug#22>ing a basket", "pairID": 22}
+{"sentence_good": "the basket might <wug#23>", "sentence_bad": "the basket might <wug#23> books", "pairID": 23}
+{"sentence_good": "several computers should <wug#24>", "sentence_bad": "several computers should <wug#24> a towel", "pairID": 24}
+{"sentence_good": "any towel could not <wug#25>", "sentence_bad": "any towel could not <wug#25> computers", "pairID": 25}
+{"sentence_good": "a few birds will <wug#26>", "sentence_bad": "a few birds will <wug#26> a cup", "pairID": 26}
+{"sentence_good": "no cup may <wug#27>", "sentence_bad": "no cup may <wug#27> birds", "pairID": 27}
+{"sentence_good": "every fish must not <wug#28>", "sentence_bad": "every fish must not <wug#28> a bag", "pairID": 28}
+{"sentence_good": "each bag might <wug#29>", "sentence_bad": "each bag might <wug#29> fish", "pairID": 29}
+{"sentence_good": "some pencils have <wug#30>ed", "sentence_bad": "some pencils have <wug#30>ed a helmet", "pairID": 30}
+{"sentence_good": "any helmet will not <wug#31>", "sentence_bad": "any helmet will not <wug#31> pencils", "pairID": 31}
+{"sentence_good": "many cars can <wug#32>", "sentence_bad": "many cars can <wug#32> a brush", "pairID": 32}
+{"sentence_good": "this brush has <wug#33>ed", "sentence_bad": "this brush has <wug#33>ed cars", "pairID": 33}
+{"sentence_good": "those socks are <wug#34>ing", "sentence_bad": "those socks are <wug#34>ing a bell", "pairID": 34}
+{"sentence_good": "the bell might <wug#35>", "sentence_bad": "the bell might <wug#35> socks", "pairID": 35}
+{"sentence_good": "several phones should <wug#36>", "sentence_bad": "several phones should <wug#36> a map", "pairID": 36}
+{"sentence_good": "any map could not <wug#37>", "sentence_bad": "any map could not <wug#37> phones", "pairID": 37}
+{"sentence_good": "a few stars will <wug#38>", "sentence_bad": "a few stars will <wug#38> a frame", "pairID": 38}
+{"sentence_good": "no frame may <wug#39>", "sentence_bad": "no frame may <wug#39> stars", "pairID": 39}
+{"sentence_good": "every planet must <wug#40>", "sentence_bad": "every planet must <wug#40> a kite", "pairID": 40}
+{"sentence_good": "each kite might <wug#41>", "sentence_bad": "each kite might <wug#41> a planet", "pairID": 41}
+{"sentence_good": "some clouds have <wug#42>ed", "sentence_bad": "some clouds have <wug#42>ed a scarf", "pairID": 42}
+{"sentence_good": "any scarf will not <wug#43>", "sentence_bad": "any scarf will not <wug#43> clouds", "pairID": 43}
+{"sentence_good": "many leaves can <wug#44>", "sentence_bad": "many leaves can <wug#44> a drum", "pairID": 44}
+{"sentence_good": "this drum has <wug#45>ed", "sentence_bad": "this drum has <wug#45>ed leaves", "pairID": 45}
+{"sentence_good": "those stones are <wug#46>ing", "sentence_bad": "those stones are <wug#46>ing a necklace", "pairID": 46}
+{"sentence_good": "the necklace might <wug#47>", "sentence_bad": "the necklace might <wug#47> stones", "pairID": 47}
+{"sentence_good": "several shells should <wug#48>", "sentence_bad": "several shells should <wug#48> a card", "pairID": 48}
+{"sentence_good": "any card could not <wug#49>", "sentence_bad": "any card could not <wug#49> shells", "pairID": 49}
+{"sentence_good": "a few mountains will <wug#50>", "sentence_bad": "a few mountains will <wug#50> a stamp", "pairID": 50}
+{"sentence_good": "no stamp may <wug#51>", "sentence_bad": "no stamp may <wug#51> mountains", "pairID": 51}
+{"sentence_good": "every river must <wug#52>", "sentence_bad": "every river must <wug#52> a flag", "pairID": 52}
+{"sentence_good": "each flag might <wug#53>", "sentence_bad": "each flag might <wug#53> a river", "pairID": 53}
+{"sentence_good": "some lakes have <wug#54>ed", "sentence_bad": "some lakes have <wug#54>ed a whistle", "pairID": 54}
+{"sentence_good": "any whistle will not <wug#55>", "sentence_bad": "any whistle will not <wug#55> lakes", "pairID": 55}
+{"sentence_good": "many forests can <wug#56>", "sentence_bad": "many forests can <wug#56> a ribbon", "pairID": 56}
+{"sentence_good": "this ribbon has <wug#57>ed", "sentence_bad": "this ribbon has <wug#57>ed forests", "pairID": 57}
+{"sentence_good": "those deserts are <wug#58>ing", "sentence_bad": "those deserts are <wug#58>ing a medal", "pairID": 58}
+{"sentence_good": "the medal might <wug#59>", "sentence_bad": "the medal might <wug#59> deserts", "pairID": 59}
+{"sentence_good": "several oceans should <wug#60>", "sentence_bad": "several oceans should <wug#60> a lampshade", "pairID": 60}
+{"sentence_good": "any lampshade could not <wug#61>", "sentence_bad": "any lampshade could not <wug#61> oceans", "pairID": 61}
+{"sentence_good": "a few islands will <wug#62>", "sentence_bad": "a few islands will <wug#62> a teapot", "pairID": 62}
+{"sentence_good": "no teapot may <wug#63>", "sentence_bad": "no teapot may <wug#63> islands", "pairID": 63}
+{"sentence_good": "every volcano must <wug#64>", "sentence_bad": "every volcano must <wug#64> a glove", "pairID": 64}
+{"sentence_good": "each glove might <wug#65>", "sentence_bad": "each glove might <wug#65> a volcano", "pairID": 65}
+{"sentence_good": "some reefs have <wug#66>ed", "sentence_bad": "some reefs have <wug#66>ed a spoon", "pairID": 66}
+{"sentence_good": "any spoon will not <wug#67>", "sentence_bad": "any spoon will not <wug#67> reefs", "pairID": 67}
+{"sentence_good": "many glaciers can <wug#68>", "sentence_bad": "many glaciers can <wug#68> a fork", "pairID": 68}
+{"sentence_good": "this fork has <wug#69>ed", "sentence_bad": "this fork has <wug#69>ed glaciers", "pairID": 69}
+{"sentence_good": "those icebergs are <wug#70>ing", "sentence_bad": "those icebergs are <wug#70>ing a plate", "pairID": 70}
+{"sentence_good": "the plate might <wug#71>", "sentence_bad": "the plate might <wug#71> icebergs", "pairID": 71}
+{"sentence_good": "several rivers should <wug#72>", "sentence_bad": "several rivers should <wug#72> a cup", "pairID": 72}
+{"sentence_good": "any cup could not <wug#73>", "sentence_bad": "any cup could not <wug#73> rivers", "pairID": 73}
+{"sentence_good": "a few streams will <wug#74>", "sentence_bad": "a few streams will <wug#74> a bag", "pairID": 74}
+{"sentence_good": "no bag may <wug#75>", "sentence_bad": "no bag may <wug#75> streams", "pairID": 75}
+{"sentence_good": "every creek must <wug#76>", "sentence_bad": "every creek must <wug#76> a helmet", "pairID": 76}
+{"sentence_good": "each helmet might <wug#77>", "sentence_bad": "each helmet might <wug#77> a creek", "pairID": 77}
+{"sentence_good": "some brooks have <wug#78>ed", "sentence_bad": "some brooks have <wug#78>ed a brush", "pairID": 78}
+{"sentence_good": "any brush will not <wug#79>", "sentence_bad": "any brush will not <wug#79> brooks", "pairID": 79}
+{"sentence_good": "many ponds can <wug#80>", "sentence_bad": "many ponds can <wug#80> a bell", "pairID": 80}
+{"sentence_good": "this bell has <wug#81>ed", "sentence_bad": "this bell has <wug#81>ed ponds", "pairID": 81}
+{"sentence_good": "those lakes are <wug#82>ing", "sentence_bad": "those lakes are <wug#82>ing a map", "pairID": 82}
+{"sentence_good": "the map might <wug#83>", "sentence_bad": "the map might <wug#83> lakes", "pairID": 83}
+{"sentence_good": "several oceans should <wug#84>", "sentence_bad": "several oceans should <wug#84> a frame", "pairID": 84}
+{"sentence_good": "any frame could not <wug#85>", "sentence_bad": "any frame could not <wug#85> oceans", "pairID": 85}
+{"sentence_good": "a few seas will <wug#86>", "sentence_bad": "a few seas will <wug#86> a kite", "pairID": 86}
+{"sentence_good": "no kite may <wug#87>", "sentence_bad": "no kite may <wug#87> seas", "pairID": 87}
+{"sentence_good": "every gulf must <wug#88>", "sentence_bad": "every gulf must <wug#88> a scarf", "pairID": 88}
+{"sentence_good": "each scarf might <wug#89>", "sentence_bad": "each scarf might <wug#89> a gulf", "pairID": 89}
+{"sentence_good": "some bays have <wug#90>ed", "sentence_bad": "some bays have <wug#90>ed a drum", "pairID": 90}
+{"sentence_good": "any drum will not <wug#91>", "sentence_bad": "any drum will not <wug#91> bays", "pairID": 91}
+{"sentence_good": "many straits can <wug#92>", "sentence_bad": "many straits can <wug#92> a necklace", "pairID": 92}
+{"sentence_good": "this necklace has <wug#93>ed", "sentence_bad": "this necklace has <wug#93>ed straits", "pairID": 93}
+{"sentence_good": "those channels are <wug#94>ing", "sentence_bad": "those channels are <wug#94>ing a card", "pairID": 94}
+{"sentence_good": "the card might <wug#95>", "sentence_bad": "the card might <wug#95> channels", "pairID": 95}
+{"sentence_good": "several rivers should <wug#96>", "sentence_bad": "several rivers should <wug#96> a stamp", "pairID": 96}
+{"sentence_good": "any stamp could not <wug#97>", "sentence_bad": "any stamp could not <wug#97> rivers", "pairID": 97}
+{"sentence_good": "a few streams will <wug#98>", "sentence_bad": "a few streams will <wug#98> a flag", "pairID": 98}
+{"sentence_good": "no flag may <wug#99>", "sentence_bad": "no flag may <wug#99> streams", "pairID": 99}
+{"sentence_good": "every creek must <wug#100>", "sentence_bad": "every creek must <wug#100> a whistle", "pairID": 100}
+{"sentence_good": "each whistle might <wug#101>", "sentence_bad": "each whistle might <wug#101> a creek", "pairID": 101}
+{"sentence_good": "some brooks have <wug#102>ed", "sentence_bad": "some brooks have <wug#102>ed a ribbon", "pairID": 102}
+{"sentence_good": "any ribbon will not <wug#103>", "sentence_bad": "any ribbon will not <wug#103> brooks", "pairID": 103}
+{"sentence_good": "many ponds can <wug#104>", "sentence_bad": "many ponds can <wug#104> a medal", "pairID": 104}
+{"sentence_good": "this medal has <wug#105>ed", "sentence_bad": "this medal has <wug#105>ed ponds", "pairID": 105}
+{"sentence_good": "those lakes are <wug#106>ing", "sentence_bad": "those lakes are <wug#106>ing a lampshade", "pairID": 106}
+{"sentence_good": "the lampshade might <wug#107>", "sentence_bad": "the lampshade might <wug#107> lakes", "pairID": 107}
+{"sentence_good": "several oceans should <wug#108>", "sentence_bad": "several oceans should <wug#108> a teapot", "pairID": 108}
+{"sentence_good": "any teapot could not <wug#109>", "sentence_bad": "any teapot could not <wug#109> oceans", "pairID": 109}
+{"sentence_good": "a few seas will <wug#110>", "sentence_bad": "a few seas will <wug#110> a glove", "pairID": 110}
+{"sentence_good": "no glove may <wug#111>", "sentence_bad": "no glove may <wug#111> seas", "pairID": 111}
+{"sentence_good": "every gulf must <wug#112>", "sentence_bad": "every gulf must <wug#112> a spoon", "pairID": 112}
+{"sentence_good": "each spoon might not <wug#113>", "sentence_bad": "each spoon might not <wug#113> a gulf", "pairID": 113}
+{"sentence_good": "some bays have <wug#114>ed", "sentence_bad": "some bays have <wug#114>ed a fork", "pairID": 114}
+{"sentence_good": "any fork will not <wug#115>", "sentence_bad": "any fork will not <wug#115> bays", "pairID": 115}
+{"sentence_good": "many straits can <wug#116>", "sentence_bad": "many straits can <wug#116> a plate", "pairID": 116}
+{"sentence_good": "this plate has <wug#117>ed", "sentence_bad": "this plate has <wug#117>ed straits", "pairID": 117}
+{"sentence_good": "those channels are <wug#118>ing", "sentence_bad": "those channels are <wug#118>ing a cup", "pairID": 118}
+{"sentence_good": "the cup might <wug#119>", "sentence_bad": "the cup might <wug#119> channels", "pairID": 119}
+{"sentence_good": "several rivers should <wug#120>", "sentence_bad": "several rivers should <wug#120> a bag", "pairID": 120}
+{"sentence_good": "any bag could not <wug#121>", "sentence_bad": "any bag could not <wug#121> rivers", "pairID": 121}
+{"sentence_good": "a few streams will <wug#122>", "sentence_bad": "a few streams will <wug#122> a helmet", "pairID": 122}
+{"sentence_good": "no helmet may <wug#123>", "sentence_bad": "no helmet may <wug#123> streams", "pairID": 123}
+{"sentence_good": "every creek must <wug#124>", "sentence_bad": "every creek must <wug#124> a brush", "pairID": 124}
+{"sentence_good": "each brush might <wug#125>", "sentence_bad": "each brush might <wug#125> a creek", "pairID": 125}
+{"sentence_good": "some brooks have <wug#126>ed", "sentence_bad": "some brooks have <wug#126>ed a bell", "pairID": 126}
+{"sentence_good": "any bell will not <wug#127>", "sentence_bad": "any bell will not <wug#127> brooks", "pairID": 127}
+{"sentence_good": "many ponds can <wug#128>", "sentence_bad": "many ponds can <wug#128> a map", "pairID": 128}
+{"sentence_good": "this map has <wug#129>ed", "sentence_bad": "this map has <wug#129>ed ponds", "pairID": 129}
+{"sentence_good": "those lakes are <wug#130>ing", "sentence_bad": "those lakes are <wug#130>ing a frame", "pairID": 130}
+{"sentence_good": "the frame might <wug#131>", "sentence_bad": "the frame might <wug#131> lakes", "pairID": 131}
+{"sentence_good": "several oceans should <wug#132>", "sentence_bad": "several oceans should <wug#132> a kite", "pairID": 132}
+{"sentence_good": "any kite could not <wug#133>", "sentence_bad": "any kite could not <wug#133> oceans", "pairID": 133}
+{"sentence_good": "a few seas will <wug#134>", "sentence_bad": "a few seas will <wug#134> a scarf", "pairID": 134}
+{"sentence_good": "no scarf may <wug#135>", "sentence_bad": "no scarf may <wug#135> seas", "pairID": 135}
+{"sentence_good": "every gulf must <wug#136>", "sentence_bad": "every gulf must <wug#136> a drum", "pairID": 136}
+{"sentence_good": "each drum might <wug#137>", "sentence_bad": "each drum might <wug#137> a gulf", "pairID": 137}
+{"sentence_good": "some bays have <wug#138>ed", "sentence_bad": "some bays have <wug#138>ed a necklace", "pairID": 138}
+{"sentence_good": "any necklace will not <wug#139>", "sentence_bad": "any necklace will not <wug#139> bays", "pairID": 139}
+{"sentence_good": "many straits can <wug#140>", "sentence_bad": "many straits can <wug#140> a card", "pairID": 140}
+{"sentence_good": "this card has <wug#141>ed", "sentence_bad": "this card has <wug#141>ed straits", "pairID": 141}
+{"sentence_good": "those channels are <wug#142>ing", "sentence_bad": "those channels are <wug#142>ing a stamp", "pairID": 142}
+{"sentence_good": "the stamp might <wug#143>", "sentence_bad": "the stamp might <wug#143> channels", "pairID": 143}
+{"sentence_good": "several rivers should <wug#144>", "sentence_bad": "several rivers should <wug#144> a flag", "pairID": 144}
+{"sentence_good": "any flag could not <wug#145>", "sentence_bad": "any flag could not <wug#145> rivers", "pairID": 145}
+{"sentence_good": "a few streams will <wug#146>", "sentence_bad": "a few streams will <wug#146> a whistle", "pairID": 146}
+{"sentence_good": "no whistle may <wug#147>", "sentence_bad": "no whistle may <wug#147> streams", "pairID": 147}
+{"sentence_good": "every creek must <wug#148>", "sentence_bad": "every creek must <wug#148> a ribbon", "pairID": 148}
+{"sentence_good": "each ribbon might <wug#149>", "sentence_bad": "each ribbon might <wug#149> a creek", "pairID": 149}
+{"sentence_good": "some brooks have <wug#150>ed", "sentence_bad": "some brooks have <wug#150>ed a medal", "pairID": 150}
+{"sentence_good": "any medal will not <wug#151>", "sentence_bad": "any medal will not <wug#151> brooks", "pairID": 151}
+{"sentence_good": "many ponds can <wug#152>", "sentence_bad": "many ponds can <wug#152> a lampshade", "pairID": 152}
+{"sentence_good": "this lampshade has <wug#153>ed", "sentence_bad": "this lampshade has <wug#153>ed ponds", "pairID": 153}
+{"sentence_good": "those lakes are <wug#154>ing", "sentence_bad": "those lakes are <wug#154>ing a teapot", "pairID": 154}
+{"sentence_good": "the teapot might <wug#155>", "sentence_bad": "the teapot might <wug#155> lakes", "pairID": 155}
+{"sentence_good": "several oceans should <wug#156>", "sentence_bad": "several oceans should <wug#156> a glove", "pairID": 156}
+{"sentence_good": "any glove could not <wug#157>", "sentence_bad": "any glove could not <wug#157> oceans", "pairID": 157}
+{"sentence_good": "a few seas will <wug#158>", "sentence_bad": "a few seas will <wug#158> a spoon", "pairID": 158}
+{"sentence_good": "no spoon may <wug#159>", "sentence_bad": "no spoon may <wug#159> seas", "pairID": 159}
+{"sentence_good": "every gulf must <wug#160>", "sentence_bad": "every gulf must <wug#160> a fork", "pairID": 160}
+{"sentence_good": "each fork might <wug#161>", "sentence_bad": "each fork might <wug#161> a gulf", "pairID": 161}
+{"sentence_good": "some bays have <wug#162>ed", "sentence_bad": "some bays have <wug#162>ed a plate", "pairID": 162}
+{"sentence_good": "any plate will not <wug#163>", "sentence_bad": "any plate will not <wug#163> bays", "pairID": 163}
+{"sentence_good": "many straits can <wug#164>", "sentence_bad": "many straits can <wug#164> a cup", "pairID": 164}
+{"sentence_good": "this cup has <wug#165>ed", "sentence_bad": "this cup has <wug#165>ed straits", "pairID": 165}
+{"sentence_good": "those channels are <wug#166>ing", "sentence_bad": "those channels are <wug#166>ing a bag", "pairID": 166}
+{"sentence_good": "the bag might <wug#167>", "sentence_bad": "the bag might <wug#167> channels", "pairID": 167}
+{"sentence_good": "several rivers should <wug#168>", "sentence_bad": "several rivers should <wug#168> a helmet", "pairID": 168}
+{"sentence_good": "any helmet could not <wug#169>", "sentence_bad": "any helmet could not <wug#169> rivers", "pairID": 169}
+{"sentence_good": "a few streams will <wug#170>", "sentence_bad": "a few streams will <wug#170> a brush", "pairID": 170}
+{"sentence_good": "no brush may <wug#171>", "sentence_bad": "no brush may <wug#171> streams", "pairID": 171}
+{"sentence_good": "every creek must <wug#172>", "sentence_bad": "every creek must <wug#172> a bell", "pairID": 172}
+{"sentence_good": "each bell might <wug#173>", "sentence_bad": "each bell might <wug#173> a creek", "pairID": 173}
+{"sentence_good": "some brooks have <wug#174>ed", "sentence_bad": "some brooks have <wug#174>ed a map", "pairID": 174}
+{"sentence_good": "any map will not <wug#175>", "sentence_bad": "any map will not <wug#175> brooks", "pairID": 175}
+{"sentence_good": "many ponds can <wug#176>", "sentence_bad": "many ponds can <wug#176> a frame", "pairID": 176}
+{"sentence_good": "this frame has <wug#177>ed", "sentence_bad": "this frame has <wug#177>ed ponds", "pairID": 177}
+{"sentence_good": "those lakes are <wug#178>ing", "sentence_bad": "those lakes are <wug#178>ing a kite", "pairID": 178}
+{"sentence_good": "the kite might <wug#179>", "sentence_bad": "the kite might <wug#179> lakes", "pairID": 179}
+{"sentence_good": "several oceans should <wug#180>", "sentence_bad": "several oceans should <wug#180> a scarf", "pairID": 180}
+{"sentence_good": "any scarf could not <wug#181>", "sentence_bad": "any scarf could not <wug#181> oceans", "pairID": 181}
+{"sentence_good": "a few seas will <wug#182>", "sentence_bad": "a few seas will <wug#182> a drum", "pairID": 182}
+{"sentence_good": "no drum may <wug#183>", "sentence_bad": "no drum may <wug#183> seas", "pairID": 183}
+{"sentence_good": "every gulf must <wug#184>", "sentence_bad": "every gulf must <wug#184> a necklace", "pairID": 184}
+{"sentence_good": "each necklace might <wug#185>", "sentence_bad": "each necklace might <wug#185> a gulf", "pairID": 185}
+{"sentence_good": "some bays have <wug#186>ed", "sentence_bad": "some bays have <wug#186>ed a card", "pairID": 186}
+{"sentence_good": "any card will not <wug#187>", "sentence_bad": "any card will not <wug#187> bays", "pairID": 187}
+{"sentence_good": "many straits can <wug#188>", "sentence_bad": "many straits can <wug#188> a stamp", "pairID": 188}
+{"sentence_good": "this stamp has <wug#189>ed", "sentence_bad": "this stamp has <wug#189>ed straits", "pairID": 189}
+{"sentence_good": "those channels are <wug#190>ing", "sentence_bad": "those channels are <wug#190>ing a flag", "pairID": 190}
+{"sentence_good": "the flag might <wug#191>", "sentence_bad": "the flag might <wug#191> channels", "pairID": 191}
+{"sentence_good": "some chairs have <wug#192>ed", "sentence_bad": "some chairs have <wug#192>ed a curtain", "pairID": 192}
+{"sentence_good": "few curtains will <wug#193>", "sentence_bad": "few curtains will <wug#193> the chair", "pairID": 193}
+{"sentence_good": "this spoon was <wug#194>ing", "sentence_bad": "this spoon was <wug#194>ing a carpet", "pairID": 194}
+{"sentence_good": "no carpet should <wug#195>", "sentence_bad": "no carpet should <wug#195> a spoon", "pairID": 195}
+{"sentence_good": "many books can <wug#196>", "sentence_bad": "many books can <wug#196> a fork", "pairID": 196}
+{"sentence_good": "each fork must not <wug#197>", "sentence_bad": "each fork must not <wug#197> a book", "pairID": 197}
+{"sentence_good": "the window has <wug#198>ed", "sentence_bad": "the window has <wug#198>ed a plate", "pairID": 198}
+{"sentence_good": "any plate could <wug#199>", "sentence_bad": "any plate could <wug#199> the window", "pairID": 199}
+{"sentence_good": "a tree will not <wug#200>", "sentence_bad": "a tree will not <wug#200> the lamp", "pairID": 200}
+{"sentence_good": "no lamp has <wug#201>ed", "sentence_bad": "no lamp has <wug#201>ed a tree", "pairID": 201}
+{"sentence_good": "every pillow was <wug#202>ing", "sentence_bad": "every pillow was <wug#202>ing a bottle", "pairID": 202}
+{"sentence_good": "few bottles can <wug#203>", "sentence_bad": "few bottles can <wug#203> a pillow", "pairID": 203}
+{"sentence_good": "some cheese should <wug#204>", "sentence_bad": "some cheese should <wug#204> a pen", "pairID": 204}
+{"sentence_good": "any pen might <wug#205>", "sentence_bad": "any pen might <wug#205> some cheese", "pairID": 205}
+{"sentence_good": "many forks have not <wug#206>ed", "sentence_bad": "many forks have not <wug#206>ed a curtain", "pairID": 206}
+{"sentence_good": "each curtain could <wug#207>", "sentence_bad": "each curtain could <wug#207> a fork", "pairID": 207}
+{"sentence_good": "all gloves must <wug#208>", "sentence_bad": "all gloves must <wug#208> a clock", "pairID": 208}
+{"sentence_good": "this clock may <wug#209>", "sentence_bad": "this clock may <wug#209> gloves", "pairID": 209}
+{"sentence_good": "those spoons did not <wug#210>", "sentence_bad": "those spoons did not <wug#210> a blanket", "pairID": 210}
+{"sentence_good": "the blanket has <wug#211>ed", "sentence_bad": "the blanket has <wug#211>ed spoons", "pairID": 211}
+{"sentence_good": "several hats will <wug#212>", "sentence_bad": "several hats will <wug#212> a key", "pairID": 212}
+{"sentence_good": "any key should not <wug#213>", "sentence_bad": "any key should not <wug#213> hats", "pairID": 213}
+{"sentence_good": "a few apples are <wug#214>ing", "sentence_bad": "a few apples are <wug#214>ing a mirror", "pairID": 214}
+{"sentence_good": "no mirror could <wug#215>", "sentence_bad": "no mirror could <wug#215> an apple", "pairID": 215}
+{"sentence_good": "every chair must <wug#216>", "sentence_bad": "every chair must <wug#216> a shoe", "pairID": 216}
+{"sentence_good": "each shoe might <wug#217>", "sentence_bad": "each shoe might <wug#217> a chair", "pairID": 217}
+{"sentence_good": "some tables have <wug#218>ed", "sentence_bad": "some tables have <wug#218>ed a window", "pairID": 218}
+{"sentence_good": "any window will not <wug#219>", "sentence_bad": "any window will not <wug#219> tables", "pairID": 219}
+{"sentence_good": "many oranges can <wug#220>", "sentence_bad": "many oranges can <wug#220> a plate", "pairID": 220}
+{"sentence_good": "this plate has <wug#221>ed", "sentence_bad": "this plate has <wug#221>ed oranges", "pairID": 221}
+{"sentence_good": "those books are <wug#222>ing", "sentence_bad": "those books are <wug#222>ing a basket", "pairID": 222}
+{"sentence_good": "the basket might <wug#223>", "sentence_bad": "the basket might <wug#223> books", "pairID": 223}
+{"sentence_good": "several computers should <wug#224>", "sentence_bad": "several computers should <wug#224> a towel", "pairID": 224}
+{"sentence_good": "any towel could not <wug#225>", "sentence_bad": "any towel could not <wug#225> computers", "pairID": 225}
+{"sentence_good": "a few birds will <wug#226>", "sentence_bad": "a few birds will <wug#226> a cup", "pairID": 226}
+{"sentence_good": "no cup may <wug#227>", "sentence_bad": "no cup may <wug#227> birds", "pairID": 227}
+{"sentence_good": "every fish must not <wug#228>", "sentence_bad": "every fish must not <wug#228> a bag", "pairID": 228}
+{"sentence_good": "each bag might <wug#229>", "sentence_bad": "each bag might <wug#229> fish", "pairID": 229}
+{"sentence_good": "some pencils have <wug#230>ed", "sentence_bad": "some pencils have <wug#230>ed a helmet", "pairID": 230}
+{"sentence_good": "any helmet will not <wug#231>", "sentence_bad": "any helmet will not <wug#231> pencils", "pairID": 231}
+{"sentence_good": "many cars can <wug#232>", "sentence_bad": "many cars can <wug#232> a brush", "pairID": 232}
+{"sentence_good": "this brush has <wug#233>ed", "sentence_bad": "this brush has <wug#233>ed cars", "pairID": 233}
+{"sentence_good": "those socks are <wug#234>ing", "sentence_bad": "those socks are <wug#234>ing a bell", "pairID": 234}
+{"sentence_good": "the bell might <wug#235>", "sentence_bad": "the bell might <wug#235> socks", "pairID": 235}
+{"sentence_good": "several phones should <wug#236>", "sentence_bad": "several phones should <wug#236> a map", "pairID": 236}
+{"sentence_good": "any map could not <wug#237>", "sentence_bad": "any map could not <wug#237> phones", "pairID": 237}
+{"sentence_good": "a few stars will <wug#238>", "sentence_bad": "a few stars will <wug#238> a frame", "pairID": 238}
+{"sentence_good": "no frame may <wug#239>", "sentence_bad": "no frame may <wug#239> stars", "pairID": 239}
+{"sentence_good": "every planet must <wug#240>", "sentence_bad": "every planet must <wug#240> a kite", "pairID": 240}
+{"sentence_good": "each kite might <wug#241>", "sentence_bad": "each kite might <wug#241> a planet", "pairID": 241}
+{"sentence_good": "some clouds have <wug#242>ed", "sentence_bad": "some clouds have <wug#242>ed a scarf", "pairID": 242}
+{"sentence_good": "any scarf will not <wug#243>", "sentence_bad": "any scarf will not <wug#243> clouds", "pairID": 243}
+{"sentence_good": "many leaves can <wug#244>", "sentence_bad": "many leaves can <wug#244> a drum", "pairID": 244}
+{"sentence_good": "this drum has <wug#245>ed", "sentence_bad": "this drum has <wug#245>ed leaves", "pairID": 245}
+{"sentence_good": "those stones are <wug#246>ing", "sentence_bad": "those stones are <wug#246>ing a necklace", "pairID": 246}
+{"sentence_good": "the necklace might <wug#247>", "sentence_bad": "the necklace might <wug#247> stones", "pairID": 247}
+{"sentence_good": "several shells should <wug#248>", "sentence_bad": "several shells should <wug#248> a card", "pairID": 248}
+{"sentence_good": "any card could not <wug#249>", "sentence_bad": "any card could not <wug#249> shells", "pairID": 249}
+{"sentence_good": "a few mountains will <wug#250>", "sentence_bad": "a few mountains will <wug#250> a stamp", "pairID": 250}
+{"sentence_good": "no stamp may <wug#251>", "sentence_bad": "no stamp may <wug#251> mountains", "pairID": 251}
+{"sentence_good": "every river must <wug#252>", "sentence_bad": "every river must <wug#252> a flag", "pairID": 252}
+{"sentence_good": "each flag might <wug#253>", "sentence_bad": "each flag might <wug#253> a river", "pairID": 253}
+{"sentence_good": "some lakes have <wug#254>ed", "sentence_bad": "some lakes have <wug#254>ed a whistle", "pairID": 254}
+{"sentence_good": "any whistle will not <wug#255>", "sentence_bad": "any whistle will not <wug#255> lakes", "pairID": 255}
+{"sentence_good": "many forests can <wug#256>", "sentence_bad": "many forests can <wug#256> a ribbon", "pairID": 256}
+{"sentence_good": "this ribbon has <wug#257>ed", "sentence_bad": "this ribbon has <wug#257>ed forests", "pairID": 257}
+{"sentence_good": "those deserts are <wug#258>ing", "sentence_bad": "those deserts are <wug#258>ing a medal", "pairID": 258}
+{"sentence_good": "the medal might <wug#259>", "sentence_bad": "the medal might <wug#259> deserts", "pairID": 259}
+{"sentence_good": "several oceans should <wug#260>", "sentence_bad": "several oceans should <wug#260> a lampshade", "pairID": 260}
+{"sentence_good": "any lampshade could not <wug#261>", "sentence_bad": "any lampshade could not <wug#261> oceans", "pairID": 261}
+{"sentence_good": "a few islands will <wug#262>", "sentence_bad": "a few islands will <wug#262> a teapot", "pairID": 262}
+{"sentence_good": "no teapot may <wug#263>", "sentence_bad": "no teapot may <wug#263> islands", "pairID": 263}
+{"sentence_good": "every volcano must <wug#264>", "sentence_bad": "every volcano must <wug#264> a glove", "pairID": 264}
+{"sentence_good": "each glove might <wug#265>", "sentence_bad": "each glove might <wug#265> a volcano", "pairID": 265}
+{"sentence_good": "some reefs have <wug#266>ed", "sentence_bad": "some reefs have <wug#266>ed a spoon", "pairID": 266}
+{"sentence_good": "any spoon will not <wug#267>", "sentence_bad": "any spoon will not <wug#267> reefs", "pairID": 267}
+{"sentence_good": "many glaciers can <wug#268>", "sentence_bad": "many glaciers can <wug#268> a fork", "pairID": 268}
+{"sentence_good": "this fork has <wug#269>ed", "sentence_bad": "this fork has <wug#269>ed glaciers", "pairID": 269}
+{"sentence_good": "those icebergs are <wug#270>ing", "sentence_bad": "those icebergs are <wug#270>ing a plate", "pairID": 270}
+{"sentence_good": "the plate might <wug#271>", "sentence_bad": "the plate might <wug#271> icebergs", "pairID": 271}
+{"sentence_good": "several rivers should <wug#272>", "sentence_bad": "several rivers should <wug#272> a cup", "pairID": 272}
+{"sentence_good": "any cup could not <wug#273>", "sentence_bad": "any cup could not <wug#273> rivers", "pairID": 273}
+{"sentence_good": "a few streams will <wug#274>", "sentence_bad": "a few streams will <wug#274> a bag", "pairID": 274}
+{"sentence_good": "no bag may <wug#275>", "sentence_bad": "no bag may <wug#275> streams", "pairID": 275}
+{"sentence_good": "every creek must <wug#276>", "sentence_bad": "every creek must <wug#276> a helmet", "pairID": 276}
+{"sentence_good": "each helmet might <wug#277>", "sentence_bad": "each helmet might <wug#277> a creek", "pairID": 277}
+{"sentence_good": "some brooks have <wug#278>ed", "sentence_bad": "some brooks have <wug#278>ed a brush", "pairID": 278}
+{"sentence_good": "any brush will not <wug#279>", "sentence_bad": "any brush will not <wug#279> brooks", "pairID": 279}
+{"sentence_good": "many ponds can <wug#280>", "sentence_bad": "many ponds can <wug#280> a bell", "pairID": 280}
+{"sentence_good": "this bell has <wug#281>ed", "sentence_bad": "this bell has <wug#281>ed ponds", "pairID": 281}
+{"sentence_good": "those lakes are <wug#282>ing", "sentence_bad": "those lakes are <wug#282>ing a map", "pairID": 282}
+{"sentence_good": "the map might <wug#283>", "sentence_bad": "the map might <wug#283> lakes", "pairID": 283}
+{"sentence_good": "several oceans should <wug#284>", "sentence_bad": "several oceans should <wug#284> a frame", "pairID": 284}
+{"sentence_good": "any frame could not <wug#285>", "sentence_bad": "any frame could not <wug#285> oceans", "pairID": 285}
+{"sentence_good": "a few seas will <wug#286>", "sentence_bad": "a few seas will <wug#286> a kite", "pairID": 286}
+{"sentence_good": "no kite may <wug#287>", "sentence_bad": "no kite may <wug#287> seas", "pairID": 287}
+{"sentence_good": "every gulf must <wug#288>", "sentence_bad": "every gulf must <wug#288> a scarf", "pairID": 288}
+{"sentence_good": "each scarf might <wug#289>", "sentence_bad": "each scarf might <wug#289> a gulf", "pairID": 289}
+{"sentence_good": "some bays have <wug#290>ed", "sentence_bad": "some bays have <wug#290>ed a drum", "pairID": 290}
+{"sentence_good": "any drum will not <wug#291>", "sentence_bad": "any drum will not <wug#291> bays", "pairID": 291}
+{"sentence_good": "many straits can <wug#292>", "sentence_bad": "many straits can <wug#292> a necklace", "pairID": 292}
+{"sentence_good": "this necklace has <wug#293>ed", "sentence_bad": "this necklace has <wug#293>ed straits", "pairID": 293}
+{"sentence_good": "those channels are <wug#294>ing", "sentence_bad": "those channels are <wug#294>ing a card", "pairID": 294}
+{"sentence_good": "the card might <wug#295>", "sentence_bad": "the card might <wug#295> channels", "pairID": 295}
+{"sentence_good": "several rivers should <wug#296>", "sentence_bad": "several rivers should <wug#296> a stamp", "pairID": 296}
+{"sentence_good": "any stamp could not <wug#297>", "sentence_bad": "any stamp could not <wug#297> rivers", "pairID": 297}
+{"sentence_good": "a few streams will <wug#298>", "sentence_bad": "a few streams will <wug#298> a flag", "pairID": 298}
+{"sentence_good": "no flag may <wug#299>", "sentence_bad": "no flag may <wug#299> streams", "pairID": 299}
+{"sentence_good": "every creek must <wug#300>", "sentence_bad": "every creek must <wug#300> a whistle", "pairID": 300}
+{"sentence_good": "each whistle might <wug#301>", "sentence_bad": "each whistle might <wug#301> a creek", "pairID": 301}
+{"sentence_good": "some brooks have <wug#302>ed", "sentence_bad": "some brooks have <wug#302>ed a ribbon", "pairID": 302}
+{"sentence_good": "any ribbon will not <wug#303>", "sentence_bad": "any ribbon will not <wug#303> brooks", "pairID": 303}
+{"sentence_good": "many ponds can <wug#304>", "sentence_bad": "many ponds can <wug#304> a medal", "pairID": 304}
+{"sentence_good": "this medal has <wug#305>ed", "sentence_bad": "this medal has <wug#305>ed ponds", "pairID": 305}
+{"sentence_good": "those lakes are <wug#306>ing", "sentence_bad": "those lakes are <wug#306>ing a lampshade", "pairID": 306}
+{"sentence_good": "the lampshade might <wug#307>", "sentence_bad": "the lampshade might <wug#307> lakes", "pairID": 307}
+{"sentence_good": "several oceans should <wug#308>", "sentence_bad": "several oceans should <wug#308> a teapot", "pairID": 308}
+{"sentence_good": "any teapot could not <wug#309>", "sentence_bad": "any teapot could not <wug#309> oceans", "pairID": 309}
+{"sentence_good": "a few seas will <wug#310>", "sentence_bad": "a few seas will <wug#310> a glove", "pairID": 310}
+{"sentence_good": "no glove may <wug#311>", "sentence_bad": "no glove may <wug#311> seas", "pairID": 311}
+{"sentence_good": "every gulf must <wug#312>", "sentence_bad": "every gulf must <wug#312> a spoon", "pairID": 312}
+{"sentence_good": "each spoon might not <wug#313>", "sentence_bad": "each spoon might not <wug#313> a gulf", "pairID": 313}
+{"sentence_good": "some bays have <wug#314>ed", "sentence_bad": "some bays have <wug#314>ed a fork", "pairID": 314}
+{"sentence_good": "any fork will not <wug#315>", "sentence_bad": "any fork will not <wug#315> bays", "pairID": 315}
+{"sentence_good": "many straits can <wug#316>", "sentence_bad": "many straits can <wug#316> a plate", "pairID": 316}
+{"sentence_good": "this plate has <wug#317>ed", "sentence_bad": "this plate has <wug#317>ed straits", "pairID": 317}
+{"sentence_good": "those channels are <wug#318>ing", "sentence_bad": "those channels are <wug#318>ing a cup", "pairID": 318}
+{"sentence_good": "the cup might <wug#319>", "sentence_bad": "the cup might <wug#319> channels", "pairID": 319}
+{"sentence_good": "several rivers should <wug#320>", "sentence_bad": "several rivers should <wug#320> a bag", "pairID": 320}
+{"sentence_good": "any bag could not <wug#321>", "sentence_bad": "any bag could not <wug#321> rivers", "pairID": 321}
+{"sentence_good": "a few streams will <wug#322>", "sentence_bad": "a few streams will <wug#322> a helmet", "pairID": 322}
+{"sentence_good": "no helmet may <wug#323>", "sentence_bad": "no helmet may <wug#323> streams", "pairID": 323}
+{"sentence_good": "every creek must <wug#324>", "sentence_bad": "every creek must <wug#324> a brush", "pairID": 324}
+{"sentence_good": "each brush might <wug#325>", "sentence_bad": "each brush might <wug#325> a creek", "pairID": 325}
+{"sentence_good": "some brooks have <wug#326>ed", "sentence_bad": "some brooks have <wug#326>ed a bell", "pairID": 326}
+{"sentence_good": "any bell will not <wug#327>", "sentence_bad": "any bell will not <wug#327> brooks", "pairID": 327}
+{"sentence_good": "many ponds can <wug#328>", "sentence_bad": "many ponds can <wug#328> a map", "pairID": 328}
+{"sentence_good": "this map has <wug#329>ed", "sentence_bad": "this map has <wug#329>ed ponds", "pairID": 329}
+{"sentence_good": "those lakes are <wug#330>ing", "sentence_bad": "those lakes are <wug#330>ing a frame", "pairID": 330}
+{"sentence_good": "the frame might <wug#331>", "sentence_bad": "the frame might <wug#331> lakes", "pairID": 331}
+{"sentence_good": "several oceans should <wug#332>", "sentence_bad": "several oceans should <wug#332> a kite", "pairID": 332}
+{"sentence_good": "any kite could not <wug#333>", "sentence_bad": "any kite could not <wug#333> oceans", "pairID": 333}
+{"sentence_good": "a few seas will <wug#334>", "sentence_bad": "a few seas will <wug#334> a scarf", "pairID": 334}
+{"sentence_good": "no scarf may <wug#335>", "sentence_bad": "no scarf may <wug#335> seas", "pairID": 335}
+{"sentence_good": "every gulf must <wug#336>", "sentence_bad": "every gulf must <wug#336> a drum", "pairID": 336}
+{"sentence_good": "each drum might <wug#337>", "sentence_bad": "each drum might <wug#337> a gulf", "pairID": 337}
+{"sentence_good": "some bays have <wug#338>ed", "sentence_bad": "some bays have <wug#338>ed a necklace", "pairID": 338}
+{"sentence_good": "any necklace will not <wug#339>", "sentence_bad": "any necklace will not <wug#339> bays", "pairID": 339}
+{"sentence_good": "many straits can <wug#340>", "sentence_bad": "many straits can <wug#340> a card", "pairID": 340}
+{"sentence_good": "this card has <wug#341>ed", "sentence_bad": "this card has <wug#341>ed straits", "pairID": 341}
+{"sentence_good": "those channels are <wug#342>ing", "sentence_bad": "those channels are <wug#342>ing a stamp", "pairID": 342}
+{"sentence_good": "the stamp might <wug#343>", "sentence_bad": "the stamp might <wug#343> channels", "pairID": 343}
+{"sentence_good": "several rivers should <wug#344>", "sentence_bad": "several rivers should <wug#344> a flag", "pairID": 344}
+{"sentence_good": "any flag could not <wug#345>", "sentence_bad": "any flag could not <wug#345> rivers", "pairID": 345}
+{"sentence_good": "a few streams will <wug#346>", "sentence_bad": "a few streams will <wug#346> a whistle", "pairID": 346}
+{"sentence_good": "no whistle may <wug#347>", "sentence_bad": "no whistle may <wug#347> streams", "pairID": 347}
+{"sentence_good": "every creek must <wug#348>", "sentence_bad": "every creek must <wug#348> a ribbon", "pairID": 348}
+{"sentence_good": "each ribbon might <wug#349>", "sentence_bad": "each ribbon might <wug#349> a creek", "pairID": 349}
+{"sentence_good": "some brooks have <wug#350>ed", "sentence_bad": "some brooks have <wug#350>ed a medal", "pairID": 350}
+{"sentence_good": "any medal will not <wug#351>", "sentence_bad": "any medal will not <wug#351> brooks", "pairID": 351}
+{"sentence_good": "many ponds can <wug#352>", "sentence_bad": "many ponds can <wug#352> a lampshade", "pairID": 352}
+{"sentence_good": "this lampshade has <wug#353>ed", "sentence_bad": "this lampshade has <wug#353>ed ponds", "pairID": 353}
+{"sentence_good": "those lakes are <wug#354>ing", "sentence_bad": "those lakes are <wug#354>ing a teapot", "pairID": 354}
+{"sentence_good": "the teapot might <wug#355>", "sentence_bad": "the teapot might <wug#355> lakes", "pairID": 355}
+{"sentence_good": "several oceans should <wug#356>", "sentence_bad": "several oceans should <wug#356> a glove", "pairID": 356}
+{"sentence_good": "any glove could not <wug#357>", "sentence_bad": "any glove could not <wug#357> oceans", "pairID": 357}
+{"sentence_good": "a few seas will <wug#358>", "sentence_bad": "a few seas will <wug#358> a spoon", "pairID": 358}
+{"sentence_good": "no spoon may <wug#359>", "sentence_bad": "no spoon may <wug#359> seas", "pairID": 359}
+{"sentence_good": "every gulf must <wug#360>", "sentence_bad": "every gulf must <wug#360> a fork", "pairID": 360}
+{"sentence_good": "each fork might <wug#361>", "sentence_bad": "each fork might <wug#361> a gulf", "pairID": 361}
+{"sentence_good": "some bays have <wug#362>ed", "sentence_bad": "some bays have <wug#362>ed a plate", "pairID": 362}
+{"sentence_good": "any plate will not <wug#363>", "sentence_bad": "any plate will not <wug#363> bays", "pairID": 363}
+{"sentence_good": "many straits can <wug#364>", "sentence_bad": "many straits can <wug#364> a cup", "pairID": 364}
+{"sentence_good": "this cup has <wug#365>ed", "sentence_bad": "this cup has <wug#365>ed straits", "pairID": 365}
+{"sentence_good": "those channels are <wug#366>ing", "sentence_bad": "those channels are <wug#366>ing a bag", "pairID": 366}
+{"sentence_good": "the bag might <wug#367>", "sentence_bad": "the bag might <wug#367> channels", "pairID": 367}
+{"sentence_good": "several rivers should <wug#368>", "sentence_bad": "several rivers should <wug#368> a helmet", "pairID": 368}
+{"sentence_good": "any helmet could not <wug#369>", "sentence_bad": "any helmet could not <wug#369> rivers", "pairID": 369}
+{"sentence_good": "a few streams will <wug#370>", "sentence_bad": "a few streams will <wug#370> a brush", "pairID": 370}
+{"sentence_good": "no brush may <wug#371>", "sentence_bad": "no brush may <wug#371> streams", "pairID": 371}
+{"sentence_good": "every creek must <wug#372>", "sentence_bad": "every creek must <wug#372> a bell", "pairID": 372}
+{"sentence_good": "each bell might <wug#373>", "sentence_bad": "each bell might <wug#373> a creek", "pairID": 373}
+{"sentence_good": "some brooks have <wug#374>ed", "sentence_bad": "some brooks have <wug#374>ed a map", "pairID": 374}
+{"sentence_good": "any map will not <wug#375>", "sentence_bad": "any map will not <wug#375> brooks", "pairID": 375}
+{"sentence_good": "many ponds can <wug#376>", "sentence_bad": "many ponds can <wug#376> a frame", "pairID": 376}
+{"sentence_good": "this frame has <wug#377>ed", "sentence_bad": "this frame has <wug#377>ed ponds", "pairID": 377}
+{"sentence_good": "those lakes are <wug#378>ing", "sentence_bad": "those lakes are <wug#378>ing a kite", "pairID": 378}
+{"sentence_good": "the kite might <wug#379>", "sentence_bad": "the kite might <wug#379> lakes", "pairID": 379}
+{"sentence_good": "several oceans should <wug#380>", "sentence_bad": "several oceans should <wug#380> a scarf", "pairID": 380}
+{"sentence_good": "any scarf could not <wug#381>", "sentence_bad": "any scarf could not <wug#381> oceans", "pairID": 381}
+{"sentence_good": "a few seas will <wug#382>", "sentence_bad": "a few seas will <wug#382> a drum", "pairID": 382}
+{"sentence_good": "no drum may <wug#383>", "sentence_bad": "no drum may <wug#383> seas", "pairID": 383}
+{"sentence_good": "every gulf must <wug#384>", "sentence_bad": "every gulf must <wug#384> a necklace", "pairID": 384}
+{"sentence_good": "each necklace might <wug#385>", "sentence_bad": "each necklace might <wug#385> a gulf", "pairID": 385}
+{"sentence_good": "some bays have <wug#386>ed", "sentence_bad": "some bays have <wug#386>ed a card", "pairID": 386}
+{"sentence_good": "any card will not <wug#387>", "sentence_bad": "any card will not <wug#387> bays", "pairID": 387}
+{"sentence_good": "many straits can <wug#388>", "sentence_bad": "many straits can <wug#388> a stamp", "pairID": 388}
+{"sentence_good": "this stamp has <wug#389>ed", "sentence_bad": "this stamp has <wug#389>ed straits", "pairID": 389}
+{"sentence_good": "those channels are <wug#390>ing", "sentence_bad": "those channels are <wug#390>ing a flag", "pairID": 390}
+{"sentence_good": "the flag might <wug#391>", "sentence_bad": "the flag might <wug#391> channels", "pairID": 391}
+{"sentence_good": "some chairs have <wug#392>ed", "sentence_bad": "some chairs have <wug#392>ed a curtain", "pairID": 392}
+{"sentence_good": "few curtains will <wug#393>", "sentence_bad": "few curtains will <wug#393> the chair", "pairID": 393}
+{"sentence_good": "this spoon was <wug#394>ing", "sentence_bad": "this spoon was <wug#394>ing a carpet", "pairID": 394}
+{"sentence_good": "no carpet should <wug#395>", "sentence_bad": "no carpet should <wug#395> a spoon", "pairID": 395}
+{"sentence_good": "many books can <wug#396>", "sentence_bad": "many books can <wug#396> a fork", "pairID": 396}
+{"sentence_good": "each fork must not <wug#397>", "sentence_bad": "each fork must not <wug#397> a book", "pairID": 397}
+{"sentence_good": "the window has <wug#398>ed", "sentence_bad": "the window has <wug#398>ed a plate", "pairID": 398}
+{"sentence_good": "any plate could <wug#399>", "sentence_bad": "any plate could <wug#399> the window", "pairID": 399}
+{"sentence_good": "a tree will not <wug#400>", "sentence_bad": "a tree will not <wug#400> the lamp", "pairID": 400}
+{"sentence_good": "no lamp has <wug#401>ed", "sentence_bad": "no lamp has <wug#401>ed a tree", "pairID": 401}
+{"sentence_good": "every pillow was <wug#402>ing", "sentence_bad": "every pillow was <wug#402>ing a bottle", "pairID": 402}
+{"sentence_good": "few bottles can <wug#403>", "sentence_bad": "few bottles can <wug#403> a pillow", "pairID": 403}
+{"sentence_good": "some cheese should <wug#404>", "sentence_bad": "some cheese should <wug#404> a pen", "pairID": 404}
+{"sentence_good": "any pen might <wug#405>", "sentence_bad": "any pen might <wug#405> some cheese", "pairID": 405}
+{"sentence_good": "many forks have not <wug#406>ed", "sentence_bad": "many forks have not <wug#406>ed a curtain", "pairID": 406}
+{"sentence_good": "each curtain could <wug#407>", "sentence_bad": "each curtain could <wug#407> a fork", "pairID": 407}
+{"sentence_good": "all gloves must <wug#408>", "sentence_bad": "all gloves must <wug#408> a clock", "pairID": 408}
+{"sentence_good": "this clock may <wug#409>", "sentence_bad": "this clock may <wug#409> gloves", "pairID": 409}
+{"sentence_good": "those spoons did not <wug#410>", "sentence_bad": "those spoons did not <wug#410> a blanket", "pairID": 410}
+{"sentence_good": "the blanket has <wug#411>ed", "sentence_bad": "the blanket has <wug#411>ed spoons", "pairID": 411}
+{"sentence_good": "several hats will <wug#412>", "sentence_bad": "several hats will <wug#412> a key", "pairID": 412}
+{"sentence_good": "any key should not <wug#413>", "sentence_bad": "any key should not <wug#413> hats", "pairID": 413}
+{"sentence_good": "a few apples are <wug#414>ing", "sentence_bad": "a few apples are <wug#414>ing a mirror", "pairID": 414}
+{"sentence_good": "no mirror could <wug#415>", "sentence_bad": "no mirror could <wug#415> an apple", "pairID": 415}
+{"sentence_good": "every chair must <wug#416>", "sentence_bad": "every chair must <wug#416> a shoe", "pairID": 416}
+{"sentence_good": "each shoe might <wug#417>", "sentence_bad": "each shoe might <wug#417> a chair", "pairID": 417}
+{"sentence_good": "some tables have <wug#418>ed", "sentence_bad": "some tables have <wug#418>ed a window", "pairID": 418}
+{"sentence_good": "any window will not <wug#419>", "sentence_bad": "any window will not <wug#419> tables", "pairID": 419}
+{"sentence_good": "many oranges can <wug#420>", "sentence_bad": "many oranges can <wug#420> a plate", "pairID": 420}
+{"sentence_good": "this plate has <wug#421>ed", "sentence_bad": "this plate has <wug#421>ed oranges", "pairID": 421}
+{"sentence_good": "those books are <wug#422>ing", "sentence_bad": "those books are <wug#422>ing a basket", "pairID": 422}
+{"sentence_good": "the basket might <wug#423>", "sentence_bad": "the basket might <wug#423> books", "pairID": 423}
+{"sentence_good": "several computers should <wug#424>", "sentence_bad": "several computers should <wug#424> a towel", "pairID": 424}
+{"sentence_good": "any towel could not <wug#425>", "sentence_bad": "any towel could not <wug#425> computers", "pairID": 425}
+{"sentence_good": "a few birds will <wug#426>", "sentence_bad": "a few birds will <wug#426> a cup", "pairID": 426}
+{"sentence_good": "no cup may <wug#427>", "sentence_bad": "no cup may <wug#427> birds", "pairID": 427}
+{"sentence_good": "every fish must not <wug#428>", "sentence_bad": "every fish must not <wug#428> a bag", "pairID": 428}
+{"sentence_good": "each bag might <wug#429>", "sentence_bad": "each bag might <wug#429> fish", "pairID": 429}
+{"sentence_good": "some pencils have <wug#430>ed", "sentence_bad": "some pencils have <wug#430>ed a helmet", "pairID": 430}
+{"sentence_good": "any helmet will not <wug#431>", "sentence_bad": "any helmet will not <wug#431> pencils", "pairID": 431}
+{"sentence_good": "many cars can <wug#432>", "sentence_bad": "many cars can <wug#432> a brush", "pairID": 432}
+{"sentence_good": "this brush has <wug#433>ed", "sentence_bad": "this brush has <wug#433>ed cars", "pairID": 433}
+{"sentence_good": "those socks are <wug#434>ing", "sentence_bad": "those socks are <wug#434>ing a bell", "pairID": 434}
+{"sentence_good": "the bell might <wug#435>", "sentence_bad": "the bell might <wug#435> socks", "pairID": 435}
+{"sentence_good": "several phones should <wug#436>", "sentence_bad": "several phones should <wug#436> a map", "pairID": 436}
+{"sentence_good": "any map could not <wug#437>", "sentence_bad": "any map could not <wug#437> phones", "pairID": 437}
+{"sentence_good": "a few stars will <wug#438>", "sentence_bad": "a few stars will <wug#438> a frame", "pairID": 438}
+{"sentence_good": "no frame may <wug#439>", "sentence_bad": "no frame may <wug#439> stars", "pairID": 439}
+{"sentence_good": "every planet must <wug#440>", "sentence_bad": "every planet must <wug#440> a kite", "pairID": 440}
+{"sentence_good": "each kite might <wug#441>", "sentence_bad": "each kite might <wug#441> a planet", "pairID": 441}
+{"sentence_good": "some clouds have <wug#442>ed", "sentence_bad": "some clouds have <wug#442>ed a scarf", "pairID": 442}
+{"sentence_good": "any scarf will not <wug#443>", "sentence_bad": "any scarf will not <wug#443> clouds", "pairID": 443}
+{"sentence_good": "many leaves can <wug#444>", "sentence_bad": "many leaves can <wug#444> a drum", "pairID": 444}
+{"sentence_good": "this drum has <wug#445>ed", "sentence_bad": "this drum has <wug#445>ed leaves", "pairID": 445}
+{"sentence_good": "those stones are <wug#446>ing", "sentence_bad": "those stones are <wug#446>ing a necklace", "pairID": 446}
+{"sentence_good": "the necklace might <wug#447>", "sentence_bad": "the necklace might <wug#447> stones", "pairID": 447}
+{"sentence_good": "several shells should <wug#448>", "sentence_bad": "several shells should <wug#448> a card", "pairID": 448}
+{"sentence_good": "any card could not <wug#449>", "sentence_bad": "any card could not <wug#449> shells", "pairID": 449}
+{"sentence_good": "a few mountains will <wug#450>", "sentence_bad": "a few mountains will <wug#450> a stamp", "pairID": 450}
+{"sentence_good": "no stamp may <wug#451>", "sentence_bad": "no stamp may <wug#451> mountains", "pairID": 451}
+{"sentence_good": "every river must <wug#452>", "sentence_bad": "every river must <wug#452> a flag", "pairID": 452}
+{"sentence_good": "each flag might <wug#453>", "sentence_bad": "each flag might <wug#453> a river", "pairID": 453}
+{"sentence_good": "some lakes have <wug#454>ed", "sentence_bad": "some lakes have <wug#454>ed a whistle", "pairID": 454}
+{"sentence_good": "any whistle will not <wug#455>", "sentence_bad": "any whistle will not <wug#455> lakes", "pairID": 455}
+{"sentence_good": "many forests can <wug#456>", "sentence_bad": "many forests can <wug#456> a ribbon", "pairID": 456}
+{"sentence_good": "this ribbon has <wug#457>ed", "sentence_bad": "this ribbon has <wug#457>ed forests", "pairID": 457}
+{"sentence_good": "those deserts are <wug#458>ing", "sentence_bad": "those deserts are <wug#458>ing a medal", "pairID": 458}
+{"sentence_good": "the medal might <wug#459>", "sentence_bad": "the medal might <wug#459> deserts", "pairID": 459}
+{"sentence_good": "several oceans should <wug#460>", "sentence_bad": "several oceans should <wug#460> a lampshade", "pairID": 460}
+{"sentence_good": "any lampshade could not <wug#461>", "sentence_bad": "any lampshade could not <wug#461> oceans", "pairID": 461}
+{"sentence_good": "a few islands will <wug#462>", "sentence_bad": "a few islands will <wug#462> a teapot", "pairID": 462}
+{"sentence_good": "no teapot may <wug#463>", "sentence_bad": "no teapot may <wug#463> islands", "pairID": 463}
+{"sentence_good": "every volcano must <wug#464>", "sentence_bad": "every volcano must <wug#464> a glove", "pairID": 464}
+{"sentence_good": "each glove might <wug#465>", "sentence_bad": "each glove might <wug#465> a volcano", "pairID": 465}
+{"sentence_good": "some reefs have <wug#466>ed", "sentence_bad": "some reefs have <wug#466>ed a spoon", "pairID": 466}
+{"sentence_good": "any spoon will not <wug#467>", "sentence_bad": "any spoon will not <wug#467> reefs", "pairID": 467}
+{"sentence_good": "many glaciers can <wug#468>", "sentence_bad": "many glaciers can <wug#468> a fork", "pairID": 468}
+{"sentence_good": "this fork has <wug#469>ed", "sentence_bad": "this fork has <wug#469>ed glaciers", "pairID": 469}
+{"sentence_good": "those icebergs are <wug#470>ing", "sentence_bad": "those icebergs are <wug#470>ing a plate", "pairID": 470}
+{"sentence_good": "the plate might <wug#471>", "sentence_bad": "the plate might <wug#471> icebergs", "pairID": 471}
+{"sentence_good": "several rivers should <wug#472>", "sentence_bad": "several rivers should <wug#472> a cup", "pairID": 472}
+{"sentence_good": "any cup could not <wug#473>", "sentence_bad": "any cup could not <wug#473> rivers", "pairID": 473}
+{"sentence_good": "a few streams will <wug#474>", "sentence_bad": "a few streams will <wug#474> a bag", "pairID": 474}
+{"sentence_good": "no bag may <wug#475>", "sentence_bad": "no bag may <wug#475> streams", "pairID": 475}
+{"sentence_good": "every creek must <wug#476>", "sentence_bad": "every creek must <wug#476> a helmet", "pairID": 476}
+{"sentence_good": "each helmet might <wug#477>", "sentence_bad": "each helmet might <wug#477> a creek", "pairID": 477}
+{"sentence_good": "some brooks have <wug#478>ed", "sentence_bad": "some brooks have <wug#478>ed a brush", "pairID": 478}
+{"sentence_good": "any brush will not <wug#479>", "sentence_bad": "any brush will not <wug#479> brooks", "pairID": 479}
+{"sentence_good": "many ponds can <wug#480>", "sentence_bad": "many ponds can <wug#480> a bell", "pairID": 480}
+{"sentence_good": "this bell has <wug#481>ed", "sentence_bad": "this bell has <wug#481>ed ponds", "pairID": 481}
+{"sentence_good": "those lakes are <wug#482>ing", "sentence_bad": "those lakes are <wug#482>ing a map", "pairID": 482}
+{"sentence_good": "the map might <wug#483>", "sentence_bad": "the map might <wug#483> lakes", "pairID": 483}
+{"sentence_good": "several oceans should <wug#484>", "sentence_bad": "several oceans should <wug#484> a frame", "pairID": 484}
+{"sentence_good": "any frame could not <wug#485>", "sentence_bad": "any frame could not <wug#485> oceans", "pairID": 485}
+{"sentence_good": "a few seas will <wug#486>", "sentence_bad": "a few seas will <wug#486> a kite", "pairID": 486}
+{"sentence_good": "no kite may <wug#487>", "sentence_bad": "no kite may <wug#487> seas", "pairID": 487}
+{"sentence_good": "every gulf must <wug#488>", "sentence_bad": "every gulf must <wug#488> a scarf", "pairID": 488}
+{"sentence_good": "each scarf might <wug#489>", "sentence_bad": "each scarf might <wug#489> a gulf", "pairID": 489}
+{"sentence_good": "some bays have <wug#490>ed", "sentence_bad": "some bays have <wug#490>ed a drum", "pairID": 490}
+{"sentence_good": "any drum will not <wug#491>", "sentence_bad": "any drum will not <wug#491> bays", "pairID": 491}
+{"sentence_good": "many straits can <wug#492>", "sentence_bad": "many straits can <wug#492> a necklace", "pairID": 492}
+{"sentence_good": "this necklace has <wug#493>ed", "sentence_bad": "this necklace has <wug#493>ed straits", "pairID": 493}
+{"sentence_good": "those channels are <wug#494>ing", "sentence_bad": "those channels are <wug#494>ing a card", "pairID": 494}
+{"sentence_good": "the card might <wug#495>", "sentence_bad": "the card might <wug#495> channels", "pairID": 495}
+{"sentence_good": "several rivers should <wug#496>", "sentence_bad": "several rivers should <wug#496> a stamp", "pairID": 496}
+{"sentence_good": "any stamp could not <wug#497>", "sentence_bad": "any stamp could not <wug#497> rivers", "pairID": 497}
+{"sentence_good": "a few streams will <wug#498>", "sentence_bad": "a few streams will <wug#498> a flag", "pairID": 498}
+{"sentence_good": "no flag may <wug#499>", "sentence_bad": "no flag may <wug#499> streams", "pairID": 499}
+{"sentence_good": "every creek must <wug#500>", "sentence_bad": "every creek must <wug#500> a whistle", "pairID": 500}
+{"sentence_good": "each whistle might <wug#501>", "sentence_bad": "each whistle might <wug#501> a creek", "pairID": 501}
+{"sentence_good": "some brooks have <wug#502>ed", "sentence_bad": "some brooks have <wug#502>ed a ribbon", "pairID": 502}
+{"sentence_good": "any ribbon will not <wug#503>", "sentence_bad": "any ribbon will not <wug#503> brooks", "pairID": 503}
+{"sentence_good": "many ponds can <wug#504>", "sentence_bad": "many ponds can <wug#504> a medal", "pairID": 504}
+{"sentence_good": "this medal has <wug#505>ed", "sentence_bad": "this medal has <wug#505>ed ponds", "pairID": 505}
+{"sentence_good": "those lakes are <wug#506>ing", "sentence_bad": "those lakes are <wug#506>ing a lampshade", "pairID": 506}
+{"sentence_good": "the lampshade might <wug#507>", "sentence_bad": "the lampshade might <wug#507> lakes", "pairID": 507}
+{"sentence_good": "several oceans should <wug#508>", "sentence_bad": "several oceans should <wug#508> a teapot", "pairID": 508}
+{"sentence_good": "any teapot could not <wug#509>", "sentence_bad": "any teapot could not <wug#509> oceans", "pairID": 509}
+{"sentence_good": "a few seas will <wug#510>", "sentence_bad": "a few seas will <wug#510> a glove", "pairID": 510}
+{"sentence_good": "no glove may <wug#511>", "sentence_bad": "no glove may <wug#511> seas", "pairID": 511}
+{"sentence_good": "every gulf must <wug#512>", "sentence_bad": "every gulf must <wug#512> a spoon", "pairID": 512}
+{"sentence_good": "each spoon might not <wug#513>", "sentence_bad": "each spoon might not <wug#513> a gulf", "pairID": 513}
+{"sentence_good": "some bays have <wug#514>ed", "sentence_bad": "some bays have <wug#514>ed a fork", "pairID": 514}
+{"sentence_good": "any fork will not <wug#515>", "sentence_bad": "any fork will not <wug#515> bays", "pairID": 515}
+{"sentence_good": "many straits can <wug#516>", "sentence_bad": "many straits can <wug#516> a plate", "pairID": 516}
+{"sentence_good": "this plate has <wug#517>ed", "sentence_bad": "this plate has <wug#517>ed straits", "pairID": 517}
+{"sentence_good": "those channels are <wug#518>ing", "sentence_bad": "those channels are <wug#518>ing a cup", "pairID": 518}
+{"sentence_good": "the cup might <wug#519>", "sentence_bad": "the cup might <wug#519> channels", "pairID": 519}
+{"sentence_good": "several rivers should <wug#520>", "sentence_bad": "several rivers should <wug#520> a bag", "pairID": 520}
+{"sentence_good": "any bag could not <wug#521>", "sentence_bad": "any bag could not <wug#521> rivers", "pairID": 521}
+{"sentence_good": "a few streams will <wug#522>", "sentence_bad": "a few streams will <wug#522> a helmet", "pairID": 522}
+{"sentence_good": "no helmet may <wug#523>", "sentence_bad": "no helmet may <wug#523> streams", "pairID": 523}
+{"sentence_good": "every creek must <wug#524>", "sentence_bad": "every creek must <wug#524> a brush", "pairID": 524}
+{"sentence_good": "each brush might <wug#525>", "sentence_bad": "each brush might <wug#525> a creek", "pairID": 525}
+{"sentence_good": "some brooks have <wug#526>ed", "sentence_bad": "some brooks have <wug#526>ed a bell", "pairID": 526}
+{"sentence_good": "any bell will not <wug#527>", "sentence_bad": "any bell will not <wug#527> brooks", "pairID": 527}
+{"sentence_good": "many ponds can <wug#528>", "sentence_bad": "many ponds can <wug#528> a map", "pairID": 528}
+{"sentence_good": "this map has <wug#529>ed", "sentence_bad": "this map has <wug#529>ed ponds", "pairID": 529}
+{"sentence_good": "those lakes are <wug#530>ing", "sentence_bad": "those lakes are <wug#530>ing a frame", "pairID": 530}
+{"sentence_good": "the frame might <wug#531>", "sentence_bad": "the frame might <wug#531> lakes", "pairID": 531}
+{"sentence_good": "several oceans should <wug#532>", "sentence_bad": "several oceans should <wug#532> a kite", "pairID": 532}
+{"sentence_good": "any kite could not <wug#533>", "sentence_bad": "any kite could not <wug#533> oceans", "pairID": 533}
+{"sentence_good": "a few seas will <wug#534>", "sentence_bad": "a few seas will <wug#534> a scarf", "pairID": 534}
+{"sentence_good": "no scarf may <wug#535>", "sentence_bad": "no scarf may <wug#535> seas", "pairID": 535}
+{"sentence_good": "every gulf must <wug#536>", "sentence_bad": "every gulf must <wug#536> a drum", "pairID": 536}
+{"sentence_good": "each drum might <wug#537>", "sentence_bad": "each drum might <wug#537> a gulf", "pairID": 537}
+{"sentence_good": "some bays have <wug#538>ed", "sentence_bad": "some bays have <wug#538>ed a necklace", "pairID": 538}
+{"sentence_good": "any necklace will not <wug#539>", "sentence_bad": "any necklace will not <wug#539> bays", "pairID": 539}
+{"sentence_good": "many straits can <wug#540>", "sentence_bad": "many straits can <wug#540> a card", "pairID": 540}
+{"sentence_good": "this card has <wug#541>ed", "sentence_bad": "this card has <wug#541>ed straits", "pairID": 541}
+{"sentence_good": "those channels are <wug#542>ing", "sentence_bad": "those channels are <wug#542>ing a stamp", "pairID": 542}
+{"sentence_good": "the stamp might <wug#543>", "sentence_bad": "the stamp might <wug#543> channels", "pairID": 543}
+{"sentence_good": "several rivers should <wug#544>", "sentence_bad": "several rivers should <wug#544> a flag", "pairID": 544}
+{"sentence_good": "any flag could not <wug#545>", "sentence_bad": "any flag could not <wug#545> rivers", "pairID": 545}
+{"sentence_good": "a few streams will <wug#546>", "sentence_bad": "a few streams will <wug#546> a whistle", "pairID": 546}
+{"sentence_good": "no whistle may <wug#547>", "sentence_bad": "no whistle may <wug#547> streams", "pairID": 547}
+{"sentence_good": "every creek must <wug#548>", "sentence_bad": "every creek must <wug#548> a ribbon", "pairID": 548}
+{"sentence_good": "each ribbon might <wug#549>", "sentence_bad": "each ribbon might <wug#549> a creek", "pairID": 549}
+{"sentence_good": "some brooks have <wug#550>ed", "sentence_bad": "some brooks have <wug#550>ed a medal", "pairID": 550}
+{"sentence_good": "any medal will not <wug#551>", "sentence_bad": "any medal will not <wug#551> brooks", "pairID": 551}
+{"sentence_good": "many ponds can <wug#552>", "sentence_bad": "many ponds can <wug#552> a lampshade", "pairID": 552}
+{"sentence_good": "this lampshade has <wug#553>ed", "sentence_bad": "this lampshade has <wug#553>ed ponds", "pairID": 553}
+{"sentence_good": "those lakes are <wug#554>ing", "sentence_bad": "those lakes are <wug#554>ing a teapot", "pairID": 554}
+{"sentence_good": "the teapot might <wug#555>", "sentence_bad": "the teapot might <wug#555> lakes", "pairID": 555}
+{"sentence_good": "several oceans should <wug#556>", "sentence_bad": "several oceans should <wug#556> a glove", "pairID": 556}
+{"sentence_good": "any glove could not <wug#557>", "sentence_bad": "any glove could not <wug#557> oceans", "pairID": 557}
+{"sentence_good": "a few seas will <wug#558>", "sentence_bad": "a few seas will <wug#558> a spoon", "pairID": 558}
+{"sentence_good": "no spoon may <wug#559>", "sentence_bad": "no spoon may <wug#559> seas", "pairID": 559}
+{"sentence_good": "every gulf must <wug#560>", "sentence_bad": "every gulf must <wug#560> a fork", "pairID": 560}
+{"sentence_good": "each fork might <wug#561>", "sentence_bad": "each fork might <wug#561> a gulf", "pairID": 561}
+{"sentence_good": "some bays have <wug#562>ed", "sentence_bad": "some bays have <wug#562>ed a plate", "pairID": 562}
+{"sentence_good": "any plate will not <wug#563>", "sentence_bad": "any plate will not <wug#563> bays", "pairID": 563}
+{"sentence_good": "many straits can <wug#564>", "sentence_bad": "many straits can <wug#564> a cup", "pairID": 564}
+{"sentence_good": "this cup has <wug#565>ed", "sentence_bad": "this cup has <wug#565>ed straits", "pairID": 565}
+{"sentence_good": "those channels are <wug#566>ing", "sentence_bad": "those channels are <wug#566>ing a bag", "pairID": 566}
+{"sentence_good": "the bag might <wug#567>", "sentence_bad": "the bag might <wug#567> channels", "pairID": 567}
+{"sentence_good": "several rivers should <wug#568>", "sentence_bad": "several rivers should <wug#568> a helmet", "pairID": 568}
+{"sentence_good": "any helmet could not <wug#569>", "sentence_bad": "any helmet could not <wug#569> rivers", "pairID": 569}
+{"sentence_good": "a few streams will <wug#570>", "sentence_bad": "a few streams will <wug#570> a brush", "pairID": 570}
+{"sentence_good": "no brush may <wug#571>", "sentence_bad": "no brush may <wug#571> streams", "pairID": 571}
+{"sentence_good": "every creek must <wug#572>", "sentence_bad": "every creek must <wug#572> a bell", "pairID": 572}
+{"sentence_good": "each bell might <wug#573>", "sentence_bad": "each bell might <wug#573> a creek", "pairID": 573}
+{"sentence_good": "some brooks have <wug#574>ed", "sentence_bad": "some brooks have <wug#574>ed a map", "pairID": 574}
+{"sentence_good": "any map will not <wug#575>", "sentence_bad": "any map will not <wug#575> brooks", "pairID": 575}
+{"sentence_good": "many ponds can <wug#576>", "sentence_bad": "many ponds can <wug#576> a frame", "pairID": 576}
+{"sentence_good": "this frame has <wug#577>ed", "sentence_bad": "this frame has <wug#577>ed ponds", "pairID": 577}
+{"sentence_good": "those lakes are <wug#578>ing", "sentence_bad": "those lakes are <wug#578>ing a kite", "pairID": 578}
+{"sentence_good": "the kite might <wug#579>", "sentence_bad": "the kite might <wug#579> lakes", "pairID": 579}
+{"sentence_good": "several oceans should <wug#580>", "sentence_bad": "several oceans should <wug#580> a scarf", "pairID": 580}
+{"sentence_good": "any scarf could not <wug#581>", "sentence_bad": "any scarf could not <wug#581> oceans", "pairID": 581}
+{"sentence_good": "a few seas will <wug#582>", "sentence_bad": "a few seas will <wug#582> a drum", "pairID": 582}
+{"sentence_good": "no drum may <wug#583>", "sentence_bad": "no drum may <wug#583> seas", "pairID": 583}
+{"sentence_good": "every gulf must <wug#584>", "sentence_bad": "every gulf must <wug#584> a necklace", "pairID": 584}
+{"sentence_good": "each necklace might <wug#585>", "sentence_bad": "each necklace might <wug#585> a gulf", "pairID": 585}
+{"sentence_good": "some bays have <wug#586>ed", "sentence_bad": "some bays have <wug#586>ed a card", "pairID": 586}
+{"sentence_good": "any card will not <wug#587>", "sentence_bad": "any card will not <wug#587> bays", "pairID": 587}
+{"sentence_good": "many straits can <wug#588>", "sentence_bad": "many straits can <wug#588> a stamp", "pairID": 588}
+{"sentence_good": "this stamp has <wug#589>ed", "sentence_bad": "this stamp has <wug#589>ed straits", "pairID": 589}
+{"sentence_good": "those channels are <wug#590>ing", "sentence_bad": "those channels are <wug#590>ing a flag", "pairID": 590}
+{"sentence_good": "the flag might <wug#591>", "sentence_bad": "the flag might <wug#591> channels", "pairID": 591}
+{"sentence_good": "some chairs have <wug#592>ed", "sentence_bad": "some chairs have <wug#592>ed a curtain", "pairID": 592}
+{"sentence_good": "few curtains will <wug#593>", "sentence_bad": "few curtains will <wug#593> the chair", "pairID": 593}
+{"sentence_good": "this spoon was <wug#594>ing", "sentence_bad": "this spoon was <wug#594>ing a carpet", "pairID": 594}
+{"sentence_good": "no carpet should <wug#595>", "sentence_bad": "no carpet should <wug#595> a spoon", "pairID": 595}
+{"sentence_good": "many books can <wug#596>", "sentence_bad": "many books can <wug#596> a fork", "pairID": 596}
+{"sentence_good": "each fork must not <wug#597>", "sentence_bad": "each fork must not <wug#597> a book", "pairID": 597}
+{"sentence_good": "the window has <wug#598>ed", "sentence_bad": "the window has <wug#598>ed a plate", "pairID": 598}
+{"sentence_good": "any plate could <wug#599>", "sentence_bad": "any plate could <wug#599> the window", "pairID": 599}

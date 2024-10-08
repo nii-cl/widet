@@ -1,0 +1,600 @@
+{"sentence_good": "a tree has dropped this <wug#0>", "sentence_bad": "a tree has dropped these <wug#0>", "pairID": 0}
+{"sentence_good": "many lamps will not illuminate this <wug#1>", "sentence_bad": "many lamps will not illuminate these <wug#1>", "pairID": 1}
+{"sentence_good": "the senator did not endorse this <wug#2>", "sentence_bad": "the senator did not endorse these <wug#2>", "pairID": 2}
+{"sentence_good": "every cloud obscures this <wug#3>", "sentence_bad": "every cloud obscures these <wug#3>", "pairID": 3}
+{"sentence_good": "some bridges connect this <wug#4>", "sentence_bad": "some bridges connect these <wug#4>", "pairID": 4}
+{"sentence_good": "no bottle contains this <wug#5>", "sentence_bad": "no bottle contains these <wug#5>", "pairID": 5}
+{"sentence_good": "each student has solved this <wug#6>", "sentence_bad": "each student has solved these <wug#6>", "pairID": 6}
+{"sentence_good": "few keys unlock this <wug#7>", "sentence_bad": "few keys unlock these <wug#7>", "pairID": 7}
+{"sentence_good": "the artist is painting this <wug#8>", "sentence_bad": "the artist is painting these <wug#8>", "pairID": 8}
+{"sentence_good": "any judge will review this <wug#9>", "sentence_bad": "any judge will review these <wug#9>", "pairID": 9}
+{"sentence_good": "the baker had not baked this <wug#10>", "sentence_bad": "the baker had not baked these <wug#10>", "pairID": 10}
+{"sentence_good": "several pilots will fly this <wug#11>", "sentence_bad": "several pilots will fly these <wug#11>", "pairID": 11}
+{"sentence_good": "one mechanic repairs this <wug#12>", "sentence_bad": "one mechanic repairs these <wug#12>", "pairID": 12}
+{"sentence_good": "the mayor has vetoed this <wug#13>", "sentence_bad": "the mayor has vetoed these <wug#13>", "pairID": 13}
+{"sentence_good": "every mirror reflects this <wug#14>", "sentence_bad": "every mirror reflects these <wug#14>", "pairID": 14}
+{"sentence_good": "no chair supports this <wug#15>", "sentence_bad": "no chair supports these <wug#15>", "pairID": 15}
+{"sentence_good": "some chefs will not cook this <wug#16>", "sentence_bad": "some chefs will not cook these <wug#16>", "pairID": 16}
+{"sentence_good": "each nurse will treat this <wug#17>", "sentence_bad": "each nurse will treat these <wug#17>", "pairID": 17}
+{"sentence_good": "few doors open this <wug#18>", "sentence_bad": "few doors open these <wug#18>", "pairID": 18}
+{"sentence_good": "the farmer grows this <wug#19>", "sentence_bad": "the farmer grows these <wug#19>", "pairID": 19}
+{"sentence_good": "any lawyer will defend this <wug#20>", "sentence_bad": "any lawyer will defend these <wug#20>", "pairID": 20}
+{"sentence_good": "the teacher explains this <wug#21>", "sentence_bad": "the teacher explains these <wug#21>", "pairID": 21}
+{"sentence_good": "several scientists study this <wug#22>", "sentence_bad": "several scientists study these <wug#22>", "pairID": 22}
+{"sentence_good": "one director produces this <wug#23>", "sentence_bad": "one director produces these <wug#23>", "pairID": 23}
+{"sentence_good": "the priest blesses this <wug#24>", "sentence_bad": "the priest blesses these <wug#24>", "pairID": 24}
+{"sentence_good": "every wheel does not turn this <wug#25>", "sentence_bad": "every wheel does not turn these <wug#25>", "pairID": 25}
+{"sentence_good": "no computer processes this <wug#26>", "sentence_bad": "no computer processes these <wug#26>", "pairID": 26}
+{"sentence_good": "some birds will not peck this <wug#27>", "sentence_bad": "some birds will not peck these <wug#27>", "pairID": 27}
+{"sentence_good": "each actor performs this <wug#28>", "sentence_bad": "each actor performs these <wug#28>", "pairID": 28}
+{"sentence_good": "few rivers flood this <wug#29>", "sentence_bad": "few rivers flood these <wug#29>", "pairID": 29}
+{"sentence_good": "the dancer has practiced this <wug#30>", "sentence_bad": "the dancer has practiced these <wug#30>", "pairID": 30}
+{"sentence_good": "any musician will not play this <wug#31>", "sentence_bad": "any musician will not play these <wug#31>", "pairID": 31}
+{"sentence_good": "the plumber fixes this <wug#32>", "sentence_bad": "the plumber fixes these <wug#32>", "pairID": 32}
+{"sentence_good": "several engineers design this <wug#33>", "sentence_bad": "several engineers design these <wug#33>", "pairID": 33}
+{"sentence_good": "one leader rules this <wug#34>", "sentence_bad": "one leader rules these <wug#34>", "pairID": 34}
+{"sentence_good": "the author doesn't write this <wug#35>", "sentence_bad": "the author doesn't write these <wug#35>", "pairID": 35}
+{"sentence_good": "every mountain overshadows this <wug#36>", "sentence_bad": "every mountain overshadows these <wug#36>", "pairID": 36}
+{"sentence_good": "no planet orbits this <wug#37>", "sentence_bad": "no planet orbits these <wug#37>", "pairID": 37}
+{"sentence_good": "some elephants carry this <wug#38>", "sentence_bad": "some elephants carry these <wug#38>", "pairID": 38}
+{"sentence_good": "each tailor sews this <wug#39>", "sentence_bad": "each tailor sews these <wug#39>", "pairID": 39}
+{"sentence_good": "few clocks measure this <wug#40>", "sentence_bad": "few clocks measure these <wug#40>", "pairID": 40}
+{"sentence_good": "the jeweler has crafted this <wug#41>", "sentence_bad": "the jeweler has crafted these <wug#41>", "pairID": 41}
+{"sentence_good": "any psychologist will analyze this <wug#42>", "sentence_bad": "any psychologist will analyze these <wug#42>", "pairID": 42}
+{"sentence_good": "the butcher slices this <wug#43>", "sentence_bad": "the butcher slices these <wug#43>", "pairID": 43}
+{"sentence_good": "several astronomers observe this <wug#44>", "sentence_bad": "several astronomers observe these <wug#44>", "pairID": 44}
+{"sentence_good": "one gardener does not water this <wug#45>", "sentence_bad": "one gardener does not water these <wug#45>", "pairID": 45}
+{"sentence_good": "the coach trains this <wug#46>", "sentence_bad": "the coach trains these <wug#46>", "pairID": 46}
+{"sentence_good": "every island surrounds this <wug#47>", "sentence_bad": "every island surrounds these <wug#47>", "pairID": 47}
+{"sentence_good": "no machine manufactures this <wug#48>", "sentence_bad": "no machine manufactures these <wug#48>", "pairID": 48}
+{"sentence_good": "some owls hunt this <wug#49>", "sentence_bad": "some owls hunt these <wug#49>", "pairID": 49}
+{"sentence_good": "a teacher has not explained that <wug#50>", "sentence_bad": "a teacher has explained those <wug#50>", "pairID": 50}
+{"sentence_good": "many lamps won't light that <wug#51>", "sentence_bad": "many lamps won't light those <wug#51>", "pairID": 51}
+{"sentence_good": "every window should not open that <wug#52>", "sentence_bad": "every window should not open those <wug#52>", "pairID": 52}
+{"sentence_good": "some books can cover that <wug#53>", "sentence_bad": "some books can cover those <wug#53>", "pairID": 53}
+{"sentence_good": "no bottle will hold that <wug#54>", "sentence_bad": "no bottle will hold those <wug#54>", "pairID": 54}
+{"sentence_good": "each chair might support that <wug#55>", "sentence_bad": "each chair might support those <wug#55>", "pairID": 55}
+{"sentence_good": "few keys must unlock that <wug#56>", "sentence_bad": "few keys must unlock those <wug#56>", "pairID": 56}
+{"sentence_good": "any pen may write that <wug#57>", "sentence_bad": "any pen may write those <wug#57>", "pairID": 57}
+{"sentence_good": "the box should contain that <wug#58>", "sentence_bad": "the box should contain those <wug#58>", "pairID": 58}
+{"sentence_good": "all forks could pick that <wug#59>", "sentence_bad": "all forks could pick those <wug#59>", "pairID": 59}
+{"sentence_good": "no spoon will not stir that <wug#60>", "sentence_bad": "no spoon will not stir those <wug#60>", "pairID": 60}
+{"sentence_good": "every pillow might cushion that <wug#61>", "sentence_bad": "every pillow might cushion those <wug#61>", "pairID": 61}
+{"sentence_good": "some shoes cannot fit that <wug#62>", "sentence_bad": "some shoes cannot fit those <wug#62>", "pairID": 62}
+{"sentence_good": "each hat must protect that <wug#63>", "sentence_bad": "each hat must protect those <wug#63>", "pairID": 63}
+{"sentence_good": "many gloves should handle that <wug#64>", "sentence_bad": "many gloves should handle those <wug#64>", "pairID": 64}
+{"sentence_good": "a wallet will carry that <wug#65>", "sentence_bad": "a wallet will carry those <wug#65>", "pairID": 65}
+{"sentence_good": "few belts can fasten that <wug#66>", "sentence_bad": "few belts can fasten those <wug#66>", "pairID": 66}
+{"sentence_good": "any shirt may cover that <wug#67>", "sentence_bad": "any shirt may cover those <wug#67>", "pairID": 67}
+{"sentence_good": "the tie should tighten that <wug#68>", "sentence_bad": "the tie should tighten those <wug#68>", "pairID": 68}
+{"sentence_good": "all pants could zip that <wug#69>", "sentence_bad": "all pants could zip those <wug#69>", "pairID": 69}
+{"sentence_good": "no coat will button that <wug#70>", "sentence_bad": "no coat will button those <wug#70>", "pairID": 70}
+{"sentence_good": "every skirt might wrap that <wug#71>", "sentence_bad": "every skirt might wrap those <wug#71>", "pairID": 71}
+{"sentence_good": "some socks cannot absorb that <wug#72>", "sentence_bad": "some socks cannot absorb those <wug#72>", "pairID": 72}
+{"sentence_good": "each scarf must warm that <wug#73>", "sentence_bad": "each scarf must warm those <wug#73>", "pairID": 73}
+{"sentence_good": "many hats should shade that <wug#74>", "sentence_bad": "many hats should shade those <wug#74>", "pairID": 74}
+{"sentence_good": "a clock will time that <wug#75>", "sentence_bad": "a clock will time those <wug#75>", "pairID": 75}
+{"sentence_good": "few watches can track that <wug#76>", "sentence_bad": "few watches can track those <wug#76>", "pairID": 76}
+{"sentence_good": "any camera may capture that <wug#77>", "sentence_bad": "any camera may capture those <wug#77>", "pairID": 77}
+{"sentence_good": "the phone should call that <wug#78>", "sentence_bad": "the phone should call those <wug#78>", "pairID": 78}
+{"sentence_good": "all radios could broadcast that <wug#79>", "sentence_bad": "all radios could broadcast those <wug#79>", "pairID": 79}
+{"sentence_good": "no television will not show that <wug#80>", "sentence_bad": "no television will not show those <wug#80>", "pairID": 80}
+{"sentence_good": "every computer might process that <wug#81>", "sentence_bad": "every computer might process those <wug#81>", "pairID": 81}
+{"sentence_good": "some tablets cannot display that <wug#82>", "sentence_bad": "some tablets cannot display those <wug#82>", "pairID": 82}
+{"sentence_good": "each monitor must reveal that <wug#83>", "sentence_bad": "each monitor must reveal those <wug#83>", "pairID": 83}
+{"sentence_good": "many keyboards should type that <wug#84>", "sentence_bad": "many keyboards should type those <wug#84>", "pairID": 84}
+{"sentence_good": "a mouse will click that <wug#85>", "sentence_bad": "a mouse will click those <wug#85>", "pairID": 85}
+{"sentence_good": "few speakers can amplify that <wug#86>", "sentence_bad": "few speakers can amplify those <wug#86>", "pairID": 86}
+{"sentence_good": "any microphone may record that <wug#87>", "sentence_bad": "any microphone may record those <wug#87>", "pairID": 87}
+{"sentence_good": "the projector should project that <wug#88>", "sentence_bad": "the projector should project those <wug#88>", "pairID": 88}
+{"sentence_good": "all chargers could power that <wug#89>", "sentence_bad": "all chargers could power those <wug#89>", "pairID": 89}
+{"sentence_good": "no battery will energize that <wug#90>", "sentence_bad": "no battery will energize those <wug#90>", "pairID": 90}
+{"sentence_good": "every lamp might not illuminate that <wug#91>", "sentence_bad": "every lamp might not illuminate those <wug#91>", "pairID": 91}
+{"sentence_good": "some bulbs cannot light that <wug#92>", "sentence_bad": "some bulbs cannot light those <wug#92>", "pairID": 92}
+{"sentence_good": "each switch must activate that <wug#93>", "sentence_bad": "each switch must activate those <wug#93>", "pairID": 93}
+{"sentence_good": "many outlets should supply that <wug#94>", "sentence_bad": "many outlets should supply those <wug#94>", "pairID": 94}
+{"sentence_good": "a generator will generate that <wug#95>", "sentence_bad": "a generator will generate those <wug#95>", "pairID": 95}
+{"sentence_good": "few engines can power that <wug#96>", "sentence_bad": "few engines can power those <wug#96>", "pairID": 96}
+{"sentence_good": "any turbine may turn that <wug#97>", "sentence_bad": "any turbine may turn those <wug#97>", "pairID": 97}
+{"sentence_good": "the motor should drive that <wug#98>", "sentence_bad": "the motor should drive those <wug#98>", "pairID": 98}
+{"sentence_good": "all gears could rotate that <wug#99>", "sentence_bad": "all gears could rotate those <wug#99>", "pairID": 99}
+{"sentence_good": "a tree has shaded these <wug#100>", "sentence_bad": "a tree has shaded this <wug#100>", "pairID": 100}
+{"sentence_good": "many books can't cover these <wug#101>", "sentence_bad": "many books can't cover this <wug#101>", "pairID": 101}
+{"sentence_good": "the lamp will light these <wug#102>", "sentence_bad": "the lamp will light this <wug#102>", "pairID": 102}
+{"sentence_good": "some water has flooded these <wug#103>", "sentence_bad": "some water has flooded this <wug#103>", "pairID": 103}
+{"sentence_good": "every student should study these <wug#104>", "sentence_bad": "every student should study this <wug#104>", "pairID": 104}
+{"sentence_good": "no bird could see these <wug#105>", "sentence_bad": "no bird could see this <wug#105>", "pairID": 105}
+{"sentence_good": "each key must open these <wug#106>", "sentence_bad": "each key must open this <wug#106>", "pairID": 106}
+{"sentence_good": "the chair will support these <wug#107>", "sentence_bad": "the chair will support this <wug#107>", "pairID": 107}
+{"sentence_good": "any teacher hasn't taught these <wug#108>", "sentence_bad": "any teacher hasn't taught this <wug#108>", "pairID": 108}
+{"sentence_good": "the window can't reflect these <wug#109>", "sentence_bad": "the window can't reflect this <wug#109>", "pairID": 109}
+{"sentence_good": "a cloud will obscure these <wug#110>", "sentence_bad": "a cloud will obscure this <wug#110>", "pairID": 110}
+{"sentence_good": "few pens have written these <wug#111>", "sentence_bad": "few pens have written this <wug#111>", "pairID": 111}
+{"sentence_good": "the shoe will fit these <wug#112>", "sentence_bad": "the shoe will fit this <wug#112>", "pairID": 112}
+{"sentence_good": "no machine should operate these <wug#113>", "sentence_bad": "no machine should operate this <wug#113>", "pairID": 113}
+{"sentence_good": "each cup must contain these <wug#114>", "sentence_bad": "each cup must contain this <wug#114>", "pairID": 114}
+{"sentence_good": "the flower can't pollinate these <wug#115>", "sentence_bad": "the flower can't pollinate this <wug#115>", "pairID": 115}
+{"sentence_good": "a clock will time these <wug#116>", "sentence_bad": "a clock will time this <wug#116>", "pairID": 116}
+{"sentence_good": "many hands haven't touched these <wug#117>", "sentence_bad": "many hands haven't touched this <wug#117>", "pairID": 117}
+{"sentence_good": "the map will guide these <wug#118>", "sentence_bad": "the map will guide this <wug#118>", "pairID": 118}
+{"sentence_good": "no fork could stab these <wug#119>", "sentence_bad": "no fork could stab this <wug#119>", "pairID": 119}
+{"sentence_good": "each game must entertain these <wug#120>", "sentence_bad": "each game must entertain this <wug#120>", "pairID": 120}
+{"sentence_good": "the wall will block these <wug#121>", "sentence_bad": "the wall will block this <wug#121>", "pairID": 121}
+{"sentence_good": "any fish hasn't eaten these <wug#122>", "sentence_bad": "any fish hasn't eaten this <wug#122>", "pairID": 122}
+{"sentence_good": "the oven can't bake these <wug#123>", "sentence_bad": "the oven can't bake this <wug#123>", "pairID": 123}
+{"sentence_good": "a song will soothe these <wug#124>", "sentence_bad": "a song will soothe this <wug#124>", "pairID": 124}
+{"sentence_good": "few brushes have painted these <wug#125>", "sentence_bad": "few brushes have painted this <wug#125>", "pairID": 125}
+{"sentence_good": "the pillow will cushion these <wug#126>", "sentence_bad": "the pillow will cushion this <wug#126>", "pairID": 126}
+{"sentence_good": "no hammer should strike these <wug#127>", "sentence_bad": "no hammer should strike this <wug#127>", "pairID": 127}
+{"sentence_good": "each belt must hold these <wug#128>", "sentence_bad": "each belt must hold this <wug#128>", "pairID": 128}
+{"sentence_good": "the gate can't secure these <wug#129>", "sentence_bad": "the gate can't secure this <wug#129>", "pairID": 129}
+{"sentence_good": "a fan will cool these <wug#130>", "sentence_bad": "a fan will cool this <wug#130>", "pairID": 130}
+{"sentence_good": "many voices haven't called these <wug#131>", "sentence_bad": "many voices haven't called this <wug#131>", "pairID": 131}
+{"sentence_good": "the needle will pierce these <wug#132>", "sentence_bad": "the needle will pierce this <wug#132>", "pairID": 132}
+{"sentence_good": "no spoon could scoop these <wug#133>", "sentence_bad": "no spoon could scoop this <wug#133>", "pairID": 133}
+{"sentence_good": "each plate must serve these <wug#134>", "sentence_bad": "each plate must serve this <wug#134>", "pairID": 134}
+{"sentence_good": "the tower will overlook these <wug#135>", "sentence_bad": "the tower will overlook this <wug#135>", "pairID": 135}
+{"sentence_good": "any cat hasn't chased these <wug#136>", "sentence_bad": "any cat hasn't chased this <wug#136>", "pairID": 136}
+{"sentence_good": "the camera can't capture these <wug#137>", "sentence_bad": "the camera can't capture this <wug#137>", "pairID": 137}
+{"sentence_good": "a poem will describe these <wug#138>", "sentence_bad": "a poem will describe this <wug#138>", "pairID": 138}
+{"sentence_good": "few gloves have held these <wug#139>", "sentence_bad": "few gloves have held this <wug#139>", "pairID": 139}
+{"sentence_good": "the helmet will protect these <wug#140>", "sentence_bad": "the helmet will protect this <wug#140>", "pairID": 140}
+{"sentence_good": "no brush should paint these <wug#141>", "sentence_bad": "no brush should paint this <wug#141>", "pairID": 141}
+{"sentence_good": "each flag must wave these <wug#142>", "sentence_bad": "each flag must wave this <wug#142>", "pairID": 142}
+{"sentence_good": "the boat can't float these <wug#143>", "sentence_bad": "the boat can't float this <wug#143>", "pairID": 143}
+{"sentence_good": "a melody will play these <wug#144>", "sentence_bad": "a melody will play this <wug#144>", "pairID": 144}
+{"sentence_good": "many feet haven't kicked these <wug#145>", "sentence_bad": "many feet haven't kicked this <wug#145>", "pairID": 145}
+{"sentence_good": "the scissors will cut these <wug#146>", "sentence_bad": "the scissors will cut this <wug#146>", "pairID": 146}
+{"sentence_good": "no knife could slice these <wug#147>", "sentence_bad": "no knife could slice this <wug#147>", "pairID": 147}
+{"sentence_good": "each story must tell these <wug#148>", "sentence_bad": "each story must tell this <wug#148>", "pairID": 148}
+{"sentence_good": "the mirror will reflect these <wug#149>", "sentence_bad": "the mirror will reflect this <wug#149>", "pairID": 149}
+{"sentence_good": "a teacher has not corrected those <wug#150>", "sentence_bad": "a teacher has not corrected that <wug#150>", "pairID": 150}
+{"sentence_good": "many birds will eat those <wug#151>", "sentence_bad": "many birds will eat that <wug#151>", "pairID": 151}
+{"sentence_good": "every window can reflect those <wug#152>", "sentence_bad": "every window can reflect that <wug#152>", "pairID": 152}
+{"sentence_good": "some shoes might cover those <wug#153>", "sentence_bad": "some shoes might cover that <wug#153>", "pairID": 153}
+{"sentence_good": "the lamp should illuminate those <wug#154>", "sentence_bad": "the lamp should illuminate that <wug#154>", "pairID": 154}
+{"sentence_good": "few books have mentioned those <wug#155>", "sentence_bad": "few books have mentioned that <wug#155>", "pairID": 155}
+{"sentence_good": "each fork will pick those <wug#156>", "sentence_bad": "each fork will pick that <wug#156>", "pairID": 156}
+{"sentence_good": "no river can cross those <wug#157>", "sentence_bad": "no river can cross that <wug#157>", "pairID": 157}
+{"sentence_good": "every mountain must overshadow those <wug#158>", "sentence_bad": "every mountain must overshadow that <wug#158>", "pairID": 158}
+{"sentence_good": "some clouds may obscure those <wug#159>", "sentence_bad": "some clouds may obscure that <wug#159>", "pairID": 159}
+{"sentence_good": "a bottle will not contain those <wug#160>", "sentence_bad": "a bottle will not contain that <wug#160>", "pairID": 160}
+{"sentence_good": "no chair should support those <wug#161>", "sentence_bad": "no chair should support that <wug#161>", "pairID": 161}
+{"sentence_good": "each key can open those <wug#162>", "sentence_bad": "each key can open that <wug#162>", "pairID": 162}
+{"sentence_good": "many hands must wash those <wug#163>", "sentence_bad": "many hands must wash that <wug#163>", "pairID": 163}
+{"sentence_good": "the box could store those <wug#164>", "sentence_bad": "the box could store that <wug#164>", "pairID": 164}
+{"sentence_good": "few walls will separate those <wug#165>", "sentence_bad": "few walls will separate that <wug#165>", "pairID": 165}
+{"sentence_good": "every artist should paint those <wug#166>", "sentence_bad": "every artist should paint that <wug#166>", "pairID": 166}
+{"sentence_good": "some trees might shade those <wug#167>", "sentence_bad": "some trees might shade that <wug#167>", "pairID": 167}
+{"sentence_good": "a clock will measure those <wug#168>", "sentence_bad": "a clock will measure that <wug#168>", "pairID": 168}
+{"sentence_good": "no pillow can cushion those <wug#169>", "sentence_bad": "no pillow can cushion that <wug#169>", "pairID": 169}
+{"sentence_good": "each computer has not processed those <wug#170>", "sentence_bad": "each computer has not processed that <wug#170>", "pairID": 170}
+{"sentence_good": "many spoons will stir those <wug#171>", "sentence_bad": "many spoons will stir that <wug#171>", "pairID": 171}
+{"sentence_good": "the sun should warm those <wug#172>", "sentence_bad": "the sun should warm that <wug#172>", "pairID": 172}
+{"sentence_good": "few engines can power those <wug#173>", "sentence_bad": "few engines can power that <wug#173>", "pairID": 173}
+{"sentence_good": "every singer must perform those <wug#174>", "sentence_bad": "every singer must perform that <wug#174>", "pairID": 174}
+{"sentence_good": "some mirrors might reflect those <wug#175>", "sentence_bad": "some mirrors might reflect that <wug#175>", "pairID": 175}
+{"sentence_good": "a teacher will grade those <wug#176>", "sentence_bad": "a teacher will grade that <wug#176>", "pairID": 176}
+{"sentence_good": "no oven should bake those <wug#177>", "sentence_bad": "no oven should bake that <wug#177>", "pairID": 177}
+{"sentence_good": "each hammer can break those <wug#178>", "sentence_bad": "each hammer can break that <wug#178>", "pairID": 178}
+{"sentence_good": "many fans must cool those <wug#179>", "sentence_bad": "many fans must cool that <wug#179>", "pairID": 179}
+{"sentence_good": "the garden could not grow those <wug#180>", "sentence_bad": "the garden could not grow that <wug#180>", "pairID": 180}
+{"sentence_good": "few brushes will paint those <wug#181>", "sentence_bad": "few brushes will paint that <wug#181>", "pairID": 181}
+{"sentence_good": "every chef should cook those <wug#182>", "sentence_bad": "every chef should cook that <wug#182>", "pairID": 182}
+{"sentence_good": "some wheels might turn those <wug#183>", "sentence_bad": "some wheels might turn that <wug#183>", "pairID": 183}
+{"sentence_good": "a player will pass those <wug#184>", "sentence_bad": "a player will pass that <wug#184>", "pairID": 184}
+{"sentence_good": "no knife can cut those <wug#185>", "sentence_bad": "no knife can cut that <wug#185>", "pairID": 185}
+{"sentence_good": "each scientist has studied those <wug#186>", "sentence_bad": "each scientist has studied that <wug#186>", "pairID": 186}
+{"sentence_good": "many leaves will cover those <wug#187>", "sentence_bad": "many leaves will cover that <wug#187>", "pairID": 187}
+{"sentence_good": "the fire should burn those <wug#188>", "sentence_bad": "the fire should burn that <wug#188>", "pairID": 188}
+{"sentence_good": "few cameras can capture those <wug#189>", "sentence_bad": "few cameras can capture that <wug#189>", "pairID": 189}
+{"sentence_good": "every teacher must not explain those <wug#190>", "sentence_bad": "every teacher must not explain that <wug#190>", "pairID": 190}
+{"sentence_good": "some engines might drive those <wug#191>", "sentence_bad": "some engines might drive that <wug#191>", "pairID": 191}
+{"sentence_good": "a student will study those <wug#192>", "sentence_bad": "a student will study that <wug#192>", "pairID": 192}
+{"sentence_good": "no light should shine those <wug#193>", "sentence_bad": "no light should shine that <wug#193>", "pairID": 193}
+{"sentence_good": "each actor can perform those <wug#194>", "sentence_bad": "each actor can perform that <wug#194>", "pairID": 194}
+{"sentence_good": "many doctors must treat those <wug#195>", "sentence_bad": "many doctors must treat that <wug#195>", "pairID": 195}
+{"sentence_good": "the wind could move those <wug#196>", "sentence_bad": "the wind could move that <wug#196>", "pairID": 196}
+{"sentence_good": "few pens will write those <wug#197>", "sentence_bad": "few pens will write that <wug#197>", "pairID": 197}
+{"sentence_good": "every farmer should harvest those <wug#198>", "sentence_bad": "every farmer should harvest that <wug#198>", "pairID": 198}
+{"sentence_good": "some stars might light those <wug#199>", "sentence_bad": "some stars might light that <wug#199>", "pairID": 199}
+{"sentence_good": "a tree has dropped this <wug#200>", "sentence_bad": "a tree has dropped these <wug#200>", "pairID": 200}
+{"sentence_good": "many lamps will not illuminate this <wug#201>", "sentence_bad": "many lamps will not illuminate these <wug#201>", "pairID": 201}
+{"sentence_good": "the senator did not endorse this <wug#202>", "sentence_bad": "the senator did not endorse these <wug#202>", "pairID": 202}
+{"sentence_good": "every cloud obscures this <wug#203>", "sentence_bad": "every cloud obscures these <wug#203>", "pairID": 203}
+{"sentence_good": "some bridges connect this <wug#204>", "sentence_bad": "some bridges connect these <wug#204>", "pairID": 204}
+{"sentence_good": "no bottle contains this <wug#205>", "sentence_bad": "no bottle contains these <wug#205>", "pairID": 205}
+{"sentence_good": "each student has solved this <wug#206>", "sentence_bad": "each student has solved these <wug#206>", "pairID": 206}
+{"sentence_good": "few keys unlock this <wug#207>", "sentence_bad": "few keys unlock these <wug#207>", "pairID": 207}
+{"sentence_good": "the artist is painting this <wug#208>", "sentence_bad": "the artist is painting these <wug#208>", "pairID": 208}
+{"sentence_good": "any judge will review this <wug#209>", "sentence_bad": "any judge will review these <wug#209>", "pairID": 209}
+{"sentence_good": "the baker had not baked this <wug#210>", "sentence_bad": "the baker had not baked these <wug#210>", "pairID": 210}
+{"sentence_good": "several pilots will fly this <wug#211>", "sentence_bad": "several pilots will fly these <wug#211>", "pairID": 211}
+{"sentence_good": "one mechanic repairs this <wug#212>", "sentence_bad": "one mechanic repairs these <wug#212>", "pairID": 212}
+{"sentence_good": "the mayor has vetoed this <wug#213>", "sentence_bad": "the mayor has vetoed these <wug#213>", "pairID": 213}
+{"sentence_good": "every mirror reflects this <wug#214>", "sentence_bad": "every mirror reflects these <wug#214>", "pairID": 214}
+{"sentence_good": "no chair supports this <wug#215>", "sentence_bad": "no chair supports these <wug#215>", "pairID": 215}
+{"sentence_good": "some chefs will not cook this <wug#216>", "sentence_bad": "some chefs will not cook these <wug#216>", "pairID": 216}
+{"sentence_good": "each nurse will treat this <wug#217>", "sentence_bad": "each nurse will treat these <wug#217>", "pairID": 217}
+{"sentence_good": "few doors open this <wug#218>", "sentence_bad": "few doors open these <wug#218>", "pairID": 218}
+{"sentence_good": "the farmer grows this <wug#219>", "sentence_bad": "the farmer grows these <wug#219>", "pairID": 219}
+{"sentence_good": "any lawyer will defend this <wug#220>", "sentence_bad": "any lawyer will defend these <wug#220>", "pairID": 220}
+{"sentence_good": "the teacher explains this <wug#221>", "sentence_bad": "the teacher explains these <wug#221>", "pairID": 221}
+{"sentence_good": "several scientists study this <wug#222>", "sentence_bad": "several scientists study these <wug#222>", "pairID": 222}
+{"sentence_good": "one director produces this <wug#223>", "sentence_bad": "one director produces these <wug#223>", "pairID": 223}
+{"sentence_good": "the priest blesses this <wug#224>", "sentence_bad": "the priest blesses these <wug#224>", "pairID": 224}
+{"sentence_good": "every wheel does not turn this <wug#225>", "sentence_bad": "every wheel does not turn these <wug#225>", "pairID": 225}
+{"sentence_good": "no computer processes this <wug#226>", "sentence_bad": "no computer processes these <wug#226>", "pairID": 226}
+{"sentence_good": "some birds will not peck this <wug#227>", "sentence_bad": "some birds will not peck these <wug#227>", "pairID": 227}
+{"sentence_good": "each actor performs this <wug#228>", "sentence_bad": "each actor performs these <wug#228>", "pairID": 228}
+{"sentence_good": "few rivers flood this <wug#229>", "sentence_bad": "few rivers flood these <wug#229>", "pairID": 229}
+{"sentence_good": "the dancer has practiced this <wug#230>", "sentence_bad": "the dancer has practiced these <wug#230>", "pairID": 230}
+{"sentence_good": "any musician will not play this <wug#231>", "sentence_bad": "any musician will not play these <wug#231>", "pairID": 231}
+{"sentence_good": "the plumber fixes this <wug#232>", "sentence_bad": "the plumber fixes these <wug#232>", "pairID": 232}
+{"sentence_good": "several engineers design this <wug#233>", "sentence_bad": "several engineers design these <wug#233>", "pairID": 233}
+{"sentence_good": "one leader rules this <wug#234>", "sentence_bad": "one leader rules these <wug#234>", "pairID": 234}
+{"sentence_good": "the author doesn't write this <wug#235>", "sentence_bad": "the author doesn't write these <wug#235>", "pairID": 235}
+{"sentence_good": "every mountain overshadows this <wug#236>", "sentence_bad": "every mountain overshadows these <wug#236>", "pairID": 236}
+{"sentence_good": "no planet orbits this <wug#237>", "sentence_bad": "no planet orbits these <wug#237>", "pairID": 237}
+{"sentence_good": "some elephants carry this <wug#238>", "sentence_bad": "some elephants carry these <wug#238>", "pairID": 238}
+{"sentence_good": "each tailor sews this <wug#239>", "sentence_bad": "each tailor sews these <wug#239>", "pairID": 239}
+{"sentence_good": "few clocks measure this <wug#240>", "sentence_bad": "few clocks measure these <wug#240>", "pairID": 240}
+{"sentence_good": "the jeweler has crafted this <wug#241>", "sentence_bad": "the jeweler has crafted these <wug#241>", "pairID": 241}
+{"sentence_good": "any psychologist will analyze this <wug#242>", "sentence_bad": "any psychologist will analyze these <wug#242>", "pairID": 242}
+{"sentence_good": "the butcher slices this <wug#243>", "sentence_bad": "the butcher slices these <wug#243>", "pairID": 243}
+{"sentence_good": "several astronomers observe this <wug#244>", "sentence_bad": "several astronomers observe these <wug#244>", "pairID": 244}
+{"sentence_good": "one gardener does not water this <wug#245>", "sentence_bad": "one gardener does not water these <wug#245>", "pairID": 245}
+{"sentence_good": "the coach trains this <wug#246>", "sentence_bad": "the coach trains these <wug#246>", "pairID": 246}
+{"sentence_good": "every island surrounds this <wug#247>", "sentence_bad": "every island surrounds these <wug#247>", "pairID": 247}
+{"sentence_good": "no machine manufactures this <wug#248>", "sentence_bad": "no machine manufactures these <wug#248>", "pairID": 248}
+{"sentence_good": "some owls hunt this <wug#249>", "sentence_bad": "some owls hunt these <wug#249>", "pairID": 249}
+{"sentence_good": "a teacher has not explained that <wug#250>", "sentence_bad": "a teacher has explained those <wug#250>", "pairID": 250}
+{"sentence_good": "many lamps won't light that <wug#251>", "sentence_bad": "many lamps won't light those <wug#251>", "pairID": 251}
+{"sentence_good": "every window should not open that <wug#252>", "sentence_bad": "every window should not open those <wug#252>", "pairID": 252}
+{"sentence_good": "some books can cover that <wug#253>", "sentence_bad": "some books can cover those <wug#253>", "pairID": 253}
+{"sentence_good": "no bottle will hold that <wug#254>", "sentence_bad": "no bottle will hold those <wug#254>", "pairID": 254}
+{"sentence_good": "each chair might support that <wug#255>", "sentence_bad": "each chair might support those <wug#255>", "pairID": 255}
+{"sentence_good": "few keys must unlock that <wug#256>", "sentence_bad": "few keys must unlock those <wug#256>", "pairID": 256}
+{"sentence_good": "any pen may write that <wug#257>", "sentence_bad": "any pen may write those <wug#257>", "pairID": 257}
+{"sentence_good": "the box should contain that <wug#258>", "sentence_bad": "the box should contain those <wug#258>", "pairID": 258}
+{"sentence_good": "all forks could pick that <wug#259>", "sentence_bad": "all forks could pick those <wug#259>", "pairID": 259}
+{"sentence_good": "no spoon will not stir that <wug#260>", "sentence_bad": "no spoon will not stir those <wug#260>", "pairID": 260}
+{"sentence_good": "every pillow might cushion that <wug#261>", "sentence_bad": "every pillow might cushion those <wug#261>", "pairID": 261}
+{"sentence_good": "some shoes cannot fit that <wug#262>", "sentence_bad": "some shoes cannot fit those <wug#262>", "pairID": 262}
+{"sentence_good": "each hat must protect that <wug#263>", "sentence_bad": "each hat must protect those <wug#263>", "pairID": 263}
+{"sentence_good": "many gloves should handle that <wug#264>", "sentence_bad": "many gloves should handle those <wug#264>", "pairID": 264}
+{"sentence_good": "a wallet will carry that <wug#265>", "sentence_bad": "a wallet will carry those <wug#265>", "pairID": 265}
+{"sentence_good": "few belts can fasten that <wug#266>", "sentence_bad": "few belts can fasten those <wug#266>", "pairID": 266}
+{"sentence_good": "any shirt may cover that <wug#267>", "sentence_bad": "any shirt may cover those <wug#267>", "pairID": 267}
+{"sentence_good": "the tie should tighten that <wug#268>", "sentence_bad": "the tie should tighten those <wug#268>", "pairID": 268}
+{"sentence_good": "all pants could zip that <wug#269>", "sentence_bad": "all pants could zip those <wug#269>", "pairID": 269}
+{"sentence_good": "no coat will button that <wug#270>", "sentence_bad": "no coat will button those <wug#270>", "pairID": 270}
+{"sentence_good": "every skirt might wrap that <wug#271>", "sentence_bad": "every skirt might wrap those <wug#271>", "pairID": 271}
+{"sentence_good": "some socks cannot absorb that <wug#272>", "sentence_bad": "some socks cannot absorb those <wug#272>", "pairID": 272}
+{"sentence_good": "each scarf must warm that <wug#273>", "sentence_bad": "each scarf must warm those <wug#273>", "pairID": 273}
+{"sentence_good": "many hats should shade that <wug#274>", "sentence_bad": "many hats should shade those <wug#274>", "pairID": 274}
+{"sentence_good": "a clock will time that <wug#275>", "sentence_bad": "a clock will time those <wug#275>", "pairID": 275}
+{"sentence_good": "few watches can track that <wug#276>", "sentence_bad": "few watches can track those <wug#276>", "pairID": 276}
+{"sentence_good": "any camera may capture that <wug#277>", "sentence_bad": "any camera may capture those <wug#277>", "pairID": 277}
+{"sentence_good": "the phone should call that <wug#278>", "sentence_bad": "the phone should call those <wug#278>", "pairID": 278}
+{"sentence_good": "all radios could broadcast that <wug#279>", "sentence_bad": "all radios could broadcast those <wug#279>", "pairID": 279}
+{"sentence_good": "no television will not show that <wug#280>", "sentence_bad": "no television will not show those <wug#280>", "pairID": 280}
+{"sentence_good": "every computer might process that <wug#281>", "sentence_bad": "every computer might process those <wug#281>", "pairID": 281}
+{"sentence_good": "some tablets cannot display that <wug#282>", "sentence_bad": "some tablets cannot display those <wug#282>", "pairID": 282}
+{"sentence_good": "each monitor must reveal that <wug#283>", "sentence_bad": "each monitor must reveal those <wug#283>", "pairID": 283}
+{"sentence_good": "many keyboards should type that <wug#284>", "sentence_bad": "many keyboards should type those <wug#284>", "pairID": 284}
+{"sentence_good": "a mouse will click that <wug#285>", "sentence_bad": "a mouse will click those <wug#285>", "pairID": 285}
+{"sentence_good": "few speakers can amplify that <wug#286>", "sentence_bad": "few speakers can amplify those <wug#286>", "pairID": 286}
+{"sentence_good": "any microphone may record that <wug#287>", "sentence_bad": "any microphone may record those <wug#287>", "pairID": 287}
+{"sentence_good": "the projector should project that <wug#288>", "sentence_bad": "the projector should project those <wug#288>", "pairID": 288}
+{"sentence_good": "all chargers could power that <wug#289>", "sentence_bad": "all chargers could power those <wug#289>", "pairID": 289}
+{"sentence_good": "no battery will energize that <wug#290>", "sentence_bad": "no battery will energize those <wug#290>", "pairID": 290}
+{"sentence_good": "every lamp might not illuminate that <wug#291>", "sentence_bad": "every lamp might not illuminate those <wug#291>", "pairID": 291}
+{"sentence_good": "some bulbs cannot light that <wug#292>", "sentence_bad": "some bulbs cannot light those <wug#292>", "pairID": 292}
+{"sentence_good": "each switch must activate that <wug#293>", "sentence_bad": "each switch must activate those <wug#293>", "pairID": 293}
+{"sentence_good": "many outlets should supply that <wug#294>", "sentence_bad": "many outlets should supply those <wug#294>", "pairID": 294}
+{"sentence_good": "a generator will generate that <wug#295>", "sentence_bad": "a generator will generate those <wug#295>", "pairID": 295}
+{"sentence_good": "few engines can power that <wug#296>", "sentence_bad": "few engines can power those <wug#296>", "pairID": 296}
+{"sentence_good": "any turbine may turn that <wug#297>", "sentence_bad": "any turbine may turn those <wug#297>", "pairID": 297}
+{"sentence_good": "the motor should drive that <wug#298>", "sentence_bad": "the motor should drive those <wug#298>", "pairID": 298}
+{"sentence_good": "all gears could rotate that <wug#299>", "sentence_bad": "all gears could rotate those <wug#299>", "pairID": 299}
+{"sentence_good": "a tree has shaded these <wug#300>", "sentence_bad": "a tree has shaded this <wug#300>", "pairID": 300}
+{"sentence_good": "many books can't cover these <wug#301>", "sentence_bad": "many books can't cover this <wug#301>", "pairID": 301}
+{"sentence_good": "the lamp will light these <wug#302>", "sentence_bad": "the lamp will light this <wug#302>", "pairID": 302}
+{"sentence_good": "some water has flooded these <wug#303>", "sentence_bad": "some water has flooded this <wug#303>", "pairID": 303}
+{"sentence_good": "every student should study these <wug#304>", "sentence_bad": "every student should study this <wug#304>", "pairID": 304}
+{"sentence_good": "no bird could see these <wug#305>", "sentence_bad": "no bird could see this <wug#305>", "pairID": 305}
+{"sentence_good": "each key must open these <wug#306>", "sentence_bad": "each key must open this <wug#306>", "pairID": 306}
+{"sentence_good": "the chair will support these <wug#307>", "sentence_bad": "the chair will support this <wug#307>", "pairID": 307}
+{"sentence_good": "any teacher hasn't taught these <wug#308>", "sentence_bad": "any teacher hasn't taught this <wug#308>", "pairID": 308}
+{"sentence_good": "the window can't reflect these <wug#309>", "sentence_bad": "the window can't reflect this <wug#309>", "pairID": 309}
+{"sentence_good": "a cloud will obscure these <wug#310>", "sentence_bad": "a cloud will obscure this <wug#310>", "pairID": 310}
+{"sentence_good": "few pens have written these <wug#311>", "sentence_bad": "few pens have written this <wug#311>", "pairID": 311}
+{"sentence_good": "the shoe will fit these <wug#312>", "sentence_bad": "the shoe will fit this <wug#312>", "pairID": 312}
+{"sentence_good": "no machine should operate these <wug#313>", "sentence_bad": "no machine should operate this <wug#313>", "pairID": 313}
+{"sentence_good": "each cup must contain these <wug#314>", "sentence_bad": "each cup must contain this <wug#314>", "pairID": 314}
+{"sentence_good": "the flower can't pollinate these <wug#315>", "sentence_bad": "the flower can't pollinate this <wug#315>", "pairID": 315}
+{"sentence_good": "a clock will time these <wug#316>", "sentence_bad": "a clock will time this <wug#316>", "pairID": 316}
+{"sentence_good": "many hands haven't touched these <wug#317>", "sentence_bad": "many hands haven't touched this <wug#317>", "pairID": 317}
+{"sentence_good": "the map will guide these <wug#318>", "sentence_bad": "the map will guide this <wug#318>", "pairID": 318}
+{"sentence_good": "no fork could stab these <wug#319>", "sentence_bad": "no fork could stab this <wug#319>", "pairID": 319}
+{"sentence_good": "each game must entertain these <wug#320>", "sentence_bad": "each game must entertain this <wug#320>", "pairID": 320}
+{"sentence_good": "the wall will block these <wug#321>", "sentence_bad": "the wall will block this <wug#321>", "pairID": 321}
+{"sentence_good": "any fish hasn't eaten these <wug#322>", "sentence_bad": "any fish hasn't eaten this <wug#322>", "pairID": 322}
+{"sentence_good": "the oven can't bake these <wug#323>", "sentence_bad": "the oven can't bake this <wug#323>", "pairID": 323}
+{"sentence_good": "a song will soothe these <wug#324>", "sentence_bad": "a song will soothe this <wug#324>", "pairID": 324}
+{"sentence_good": "few brushes have painted these <wug#325>", "sentence_bad": "few brushes have painted this <wug#325>", "pairID": 325}
+{"sentence_good": "the pillow will cushion these <wug#326>", "sentence_bad": "the pillow will cushion this <wug#326>", "pairID": 326}
+{"sentence_good": "no hammer should strike these <wug#327>", "sentence_bad": "no hammer should strike this <wug#327>", "pairID": 327}
+{"sentence_good": "each belt must hold these <wug#328>", "sentence_bad": "each belt must hold this <wug#328>", "pairID": 328}
+{"sentence_good": "the gate can't secure these <wug#329>", "sentence_bad": "the gate can't secure this <wug#329>", "pairID": 329}
+{"sentence_good": "a fan will cool these <wug#330>", "sentence_bad": "a fan will cool this <wug#330>", "pairID": 330}
+{"sentence_good": "many voices haven't called these <wug#331>", "sentence_bad": "many voices haven't called this <wug#331>", "pairID": 331}
+{"sentence_good": "the needle will pierce these <wug#332>", "sentence_bad": "the needle will pierce this <wug#332>", "pairID": 332}
+{"sentence_good": "no spoon could scoop these <wug#333>", "sentence_bad": "no spoon could scoop this <wug#333>", "pairID": 333}
+{"sentence_good": "each plate must serve these <wug#334>", "sentence_bad": "each plate must serve this <wug#334>", "pairID": 334}
+{"sentence_good": "the tower will overlook these <wug#335>", "sentence_bad": "the tower will overlook this <wug#335>", "pairID": 335}
+{"sentence_good": "any cat hasn't chased these <wug#336>", "sentence_bad": "any cat hasn't chased this <wug#336>", "pairID": 336}
+{"sentence_good": "the camera can't capture these <wug#337>", "sentence_bad": "the camera can't capture this <wug#337>", "pairID": 337}
+{"sentence_good": "a poem will describe these <wug#338>", "sentence_bad": "a poem will describe this <wug#338>", "pairID": 338}
+{"sentence_good": "few gloves have held these <wug#339>", "sentence_bad": "few gloves have held this <wug#339>", "pairID": 339}
+{"sentence_good": "the helmet will protect these <wug#340>", "sentence_bad": "the helmet will protect this <wug#340>", "pairID": 340}
+{"sentence_good": "no brush should paint these <wug#341>", "sentence_bad": "no brush should paint this <wug#341>", "pairID": 341}
+{"sentence_good": "each flag must wave these <wug#342>", "sentence_bad": "each flag must wave this <wug#342>", "pairID": 342}
+{"sentence_good": "the boat can't float these <wug#343>", "sentence_bad": "the boat can't float this <wug#343>", "pairID": 343}
+{"sentence_good": "a melody will play these <wug#344>", "sentence_bad": "a melody will play this <wug#344>", "pairID": 344}
+{"sentence_good": "many feet haven't kicked these <wug#345>", "sentence_bad": "many feet haven't kicked this <wug#345>", "pairID": 345}
+{"sentence_good": "the scissors will cut these <wug#346>", "sentence_bad": "the scissors will cut this <wug#346>", "pairID": 346}
+{"sentence_good": "no knife could slice these <wug#347>", "sentence_bad": "no knife could slice this <wug#347>", "pairID": 347}
+{"sentence_good": "each story must tell these <wug#348>", "sentence_bad": "each story must tell this <wug#348>", "pairID": 348}
+{"sentence_good": "the mirror will reflect these <wug#349>", "sentence_bad": "the mirror will reflect this <wug#349>", "pairID": 349}
+{"sentence_good": "a teacher has not corrected those <wug#350>", "sentence_bad": "a teacher has not corrected that <wug#350>", "pairID": 350}
+{"sentence_good": "many birds will eat those <wug#351>", "sentence_bad": "many birds will eat that <wug#351>", "pairID": 351}
+{"sentence_good": "every window can reflect those <wug#352>", "sentence_bad": "every window can reflect that <wug#352>", "pairID": 352}
+{"sentence_good": "some shoes might cover those <wug#353>", "sentence_bad": "some shoes might cover that <wug#353>", "pairID": 353}
+{"sentence_good": "the lamp should illuminate those <wug#354>", "sentence_bad": "the lamp should illuminate that <wug#354>", "pairID": 354}
+{"sentence_good": "few books have mentioned those <wug#355>", "sentence_bad": "few books have mentioned that <wug#355>", "pairID": 355}
+{"sentence_good": "each fork will pick those <wug#356>", "sentence_bad": "each fork will pick that <wug#356>", "pairID": 356}
+{"sentence_good": "no river can cross those <wug#357>", "sentence_bad": "no river can cross that <wug#357>", "pairID": 357}
+{"sentence_good": "every mountain must overshadow those <wug#358>", "sentence_bad": "every mountain must overshadow that <wug#358>", "pairID": 358}
+{"sentence_good": "some clouds may obscure those <wug#359>", "sentence_bad": "some clouds may obscure that <wug#359>", "pairID": 359}
+{"sentence_good": "a bottle will not contain those <wug#360>", "sentence_bad": "a bottle will not contain that <wug#360>", "pairID": 360}
+{"sentence_good": "no chair should support those <wug#361>", "sentence_bad": "no chair should support that <wug#361>", "pairID": 361}
+{"sentence_good": "each key can open those <wug#362>", "sentence_bad": "each key can open that <wug#362>", "pairID": 362}
+{"sentence_good": "many hands must wash those <wug#363>", "sentence_bad": "many hands must wash that <wug#363>", "pairID": 363}
+{"sentence_good": "the box could store those <wug#364>", "sentence_bad": "the box could store that <wug#364>", "pairID": 364}
+{"sentence_good": "few walls will separate those <wug#365>", "sentence_bad": "few walls will separate that <wug#365>", "pairID": 365}
+{"sentence_good": "every artist should paint those <wug#366>", "sentence_bad": "every artist should paint that <wug#366>", "pairID": 366}
+{"sentence_good": "some trees might shade those <wug#367>", "sentence_bad": "some trees might shade that <wug#367>", "pairID": 367}
+{"sentence_good": "a clock will measure those <wug#368>", "sentence_bad": "a clock will measure that <wug#368>", "pairID": 368}
+{"sentence_good": "no pillow can cushion those <wug#369>", "sentence_bad": "no pillow can cushion that <wug#369>", "pairID": 369}
+{"sentence_good": "each computer has not processed those <wug#370>", "sentence_bad": "each computer has not processed that <wug#370>", "pairID": 370}
+{"sentence_good": "many spoons will stir those <wug#371>", "sentence_bad": "many spoons will stir that <wug#371>", "pairID": 371}
+{"sentence_good": "the sun should warm those <wug#372>", "sentence_bad": "the sun should warm that <wug#372>", "pairID": 372}
+{"sentence_good": "few engines can power those <wug#373>", "sentence_bad": "few engines can power that <wug#373>", "pairID": 373}
+{"sentence_good": "every singer must perform those <wug#374>", "sentence_bad": "every singer must perform that <wug#374>", "pairID": 374}
+{"sentence_good": "some mirrors might reflect those <wug#375>", "sentence_bad": "some mirrors might reflect that <wug#375>", "pairID": 375}
+{"sentence_good": "a teacher will grade those <wug#376>", "sentence_bad": "a teacher will grade that <wug#376>", "pairID": 376}
+{"sentence_good": "no oven should bake those <wug#377>", "sentence_bad": "no oven should bake that <wug#377>", "pairID": 377}
+{"sentence_good": "each hammer can break those <wug#378>", "sentence_bad": "each hammer can break that <wug#378>", "pairID": 378}
+{"sentence_good": "many fans must cool those <wug#379>", "sentence_bad": "many fans must cool that <wug#379>", "pairID": 379}
+{"sentence_good": "the garden could not grow those <wug#380>", "sentence_bad": "the garden could not grow that <wug#380>", "pairID": 380}
+{"sentence_good": "few brushes will paint those <wug#381>", "sentence_bad": "few brushes will paint that <wug#381>", "pairID": 381}
+{"sentence_good": "every chef should cook those <wug#382>", "sentence_bad": "every chef should cook that <wug#382>", "pairID": 382}
+{"sentence_good": "some wheels might turn those <wug#383>", "sentence_bad": "some wheels might turn that <wug#383>", "pairID": 383}
+{"sentence_good": "a player will pass those <wug#384>", "sentence_bad": "a player will pass that <wug#384>", "pairID": 384}
+{"sentence_good": "no knife can cut those <wug#385>", "sentence_bad": "no knife can cut that <wug#385>", "pairID": 385}
+{"sentence_good": "each scientist has studied those <wug#386>", "sentence_bad": "each scientist has studied that <wug#386>", "pairID": 386}
+{"sentence_good": "many leaves will cover those <wug#387>", "sentence_bad": "many leaves will cover that <wug#387>", "pairID": 387}
+{"sentence_good": "the fire should burn those <wug#388>", "sentence_bad": "the fire should burn that <wug#388>", "pairID": 388}
+{"sentence_good": "few cameras can capture those <wug#389>", "sentence_bad": "few cameras can capture that <wug#389>", "pairID": 389}
+{"sentence_good": "every teacher must not explain those <wug#390>", "sentence_bad": "every teacher must not explain that <wug#390>", "pairID": 390}
+{"sentence_good": "some engines might drive those <wug#391>", "sentence_bad": "some engines might drive that <wug#391>", "pairID": 391}
+{"sentence_good": "a student will study those <wug#392>", "sentence_bad": "a student will study that <wug#392>", "pairID": 392}
+{"sentence_good": "no light should shine those <wug#393>", "sentence_bad": "no light should shine that <wug#393>", "pairID": 393}
+{"sentence_good": "each actor can perform those <wug#394>", "sentence_bad": "each actor can perform that <wug#394>", "pairID": 394}
+{"sentence_good": "many doctors must treat those <wug#395>", "sentence_bad": "many doctors must treat that <wug#395>", "pairID": 395}
+{"sentence_good": "the wind could move those <wug#396>", "sentence_bad": "the wind could move that <wug#396>", "pairID": 396}
+{"sentence_good": "few pens will write those <wug#397>", "sentence_bad": "few pens will write that <wug#397>", "pairID": 397}
+{"sentence_good": "every farmer should harvest those <wug#398>", "sentence_bad": "every farmer should harvest that <wug#398>", "pairID": 398}
+{"sentence_good": "some stars might light those <wug#399>", "sentence_bad": "some stars might light that <wug#399>", "pairID": 399}
+{"sentence_good": "a tree has dropped this <wug#400>", "sentence_bad": "a tree has dropped these <wug#400>", "pairID": 400}
+{"sentence_good": "many lamps will not illuminate this <wug#401>", "sentence_bad": "many lamps will not illuminate these <wug#401>", "pairID": 401}
+{"sentence_good": "the senator did not endorse this <wug#402>", "sentence_bad": "the senator did not endorse these <wug#402>", "pairID": 402}
+{"sentence_good": "every cloud obscures this <wug#403>", "sentence_bad": "every cloud obscures these <wug#403>", "pairID": 403}
+{"sentence_good": "some bridges connect this <wug#404>", "sentence_bad": "some bridges connect these <wug#404>", "pairID": 404}
+{"sentence_good": "no bottle contains this <wug#405>", "sentence_bad": "no bottle contains these <wug#405>", "pairID": 405}
+{"sentence_good": "each student has solved this <wug#406>", "sentence_bad": "each student has solved these <wug#406>", "pairID": 406}
+{"sentence_good": "few keys unlock this <wug#407>", "sentence_bad": "few keys unlock these <wug#407>", "pairID": 407}
+{"sentence_good": "the artist is painting this <wug#408>", "sentence_bad": "the artist is painting these <wug#408>", "pairID": 408}
+{"sentence_good": "any judge will review this <wug#409>", "sentence_bad": "any judge will review these <wug#409>", "pairID": 409}
+{"sentence_good": "the baker had not baked this <wug#410>", "sentence_bad": "the baker had not baked these <wug#410>", "pairID": 410}
+{"sentence_good": "several pilots will fly this <wug#411>", "sentence_bad": "several pilots will fly these <wug#411>", "pairID": 411}
+{"sentence_good": "one mechanic repairs this <wug#412>", "sentence_bad": "one mechanic repairs these <wug#412>", "pairID": 412}
+{"sentence_good": "the mayor has vetoed this <wug#413>", "sentence_bad": "the mayor has vetoed these <wug#413>", "pairID": 413}
+{"sentence_good": "every mirror reflects this <wug#414>", "sentence_bad": "every mirror reflects these <wug#414>", "pairID": 414}
+{"sentence_good": "no chair supports this <wug#415>", "sentence_bad": "no chair supports these <wug#415>", "pairID": 415}
+{"sentence_good": "some chefs will not cook this <wug#416>", "sentence_bad": "some chefs will not cook these <wug#416>", "pairID": 416}
+{"sentence_good": "each nurse will treat this <wug#417>", "sentence_bad": "each nurse will treat these <wug#417>", "pairID": 417}
+{"sentence_good": "few doors open this <wug#418>", "sentence_bad": "few doors open these <wug#418>", "pairID": 418}
+{"sentence_good": "the farmer grows this <wug#419>", "sentence_bad": "the farmer grows these <wug#419>", "pairID": 419}
+{"sentence_good": "any lawyer will defend this <wug#420>", "sentence_bad": "any lawyer will defend these <wug#420>", "pairID": 420}
+{"sentence_good": "the teacher explains this <wug#421>", "sentence_bad": "the teacher explains these <wug#421>", "pairID": 421}
+{"sentence_good": "several scientists study this <wug#422>", "sentence_bad": "several scientists study these <wug#422>", "pairID": 422}
+{"sentence_good": "one director produces this <wug#423>", "sentence_bad": "one director produces these <wug#423>", "pairID": 423}
+{"sentence_good": "the priest blesses this <wug#424>", "sentence_bad": "the priest blesses these <wug#424>", "pairID": 424}
+{"sentence_good": "every wheel does not turn this <wug#425>", "sentence_bad": "every wheel does not turn these <wug#425>", "pairID": 425}
+{"sentence_good": "no computer processes this <wug#426>", "sentence_bad": "no computer processes these <wug#426>", "pairID": 426}
+{"sentence_good": "some birds will not peck this <wug#427>", "sentence_bad": "some birds will not peck these <wug#427>", "pairID": 427}
+{"sentence_good": "each actor performs this <wug#428>", "sentence_bad": "each actor performs these <wug#428>", "pairID": 428}
+{"sentence_good": "few rivers flood this <wug#429>", "sentence_bad": "few rivers flood these <wug#429>", "pairID": 429}
+{"sentence_good": "the dancer has practiced this <wug#430>", "sentence_bad": "the dancer has practiced these <wug#430>", "pairID": 430}
+{"sentence_good": "any musician will not play this <wug#431>", "sentence_bad": "any musician will not play these <wug#431>", "pairID": 431}
+{"sentence_good": "the plumber fixes this <wug#432>", "sentence_bad": "the plumber fixes these <wug#432>", "pairID": 432}
+{"sentence_good": "several engineers design this <wug#433>", "sentence_bad": "several engineers design these <wug#433>", "pairID": 433}
+{"sentence_good": "one leader rules this <wug#434>", "sentence_bad": "one leader rules these <wug#434>", "pairID": 434}
+{"sentence_good": "the author doesn't write this <wug#435>", "sentence_bad": "the author doesn't write these <wug#435>", "pairID": 435}
+{"sentence_good": "every mountain overshadows this <wug#436>", "sentence_bad": "every mountain overshadows these <wug#436>", "pairID": 436}
+{"sentence_good": "no planet orbits this <wug#437>", "sentence_bad": "no planet orbits these <wug#437>", "pairID": 437}
+{"sentence_good": "some elephants carry this <wug#438>", "sentence_bad": "some elephants carry these <wug#438>", "pairID": 438}
+{"sentence_good": "each tailor sews this <wug#439>", "sentence_bad": "each tailor sews these <wug#439>", "pairID": 439}
+{"sentence_good": "few clocks measure this <wug#440>", "sentence_bad": "few clocks measure these <wug#440>", "pairID": 440}
+{"sentence_good": "the jeweler has crafted this <wug#441>", "sentence_bad": "the jeweler has crafted these <wug#441>", "pairID": 441}
+{"sentence_good": "any psychologist will analyze this <wug#442>", "sentence_bad": "any psychologist will analyze these <wug#442>", "pairID": 442}
+{"sentence_good": "the butcher slices this <wug#443>", "sentence_bad": "the butcher slices these <wug#443>", "pairID": 443}
+{"sentence_good": "several astronomers observe this <wug#444>", "sentence_bad": "several astronomers observe these <wug#444>", "pairID": 444}
+{"sentence_good": "one gardener does not water this <wug#445>", "sentence_bad": "one gardener does not water these <wug#445>", "pairID": 445}
+{"sentence_good": "the coach trains this <wug#446>", "sentence_bad": "the coach trains these <wug#446>", "pairID": 446}
+{"sentence_good": "every island surrounds this <wug#447>", "sentence_bad": "every island surrounds these <wug#447>", "pairID": 447}
+{"sentence_good": "no machine manufactures this <wug#448>", "sentence_bad": "no machine manufactures these <wug#448>", "pairID": 448}
+{"sentence_good": "some owls hunt this <wug#449>", "sentence_bad": "some owls hunt these <wug#449>", "pairID": 449}
+{"sentence_good": "a teacher has not explained that <wug#450>", "sentence_bad": "a teacher has explained those <wug#450>", "pairID": 450}
+{"sentence_good": "many lamps won't light that <wug#451>", "sentence_bad": "many lamps won't light those <wug#451>", "pairID": 451}
+{"sentence_good": "every window should not open that <wug#452>", "sentence_bad": "every window should not open those <wug#452>", "pairID": 452}
+{"sentence_good": "some books can cover that <wug#453>", "sentence_bad": "some books can cover those <wug#453>", "pairID": 453}
+{"sentence_good": "no bottle will hold that <wug#454>", "sentence_bad": "no bottle will hold those <wug#454>", "pairID": 454}
+{"sentence_good": "each chair might support that <wug#455>", "sentence_bad": "each chair might support those <wug#455>", "pairID": 455}
+{"sentence_good": "few keys must unlock that <wug#456>", "sentence_bad": "few keys must unlock those <wug#456>", "pairID": 456}
+{"sentence_good": "any pen may write that <wug#457>", "sentence_bad": "any pen may write those <wug#457>", "pairID": 457}
+{"sentence_good": "the box should contain that <wug#458>", "sentence_bad": "the box should contain those <wug#458>", "pairID": 458}
+{"sentence_good": "all forks could pick that <wug#459>", "sentence_bad": "all forks could pick those <wug#459>", "pairID": 459}
+{"sentence_good": "no spoon will not stir that <wug#460>", "sentence_bad": "no spoon will not stir those <wug#460>", "pairID": 460}
+{"sentence_good": "every pillow might cushion that <wug#461>", "sentence_bad": "every pillow might cushion those <wug#461>", "pairID": 461}
+{"sentence_good": "some shoes cannot fit that <wug#462>", "sentence_bad": "some shoes cannot fit those <wug#462>", "pairID": 462}
+{"sentence_good": "each hat must protect that <wug#463>", "sentence_bad": "each hat must protect those <wug#463>", "pairID": 463}
+{"sentence_good": "many gloves should handle that <wug#464>", "sentence_bad": "many gloves should handle those <wug#464>", "pairID": 464}
+{"sentence_good": "a wallet will carry that <wug#465>", "sentence_bad": "a wallet will carry those <wug#465>", "pairID": 465}
+{"sentence_good": "few belts can fasten that <wug#466>", "sentence_bad": "few belts can fasten those <wug#466>", "pairID": 466}
+{"sentence_good": "any shirt may cover that <wug#467>", "sentence_bad": "any shirt may cover those <wug#467>", "pairID": 467}
+{"sentence_good": "the tie should tighten that <wug#468>", "sentence_bad": "the tie should tighten those <wug#468>", "pairID": 468}
+{"sentence_good": "all pants could zip that <wug#469>", "sentence_bad": "all pants could zip those <wug#469>", "pairID": 469}
+{"sentence_good": "no coat will button that <wug#470>", "sentence_bad": "no coat will button those <wug#470>", "pairID": 470}
+{"sentence_good": "every skirt might wrap that <wug#471>", "sentence_bad": "every skirt might wrap those <wug#471>", "pairID": 471}
+{"sentence_good": "some socks cannot absorb that <wug#472>", "sentence_bad": "some socks cannot absorb those <wug#472>", "pairID": 472}
+{"sentence_good": "each scarf must warm that <wug#473>", "sentence_bad": "each scarf must warm those <wug#473>", "pairID": 473}
+{"sentence_good": "many hats should shade that <wug#474>", "sentence_bad": "many hats should shade those <wug#474>", "pairID": 474}
+{"sentence_good": "a clock will time that <wug#475>", "sentence_bad": "a clock will time those <wug#475>", "pairID": 475}
+{"sentence_good": "few watches can track that <wug#476>", "sentence_bad": "few watches can track those <wug#476>", "pairID": 476}
+{"sentence_good": "any camera may capture that <wug#477>", "sentence_bad": "any camera may capture those <wug#477>", "pairID": 477}
+{"sentence_good": "the phone should call that <wug#478>", "sentence_bad": "the phone should call those <wug#478>", "pairID": 478}
+{"sentence_good": "all radios could broadcast that <wug#479>", "sentence_bad": "all radios could broadcast those <wug#479>", "pairID": 479}
+{"sentence_good": "no television will not show that <wug#480>", "sentence_bad": "no television will not show those <wug#480>", "pairID": 480}
+{"sentence_good": "every computer might process that <wug#481>", "sentence_bad": "every computer might process those <wug#481>", "pairID": 481}
+{"sentence_good": "some tablets cannot display that <wug#482>", "sentence_bad": "some tablets cannot display those <wug#482>", "pairID": 482}
+{"sentence_good": "each monitor must reveal that <wug#483>", "sentence_bad": "each monitor must reveal those <wug#483>", "pairID": 483}
+{"sentence_good": "many keyboards should type that <wug#484>", "sentence_bad": "many keyboards should type those <wug#484>", "pairID": 484}
+{"sentence_good": "a mouse will click that <wug#485>", "sentence_bad": "a mouse will click those <wug#485>", "pairID": 485}
+{"sentence_good": "few speakers can amplify that <wug#486>", "sentence_bad": "few speakers can amplify those <wug#486>", "pairID": 486}
+{"sentence_good": "any microphone may record that <wug#487>", "sentence_bad": "any microphone may record those <wug#487>", "pairID": 487}
+{"sentence_good": "the projector should project that <wug#488>", "sentence_bad": "the projector should project those <wug#488>", "pairID": 488}
+{"sentence_good": "all chargers could power that <wug#489>", "sentence_bad": "all chargers could power those <wug#489>", "pairID": 489}
+{"sentence_good": "no battery will energize that <wug#490>", "sentence_bad": "no battery will energize those <wug#490>", "pairID": 490}
+{"sentence_good": "every lamp might not illuminate that <wug#491>", "sentence_bad": "every lamp might not illuminate those <wug#491>", "pairID": 491}
+{"sentence_good": "some bulbs cannot light that <wug#492>", "sentence_bad": "some bulbs cannot light those <wug#492>", "pairID": 492}
+{"sentence_good": "each switch must activate that <wug#493>", "sentence_bad": "each switch must activate those <wug#493>", "pairID": 493}
+{"sentence_good": "many outlets should supply that <wug#494>", "sentence_bad": "many outlets should supply those <wug#494>", "pairID": 494}
+{"sentence_good": "a generator will generate that <wug#495>", "sentence_bad": "a generator will generate those <wug#495>", "pairID": 495}
+{"sentence_good": "few engines can power that <wug#496>", "sentence_bad": "few engines can power those <wug#496>", "pairID": 496}
+{"sentence_good": "any turbine may turn that <wug#497>", "sentence_bad": "any turbine may turn those <wug#497>", "pairID": 497}
+{"sentence_good": "the motor should drive that <wug#498>", "sentence_bad": "the motor should drive those <wug#498>", "pairID": 498}
+{"sentence_good": "all gears could rotate that <wug#499>", "sentence_bad": "all gears could rotate those <wug#499>", "pairID": 499}
+{"sentence_good": "a tree has shaded these <wug#500>", "sentence_bad": "a tree has shaded this <wug#500>", "pairID": 500}
+{"sentence_good": "many books can't cover these <wug#501>", "sentence_bad": "many books can't cover this <wug#501>", "pairID": 501}
+{"sentence_good": "the lamp will light these <wug#502>", "sentence_bad": "the lamp will light this <wug#502>", "pairID": 502}
+{"sentence_good": "some water has flooded these <wug#503>", "sentence_bad": "some water has flooded this <wug#503>", "pairID": 503}
+{"sentence_good": "every student should study these <wug#504>", "sentence_bad": "every student should study this <wug#504>", "pairID": 504}
+{"sentence_good": "no bird could see these <wug#505>", "sentence_bad": "no bird could see this <wug#505>", "pairID": 505}
+{"sentence_good": "each key must open these <wug#506>", "sentence_bad": "each key must open this <wug#506>", "pairID": 506}
+{"sentence_good": "the chair will support these <wug#507>", "sentence_bad": "the chair will support this <wug#507>", "pairID": 507}
+{"sentence_good": "any teacher hasn't taught these <wug#508>", "sentence_bad": "any teacher hasn't taught this <wug#508>", "pairID": 508}
+{"sentence_good": "the window can't reflect these <wug#509>", "sentence_bad": "the window can't reflect this <wug#509>", "pairID": 509}
+{"sentence_good": "a cloud will obscure these <wug#510>", "sentence_bad": "a cloud will obscure this <wug#510>", "pairID": 510}
+{"sentence_good": "few pens have written these <wug#511>", "sentence_bad": "few pens have written this <wug#511>", "pairID": 511}
+{"sentence_good": "the shoe will fit these <wug#512>", "sentence_bad": "the shoe will fit this <wug#512>", "pairID": 512}
+{"sentence_good": "no machine should operate these <wug#513>", "sentence_bad": "no machine should operate this <wug#513>", "pairID": 513}
+{"sentence_good": "each cup must contain these <wug#514>", "sentence_bad": "each cup must contain this <wug#514>", "pairID": 514}
+{"sentence_good": "the flower can't pollinate these <wug#515>", "sentence_bad": "the flower can't pollinate this <wug#515>", "pairID": 515}
+{"sentence_good": "a clock will time these <wug#516>", "sentence_bad": "a clock will time this <wug#516>", "pairID": 516}
+{"sentence_good": "many hands haven't touched these <wug#517>", "sentence_bad": "many hands haven't touched this <wug#517>", "pairID": 517}
+{"sentence_good": "the map will guide these <wug#518>", "sentence_bad": "the map will guide this <wug#518>", "pairID": 518}
+{"sentence_good": "no fork could stab these <wug#519>", "sentence_bad": "no fork could stab this <wug#519>", "pairID": 519}
+{"sentence_good": "each game must entertain these <wug#520>", "sentence_bad": "each game must entertain this <wug#520>", "pairID": 520}
+{"sentence_good": "the wall will block these <wug#521>", "sentence_bad": "the wall will block this <wug#521>", "pairID": 521}
+{"sentence_good": "any fish hasn't eaten these <wug#522>", "sentence_bad": "any fish hasn't eaten this <wug#522>", "pairID": 522}
+{"sentence_good": "the oven can't bake these <wug#523>", "sentence_bad": "the oven can't bake this <wug#523>", "pairID": 523}
+{"sentence_good": "a song will soothe these <wug#524>", "sentence_bad": "a song will soothe this <wug#524>", "pairID": 524}
+{"sentence_good": "few brushes have painted these <wug#525>", "sentence_bad": "few brushes have painted this <wug#525>", "pairID": 525}
+{"sentence_good": "the pillow will cushion these <wug#526>", "sentence_bad": "the pillow will cushion this <wug#526>", "pairID": 526}
+{"sentence_good": "no hammer should strike these <wug#527>", "sentence_bad": "no hammer should strike this <wug#527>", "pairID": 527}
+{"sentence_good": "each belt must hold these <wug#528>", "sentence_bad": "each belt must hold this <wug#528>", "pairID": 528}
+{"sentence_good": "the gate can't secure these <wug#529>", "sentence_bad": "the gate can't secure this <wug#529>", "pairID": 529}
+{"sentence_good": "a fan will cool these <wug#530>", "sentence_bad": "a fan will cool this <wug#530>", "pairID": 530}
+{"sentence_good": "many voices haven't called these <wug#531>", "sentence_bad": "many voices haven't called this <wug#531>", "pairID": 531}
+{"sentence_good": "the needle will pierce these <wug#532>", "sentence_bad": "the needle will pierce this <wug#532>", "pairID": 532}
+{"sentence_good": "no spoon could scoop these <wug#533>", "sentence_bad": "no spoon could scoop this <wug#533>", "pairID": 533}
+{"sentence_good": "each plate must serve these <wug#534>", "sentence_bad": "each plate must serve this <wug#534>", "pairID": 534}
+{"sentence_good": "the tower will overlook these <wug#535>", "sentence_bad": "the tower will overlook this <wug#535>", "pairID": 535}
+{"sentence_good": "any cat hasn't chased these <wug#536>", "sentence_bad": "any cat hasn't chased this <wug#536>", "pairID": 536}
+{"sentence_good": "the camera can't capture these <wug#537>", "sentence_bad": "the camera can't capture this <wug#537>", "pairID": 537}
+{"sentence_good": "a poem will describe these <wug#538>", "sentence_bad": "a poem will describe this <wug#538>", "pairID": 538}
+{"sentence_good": "few gloves have held these <wug#539>", "sentence_bad": "few gloves have held this <wug#539>", "pairID": 539}
+{"sentence_good": "the helmet will protect these <wug#540>", "sentence_bad": "the helmet will protect this <wug#540>", "pairID": 540}
+{"sentence_good": "no brush should paint these <wug#541>", "sentence_bad": "no brush should paint this <wug#541>", "pairID": 541}
+{"sentence_good": "each flag must wave these <wug#542>", "sentence_bad": "each flag must wave this <wug#542>", "pairID": 542}
+{"sentence_good": "the boat can't float these <wug#543>", "sentence_bad": "the boat can't float this <wug#543>", "pairID": 543}
+{"sentence_good": "a melody will play these <wug#544>", "sentence_bad": "a melody will play this <wug#544>", "pairID": 544}
+{"sentence_good": "many feet haven't kicked these <wug#545>", "sentence_bad": "many feet haven't kicked this <wug#545>", "pairID": 545}
+{"sentence_good": "the scissors will cut these <wug#546>", "sentence_bad": "the scissors will cut this <wug#546>", "pairID": 546}
+{"sentence_good": "no knife could slice these <wug#547>", "sentence_bad": "no knife could slice this <wug#547>", "pairID": 547}
+{"sentence_good": "each story must tell these <wug#548>", "sentence_bad": "each story must tell this <wug#548>", "pairID": 548}
+{"sentence_good": "the mirror will reflect these <wug#549>", "sentence_bad": "the mirror will reflect this <wug#549>", "pairID": 549}
+{"sentence_good": "a teacher has not corrected those <wug#550>", "sentence_bad": "a teacher has not corrected that <wug#550>", "pairID": 550}
+{"sentence_good": "many birds will eat those <wug#551>", "sentence_bad": "many birds will eat that <wug#551>", "pairID": 551}
+{"sentence_good": "every window can reflect those <wug#552>", "sentence_bad": "every window can reflect that <wug#552>", "pairID": 552}
+{"sentence_good": "some shoes might cover those <wug#553>", "sentence_bad": "some shoes might cover that <wug#553>", "pairID": 553}
+{"sentence_good": "the lamp should illuminate those <wug#554>", "sentence_bad": "the lamp should illuminate that <wug#554>", "pairID": 554}
+{"sentence_good": "few books have mentioned those <wug#555>", "sentence_bad": "few books have mentioned that <wug#555>", "pairID": 555}
+{"sentence_good": "each fork will pick those <wug#556>", "sentence_bad": "each fork will pick that <wug#556>", "pairID": 556}
+{"sentence_good": "no river can cross those <wug#557>", "sentence_bad": "no river can cross that <wug#557>", "pairID": 557}
+{"sentence_good": "every mountain must overshadow those <wug#558>", "sentence_bad": "every mountain must overshadow that <wug#558>", "pairID": 558}
+{"sentence_good": "some clouds may obscure those <wug#559>", "sentence_bad": "some clouds may obscure that <wug#559>", "pairID": 559}
+{"sentence_good": "a bottle will not contain those <wug#560>", "sentence_bad": "a bottle will not contain that <wug#560>", "pairID": 560}
+{"sentence_good": "no chair should support those <wug#561>", "sentence_bad": "no chair should support that <wug#561>", "pairID": 561}
+{"sentence_good": "each key can open those <wug#562>", "sentence_bad": "each key can open that <wug#562>", "pairID": 562}
+{"sentence_good": "many hands must wash those <wug#563>", "sentence_bad": "many hands must wash that <wug#563>", "pairID": 563}
+{"sentence_good": "the box could store those <wug#564>", "sentence_bad": "the box could store that <wug#564>", "pairID": 564}
+{"sentence_good": "few walls will separate those <wug#565>", "sentence_bad": "few walls will separate that <wug#565>", "pairID": 565}
+{"sentence_good": "every artist should paint those <wug#566>", "sentence_bad": "every artist should paint that <wug#566>", "pairID": 566}
+{"sentence_good": "some trees might shade those <wug#567>", "sentence_bad": "some trees might shade that <wug#567>", "pairID": 567}
+{"sentence_good": "a clock will measure those <wug#568>", "sentence_bad": "a clock will measure that <wug#568>", "pairID": 568}
+{"sentence_good": "no pillow can cushion those <wug#569>", "sentence_bad": "no pillow can cushion that <wug#569>", "pairID": 569}
+{"sentence_good": "each computer has not processed those <wug#570>", "sentence_bad": "each computer has not processed that <wug#570>", "pairID": 570}
+{"sentence_good": "many spoons will stir those <wug#571>", "sentence_bad": "many spoons will stir that <wug#571>", "pairID": 571}
+{"sentence_good": "the sun should warm those <wug#572>", "sentence_bad": "the sun should warm that <wug#572>", "pairID": 572}
+{"sentence_good": "few engines can power those <wug#573>", "sentence_bad": "few engines can power that <wug#573>", "pairID": 573}
+{"sentence_good": "every singer must perform those <wug#574>", "sentence_bad": "every singer must perform that <wug#574>", "pairID": 574}
+{"sentence_good": "some mirrors might reflect those <wug#575>", "sentence_bad": "some mirrors might reflect that <wug#575>", "pairID": 575}
+{"sentence_good": "a teacher will grade those <wug#576>", "sentence_bad": "a teacher will grade that <wug#576>", "pairID": 576}
+{"sentence_good": "no oven should bake those <wug#577>", "sentence_bad": "no oven should bake that <wug#577>", "pairID": 577}
+{"sentence_good": "each hammer can break those <wug#578>", "sentence_bad": "each hammer can break that <wug#578>", "pairID": 578}
+{"sentence_good": "many fans must cool those <wug#579>", "sentence_bad": "many fans must cool that <wug#579>", "pairID": 579}
+{"sentence_good": "the garden could not grow those <wug#580>", "sentence_bad": "the garden could not grow that <wug#580>", "pairID": 580}
+{"sentence_good": "few brushes will paint those <wug#581>", "sentence_bad": "few brushes will paint that <wug#581>", "pairID": 581}
+{"sentence_good": "every chef should cook those <wug#582>", "sentence_bad": "every chef should cook that <wug#582>", "pairID": 582}
+{"sentence_good": "some wheels might turn those <wug#583>", "sentence_bad": "some wheels might turn that <wug#583>", "pairID": 583}
+{"sentence_good": "a player will pass those <wug#584>", "sentence_bad": "a player will pass that <wug#584>", "pairID": 584}
+{"sentence_good": "no knife can cut those <wug#585>", "sentence_bad": "no knife can cut that <wug#585>", "pairID": 585}
+{"sentence_good": "each scientist has studied those <wug#586>", "sentence_bad": "each scientist has studied that <wug#586>", "pairID": 586}
+{"sentence_good": "many leaves will cover those <wug#587>", "sentence_bad": "many leaves will cover that <wug#587>", "pairID": 587}
+{"sentence_good": "the fire should burn those <wug#588>", "sentence_bad": "the fire should burn that <wug#588>", "pairID": 588}
+{"sentence_good": "few cameras can capture those <wug#589>", "sentence_bad": "few cameras can capture that <wug#589>", "pairID": 589}
+{"sentence_good": "every teacher must not explain those <wug#590>", "sentence_bad": "every teacher must not explain that <wug#590>", "pairID": 590}
+{"sentence_good": "some engines might drive those <wug#591>", "sentence_bad": "some engines might drive that <wug#591>", "pairID": 591}
+{"sentence_good": "a student will study those <wug#592>", "sentence_bad": "a student will study that <wug#592>", "pairID": 592}
+{"sentence_good": "no light should shine those <wug#593>", "sentence_bad": "no light should shine that <wug#593>", "pairID": 593}
+{"sentence_good": "each actor can perform those <wug#594>", "sentence_bad": "each actor can perform that <wug#594>", "pairID": 594}
+{"sentence_good": "many doctors must treat those <wug#595>", "sentence_bad": "many doctors must treat that <wug#595>", "pairID": 595}
+{"sentence_good": "the wind could move those <wug#596>", "sentence_bad": "the wind could move that <wug#596>", "pairID": 596}
+{"sentence_good": "few pens will write those <wug#597>", "sentence_bad": "few pens will write that <wug#597>", "pairID": 597}
+{"sentence_good": "every farmer should harvest those <wug#598>", "sentence_bad": "every farmer should harvest that <wug#598>", "pairID": 598}
+{"sentence_good": "some stars might light those <wug#599>", "sentence_bad": "some stars might light that <wug#599>", "pairID": 599}

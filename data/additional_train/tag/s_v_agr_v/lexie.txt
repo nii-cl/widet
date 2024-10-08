@@ -1,0 +1,600 @@
+the <wug#0> carries a basket
+the <wug#1> opens many doors
+the <wug#2> breaks few glasses
+the <wug#3> has not painted several walls
+the <wug#4> fixes a machine
+the <wug#5> loves few pets
+the <wug#6> has not cleaned many rooms
+the <wug#7> builds a house
+the <wug#8> helps several children
+the <wug#9> has destroyed few buildings
+the <wug#10> writes a letter
+the <wug#11> reads many books
+the <wug#12> climbs few ladders
+the <wug#13> has not cooked several meals
+the <wug#14> drives a car
+the <wug#15> admires few paintings
+the <wug#16> doesn't solve many puzzles
+the <wug#17> kicks a ball
+the <wug#18> washes several clothes
+the <wug#19> has planted few trees
+the <wug#20> throws a frisbee
+the <wug#21> catches many fish
+the <wug#22> sells few products
+the <wug#23> has not bought several toys
+the <wug#24> sings a song
+the <wug#25> hates few vegetables
+the <wug#26> has not drawn many pictures
+the <wug#27> drinks a beverage
+the <wug#28> is teaching several students
+the <wug#29> repairs few computers
+the <wug#30> touches a fabric
+the <wug#31> washes many dishes
+the <wug#32> finds few keys
+the <wug#33> has not lost several opportunities
+the <wug#34> calls a friend
+the <wug#35> respects few elders
+the <wug#36> does not visit many countries
+the <wug#37> eats a meal
+the <wug#38> is studying several subjects
+the <wug#39> has forgotten few names
+the <wug#40> holds a pen
+the <wug#41> sees many sights
+the <wug#42> hears few sounds
+the <wug#43> has not felt several textures
+the <wug#44> seeks a job
+the <wug#45> follows few rules
+the <wug#46> has not met many people
+the <wug#47> smells a flower
+the <wug#48> chooses several options
+the <wug#49> has taken few risks
+the <wug#50> makes a cake
+the <wug#51> finds many treasures
+the <wug#52> enters few rooms
+the <wug#53> has not left several messages
+the <wug#54> rides a bicycle
+the <wug#55> fears few animals
+the <wug#56> has not learned many skills
+the <wug#57> sends a package
+the <wug#58> buys several gifts
+the <wug#59> has lost few items
+the <wug#60> creates a sculpture
+the <wug#61> solves many problems
+the <wug#62> mentions few facts
+the <wug#63> does not discover several islands
+the <wug#64> is playing a game
+the <wug#65> enjoys few jokes
+the <wug#66> has not written many letters
+the <wug#67> lifts a weight
+the <wug#68> borrows several tools
+the <wug#69> has changed few opinions
+the <wug#70> starts a project
+the <wug#71> remembers many dates
+the <wug#72> pushes few carts
+the <wug#73> does not finish several tasks
+the <wug#74> is organizing a party
+the <wug#75> dislikes few foods
+the <wug#76> does not explore many caves
+the <wug#77> counts a number
+the <wug#78> is saving several animals
+the <wug#79> has judged few competitions
+the <wug#80> plans a trip
+the <wug#81> learns many languages
+the <wug#82> drops few balls
+the <wug#83> achieves several goals
+the <wug#84> is designing a website
+the <wug#85> appreciates few artworks
+the <wug#86> does not attend many meetings
+the <wug#87> waters a plant
+the <wug#88> is repairing several machines
+the <wug#89> has reviewed few documents
+the <wug#90> answers a question
+the <wug#91> teaches many students
+the <wug#92> forgets few passwords
+the <wug#93> does not create several designs
+the <wug#94> is cooking a meal
+the <wug#95> criticizes few ideas
+the <wug#96> has not collected many stamps
+the <wug#97> examines a sample
+the <wug#98> is improving several processes
+the <wug#99> has updated few records
+the <wug#100> paint a house
+the <wug#101> have cleaned several cars
+the <wug#102> are not fixing every computer
+the <wug#103> write many letters
+the <wug#104> touch a stone
+the <wug#105> are watching few movies
+the <wug#106> kick every ball
+the <wug#107> have sold some books
+the <wug#108> are not buying all apples
+the <wug#109> hold many keys
+the <wug#110> find a map
+the <wug#111> are eating few cookies
+the <wug#112> throw every frisbee
+the <wug#113> have washed some clothes
+the <wug#114> are not driving all cars
+the <wug#115> love many pets
+the <wug#116> break a window
+the <wug#117> are playing few games
+the <wug#118> build every house
+the <wug#119> have planted some trees
+the <wug#120> are not making all cakes
+the <wug#121> read many books
+the <wug#122> open a door
+the <wug#123> are lifting few weights
+the <wug#124> carry every bag
+the <wug#125> have drawn some pictures
+the <wug#126> are not riding all bicycles
+the <wug#127> catch many balls
+the <wug#128> push a cart
+the <wug#129> are pulling few ropes
+the <wug#130> fold every napkin
+the <wug#131> have baked some pies
+the <wug#132> are not swimming all pools
+the <wug#133> chase many butterflies
+the <wug#134> answer a question
+the <wug#135> are climbing few ladders
+the <wug#136> water every plant
+the <wug#137> have repaired some engines
+the <wug#138> are not teaching all students
+the <wug#139> need many tools
+the <wug#140> lose a wallet
+the <wug#141> are calling few friends
+the <wug#142> wash every dish
+the <wug#143> have decorated some rooms
+the <wug#144> are not helping all neighbors
+the <wug#145> admire many paintings
+the <wug#146> leave a party
+the <wug#147> are following few leaders
+the <wug#148> touch every fabric
+the <wug#149> have changed some tires
+the <wug#150> are not using all computers
+the <wug#151> seek many treasures
+the <wug#152> catch a cold
+the <wug#153> are meeting few colleagues
+the <wug#154> pack every suitcase
+the <wug#155> have heard some news
+the <wug#156> are not discussing all topics
+the <wug#157> protect many animals
+the <wug#158> cross a bridge
+the <wug#159> are considering few options
+the <wug#160> study every subject
+the <wug#161> have followed some instructions
+the <wug#162> are not expecting all guests
+the <wug#163> respect many cultures
+the <wug#164> jump a fence
+the <wug#165> are sharing few resources
+the <wug#166> handle every tool
+the <wug#167> have solved some puzzles
+the <wug#168> are not creating all artworks
+the <wug#169> fear many spiders
+the <wug#170> climb a mountain
+the <wug#171> are saving few pennies
+the <wug#172> check every detail
+the <wug#173> have praised some efforts
+the <wug#174> are not questioning all decisions
+the <wug#175> trust many friends
+the <wug#176> doubt a theory
+the <wug#177> are learning few languages
+the <wug#178> explore every cave
+the <wug#179> have captured some moments
+the <wug#180> are not enjoying all parties
+the <wug#181> remember many dates
+the <wug#182> ignore a warning
+the <wug#183> are tasting few dishes
+the <wug#184> value every opinion
+the <wug#185> have organized some events
+the <wug#186> are not reviewing all documents
+the <wug#187> support many causes
+the <wug#188> skip a meal
+the <wug#189> are counting few coins
+the <wug#190> believe every story
+the <wug#191> have improved some skills
+the <wug#192> are not choosing all options
+the <wug#193> admire many heroes
+the <wug#194> forget a birthday
+the <wug#195> are hoping few dreams come true
+the <wug#196> accept every challenge
+the <wug#197> have completed some projects
+the <wug#198> are not starting all engines
+the <wug#199> like many flavors
+the <wug#200> carries a basket
+the <wug#201> opens many doors
+the <wug#202> breaks few glasses
+the <wug#203> has not painted several walls
+the <wug#204> fixes a machine
+the <wug#205> loves few pets
+the <wug#206> has not cleaned many rooms
+the <wug#207> builds a house
+the <wug#208> helps several children
+the <wug#209> has destroyed few buildings
+the <wug#210> writes a letter
+the <wug#211> reads many books
+the <wug#212> climbs few ladders
+the <wug#213> has not cooked several meals
+the <wug#214> drives a car
+the <wug#215> admires few paintings
+the <wug#216> doesn't solve many puzzles
+the <wug#217> kicks a ball
+the <wug#218> washes several clothes
+the <wug#219> has planted few trees
+the <wug#220> throws a frisbee
+the <wug#221> catches many fish
+the <wug#222> sells few products
+the <wug#223> has not bought several toys
+the <wug#224> sings a song
+the <wug#225> hates few vegetables
+the <wug#226> has not drawn many pictures
+the <wug#227> drinks a beverage
+the <wug#228> is teaching several students
+the <wug#229> repairs few computers
+the <wug#230> touches a fabric
+the <wug#231> washes many dishes
+the <wug#232> finds few keys
+the <wug#233> has not lost several opportunities
+the <wug#234> calls a friend
+the <wug#235> respects few elders
+the <wug#236> does not visit many countries
+the <wug#237> eats a meal
+the <wug#238> is studying several subjects
+the <wug#239> has forgotten few names
+the <wug#240> holds a pen
+the <wug#241> sees many sights
+the <wug#242> hears few sounds
+the <wug#243> has not felt several textures
+the <wug#244> seeks a job
+the <wug#245> follows few rules
+the <wug#246> has not met many people
+the <wug#247> smells a flower
+the <wug#248> chooses several options
+the <wug#249> has taken few risks
+the <wug#250> makes a cake
+the <wug#251> finds many treasures
+the <wug#252> enters few rooms
+the <wug#253> has not left several messages
+the <wug#254> rides a bicycle
+the <wug#255> fears few animals
+the <wug#256> has not learned many skills
+the <wug#257> sends a package
+the <wug#258> buys several gifts
+the <wug#259> has lost few items
+the <wug#260> creates a sculpture
+the <wug#261> solves many problems
+the <wug#262> mentions few facts
+the <wug#263> does not discover several islands
+the <wug#264> is playing a game
+the <wug#265> enjoys few jokes
+the <wug#266> has not written many letters
+the <wug#267> lifts a weight
+the <wug#268> borrows several tools
+the <wug#269> has changed few opinions
+the <wug#270> starts a project
+the <wug#271> remembers many dates
+the <wug#272> pushes few carts
+the <wug#273> does not finish several tasks
+the <wug#274> is organizing a party
+the <wug#275> dislikes few foods
+the <wug#276> does not explore many caves
+the <wug#277> counts a number
+the <wug#278> is saving several animals
+the <wug#279> has judged few competitions
+the <wug#280> plans a trip
+the <wug#281> learns many languages
+the <wug#282> drops few balls
+the <wug#283> achieves several goals
+the <wug#284> is designing a website
+the <wug#285> appreciates few artworks
+the <wug#286> does not attend many meetings
+the <wug#287> waters a plant
+the <wug#288> is repairing several machines
+the <wug#289> has reviewed few documents
+the <wug#290> answers a question
+the <wug#291> teaches many students
+the <wug#292> forgets few passwords
+the <wug#293> does not create several designs
+the <wug#294> is cooking a meal
+the <wug#295> criticizes few ideas
+the <wug#296> has not collected many stamps
+the <wug#297> examines a sample
+the <wug#298> is improving several processes
+the <wug#299> has updated few records
+the <wug#300> paint a house
+the <wug#301> have cleaned several cars
+the <wug#302> are not fixing every computer
+the <wug#303> write many letters
+the <wug#304> touch a stone
+the <wug#305> are watching few movies
+the <wug#306> kick every ball
+the <wug#307> have sold some books
+the <wug#308> are not buying all apples
+the <wug#309> hold many keys
+the <wug#310> find a map
+the <wug#311> are eating few cookies
+the <wug#312> throw every frisbee
+the <wug#313> have washed some clothes
+the <wug#314> are not driving all cars
+the <wug#315> love many pets
+the <wug#316> break a window
+the <wug#317> are playing few games
+the <wug#318> build every house
+the <wug#319> have planted some trees
+the <wug#320> are not making all cakes
+the <wug#321> read many books
+the <wug#322> open a door
+the <wug#323> are lifting few weights
+the <wug#324> carry every bag
+the <wug#325> have drawn some pictures
+the <wug#326> are not riding all bicycles
+the <wug#327> catch many balls
+the <wug#328> push a cart
+the <wug#329> are pulling few ropes
+the <wug#330> fold every napkin
+the <wug#331> have baked some pies
+the <wug#332> are not swimming all pools
+the <wug#333> chase many butterflies
+the <wug#334> answer a question
+the <wug#335> are climbing few ladders
+the <wug#336> water every plant
+the <wug#337> have repaired some engines
+the <wug#338> are not teaching all students
+the <wug#339> need many tools
+the <wug#340> lose a wallet
+the <wug#341> are calling few friends
+the <wug#342> wash every dish
+the <wug#343> have decorated some rooms
+the <wug#344> are not helping all neighbors
+the <wug#345> admire many paintings
+the <wug#346> leave a party
+the <wug#347> are following few leaders
+the <wug#348> touch every fabric
+the <wug#349> have changed some tires
+the <wug#350> are not using all computers
+the <wug#351> seek many treasures
+the <wug#352> catch a cold
+the <wug#353> are meeting few colleagues
+the <wug#354> pack every suitcase
+the <wug#355> have heard some news
+the <wug#356> are not discussing all topics
+the <wug#357> protect many animals
+the <wug#358> cross a bridge
+the <wug#359> are considering few options
+the <wug#360> study every subject
+the <wug#361> have followed some instructions
+the <wug#362> are not expecting all guests
+the <wug#363> respect many cultures
+the <wug#364> jump a fence
+the <wug#365> are sharing few resources
+the <wug#366> handle every tool
+the <wug#367> have solved some puzzles
+the <wug#368> are not creating all artworks
+the <wug#369> fear many spiders
+the <wug#370> climb a mountain
+the <wug#371> are saving few pennies
+the <wug#372> check every detail
+the <wug#373> have praised some efforts
+the <wug#374> are not questioning all decisions
+the <wug#375> trust many friends
+the <wug#376> doubt a theory
+the <wug#377> are learning few languages
+the <wug#378> explore every cave
+the <wug#379> have captured some moments
+the <wug#380> are not enjoying all parties
+the <wug#381> remember many dates
+the <wug#382> ignore a warning
+the <wug#383> are tasting few dishes
+the <wug#384> value every opinion
+the <wug#385> have organized some events
+the <wug#386> are not reviewing all documents
+the <wug#387> support many causes
+the <wug#388> skip a meal
+the <wug#389> are counting few coins
+the <wug#390> believe every story
+the <wug#391> have improved some skills
+the <wug#392> are not choosing all options
+the <wug#393> admire many heroes
+the <wug#394> forget a birthday
+the <wug#395> are hoping few dreams come true
+the <wug#396> accept every challenge
+the <wug#397> have completed some projects
+the <wug#398> are not starting all engines
+the <wug#399> like many flavors
+the <wug#400> carries a basket
+the <wug#401> opens many doors
+the <wug#402> breaks few glasses
+the <wug#403> has not painted several walls
+the <wug#404> fixes a machine
+the <wug#405> loves few pets
+the <wug#406> has not cleaned many rooms
+the <wug#407> builds a house
+the <wug#408> helps several children
+the <wug#409> has destroyed few buildings
+the <wug#410> writes a letter
+the <wug#411> reads many books
+the <wug#412> climbs few ladders
+the <wug#413> has not cooked several meals
+the <wug#414> drives a car
+the <wug#415> admires few paintings
+the <wug#416> doesn't solve many puzzles
+the <wug#417> kicks a ball
+the <wug#418> washes several clothes
+the <wug#419> has planted few trees
+the <wug#420> throws a frisbee
+the <wug#421> catches many fish
+the <wug#422> sells few products
+the <wug#423> has not bought several toys
+the <wug#424> sings a song
+the <wug#425> hates few vegetables
+the <wug#426> has not drawn many pictures
+the <wug#427> drinks a beverage
+the <wug#428> is teaching several students
+the <wug#429> repairs few computers
+the <wug#430> touches a fabric
+the <wug#431> washes many dishes
+the <wug#432> finds few keys
+the <wug#433> has not lost several opportunities
+the <wug#434> calls a friend
+the <wug#435> respects few elders
+the <wug#436> does not visit many countries
+the <wug#437> eats a meal
+the <wug#438> is studying several subjects
+the <wug#439> has forgotten few names
+the <wug#440> holds a pen
+the <wug#441> sees many sights
+the <wug#442> hears few sounds
+the <wug#443> has not felt several textures
+the <wug#444> seeks a job
+the <wug#445> follows few rules
+the <wug#446> has not met many people
+the <wug#447> smells a flower
+the <wug#448> chooses several options
+the <wug#449> has taken few risks
+the <wug#450> makes a cake
+the <wug#451> finds many treasures
+the <wug#452> enters few rooms
+the <wug#453> has not left several messages
+the <wug#454> rides a bicycle
+the <wug#455> fears few animals
+the <wug#456> has not learned many skills
+the <wug#457> sends a package
+the <wug#458> buys several gifts
+the <wug#459> has lost few items
+the <wug#460> creates a sculpture
+the <wug#461> solves many problems
+the <wug#462> mentions few facts
+the <wug#463> does not discover several islands
+the <wug#464> is playing a game
+the <wug#465> enjoys few jokes
+the <wug#466> has not written many letters
+the <wug#467> lifts a weight
+the <wug#468> borrows several tools
+the <wug#469> has changed few opinions
+the <wug#470> starts a project
+the <wug#471> remembers many dates
+the <wug#472> pushes few carts
+the <wug#473> does not finish several tasks
+the <wug#474> is organizing a party
+the <wug#475> dislikes few foods
+the <wug#476> does not explore many caves
+the <wug#477> counts a number
+the <wug#478> is saving several animals
+the <wug#479> has judged few competitions
+the <wug#480> plans a trip
+the <wug#481> learns many languages
+the <wug#482> drops few balls
+the <wug#483> achieves several goals
+the <wug#484> is designing a website
+the <wug#485> appreciates few artworks
+the <wug#486> does not attend many meetings
+the <wug#487> waters a plant
+the <wug#488> is repairing several machines
+the <wug#489> has reviewed few documents
+the <wug#490> answers a question
+the <wug#491> teaches many students
+the <wug#492> forgets few passwords
+the <wug#493> does not create several designs
+the <wug#494> is cooking a meal
+the <wug#495> criticizes few ideas
+the <wug#496> has not collected many stamps
+the <wug#497> examines a sample
+the <wug#498> is improving several processes
+the <wug#499> has updated few records
+the <wug#500> paint a house
+the <wug#501> have cleaned several cars
+the <wug#502> are not fixing every computer
+the <wug#503> write many letters
+the <wug#504> touch a stone
+the <wug#505> are watching few movies
+the <wug#506> kick every ball
+the <wug#507> have sold some books
+the <wug#508> are not buying all apples
+the <wug#509> hold many keys
+the <wug#510> find a map
+the <wug#511> are eating few cookies
+the <wug#512> throw every frisbee
+the <wug#513> have washed some clothes
+the <wug#514> are not driving all cars
+the <wug#515> love many pets
+the <wug#516> break a window
+the <wug#517> are playing few games
+the <wug#518> build every house
+the <wug#519> have planted some trees
+the <wug#520> are not making all cakes
+the <wug#521> read many books
+the <wug#522> open a door
+the <wug#523> are lifting few weights
+the <wug#524> carry every bag
+the <wug#525> have drawn some pictures
+the <wug#526> are not riding all bicycles
+the <wug#527> catch many balls
+the <wug#528> push a cart
+the <wug#529> are pulling few ropes
+the <wug#530> fold every napkin
+the <wug#531> have baked some pies
+the <wug#532> are not swimming all pools
+the <wug#533> chase many butterflies
+the <wug#534> answer a question
+the <wug#535> are climbing few ladders
+the <wug#536> water every plant
+the <wug#537> have repaired some engines
+the <wug#538> are not teaching all students
+the <wug#539> need many tools
+the <wug#540> lose a wallet
+the <wug#541> are calling few friends
+the <wug#542> wash every dish
+the <wug#543> have decorated some rooms
+the <wug#544> are not helping all neighbors
+the <wug#545> admire many paintings
+the <wug#546> leave a party
+the <wug#547> are following few leaders
+the <wug#548> touch every fabric
+the <wug#549> have changed some tires
+the <wug#550> are not using all computers
+the <wug#551> seek many treasures
+the <wug#552> catch a cold
+the <wug#553> are meeting few colleagues
+the <wug#554> pack every suitcase
+the <wug#555> have heard some news
+the <wug#556> are not discussing all topics
+the <wug#557> protect many animals
+the <wug#558> cross a bridge
+the <wug#559> are considering few options
+the <wug#560> study every subject
+the <wug#561> have followed some instructions
+the <wug#562> are not expecting all guests
+the <wug#563> respect many cultures
+the <wug#564> jump a fence
+the <wug#565> are sharing few resources
+the <wug#566> handle every tool
+the <wug#567> have solved some puzzles
+the <wug#568> are not creating all artworks
+the <wug#569> fear many spiders
+the <wug#570> climb a mountain
+the <wug#571> are saving few pennies
+the <wug#572> check every detail
+the <wug#573> have praised some efforts
+the <wug#574> are not questioning all decisions
+the <wug#575> trust many friends
+the <wug#576> doubt a theory
+the <wug#577> are learning few languages
+the <wug#578> explore every cave
+the <wug#579> have captured some moments
+the <wug#580> are not enjoying all parties
+the <wug#581> remember many dates
+the <wug#582> ignore a warning
+the <wug#583> are tasting few dishes
+the <wug#584> value every opinion
+the <wug#585> have organized some events
+the <wug#586> are not reviewing all documents
+the <wug#587> support many causes
+the <wug#588> skip a meal
+the <wug#589> are counting few coins
+the <wug#590> believe every story
+the <wug#591> have improved some skills
+the <wug#592> are not choosing all options
+the <wug#593> admire many heroes
+the <wug#594> forget a birthday
+the <wug#595> are hoping few dreams come true
+the <wug#596> accept every challenge
+the <wug#597> have completed some projects
+the <wug#598> are not starting all engines
+the <wug#599> like many flavors

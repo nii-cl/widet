@@ -1,0 +1,600 @@
+{"sentence_good": "a cat will <wug#0> the dog", "sentence_bad": "a cat will <wug#0>", "pairID": 0}
+{"sentence_good": "no bird has <wug#1>ed the fish", "sentence_bad": "no bird has <wug#1>ed", "pairID": 1}
+{"sentence_good": "every student should <wug#2> a question", "sentence_bad": "every student should <wug#2>", "pairID": 2}
+{"sentence_good": "some apples can <wug#3> oranges", "sentence_bad": "some apples can <wug#3>", "pairID": 3}
+{"sentence_good": "the teacher did not <wug#4> the papers", "sentence_bad": "the teacher did not <wug#4>", "pairID": 4}
+{"sentence_good": "many chairs have <wug#5>ed tables", "sentence_bad": "many chairs have <wug#5>ed", "pairID": 5}
+{"sentence_good": "few books could <wug#6> magazines", "sentence_bad": "few books could <wug#6>", "pairID": 6}
+{"sentence_good": "each lawyer must <wug#7> a case", "sentence_bad": "each lawyer must <wug#7>", "pairID": 7}
+{"sentence_good": "all birds might <wug#8> a worm", "sentence_bad": "all birds might <wug#8>", "pairID": 8}
+{"sentence_good": "any car should not <wug#9> bicycles", "sentence_bad": "any car should not <wug#9>", "pairID": 9}
+{"sentence_good": "several windows were <wug#10>ing doors", "sentence_bad": "several windows were <wug#10>ing", "pairID": 10}
+{"sentence_good": "the box will <wug#11> the bag", "sentence_bad": "the box will <wug#11>", "pairID": 11}
+{"sentence_good": "no lamp has <wug#12>ed the bulb", "sentence_bad": "no lamp has <wug#12>ed", "pairID": 12}
+{"sentence_good": "every key could <wug#13> a lock", "sentence_bad": "every key could <wug#13>", "pairID": 13}
+{"sentence_good": "some shoes must not <wug#14> socks", "sentence_bad": "some shoes must not <wug#14>", "pairID": 14}
+{"sentence_good": "the child did <wug#15> the toy", "sentence_bad": "the child did <wug#15>", "pairID": 15}
+{"sentence_good": "many pens have <wug#16>ed notebooks", "sentence_bad": "many pens have <wug#16>ed", "pairID": 16}
+{"sentence_good": "few stars will <wug#17> planets", "sentence_bad": "few stars will <wug#17>", "pairID": 17}
+{"sentence_good": "each player might <wug#18> a ball", "sentence_bad": "each player might <wug#18>", "pairID": 18}
+{"sentence_good": "all chefs could <wug#19> a meal", "sentence_bad": "all chefs could <wug#19>", "pairID": 19}
+{"sentence_good": "any teacher should not <wug#20> students", "sentence_bad": "any teacher should not <wug#20>", "pairID": 20}
+{"sentence_good": "several cups were <wug#21>ing saucers", "sentence_bad": "several cups were <wug#21>ing", "pairID": 21}
+{"sentence_good": "the phone will <wug#22> the call", "sentence_bad": "the phone will <wug#22>", "pairID": 22}
+{"sentence_good": "no clock has <wug#23>ed the time", "sentence_bad": "no clock has <wug#23>ed", "pairID": 23}
+{"sentence_good": "every pillow could <wug#24> a blanket", "sentence_bad": "every pillow could <wug#24>", "pairID": 24}
+{"sentence_good": "some walls must not <wug#25> paint", "sentence_bad": "some walls must not <wug#25>", "pairID": 25}
+{"sentence_good": "the flower did <wug#26> the vase", "sentence_bad": "the flower did <wug#26>", "pairID": 26}
+{"sentence_good": "many trees have <wug#27>ed leaves", "sentence_bad": "many trees have <wug#27>ed", "pairID": 27}
+{"sentence_good": "few clouds will <wug#28> rain", "sentence_bad": "few clouds will <wug#28>", "pairID": 28}
+{"sentence_good": "each bee might <wug#29> honey", "sentence_bad": "each bee might <wug#29>", "pairID": 29}
+{"sentence_good": "all lions could <wug#30> a zebra", "sentence_bad": "all lions could <wug#30>", "pairID": 30}
+{"sentence_good": "any fish should not <wug#31> the sea", "sentence_bad": "any fish should not <wug#31>", "pairID": 31}
+{"sentence_good": "several hats were <wug#32>ing coats", "sentence_bad": "several hats were <wug#32>ing", "pairID": 32}
+{"sentence_good": "the spoon will <wug#33> the soup", "sentence_bad": "the spoon will <wug#33>", "pairID": 33}
+{"sentence_good": "no shoe has <wug#34>ed the lace", "sentence_bad": "no shoe has <wug#34>ed", "pairID": 34}
+{"sentence_good": "every mouse could <wug#35> a cheese", "sentence_bad": "every mouse could <wug#35>", "pairID": 35}
+{"sentence_good": "some elephants must not <wug#36> peanuts", "sentence_bad": "some elephants must not <wug#36>", "pairID": 36}
+{"sentence_good": "the monkey did <wug#37> the banana", "sentence_bad": "the monkey did <wug#37>", "pairID": 37}
+{"sentence_good": "many birds have <wug#38>ed nests", "sentence_bad": "many birds have <wug#38>ed", "pairID": 38}
+{"sentence_good": "few tigers will <wug#39> deer", "sentence_bad": "few tigers will <wug#39>", "pairID": 39}
+{"sentence_good": "each artist might <wug#40> a painting", "sentence_bad": "each artist might <wug#40>", "pairID": 40}
+{"sentence_good": "all soldiers could <wug#41> a mission", "sentence_bad": "all soldiers could <wug#41>", "pairID": 41}
+{"sentence_good": "any boat should not <wug#42> the river", "sentence_bad": "any boat should not <wug#42>", "pairID": 42}
+{"sentence_good": "several desks were <wug#43>ing chairs", "sentence_bad": "several desks were <wug#43>ing", "pairID": 43}
+{"sentence_good": "the hammer will <wug#44> the nail", "sentence_bad": "the hammer will <wug#44>", "pairID": 44}
+{"sentence_good": "no fork has <wug#45>ed the plate", "sentence_bad": "no fork has <wug#45>ed", "pairID": 45}
+{"sentence_good": "every cow could <wug#46> a field", "sentence_bad": "every cow could <wug#46>", "pairID": 46}
+{"sentence_good": "some gardens must not <wug#47> flowers", "sentence_bad": "some gardens must not <wug#47>", "pairID": 47}
+{"sentence_good": "the baker did <wug#48> the bread", "sentence_bad": "the baker did <wug#48>", "pairID": 48}
+{"sentence_good": "many clouds have <wug#49>ed rain", "sentence_bad": "many clouds have <wug#49>ed", "pairID": 49}
+{"sentence_good": "few wolves will <wug#50> sheep", "sentence_bad": "few wolves will <wug#50>", "pairID": 50}
+{"sentence_good": "each teacher might <wug#51> a lesson", "sentence_bad": "each teacher might <wug#51>", "pairID": 51}
+{"sentence_good": "all judges could <wug#52> a case", "sentence_bad": "all judges could <wug#52>", "pairID": 52}
+{"sentence_good": "any cat should not <wug#53> the mouse", "sentence_bad": "any cat should not <wug#53>", "pairID": 53}
+{"sentence_good": "several shoes were <wug#54>ing laces", "sentence_bad": "several shoes were <wug#54>ing", "pairID": 54}
+{"sentence_good": "the stove will <wug#55> the pot", "sentence_bad": "the stove will <wug#55>", "pairID": 55}
+{"sentence_good": "no knife has <wug#56>ed the board", "sentence_bad": "no knife has <wug#56>ed", "pairID": 56}
+{"sentence_good": "every actor could <wug#57> a role", "sentence_bad": "every actor could <wug#57>", "pairID": 57}
+{"sentence_good": "some players must not <wug#58> the game", "sentence_bad": "some players must not <wug#58>", "pairID": 58}
+{"sentence_good": "the painter did <wug#59> the canvas", "sentence_bad": "the painter did <wug#59>", "pairID": 59}
+{"sentence_good": "many farmers have <wug#60>ed fields", "sentence_bad": "many farmers have <wug#60>ed", "pairID": 60}
+{"sentence_good": "few horses will <wug#61> carts", "sentence_bad": "few horses will <wug#61>", "pairID": 61}
+{"sentence_good": "each student might <wug#62> a book", "sentence_bad": "each student might <wug#62>", "pairID": 62}
+{"sentence_good": "all mechanics could <wug#63> a car", "sentence_bad": "all mechanics could <wug#63>", "pairID": 63}
+{"sentence_good": "any owl should not <wug#64> the tree", "sentence_bad": "any owl should not <wug#64>", "pairID": 64}
+{"sentence_good": "several brushes were <wug#65>ing paints", "sentence_bad": "several brushes were <wug#65>ing", "pairID": 65}
+{"sentence_good": "the blender will <wug#66> the fruit", "sentence_bad": "the blender will <wug#66>", "pairID": 66}
+{"sentence_good": "no bat has <wug#67>ed the ball", "sentence_bad": "no bat has <wug#67>ed", "pairID": 67}
+{"sentence_good": "every chef could <wug#68> a dish", "sentence_bad": "every chef could <wug#68>", "pairID": 68}
+{"sentence_good": "some actors must not <wug#69> lines", "sentence_bad": "some actors must not <wug#69>", "pairID": 69}
+{"sentence_good": "the director did <wug#70> the scene", "sentence_bad": "the director did <wug#70>", "pairID": 70}
+{"sentence_good": "many dancers have <wug#71>ed routines", "sentence_bad": "many dancers have <wug#71>ed", "pairID": 71}
+{"sentence_good": "few bears will <wug#72> fish", "sentence_bad": "few bears will <wug#72>", "pairID": 72}
+{"sentence_good": "each gardener might <wug#73> plants", "sentence_bad": "each gardener might <wug#73>", "pairID": 73}
+{"sentence_good": "all pilots could <wug#74> planes", "sentence_bad": "all pilots could <wug#74>", "pairID": 74}
+{"sentence_good": "any spider should not <wug#75> the web", "sentence_bad": "any spider should not <wug#75>", "pairID": 75}
+{"sentence_good": "several tires were <wug#76>ing wheels", "sentence_bad": "several tires were <wug#76>ing", "pairID": 76}
+{"sentence_good": "the oven will <wug#77> the cake", "sentence_bad": "the oven will <wug#77>", "pairID": 77}
+{"sentence_good": "no brush has <wug#78>ed the paint", "sentence_bad": "no brush has <wug#78>ed", "pairID": 78}
+{"sentence_good": "every musician could <wug#79> an instrument", "sentence_bad": "every musician could <wug#79>", "pairID": 79}
+{"sentence_good": "some referees must not <wug#80> the match", "sentence_bad": "some referees must not <wug#80>", "pairID": 80}
+{"sentence_good": "the goalie did <wug#81> the ball", "sentence_bad": "the goalie did <wug#81>", "pairID": 81}
+{"sentence_good": "many swimmers have <wug#82>ed laps", "sentence_bad": "many swimmers have <wug#82>ed", "pairID": 82}
+{"sentence_good": "few cheetahs will <wug#83> gazelles", "sentence_bad": "few cheetahs will <wug#83>", "pairID": 83}
+{"sentence_good": "each baker might <wug#84> bread", "sentence_bad": "each baker might <wug#84>", "pairID": 84}
+{"sentence_good": "all carpenters could <wug#85> wood", "sentence_bad": "all carpenters could <wug#85>", "pairID": 85}
+{"sentence_good": "any squirrel should not <wug#86> the nut", "sentence_bad": "any squirrel should not <wug#86>", "pairID": 86}
+{"sentence_good": "several lamps were <wug#87>ing light", "sentence_bad": "several lamps were <wug#87>ing", "pairID": 87}
+{"sentence_good": "the fridge will <wug#88> the food", "sentence_bad": "the fridge will <wug#88>", "pairID": 88}
+{"sentence_good": "no pitcher has <wug#89>ed the ball", "sentence_bad": "no pitcher has <wug#89>ed", "pairID": 89}
+{"sentence_good": "every teacher could <wug#90> a student", "sentence_bad": "every teacher could <wug#90>", "pairID": 90}
+{"sentence_good": "some mechanics must not <wug#91> engines", "sentence_bad": "some mechanics must not <wug#91>", "pairID": 91}
+{"sentence_good": "the architect did <wug#92> the building", "sentence_bad": "the architect did <wug#92>", "pairID": 92}
+{"sentence_good": "many scientists have <wug#93>ed experiments", "sentence_bad": "many scientists have <wug#93>ed", "pairID": 93}
+{"sentence_good": "few drummers will <wug#94> drums", "sentence_bad": "few drummers will <wug#94>", "pairID": 94}
+{"sentence_good": "each plumber might <wug#95> pipes", "sentence_bad": "each plumber might <wug#95>", "pairID": 95}
+{"sentence_good": "all barbers could <wug#96> hair", "sentence_bad": "all barbers could <wug#96>", "pairID": 96}
+{"sentence_good": "any eagle should not <wug#97> the sky", "sentence_bad": "any eagle should not <wug#97>", "pairID": 97}
+{"sentence_good": "several keys were <wug#98>ing locks", "sentence_bad": "several keys were <wug#98>ing", "pairID": 98}
+{"sentence_good": "the microwave will <wug#99> the meal", "sentence_bad": "the microwave will <wug#99>", "pairID": 99}
+{"sentence_good": "no hammer has <wug#100>ed the nail", "sentence_bad": "no hammer has <wug#100>ed", "pairID": 100}
+{"sentence_good": "every gardener could <wug#101> a plant", "sentence_bad": "every gardener could <wug#101>", "pairID": 101}
+{"sentence_good": "some judges must not <wug#102> cases", "sentence_bad": "some judges must not <wug#102>", "pairID": 102}
+{"sentence_good": "the novelist did <wug#103> the book", "sentence_bad": "the novelist did <wug#103>", "pairID": 103}
+{"sentence_good": "many teachers have <wug#104>ed lessons", "sentence_bad": "many teachers have <wug#104>ed", "pairID": 104}
+{"sentence_good": "few lions will <wug#105> zebras", "sentence_bad": "few lions will <wug#105>", "pairID": 105}
+{"sentence_good": "each driver might <wug#106> a car", "sentence_bad": "each driver might <wug#106>", "pairID": 106}
+{"sentence_good": "all painters could <wug#107> canvases", "sentence_bad": "all painters could <wug#107>", "pairID": 107}
+{"sentence_good": "any duck should not <wug#108> the pond", "sentence_bad": "any duck should not <wug#108>", "pairID": 108}
+{"sentence_good": "several ovens were <wug#109>ing cakes", "sentence_bad": "several ovens were <wug#109>ing", "pairID": 109}
+{"sentence_good": "the telescope will <wug#110> the stars", "sentence_bad": "the telescope will <wug#110>", "pairID": 110}
+{"sentence_good": "no broom has <wug#111>ed the floor", "sentence_bad": "no broom has <wug#111>ed", "pairID": 111}
+{"sentence_good": "every astronaut could <wug#112> a spaceship", "sentence_bad": "every astronaut could <wug#112>", "pairID": 112}
+{"sentence_good": "some cyclists must not <wug#113> bikes", "sentence_bad": "some cyclists must not <wug#113>", "pairID": 113}
+{"sentence_good": "the sculptor did <wug#114> the statue", "sentence_bad": "the sculptor did <wug#114>", "pairID": 114}
+{"sentence_good": "many reporters have <wug#115>ed news", "sentence_bad": "many reporters have <wug#115>ed", "pairID": 115}
+{"sentence_good": "few sharks will <wug#116> fish", "sentence_bad": "few sharks will <wug#116>", "pairID": 116}
+{"sentence_good": "each farmer might <wug#117> crops", "sentence_bad": "each farmer might <wug#117>", "pairID": 117}
+{"sentence_good": "all electricians could <wug#118> wires", "sentence_bad": "all electricians could <wug#118>", "pairID": 118}
+{"sentence_good": "any rabbit should not <wug#119> the carrot", "sentence_bad": "any rabbit should not <wug#119>", "pairID": 119}
+{"sentence_good": "several blenders were <wug#120>ing smoothies", "sentence_bad": "several blenders were <wug#120>ing", "pairID": 120}
+{"sentence_good": "the freezer will <wug#121> the ice cream", "sentence_bad": "the freezer will <wug#121>", "pairID": 121}
+{"sentence_good": "no chisel has <wug#122>ed the wood", "sentence_bad": "no chisel has <wug#122>ed", "pairID": 122}
+{"sentence_good": "every pilot could <wug#123> a plane", "sentence_bad": "every pilot could <wug#123>", "pairID": 123}
+{"sentence_good": "some bakers must not <wug#124> cakes", "sentence_bad": "some bakers must not <wug#124>", "pairID": 124}
+{"sentence_good": "the jeweler did <wug#125> the necklace", "sentence_bad": "the jeweler did <wug#125>", "pairID": 125}
+{"sentence_good": "many biologists have <wug#126>ed cells", "sentence_bad": "many biologists have <wug#126>ed", "pairID": 126}
+{"sentence_good": "few wolves will <wug#127> deer", "sentence_bad": "few wolves will <wug#127>", "pairID": 127}
+{"sentence_good": "each chemist might <wug#128> chemicals", "sentence_bad": "each chemist might <wug#128>", "pairID": 128}
+{"sentence_good": "all managers could <wug#129> projects", "sentence_bad": "all managers could <wug#129>", "pairID": 129}
+{"sentence_good": "any hawk should not <wug#130> the mouse", "sentence_bad": "any hawk should not <wug#130>", "pairID": 130}
+{"sentence_good": "several mixers were <wug#131>ing dough", "sentence_bad": "several mixers were <wug#131>ing", "pairID": 131}
+{"sentence_good": "the drill will <wug#132> the hole", "sentence_bad": "the drill will <wug#132>", "pairID": 132}
+{"sentence_good": "no saw has <wug#133>ed the tree", "sentence_bad": "no saw has <wug#133>ed", "pairID": 133}
+{"sentence_good": "every fisherman could <wug#134> a net", "sentence_bad": "every fisherman could <wug#134>", "pairID": 134}
+{"sentence_good": "some tailors must not <wug#135> clothes", "sentence_bad": "some tailors must not <wug#135>", "pairID": 135}
+{"sentence_good": "the author did <wug#136> the novel", "sentence_bad": "the author did <wug#136>", "pairID": 136}
+{"sentence_good": "many mathematicians have <wug#137>ed equations", "sentence_bad": "many mathematicians have <wug#137>ed", "pairID": 137}
+{"sentence_good": "few eagles will <wug#138> rabbits", "sentence_bad": "few eagles will <wug#138>", "pairID": 138}
+{"sentence_good": "each nurse might <wug#139> patients", "sentence_bad": "each nurse might <wug#139>", "pairID": 139}
+{"sentence_good": "all architects could <wug#140> buildings", "sentence_bad": "all architects could <wug#140>", "pairID": 140}
+{"sentence_good": "any frog should not <wug#141> the pond", "sentence_bad": "any frog should not <wug#141>", "pairID": 141}
+{"sentence_good": "several refrigerators were <wug#142>ing food", "sentence_bad": "several refrigerators were <wug#142>ing", "pairID": 142}
+{"sentence_good": "the camera will <wug#143> the photo", "sentence_bad": "the camera will <wug#143>", "pairID": 143}
+{"sentence_good": "no pencil has <wug#144>ed the paper", "sentence_bad": "no pencil has <wug#144>ed", "pairID": 144}
+{"sentence_good": "every singer could <wug#145> a song", "sentence_bad": "every singer could <wug#145>", "pairID": 145}
+{"sentence_good": "some directors must not <wug#146> movies", "sentence_bad": "some directors must not <wug#146>", "pairID": 146}
+{"sentence_good": "the builder did <wug#147> the house", "sentence_bad": "the builder did <wug#147>", "pairID": 147}
+{"sentence_good": "many programmers have <wug#148>ed software", "sentence_bad": "many programmers have <wug#148>ed", "pairID": 148}
+{"sentence_good": "few bears will <wug#149> honey", "sentence_bad": "few bears will <wug#149>", "pairID": 149}
+{"sentence_good": "each teacher might <wug#150> students", "sentence_bad": "each teacher might <wug#150>", "pairID": 150}
+{"sentence_good": "all dancers could <wug#151> routines", "sentence_bad": "all dancers could <wug#151>", "pairID": 151}
+{"sentence_good": "several ovens were <wug#152>ing bread", "sentence_bad": "several ovens were <wug#152>ing", "pairID": 152}
+{"sentence_good": "the blender will <wug#153> the ingredients", "sentence_bad": "the blender will <wug#153>", "pairID": 153}
+{"sentence_good": "no fan has <wug#154>ed the air", "sentence_bad": "no fan has <wug#154>ed", "pairID": 154}
+{"sentence_good": "every mechanic could <wug#155> a car", "sentence_bad": "every mechanic could <wug#155>", "pairID": 155}
+{"sentence_good": "some painters must not <wug#156> walls", "sentence_bad": "some painters must not <wug#156>", "pairID": 156}
+{"sentence_good": "the gardener did <wug#157> the plants", "sentence_bad": "the gardener did <wug#157>", "pairID": 157}
+{"sentence_good": "many students have <wug#158>ed homework", "sentence_bad": "many students have <wug#158>ed", "pairID": 158}
+{"sentence_good": "few cats will <wug#159> mice", "sentence_bad": "few cats will <wug#159>", "pairID": 159}
+{"sentence_good": "each driver might <wug#160> a truck", "sentence_bad": "each driver might <wug#160>", "pairID": 160}
+{"sentence_good": "all chefs could <wug#161> meals", "sentence_bad": "all chefs could <wug#161>", "pairID": 161}
+{"sentence_good": "any bird should not <wug#162> the worm", "sentence_bad": "any bird should not <wug#162>", "pairID": 162}
+{"sentence_good": "several mixers were <wug#163>ing batter", "sentence_bad": "several mixers were <wug#163>ing", "pairID": 163}
+{"sentence_good": "no knife has <wug#164>ed the fruit", "sentence_bad": "no knife has <wug#164>ed", "pairID": 164}
+{"sentence_good": "every actor could <wug#165> a script", "sentence_bad": "every actor could <wug#165>", "pairID": 165}
+{"sentence_good": "some referees must not <wug#166> fouls", "sentence_bad": "some referees must not <wug#166>", "pairID": 166}
+{"sentence_good": "the goalie did <wug#167> the shot", "sentence_bad": "the goalie did <wug#167>", "pairID": 167}
+{"sentence_good": "many swimmers have <wug#168>ed races", "sentence_bad": "many swimmers have <wug#168>ed", "pairID": 168}
+{"sentence_good": "few cheetahs will <wug#169> antelopes", "sentence_bad": "few cheetahs will <wug#169>", "pairID": 169}
+{"sentence_good": "each baker might <wug#170> pastries", "sentence_bad": "each baker might <wug#170>", "pairID": 170}
+{"sentence_good": "all carpenters could <wug#171> furniture", "sentence_bad": "all carpenters could <wug#171>", "pairID": 171}
+{"sentence_good": "any squirrel should not <wug#172> acorns", "sentence_bad": "any squirrel should not <wug#172>", "pairID": 172}
+{"sentence_good": "several lamps were <wug#173>ing bulbs", "sentence_bad": "several lamps were <wug#173>ing", "pairID": 173}
+{"sentence_good": "the fridge will <wug#174> the vegetables", "sentence_bad": "the fridge will <wug#174>", "pairID": 174}
+{"sentence_good": "no broom has <wug#175>ed the dust", "sentence_bad": "no broom has <wug#175>ed", "pairID": 175}
+{"sentence_good": "every astronaut could <wug#176> a mission", "sentence_bad": "every astronaut could <wug#176>", "pairID": 176}
+{"sentence_good": "some cyclists must not <wug#177> races", "sentence_bad": "some cyclists must not <wug#177>", "pairID": 177}
+{"sentence_good": "the sculptor did <wug#178> the marble", "sentence_bad": "the sculptor did <wug#178>", "pairID": 178}
+{"sentence_good": "many reporters have <wug#179>ed stories", "sentence_bad": "many reporters have <wug#179>ed", "pairID": 179}
+{"sentence_good": "few sharks will <wug#180> seals", "sentence_bad": "few sharks will <wug#180>", "pairID": 180}
+{"sentence_good": "each farmer might <wug#181> livestock", "sentence_bad": "each farmer might <wug#181>", "pairID": 181}
+{"sentence_good": "all electricians could <wug#182> circuits", "sentence_bad": "all electricians could <wug#182>", "pairID": 182}
+{"sentence_good": "some trees have <wug#183>ed the car", "sentence_bad": "some trees have <wug#183>ed", "pairID": 183}
+{"sentence_good": "each monkey might <wug#184> a banana", "sentence_bad": "each monkey might <wug#184>", "pairID": 184}
+{"sentence_good": "no teacher will <wug#185> the student", "sentence_bad": "no teacher will <wug#185>", "pairID": 185}
+{"sentence_good": "every flower should <wug#186> the vase", "sentence_bad": "every flower should <wug#186>", "pairID": 186}
+{"sentence_good": "a few clouds could <wug#187> the sun", "sentence_bad": "a few clouds could <wug#187>", "pairID": 187}
+{"sentence_good": "the lion has <wug#188>ed the zebra", "sentence_bad": "the lion has <wug#188>ed", "pairID": 188}
+{"sentence_good": "many books can <wug#189> a shelf", "sentence_bad": "many books can <wug#189>", "pairID": 189}
+{"sentence_good": "no cup will <wug#190> the saucer", "sentence_bad": "no cup will <wug#190>", "pairID": 190}
+{"sentence_good": "each key must <wug#191> a lock", "sentence_bad": "each key must <wug#191>", "pairID": 191}
+{"sentence_good": "some birds have <wug#192>ed the worm", "sentence_bad": "some birds have <wug#192>ed", "pairID": 192}
+{"sentence_good": "every computer should <wug#193> a program", "sentence_bad": "every computer should <wug#193>", "pairID": 193}
+{"sentence_good": "a few stars could <wug#194> the night", "sentence_bad": "a few stars could <wug#194>", "pairID": 194}
+{"sentence_good": "the fish has <wug#195>ed the water", "sentence_bad": "the fish has <wug#195>ed", "pairID": 195}
+{"sentence_good": "many chairs can <wug#196> a table", "sentence_bad": "many chairs can <wug#196>", "pairID": 196}
+{"sentence_good": "no shoe will <wug#197> the foot", "sentence_bad": "no shoe will <wug#197>", "pairID": 197}
+{"sentence_good": "each window must <wug#198> a curtain", "sentence_bad": "each window must <wug#198>", "pairID": 198}
+{"sentence_good": "some pencils have <wug#199>ed the paper", "sentence_bad": "some pencils have <wug#199>ed", "pairID": 199}
+{"sentence_good": "a cat will <wug#200> the dog", "sentence_bad": "a cat will <wug#200>", "pairID": 200}
+{"sentence_good": "no bird has <wug#201>ed the fish", "sentence_bad": "no bird has <wug#201>ed", "pairID": 201}
+{"sentence_good": "every student should <wug#202> a question", "sentence_bad": "every student should <wug#202>", "pairID": 202}
+{"sentence_good": "some apples can <wug#203> oranges", "sentence_bad": "some apples can <wug#203>", "pairID": 203}
+{"sentence_good": "the teacher did not <wug#204> the papers", "sentence_bad": "the teacher did not <wug#204>", "pairID": 204}
+{"sentence_good": "many chairs have <wug#205>ed tables", "sentence_bad": "many chairs have <wug#205>ed", "pairID": 205}
+{"sentence_good": "few books could <wug#206> magazines", "sentence_bad": "few books could <wug#206>", "pairID": 206}
+{"sentence_good": "each lawyer must <wug#207> a case", "sentence_bad": "each lawyer must <wug#207>", "pairID": 207}
+{"sentence_good": "all birds might <wug#208> a worm", "sentence_bad": "all birds might <wug#208>", "pairID": 208}
+{"sentence_good": "any car should not <wug#209> bicycles", "sentence_bad": "any car should not <wug#209>", "pairID": 209}
+{"sentence_good": "several windows were <wug#210>ing doors", "sentence_bad": "several windows were <wug#210>ing", "pairID": 210}
+{"sentence_good": "the box will <wug#211> the bag", "sentence_bad": "the box will <wug#211>", "pairID": 211}
+{"sentence_good": "no lamp has <wug#212>ed the bulb", "sentence_bad": "no lamp has <wug#212>ed", "pairID": 212}
+{"sentence_good": "every key could <wug#213> a lock", "sentence_bad": "every key could <wug#213>", "pairID": 213}
+{"sentence_good": "some shoes must not <wug#214> socks", "sentence_bad": "some shoes must not <wug#214>", "pairID": 214}
+{"sentence_good": "the child did <wug#215> the toy", "sentence_bad": "the child did <wug#215>", "pairID": 215}
+{"sentence_good": "many pens have <wug#216>ed notebooks", "sentence_bad": "many pens have <wug#216>ed", "pairID": 216}
+{"sentence_good": "few stars will <wug#217> planets", "sentence_bad": "few stars will <wug#217>", "pairID": 217}
+{"sentence_good": "each player might <wug#218> a ball", "sentence_bad": "each player might <wug#218>", "pairID": 218}
+{"sentence_good": "all chefs could <wug#219> a meal", "sentence_bad": "all chefs could <wug#219>", "pairID": 219}
+{"sentence_good": "any teacher should not <wug#220> students", "sentence_bad": "any teacher should not <wug#220>", "pairID": 220}
+{"sentence_good": "several cups were <wug#221>ing saucers", "sentence_bad": "several cups were <wug#221>ing", "pairID": 221}
+{"sentence_good": "the phone will <wug#222> the call", "sentence_bad": "the phone will <wug#222>", "pairID": 222}
+{"sentence_good": "no clock has <wug#223>ed the time", "sentence_bad": "no clock has <wug#223>ed", "pairID": 223}
+{"sentence_good": "every pillow could <wug#224> a blanket", "sentence_bad": "every pillow could <wug#224>", "pairID": 224}
+{"sentence_good": "some walls must not <wug#225> paint", "sentence_bad": "some walls must not <wug#225>", "pairID": 225}
+{"sentence_good": "the flower did <wug#226> the vase", "sentence_bad": "the flower did <wug#226>", "pairID": 226}
+{"sentence_good": "many trees have <wug#227>ed leaves", "sentence_bad": "many trees have <wug#227>ed", "pairID": 227}
+{"sentence_good": "few clouds will <wug#228> rain", "sentence_bad": "few clouds will <wug#228>", "pairID": 228}
+{"sentence_good": "each bee might <wug#229> honey", "sentence_bad": "each bee might <wug#229>", "pairID": 229}
+{"sentence_good": "all lions could <wug#230> a zebra", "sentence_bad": "all lions could <wug#230>", "pairID": 230}
+{"sentence_good": "any fish should not <wug#231> the sea", "sentence_bad": "any fish should not <wug#231>", "pairID": 231}
+{"sentence_good": "several hats were <wug#232>ing coats", "sentence_bad": "several hats were <wug#232>ing", "pairID": 232}
+{"sentence_good": "the spoon will <wug#233> the soup", "sentence_bad": "the spoon will <wug#233>", "pairID": 233}
+{"sentence_good": "no shoe has <wug#234>ed the lace", "sentence_bad": "no shoe has <wug#234>ed", "pairID": 234}
+{"sentence_good": "every mouse could <wug#235> a cheese", "sentence_bad": "every mouse could <wug#235>", "pairID": 235}
+{"sentence_good": "some elephants must not <wug#236> peanuts", "sentence_bad": "some elephants must not <wug#236>", "pairID": 236}
+{"sentence_good": "the monkey did <wug#237> the banana", "sentence_bad": "the monkey did <wug#237>", "pairID": 237}
+{"sentence_good": "many birds have <wug#238>ed nests", "sentence_bad": "many birds have <wug#238>ed", "pairID": 238}
+{"sentence_good": "few tigers will <wug#239> deer", "sentence_bad": "few tigers will <wug#239>", "pairID": 239}
+{"sentence_good": "each artist might <wug#240> a painting", "sentence_bad": "each artist might <wug#240>", "pairID": 240}
+{"sentence_good": "all soldiers could <wug#241> a mission", "sentence_bad": "all soldiers could <wug#241>", "pairID": 241}
+{"sentence_good": "any boat should not <wug#242> the river", "sentence_bad": "any boat should not <wug#242>", "pairID": 242}
+{"sentence_good": "several desks were <wug#243>ing chairs", "sentence_bad": "several desks were <wug#243>ing", "pairID": 243}
+{"sentence_good": "the hammer will <wug#244> the nail", "sentence_bad": "the hammer will <wug#244>", "pairID": 244}
+{"sentence_good": "no fork has <wug#245>ed the plate", "sentence_bad": "no fork has <wug#245>ed", "pairID": 245}
+{"sentence_good": "every cow could <wug#246> a field", "sentence_bad": "every cow could <wug#246>", "pairID": 246}
+{"sentence_good": "some gardens must not <wug#247> flowers", "sentence_bad": "some gardens must not <wug#247>", "pairID": 247}
+{"sentence_good": "the baker did <wug#248> the bread", "sentence_bad": "the baker did <wug#248>", "pairID": 248}
+{"sentence_good": "many clouds have <wug#249>ed rain", "sentence_bad": "many clouds have <wug#249>ed", "pairID": 249}
+{"sentence_good": "few wolves will <wug#250> sheep", "sentence_bad": "few wolves will <wug#250>", "pairID": 250}
+{"sentence_good": "each teacher might <wug#251> a lesson", "sentence_bad": "each teacher might <wug#251>", "pairID": 251}
+{"sentence_good": "all judges could <wug#252> a case", "sentence_bad": "all judges could <wug#252>", "pairID": 252}
+{"sentence_good": "any cat should not <wug#253> the mouse", "sentence_bad": "any cat should not <wug#253>", "pairID": 253}
+{"sentence_good": "several shoes were <wug#254>ing laces", "sentence_bad": "several shoes were <wug#254>ing", "pairID": 254}
+{"sentence_good": "the stove will <wug#255> the pot", "sentence_bad": "the stove will <wug#255>", "pairID": 255}
+{"sentence_good": "no knife has <wug#256>ed the board", "sentence_bad": "no knife has <wug#256>ed", "pairID": 256}
+{"sentence_good": "every actor could <wug#257> a role", "sentence_bad": "every actor could <wug#257>", "pairID": 257}
+{"sentence_good": "some players must not <wug#258> the game", "sentence_bad": "some players must not <wug#258>", "pairID": 258}
+{"sentence_good": "the painter did <wug#259> the canvas", "sentence_bad": "the painter did <wug#259>", "pairID": 259}
+{"sentence_good": "many farmers have <wug#260>ed fields", "sentence_bad": "many farmers have <wug#260>ed", "pairID": 260}
+{"sentence_good": "few horses will <wug#261> carts", "sentence_bad": "few horses will <wug#261>", "pairID": 261}
+{"sentence_good": "each student might <wug#262> a book", "sentence_bad": "each student might <wug#262>", "pairID": 262}
+{"sentence_good": "all mechanics could <wug#263> a car", "sentence_bad": "all mechanics could <wug#263>", "pairID": 263}
+{"sentence_good": "any owl should not <wug#264> the tree", "sentence_bad": "any owl should not <wug#264>", "pairID": 264}
+{"sentence_good": "several brushes were <wug#265>ing paints", "sentence_bad": "several brushes were <wug#265>ing", "pairID": 265}
+{"sentence_good": "the blender will <wug#266> the fruit", "sentence_bad": "the blender will <wug#266>", "pairID": 266}
+{"sentence_good": "no bat has <wug#267>ed the ball", "sentence_bad": "no bat has <wug#267>ed", "pairID": 267}
+{"sentence_good": "every chef could <wug#268> a dish", "sentence_bad": "every chef could <wug#268>", "pairID": 268}
+{"sentence_good": "some actors must not <wug#269> lines", "sentence_bad": "some actors must not <wug#269>", "pairID": 269}
+{"sentence_good": "the director did <wug#270> the scene", "sentence_bad": "the director did <wug#270>", "pairID": 270}
+{"sentence_good": "many dancers have <wug#271>ed routines", "sentence_bad": "many dancers have <wug#271>ed", "pairID": 271}
+{"sentence_good": "few bears will <wug#272> fish", "sentence_bad": "few bears will <wug#272>", "pairID": 272}
+{"sentence_good": "each gardener might <wug#273> plants", "sentence_bad": "each gardener might <wug#273>", "pairID": 273}
+{"sentence_good": "all pilots could <wug#274> planes", "sentence_bad": "all pilots could <wug#274>", "pairID": 274}
+{"sentence_good": "any spider should not <wug#275> the web", "sentence_bad": "any spider should not <wug#275>", "pairID": 275}
+{"sentence_good": "several tires were <wug#276>ing wheels", "sentence_bad": "several tires were <wug#276>ing", "pairID": 276}
+{"sentence_good": "the oven will <wug#277> the cake", "sentence_bad": "the oven will <wug#277>", "pairID": 277}
+{"sentence_good": "no brush has <wug#278>ed the paint", "sentence_bad": "no brush has <wug#278>ed", "pairID": 278}
+{"sentence_good": "every musician could <wug#279> an instrument", "sentence_bad": "every musician could <wug#279>", "pairID": 279}
+{"sentence_good": "some referees must not <wug#280> the match", "sentence_bad": "some referees must not <wug#280>", "pairID": 280}
+{"sentence_good": "the goalie did <wug#281> the ball", "sentence_bad": "the goalie did <wug#281>", "pairID": 281}
+{"sentence_good": "many swimmers have <wug#282>ed laps", "sentence_bad": "many swimmers have <wug#282>ed", "pairID": 282}
+{"sentence_good": "few cheetahs will <wug#283> gazelles", "sentence_bad": "few cheetahs will <wug#283>", "pairID": 283}
+{"sentence_good": "each baker might <wug#284> bread", "sentence_bad": "each baker might <wug#284>", "pairID": 284}
+{"sentence_good": "all carpenters could <wug#285> wood", "sentence_bad": "all carpenters could <wug#285>", "pairID": 285}
+{"sentence_good": "any squirrel should not <wug#286> the nut", "sentence_bad": "any squirrel should not <wug#286>", "pairID": 286}
+{"sentence_good": "several lamps were <wug#287>ing light", "sentence_bad": "several lamps were <wug#287>ing", "pairID": 287}
+{"sentence_good": "the fridge will <wug#288> the food", "sentence_bad": "the fridge will <wug#288>", "pairID": 288}
+{"sentence_good": "no pitcher has <wug#289>ed the ball", "sentence_bad": "no pitcher has <wug#289>ed", "pairID": 289}
+{"sentence_good": "every teacher could <wug#290> a student", "sentence_bad": "every teacher could <wug#290>", "pairID": 290}
+{"sentence_good": "some mechanics must not <wug#291> engines", "sentence_bad": "some mechanics must not <wug#291>", "pairID": 291}
+{"sentence_good": "the architect did <wug#292> the building", "sentence_bad": "the architect did <wug#292>", "pairID": 292}
+{"sentence_good": "many scientists have <wug#293>ed experiments", "sentence_bad": "many scientists have <wug#293>ed", "pairID": 293}
+{"sentence_good": "few drummers will <wug#294> drums", "sentence_bad": "few drummers will <wug#294>", "pairID": 294}
+{"sentence_good": "each plumber might <wug#295> pipes", "sentence_bad": "each plumber might <wug#295>", "pairID": 295}
+{"sentence_good": "all barbers could <wug#296> hair", "sentence_bad": "all barbers could <wug#296>", "pairID": 296}
+{"sentence_good": "any eagle should not <wug#297> the sky", "sentence_bad": "any eagle should not <wug#297>", "pairID": 297}
+{"sentence_good": "several keys were <wug#298>ing locks", "sentence_bad": "several keys were <wug#298>ing", "pairID": 298}
+{"sentence_good": "the microwave will <wug#299> the meal", "sentence_bad": "the microwave will <wug#299>", "pairID": 299}
+{"sentence_good": "no hammer has <wug#300>ed the nail", "sentence_bad": "no hammer has <wug#300>ed", "pairID": 300}
+{"sentence_good": "every gardener could <wug#301> a plant", "sentence_bad": "every gardener could <wug#301>", "pairID": 301}
+{"sentence_good": "some judges must not <wug#302> cases", "sentence_bad": "some judges must not <wug#302>", "pairID": 302}
+{"sentence_good": "the novelist did <wug#303> the book", "sentence_bad": "the novelist did <wug#303>", "pairID": 303}
+{"sentence_good": "many teachers have <wug#304>ed lessons", "sentence_bad": "many teachers have <wug#304>ed", "pairID": 304}
+{"sentence_good": "few lions will <wug#305> zebras", "sentence_bad": "few lions will <wug#305>", "pairID": 305}
+{"sentence_good": "each driver might <wug#306> a car", "sentence_bad": "each driver might <wug#306>", "pairID": 306}
+{"sentence_good": "all painters could <wug#307> canvases", "sentence_bad": "all painters could <wug#307>", "pairID": 307}
+{"sentence_good": "any duck should not <wug#308> the pond", "sentence_bad": "any duck should not <wug#308>", "pairID": 308}
+{"sentence_good": "several ovens were <wug#309>ing cakes", "sentence_bad": "several ovens were <wug#309>ing", "pairID": 309}
+{"sentence_good": "the telescope will <wug#310> the stars", "sentence_bad": "the telescope will <wug#310>", "pairID": 310}
+{"sentence_good": "no broom has <wug#311>ed the floor", "sentence_bad": "no broom has <wug#311>ed", "pairID": 311}
+{"sentence_good": "every astronaut could <wug#312> a spaceship", "sentence_bad": "every astronaut could <wug#312>", "pairID": 312}
+{"sentence_good": "some cyclists must not <wug#313> bikes", "sentence_bad": "some cyclists must not <wug#313>", "pairID": 313}
+{"sentence_good": "the sculptor did <wug#314> the statue", "sentence_bad": "the sculptor did <wug#314>", "pairID": 314}
+{"sentence_good": "many reporters have <wug#315>ed news", "sentence_bad": "many reporters have <wug#315>ed", "pairID": 315}
+{"sentence_good": "few sharks will <wug#316> fish", "sentence_bad": "few sharks will <wug#316>", "pairID": 316}
+{"sentence_good": "each farmer might <wug#317> crops", "sentence_bad": "each farmer might <wug#317>", "pairID": 317}
+{"sentence_good": "all electricians could <wug#318> wires", "sentence_bad": "all electricians could <wug#318>", "pairID": 318}
+{"sentence_good": "any rabbit should not <wug#319> the carrot", "sentence_bad": "any rabbit should not <wug#319>", "pairID": 319}
+{"sentence_good": "several blenders were <wug#320>ing smoothies", "sentence_bad": "several blenders were <wug#320>ing", "pairID": 320}
+{"sentence_good": "the freezer will <wug#321> the ice cream", "sentence_bad": "the freezer will <wug#321>", "pairID": 321}
+{"sentence_good": "no chisel has <wug#322>ed the wood", "sentence_bad": "no chisel has <wug#322>ed", "pairID": 322}
+{"sentence_good": "every pilot could <wug#323> a plane", "sentence_bad": "every pilot could <wug#323>", "pairID": 323}
+{"sentence_good": "some bakers must not <wug#324> cakes", "sentence_bad": "some bakers must not <wug#324>", "pairID": 324}
+{"sentence_good": "the jeweler did <wug#325> the necklace", "sentence_bad": "the jeweler did <wug#325>", "pairID": 325}
+{"sentence_good": "many biologists have <wug#326>ed cells", "sentence_bad": "many biologists have <wug#326>ed", "pairID": 326}
+{"sentence_good": "few wolves will <wug#327> deer", "sentence_bad": "few wolves will <wug#327>", "pairID": 327}
+{"sentence_good": "each chemist might <wug#328> chemicals", "sentence_bad": "each chemist might <wug#328>", "pairID": 328}
+{"sentence_good": "all managers could <wug#329> projects", "sentence_bad": "all managers could <wug#329>", "pairID": 329}
+{"sentence_good": "any hawk should not <wug#330> the mouse", "sentence_bad": "any hawk should not <wug#330>", "pairID": 330}
+{"sentence_good": "several mixers were <wug#331>ing dough", "sentence_bad": "several mixers were <wug#331>ing", "pairID": 331}
+{"sentence_good": "the drill will <wug#332> the hole", "sentence_bad": "the drill will <wug#332>", "pairID": 332}
+{"sentence_good": "no saw has <wug#333>ed the tree", "sentence_bad": "no saw has <wug#333>ed", "pairID": 333}
+{"sentence_good": "every fisherman could <wug#334> a net", "sentence_bad": "every fisherman could <wug#334>", "pairID": 334}
+{"sentence_good": "some tailors must not <wug#335> clothes", "sentence_bad": "some tailors must not <wug#335>", "pairID": 335}
+{"sentence_good": "the author did <wug#336> the novel", "sentence_bad": "the author did <wug#336>", "pairID": 336}
+{"sentence_good": "many mathematicians have <wug#337>ed equations", "sentence_bad": "many mathematicians have <wug#337>ed", "pairID": 337}
+{"sentence_good": "few eagles will <wug#338> rabbits", "sentence_bad": "few eagles will <wug#338>", "pairID": 338}
+{"sentence_good": "each nurse might <wug#339> patients", "sentence_bad": "each nurse might <wug#339>", "pairID": 339}
+{"sentence_good": "all architects could <wug#340> buildings", "sentence_bad": "all architects could <wug#340>", "pairID": 340}
+{"sentence_good": "any frog should not <wug#341> the pond", "sentence_bad": "any frog should not <wug#341>", "pairID": 341}
+{"sentence_good": "several refrigerators were <wug#342>ing food", "sentence_bad": "several refrigerators were <wug#342>ing", "pairID": 342}
+{"sentence_good": "the camera will <wug#343> the photo", "sentence_bad": "the camera will <wug#343>", "pairID": 343}
+{"sentence_good": "no pencil has <wug#344>ed the paper", "sentence_bad": "no pencil has <wug#344>ed", "pairID": 344}
+{"sentence_good": "every singer could <wug#345> a song", "sentence_bad": "every singer could <wug#345>", "pairID": 345}
+{"sentence_good": "some directors must not <wug#346> movies", "sentence_bad": "some directors must not <wug#346>", "pairID": 346}
+{"sentence_good": "the builder did <wug#347> the house", "sentence_bad": "the builder did <wug#347>", "pairID": 347}
+{"sentence_good": "many programmers have <wug#348>ed software", "sentence_bad": "many programmers have <wug#348>ed", "pairID": 348}
+{"sentence_good": "few bears will <wug#349> honey", "sentence_bad": "few bears will <wug#349>", "pairID": 349}
+{"sentence_good": "each teacher might <wug#350> students", "sentence_bad": "each teacher might <wug#350>", "pairID": 350}
+{"sentence_good": "all dancers could <wug#351> routines", "sentence_bad": "all dancers could <wug#351>", "pairID": 351}
+{"sentence_good": "several ovens were <wug#352>ing bread", "sentence_bad": "several ovens were <wug#352>ing", "pairID": 352}
+{"sentence_good": "the blender will <wug#353> the ingredients", "sentence_bad": "the blender will <wug#353>", "pairID": 353}
+{"sentence_good": "no fan has <wug#354>ed the air", "sentence_bad": "no fan has <wug#354>ed", "pairID": 354}
+{"sentence_good": "every mechanic could <wug#355> a car", "sentence_bad": "every mechanic could <wug#355>", "pairID": 355}
+{"sentence_good": "some painters must not <wug#356> walls", "sentence_bad": "some painters must not <wug#356>", "pairID": 356}
+{"sentence_good": "the gardener did <wug#357> the plants", "sentence_bad": "the gardener did <wug#357>", "pairID": 357}
+{"sentence_good": "many students have <wug#358>ed homework", "sentence_bad": "many students have <wug#358>ed", "pairID": 358}
+{"sentence_good": "few cats will <wug#359> mice", "sentence_bad": "few cats will <wug#359>", "pairID": 359}
+{"sentence_good": "each driver might <wug#360> a truck", "sentence_bad": "each driver might <wug#360>", "pairID": 360}
+{"sentence_good": "all chefs could <wug#361> meals", "sentence_bad": "all chefs could <wug#361>", "pairID": 361}
+{"sentence_good": "any bird should not <wug#362> the worm", "sentence_bad": "any bird should not <wug#362>", "pairID": 362}
+{"sentence_good": "several mixers were <wug#363>ing batter", "sentence_bad": "several mixers were <wug#363>ing", "pairID": 363}
+{"sentence_good": "no knife has <wug#364>ed the fruit", "sentence_bad": "no knife has <wug#364>ed", "pairID": 364}
+{"sentence_good": "every actor could <wug#365> a script", "sentence_bad": "every actor could <wug#365>", "pairID": 365}
+{"sentence_good": "some referees must not <wug#366> fouls", "sentence_bad": "some referees must not <wug#366>", "pairID": 366}
+{"sentence_good": "the goalie did <wug#367> the shot", "sentence_bad": "the goalie did <wug#367>", "pairID": 367}
+{"sentence_good": "many swimmers have <wug#368>ed races", "sentence_bad": "many swimmers have <wug#368>ed", "pairID": 368}
+{"sentence_good": "few cheetahs will <wug#369> antelopes", "sentence_bad": "few cheetahs will <wug#369>", "pairID": 369}
+{"sentence_good": "each baker might <wug#370> pastries", "sentence_bad": "each baker might <wug#370>", "pairID": 370}
+{"sentence_good": "all carpenters could <wug#371> furniture", "sentence_bad": "all carpenters could <wug#371>", "pairID": 371}
+{"sentence_good": "any squirrel should not <wug#372> acorns", "sentence_bad": "any squirrel should not <wug#372>", "pairID": 372}
+{"sentence_good": "several lamps were <wug#373>ing bulbs", "sentence_bad": "several lamps were <wug#373>ing", "pairID": 373}
+{"sentence_good": "the fridge will <wug#374> the vegetables", "sentence_bad": "the fridge will <wug#374>", "pairID": 374}
+{"sentence_good": "no broom has <wug#375>ed the dust", "sentence_bad": "no broom has <wug#375>ed", "pairID": 375}
+{"sentence_good": "every astronaut could <wug#376> a mission", "sentence_bad": "every astronaut could <wug#376>", "pairID": 376}
+{"sentence_good": "some cyclists must not <wug#377> races", "sentence_bad": "some cyclists must not <wug#377>", "pairID": 377}
+{"sentence_good": "the sculptor did <wug#378> the marble", "sentence_bad": "the sculptor did <wug#378>", "pairID": 378}
+{"sentence_good": "many reporters have <wug#379>ed stories", "sentence_bad": "many reporters have <wug#379>ed", "pairID": 379}
+{"sentence_good": "few sharks will <wug#380> seals", "sentence_bad": "few sharks will <wug#380>", "pairID": 380}
+{"sentence_good": "each farmer might <wug#381> livestock", "sentence_bad": "each farmer might <wug#381>", "pairID": 381}
+{"sentence_good": "all electricians could <wug#382> circuits", "sentence_bad": "all electricians could <wug#382>", "pairID": 382}
+{"sentence_good": "some trees have <wug#383>ed the car", "sentence_bad": "some trees have <wug#383>ed", "pairID": 383}
+{"sentence_good": "each monkey might <wug#384> a banana", "sentence_bad": "each monkey might <wug#384>", "pairID": 384}
+{"sentence_good": "no teacher will <wug#385> the student", "sentence_bad": "no teacher will <wug#385>", "pairID": 385}
+{"sentence_good": "every flower should <wug#386> the vase", "sentence_bad": "every flower should <wug#386>", "pairID": 386}
+{"sentence_good": "a few clouds could <wug#387> the sun", "sentence_bad": "a few clouds could <wug#387>", "pairID": 387}
+{"sentence_good": "the lion has <wug#388>ed the zebra", "sentence_bad": "the lion has <wug#388>ed", "pairID": 388}
+{"sentence_good": "many books can <wug#389> a shelf", "sentence_bad": "many books can <wug#389>", "pairID": 389}
+{"sentence_good": "no cup will <wug#390> the saucer", "sentence_bad": "no cup will <wug#390>", "pairID": 390}
+{"sentence_good": "each key must <wug#391> a lock", "sentence_bad": "each key must <wug#391>", "pairID": 391}
+{"sentence_good": "some birds have <wug#392>ed the worm", "sentence_bad": "some birds have <wug#392>ed", "pairID": 392}
+{"sentence_good": "every computer should <wug#393> a program", "sentence_bad": "every computer should <wug#393>", "pairID": 393}
+{"sentence_good": "a few stars could <wug#394> the night", "sentence_bad": "a few stars could <wug#394>", "pairID": 394}
+{"sentence_good": "the fish has <wug#395>ed the water", "sentence_bad": "the fish has <wug#395>ed", "pairID": 395}
+{"sentence_good": "many chairs can <wug#396> a table", "sentence_bad": "many chairs can <wug#396>", "pairID": 396}
+{"sentence_good": "no shoe will <wug#397> the foot", "sentence_bad": "no shoe will <wug#397>", "pairID": 397}
+{"sentence_good": "each window must <wug#398> a curtain", "sentence_bad": "each window must <wug#398>", "pairID": 398}
+{"sentence_good": "some pencils have <wug#399>ed the paper", "sentence_bad": "some pencils have <wug#399>ed", "pairID": 399}
+{"sentence_good": "a cat will <wug#400> the dog", "sentence_bad": "a cat will <wug#400>", "pairID": 400}
+{"sentence_good": "no bird has <wug#401>ed the fish", "sentence_bad": "no bird has <wug#401>ed", "pairID": 401}
+{"sentence_good": "every student should <wug#402> a question", "sentence_bad": "every student should <wug#402>", "pairID": 402}
+{"sentence_good": "some apples can <wug#403> oranges", "sentence_bad": "some apples can <wug#403>", "pairID": 403}
+{"sentence_good": "the teacher did not <wug#404> the papers", "sentence_bad": "the teacher did not <wug#404>", "pairID": 404}
+{"sentence_good": "many chairs have <wug#405>ed tables", "sentence_bad": "many chairs have <wug#405>ed", "pairID": 405}
+{"sentence_good": "few books could <wug#406> magazines", "sentence_bad": "few books could <wug#406>", "pairID": 406}
+{"sentence_good": "each lawyer must <wug#407> a case", "sentence_bad": "each lawyer must <wug#407>", "pairID": 407}
+{"sentence_good": "all birds might <wug#408> a worm", "sentence_bad": "all birds might <wug#408>", "pairID": 408}
+{"sentence_good": "any car should not <wug#409> bicycles", "sentence_bad": "any car should not <wug#409>", "pairID": 409}
+{"sentence_good": "several windows were <wug#410>ing doors", "sentence_bad": "several windows were <wug#410>ing", "pairID": 410}
+{"sentence_good": "the box will <wug#411> the bag", "sentence_bad": "the box will <wug#411>", "pairID": 411}
+{"sentence_good": "no lamp has <wug#412>ed the bulb", "sentence_bad": "no lamp has <wug#412>ed", "pairID": 412}
+{"sentence_good": "every key could <wug#413> a lock", "sentence_bad": "every key could <wug#413>", "pairID": 413}
+{"sentence_good": "some shoes must not <wug#414> socks", "sentence_bad": "some shoes must not <wug#414>", "pairID": 414}
+{"sentence_good": "the child did <wug#415> the toy", "sentence_bad": "the child did <wug#415>", "pairID": 415}
+{"sentence_good": "many pens have <wug#416>ed notebooks", "sentence_bad": "many pens have <wug#416>ed", "pairID": 416}
+{"sentence_good": "few stars will <wug#417> planets", "sentence_bad": "few stars will <wug#417>", "pairID": 417}
+{"sentence_good": "each player might <wug#418> a ball", "sentence_bad": "each player might <wug#418>", "pairID": 418}
+{"sentence_good": "all chefs could <wug#419> a meal", "sentence_bad": "all chefs could <wug#419>", "pairID": 419}
+{"sentence_good": "any teacher should not <wug#420> students", "sentence_bad": "any teacher should not <wug#420>", "pairID": 420}
+{"sentence_good": "several cups were <wug#421>ing saucers", "sentence_bad": "several cups were <wug#421>ing", "pairID": 421}
+{"sentence_good": "the phone will <wug#422> the call", "sentence_bad": "the phone will <wug#422>", "pairID": 422}
+{"sentence_good": "no clock has <wug#423>ed the time", "sentence_bad": "no clock has <wug#423>ed", "pairID": 423}
+{"sentence_good": "every pillow could <wug#424> a blanket", "sentence_bad": "every pillow could <wug#424>", "pairID": 424}
+{"sentence_good": "some walls must not <wug#425> paint", "sentence_bad": "some walls must not <wug#425>", "pairID": 425}
+{"sentence_good": "the flower did <wug#426> the vase", "sentence_bad": "the flower did <wug#426>", "pairID": 426}
+{"sentence_good": "many trees have <wug#427>ed leaves", "sentence_bad": "many trees have <wug#427>ed", "pairID": 427}
+{"sentence_good": "few clouds will <wug#428> rain", "sentence_bad": "few clouds will <wug#428>", "pairID": 428}
+{"sentence_good": "each bee might <wug#429> honey", "sentence_bad": "each bee might <wug#429>", "pairID": 429}
+{"sentence_good": "all lions could <wug#430> a zebra", "sentence_bad": "all lions could <wug#430>", "pairID": 430}
+{"sentence_good": "any fish should not <wug#431> the sea", "sentence_bad": "any fish should not <wug#431>", "pairID": 431}
+{"sentence_good": "several hats were <wug#432>ing coats", "sentence_bad": "several hats were <wug#432>ing", "pairID": 432}
+{"sentence_good": "the spoon will <wug#433> the soup", "sentence_bad": "the spoon will <wug#433>", "pairID": 433}
+{"sentence_good": "no shoe has <wug#434>ed the lace", "sentence_bad": "no shoe has <wug#434>ed", "pairID": 434}
+{"sentence_good": "every mouse could <wug#435> a cheese", "sentence_bad": "every mouse could <wug#435>", "pairID": 435}
+{"sentence_good": "some elephants must not <wug#436> peanuts", "sentence_bad": "some elephants must not <wug#436>", "pairID": 436}
+{"sentence_good": "the monkey did <wug#437> the banana", "sentence_bad": "the monkey did <wug#437>", "pairID": 437}
+{"sentence_good": "many birds have <wug#438>ed nests", "sentence_bad": "many birds have <wug#438>ed", "pairID": 438}
+{"sentence_good": "few tigers will <wug#439> deer", "sentence_bad": "few tigers will <wug#439>", "pairID": 439}
+{"sentence_good": "each artist might <wug#440> a painting", "sentence_bad": "each artist might <wug#440>", "pairID": 440}
+{"sentence_good": "all soldiers could <wug#441> a mission", "sentence_bad": "all soldiers could <wug#441>", "pairID": 441}
+{"sentence_good": "any boat should not <wug#442> the river", "sentence_bad": "any boat should not <wug#442>", "pairID": 442}
+{"sentence_good": "several desks were <wug#443>ing chairs", "sentence_bad": "several desks were <wug#443>ing", "pairID": 443}
+{"sentence_good": "the hammer will <wug#444> the nail", "sentence_bad": "the hammer will <wug#444>", "pairID": 444}
+{"sentence_good": "no fork has <wug#445>ed the plate", "sentence_bad": "no fork has <wug#445>ed", "pairID": 445}
+{"sentence_good": "every cow could <wug#446> a field", "sentence_bad": "every cow could <wug#446>", "pairID": 446}
+{"sentence_good": "some gardens must not <wug#447> flowers", "sentence_bad": "some gardens must not <wug#447>", "pairID": 447}
+{"sentence_good": "the baker did <wug#448> the bread", "sentence_bad": "the baker did <wug#448>", "pairID": 448}
+{"sentence_good": "many clouds have <wug#449>ed rain", "sentence_bad": "many clouds have <wug#449>ed", "pairID": 449}
+{"sentence_good": "few wolves will <wug#450> sheep", "sentence_bad": "few wolves will <wug#450>", "pairID": 450}
+{"sentence_good": "each teacher might <wug#451> a lesson", "sentence_bad": "each teacher might <wug#451>", "pairID": 451}
+{"sentence_good": "all judges could <wug#452> a case", "sentence_bad": "all judges could <wug#452>", "pairID": 452}
+{"sentence_good": "any cat should not <wug#453> the mouse", "sentence_bad": "any cat should not <wug#453>", "pairID": 453}
+{"sentence_good": "several shoes were <wug#454>ing laces", "sentence_bad": "several shoes were <wug#454>ing", "pairID": 454}
+{"sentence_good": "the stove will <wug#455> the pot", "sentence_bad": "the stove will <wug#455>", "pairID": 455}
+{"sentence_good": "no knife has <wug#456>ed the board", "sentence_bad": "no knife has <wug#456>ed", "pairID": 456}
+{"sentence_good": "every actor could <wug#457> a role", "sentence_bad": "every actor could <wug#457>", "pairID": 457}
+{"sentence_good": "some players must not <wug#458> the game", "sentence_bad": "some players must not <wug#458>", "pairID": 458}
+{"sentence_good": "the painter did <wug#459> the canvas", "sentence_bad": "the painter did <wug#459>", "pairID": 459}
+{"sentence_good": "many farmers have <wug#460>ed fields", "sentence_bad": "many farmers have <wug#460>ed", "pairID": 460}
+{"sentence_good": "few horses will <wug#461> carts", "sentence_bad": "few horses will <wug#461>", "pairID": 461}
+{"sentence_good": "each student might <wug#462> a book", "sentence_bad": "each student might <wug#462>", "pairID": 462}
+{"sentence_good": "all mechanics could <wug#463> a car", "sentence_bad": "all mechanics could <wug#463>", "pairID": 463}
+{"sentence_good": "any owl should not <wug#464> the tree", "sentence_bad": "any owl should not <wug#464>", "pairID": 464}
+{"sentence_good": "several brushes were <wug#465>ing paints", "sentence_bad": "several brushes were <wug#465>ing", "pairID": 465}
+{"sentence_good": "the blender will <wug#466> the fruit", "sentence_bad": "the blender will <wug#466>", "pairID": 466}
+{"sentence_good": "no bat has <wug#467>ed the ball", "sentence_bad": "no bat has <wug#467>ed", "pairID": 467}
+{"sentence_good": "every chef could <wug#468> a dish", "sentence_bad": "every chef could <wug#468>", "pairID": 468}
+{"sentence_good": "some actors must not <wug#469> lines", "sentence_bad": "some actors must not <wug#469>", "pairID": 469}
+{"sentence_good": "the director did <wug#470> the scene", "sentence_bad": "the director did <wug#470>", "pairID": 470}
+{"sentence_good": "many dancers have <wug#471>ed routines", "sentence_bad": "many dancers have <wug#471>ed", "pairID": 471}
+{"sentence_good": "few bears will <wug#472> fish", "sentence_bad": "few bears will <wug#472>", "pairID": 472}
+{"sentence_good": "each gardener might <wug#473> plants", "sentence_bad": "each gardener might <wug#473>", "pairID": 473}
+{"sentence_good": "all pilots could <wug#474> planes", "sentence_bad": "all pilots could <wug#474>", "pairID": 474}
+{"sentence_good": "any spider should not <wug#475> the web", "sentence_bad": "any spider should not <wug#475>", "pairID": 475}
+{"sentence_good": "several tires were <wug#476>ing wheels", "sentence_bad": "several tires were <wug#476>ing", "pairID": 476}
+{"sentence_good": "the oven will <wug#477> the cake", "sentence_bad": "the oven will <wug#477>", "pairID": 477}
+{"sentence_good": "no brush has <wug#478>ed the paint", "sentence_bad": "no brush has <wug#478>ed", "pairID": 478}
+{"sentence_good": "every musician could <wug#479> an instrument", "sentence_bad": "every musician could <wug#479>", "pairID": 479}
+{"sentence_good": "some referees must not <wug#480> the match", "sentence_bad": "some referees must not <wug#480>", "pairID": 480}
+{"sentence_good": "the goalie did <wug#481> the ball", "sentence_bad": "the goalie did <wug#481>", "pairID": 481}
+{"sentence_good": "many swimmers have <wug#482>ed laps", "sentence_bad": "many swimmers have <wug#482>ed", "pairID": 482}
+{"sentence_good": "few cheetahs will <wug#483> gazelles", "sentence_bad": "few cheetahs will <wug#483>", "pairID": 483}
+{"sentence_good": "each baker might <wug#484> bread", "sentence_bad": "each baker might <wug#484>", "pairID": 484}
+{"sentence_good": "all carpenters could <wug#485> wood", "sentence_bad": "all carpenters could <wug#485>", "pairID": 485}
+{"sentence_good": "any squirrel should not <wug#486> the nut", "sentence_bad": "any squirrel should not <wug#486>", "pairID": 486}
+{"sentence_good": "several lamps were <wug#487>ing light", "sentence_bad": "several lamps were <wug#487>ing", "pairID": 487}
+{"sentence_good": "the fridge will <wug#488> the food", "sentence_bad": "the fridge will <wug#488>", "pairID": 488}
+{"sentence_good": "no pitcher has <wug#489>ed the ball", "sentence_bad": "no pitcher has <wug#489>ed", "pairID": 489}
+{"sentence_good": "every teacher could <wug#490> a student", "sentence_bad": "every teacher could <wug#490>", "pairID": 490}
+{"sentence_good": "some mechanics must not <wug#491> engines", "sentence_bad": "some mechanics must not <wug#491>", "pairID": 491}
+{"sentence_good": "the architect did <wug#492> the building", "sentence_bad": "the architect did <wug#492>", "pairID": 492}
+{"sentence_good": "many scientists have <wug#493>ed experiments", "sentence_bad": "many scientists have <wug#493>ed", "pairID": 493}
+{"sentence_good": "few drummers will <wug#494> drums", "sentence_bad": "few drummers will <wug#494>", "pairID": 494}
+{"sentence_good": "each plumber might <wug#495> pipes", "sentence_bad": "each plumber might <wug#495>", "pairID": 495}
+{"sentence_good": "all barbers could <wug#496> hair", "sentence_bad": "all barbers could <wug#496>", "pairID": 496}
+{"sentence_good": "any eagle should not <wug#497> the sky", "sentence_bad": "any eagle should not <wug#497>", "pairID": 497}
+{"sentence_good": "several keys were <wug#498>ing locks", "sentence_bad": "several keys were <wug#498>ing", "pairID": 498}
+{"sentence_good": "the microwave will <wug#499> the meal", "sentence_bad": "the microwave will <wug#499>", "pairID": 499}
+{"sentence_good": "no hammer has <wug#500>ed the nail", "sentence_bad": "no hammer has <wug#500>ed", "pairID": 500}
+{"sentence_good": "every gardener could <wug#501> a plant", "sentence_bad": "every gardener could <wug#501>", "pairID": 501}
+{"sentence_good": "some judges must not <wug#502> cases", "sentence_bad": "some judges must not <wug#502>", "pairID": 502}
+{"sentence_good": "the novelist did <wug#503> the book", "sentence_bad": "the novelist did <wug#503>", "pairID": 503}
+{"sentence_good": "many teachers have <wug#504>ed lessons", "sentence_bad": "many teachers have <wug#504>ed", "pairID": 504}
+{"sentence_good": "few lions will <wug#505> zebras", "sentence_bad": "few lions will <wug#505>", "pairID": 505}
+{"sentence_good": "each driver might <wug#506> a car", "sentence_bad": "each driver might <wug#506>", "pairID": 506}
+{"sentence_good": "all painters could <wug#507> canvases", "sentence_bad": "all painters could <wug#507>", "pairID": 507}
+{"sentence_good": "any duck should not <wug#508> the pond", "sentence_bad": "any duck should not <wug#508>", "pairID": 508}
+{"sentence_good": "several ovens were <wug#509>ing cakes", "sentence_bad": "several ovens were <wug#509>ing", "pairID": 509}
+{"sentence_good": "the telescope will <wug#510> the stars", "sentence_bad": "the telescope will <wug#510>", "pairID": 510}
+{"sentence_good": "no broom has <wug#511>ed the floor", "sentence_bad": "no broom has <wug#511>ed", "pairID": 511}
+{"sentence_good": "every astronaut could <wug#512> a spaceship", "sentence_bad": "every astronaut could <wug#512>", "pairID": 512}
+{"sentence_good": "some cyclists must not <wug#513> bikes", "sentence_bad": "some cyclists must not <wug#513>", "pairID": 513}
+{"sentence_good": "the sculptor did <wug#514> the statue", "sentence_bad": "the sculptor did <wug#514>", "pairID": 514}
+{"sentence_good": "many reporters have <wug#515>ed news", "sentence_bad": "many reporters have <wug#515>ed", "pairID": 515}
+{"sentence_good": "few sharks will <wug#516> fish", "sentence_bad": "few sharks will <wug#516>", "pairID": 516}
+{"sentence_good": "each farmer might <wug#517> crops", "sentence_bad": "each farmer might <wug#517>", "pairID": 517}
+{"sentence_good": "all electricians could <wug#518> wires", "sentence_bad": "all electricians could <wug#518>", "pairID": 518}
+{"sentence_good": "any rabbit should not <wug#519> the carrot", "sentence_bad": "any rabbit should not <wug#519>", "pairID": 519}
+{"sentence_good": "several blenders were <wug#520>ing smoothies", "sentence_bad": "several blenders were <wug#520>ing", "pairID": 520}
+{"sentence_good": "the freezer will <wug#521> the ice cream", "sentence_bad": "the freezer will <wug#521>", "pairID": 521}
+{"sentence_good": "no chisel has <wug#522>ed the wood", "sentence_bad": "no chisel has <wug#522>ed", "pairID": 522}
+{"sentence_good": "every pilot could <wug#523> a plane", "sentence_bad": "every pilot could <wug#523>", "pairID": 523}
+{"sentence_good": "some bakers must not <wug#524> cakes", "sentence_bad": "some bakers must not <wug#524>", "pairID": 524}
+{"sentence_good": "the jeweler did <wug#525> the necklace", "sentence_bad": "the jeweler did <wug#525>", "pairID": 525}
+{"sentence_good": "many biologists have <wug#526>ed cells", "sentence_bad": "many biologists have <wug#526>ed", "pairID": 526}
+{"sentence_good": "few wolves will <wug#527> deer", "sentence_bad": "few wolves will <wug#527>", "pairID": 527}
+{"sentence_good": "each chemist might <wug#528> chemicals", "sentence_bad": "each chemist might <wug#528>", "pairID": 528}
+{"sentence_good": "all managers could <wug#529> projects", "sentence_bad": "all managers could <wug#529>", "pairID": 529}
+{"sentence_good": "any hawk should not <wug#530> the mouse", "sentence_bad": "any hawk should not <wug#530>", "pairID": 530}
+{"sentence_good": "several mixers were <wug#531>ing dough", "sentence_bad": "several mixers were <wug#531>ing", "pairID": 531}
+{"sentence_good": "the drill will <wug#532> the hole", "sentence_bad": "the drill will <wug#532>", "pairID": 532}
+{"sentence_good": "no saw has <wug#533>ed the tree", "sentence_bad": "no saw has <wug#533>ed", "pairID": 533}
+{"sentence_good": "every fisherman could <wug#534> a net", "sentence_bad": "every fisherman could <wug#534>", "pairID": 534}
+{"sentence_good": "some tailors must not <wug#535> clothes", "sentence_bad": "some tailors must not <wug#535>", "pairID": 535}
+{"sentence_good": "the author did <wug#536> the novel", "sentence_bad": "the author did <wug#536>", "pairID": 536}
+{"sentence_good": "many mathematicians have <wug#537>ed equations", "sentence_bad": "many mathematicians have <wug#537>ed", "pairID": 537}
+{"sentence_good": "few eagles will <wug#538> rabbits", "sentence_bad": "few eagles will <wug#538>", "pairID": 538}
+{"sentence_good": "each nurse might <wug#539> patients", "sentence_bad": "each nurse might <wug#539>", "pairID": 539}
+{"sentence_good": "all architects could <wug#540> buildings", "sentence_bad": "all architects could <wug#540>", "pairID": 540}
+{"sentence_good": "any frog should not <wug#541> the pond", "sentence_bad": "any frog should not <wug#541>", "pairID": 541}
+{"sentence_good": "several refrigerators were <wug#542>ing food", "sentence_bad": "several refrigerators were <wug#542>ing", "pairID": 542}
+{"sentence_good": "the camera will <wug#543> the photo", "sentence_bad": "the camera will <wug#543>", "pairID": 543}
+{"sentence_good": "no pencil has <wug#544>ed the paper", "sentence_bad": "no pencil has <wug#544>ed", "pairID": 544}
+{"sentence_good": "every singer could <wug#545> a song", "sentence_bad": "every singer could <wug#545>", "pairID": 545}
+{"sentence_good": "some directors must not <wug#546> movies", "sentence_bad": "some directors must not <wug#546>", "pairID": 546}
+{"sentence_good": "the builder did <wug#547> the house", "sentence_bad": "the builder did <wug#547>", "pairID": 547}
+{"sentence_good": "many programmers have <wug#548>ed software", "sentence_bad": "many programmers have <wug#548>ed", "pairID": 548}
+{"sentence_good": "few bears will <wug#549> honey", "sentence_bad": "few bears will <wug#549>", "pairID": 549}
+{"sentence_good": "each teacher might <wug#550> students", "sentence_bad": "each teacher might <wug#550>", "pairID": 550}
+{"sentence_good": "all dancers could <wug#551> routines", "sentence_bad": "all dancers could <wug#551>", "pairID": 551}
+{"sentence_good": "several ovens were <wug#552>ing bread", "sentence_bad": "several ovens were <wug#552>ing", "pairID": 552}
+{"sentence_good": "the blender will <wug#553> the ingredients", "sentence_bad": "the blender will <wug#553>", "pairID": 553}
+{"sentence_good": "no fan has <wug#554>ed the air", "sentence_bad": "no fan has <wug#554>ed", "pairID": 554}
+{"sentence_good": "every mechanic could <wug#555> a car", "sentence_bad": "every mechanic could <wug#555>", "pairID": 555}
+{"sentence_good": "some painters must not <wug#556> walls", "sentence_bad": "some painters must not <wug#556>", "pairID": 556}
+{"sentence_good": "the gardener did <wug#557> the plants", "sentence_bad": "the gardener did <wug#557>", "pairID": 557}
+{"sentence_good": "many students have <wug#558>ed homework", "sentence_bad": "many students have <wug#558>ed", "pairID": 558}
+{"sentence_good": "few cats will <wug#559> mice", "sentence_bad": "few cats will <wug#559>", "pairID": 559}
+{"sentence_good": "each driver might <wug#560> a truck", "sentence_bad": "each driver might <wug#560>", "pairID": 560}
+{"sentence_good": "all chefs could <wug#561> meals", "sentence_bad": "all chefs could <wug#561>", "pairID": 561}
+{"sentence_good": "any bird should not <wug#562> the worm", "sentence_bad": "any bird should not <wug#562>", "pairID": 562}
+{"sentence_good": "several mixers were <wug#563>ing batter", "sentence_bad": "several mixers were <wug#563>ing", "pairID": 563}
+{"sentence_good": "no knife has <wug#564>ed the fruit", "sentence_bad": "no knife has <wug#564>ed", "pairID": 564}
+{"sentence_good": "every actor could <wug#565> a script", "sentence_bad": "every actor could <wug#565>", "pairID": 565}
+{"sentence_good": "some referees must not <wug#566> fouls", "sentence_bad": "some referees must not <wug#566>", "pairID": 566}
+{"sentence_good": "the goalie did <wug#567> the shot", "sentence_bad": "the goalie did <wug#567>", "pairID": 567}
+{"sentence_good": "many swimmers have <wug#568>ed races", "sentence_bad": "many swimmers have <wug#568>ed", "pairID": 568}
+{"sentence_good": "few cheetahs will <wug#569> antelopes", "sentence_bad": "few cheetahs will <wug#569>", "pairID": 569}
+{"sentence_good": "each baker might <wug#570> pastries", "sentence_bad": "each baker might <wug#570>", "pairID": 570}
+{"sentence_good": "all carpenters could <wug#571> furniture", "sentence_bad": "all carpenters could <wug#571>", "pairID": 571}
+{"sentence_good": "any squirrel should not <wug#572> acorns", "sentence_bad": "any squirrel should not <wug#572>", "pairID": 572}
+{"sentence_good": "several lamps were <wug#573>ing bulbs", "sentence_bad": "several lamps were <wug#573>ing", "pairID": 573}
+{"sentence_good": "the fridge will <wug#574> the vegetables", "sentence_bad": "the fridge will <wug#574>", "pairID": 574}
+{"sentence_good": "no broom has <wug#575>ed the dust", "sentence_bad": "no broom has <wug#575>ed", "pairID": 575}
+{"sentence_good": "every astronaut could <wug#576> a mission", "sentence_bad": "every astronaut could <wug#576>", "pairID": 576}
+{"sentence_good": "some cyclists must not <wug#577> races", "sentence_bad": "some cyclists must not <wug#577>", "pairID": 577}
+{"sentence_good": "the sculptor did <wug#578> the marble", "sentence_bad": "the sculptor did <wug#578>", "pairID": 578}
+{"sentence_good": "many reporters have <wug#579>ed stories", "sentence_bad": "many reporters have <wug#579>ed", "pairID": 579}
+{"sentence_good": "few sharks will <wug#580> seals", "sentence_bad": "few sharks will <wug#580>", "pairID": 580}
+{"sentence_good": "each farmer might <wug#581> livestock", "sentence_bad": "each farmer might <wug#581>", "pairID": 581}
+{"sentence_good": "all electricians could <wug#582> circuits", "sentence_bad": "all electricians could <wug#582>", "pairID": 582}
+{"sentence_good": "some trees have <wug#583>ed the car", "sentence_bad": "some trees have <wug#583>ed", "pairID": 583}
+{"sentence_good": "each monkey might <wug#584> a banana", "sentence_bad": "each monkey might <wug#584>", "pairID": 584}
+{"sentence_good": "no teacher will <wug#585> the student", "sentence_bad": "no teacher will <wug#585>", "pairID": 585}
+{"sentence_good": "every flower should <wug#586> the vase", "sentence_bad": "every flower should <wug#586>", "pairID": 586}
+{"sentence_good": "a few clouds could <wug#587> the sun", "sentence_bad": "a few clouds could <wug#587>", "pairID": 587}
+{"sentence_good": "the lion has <wug#588>ed the zebra", "sentence_bad": "the lion has <wug#588>ed", "pairID": 588}
+{"sentence_good": "many books can <wug#589> a shelf", "sentence_bad": "many books can <wug#589>", "pairID": 589}
+{"sentence_good": "no cup will <wug#590> the saucer", "sentence_bad": "no cup will <wug#590>", "pairID": 590}
+{"sentence_good": "each key must <wug#591> a lock", "sentence_bad": "each key must <wug#591>", "pairID": 591}
+{"sentence_good": "some birds have <wug#592>ed the worm", "sentence_bad": "some birds have <wug#592>ed", "pairID": 592}
+{"sentence_good": "every computer should <wug#593> a program", "sentence_bad": "every computer should <wug#593>", "pairID": 593}
+{"sentence_good": "a few stars could <wug#594> the night", "sentence_bad": "a few stars could <wug#594>", "pairID": 594}
+{"sentence_good": "the fish has <wug#595>ed the water", "sentence_bad": "the fish has <wug#595>ed", "pairID": 595}
+{"sentence_good": "many chairs can <wug#596> a table", "sentence_bad": "many chairs can <wug#596>", "pairID": 596}
+{"sentence_good": "no shoe will <wug#597> the foot", "sentence_bad": "no shoe will <wug#597>", "pairID": 597}
+{"sentence_good": "each window must <wug#598> a curtain", "sentence_bad": "each window must <wug#598>", "pairID": 598}
+{"sentence_good": "some pencils have <wug#599>ed the paper", "sentence_bad": "some pencils have <wug#599>ed", "pairID": 599}

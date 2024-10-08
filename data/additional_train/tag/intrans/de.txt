@@ -1,0 +1,600 @@
+a tree will not <wug#0>
+no lamp has <wug#1>ed
+every pillow was <wug#2>ing
+few bottles can <wug#3>
+some cheese should <wug#4>
+any pen might <wug#5>
+many forks have not <wug#6>ed
+each curtain could <wug#7>
+all gloves must <wug#8>
+this clock may <wug#9>
+those spoons did not <wug#10>
+the blanket has <wug#11>ed
+several hats will <wug#12>
+any key should not <wug#13>
+a few apples are <wug#14>ing
+no mirror could <wug#15>
+every chair must <wug#16>
+each shoe might <wug#17>
+some tables have <wug#18>ed
+any window will not <wug#19>
+many oranges can <wug#20>
+this plate has <wug#21>ed
+those books are <wug#22>ing
+the basket might <wug#23>
+several computers should <wug#24>
+any towel could not <wug#25>
+a few birds will <wug#26>
+no cup may <wug#27>
+every fish must not <wug#28>
+each bag might <wug#29>
+some pencils have <wug#30>ed
+any helmet will not <wug#31>
+many cars can <wug#32>
+this brush has <wug#33>ed
+those socks are <wug#34>ing
+the bell might <wug#35>
+several phones should <wug#36>
+any map could not <wug#37>
+a few stars will <wug#38>
+no frame may <wug#39>
+every planet must <wug#40>
+each kite might <wug#41>
+some clouds have <wug#42>ed
+any scarf will not <wug#43>
+many leaves can <wug#44>
+this drum has <wug#45>ed
+those stones are <wug#46>ing
+the necklace might <wug#47>
+several shells should <wug#48>
+any card could not <wug#49>
+a few mountains will <wug#50>
+no stamp may <wug#51>
+every river must <wug#52>
+each flag might <wug#53>
+some lakes have <wug#54>ed
+any whistle will not <wug#55>
+many forests can <wug#56>
+this ribbon has <wug#57>ed
+those deserts are <wug#58>ing
+the medal might <wug#59>
+several oceans should <wug#60>
+any lampshade could not <wug#61>
+a few islands will <wug#62>
+no teapot may <wug#63>
+every volcano must <wug#64>
+each glove might <wug#65>
+some reefs have <wug#66>ed
+any spoon will not <wug#67>
+many glaciers can <wug#68>
+this fork has <wug#69>ed
+those icebergs are <wug#70>ing
+the plate might <wug#71>
+several rivers should <wug#72>
+any cup could not <wug#73>
+a few streams will <wug#74>
+no bag may <wug#75>
+every creek must <wug#76>
+each helmet might <wug#77>
+some brooks have <wug#78>ed
+any brush will not <wug#79>
+many ponds can <wug#80>
+this bell has <wug#81>ed
+those lakes are <wug#82>ing
+the map might <wug#83>
+several oceans should <wug#84>
+any frame could not <wug#85>
+a few seas will <wug#86>
+no kite may <wug#87>
+every gulf must <wug#88>
+each scarf might <wug#89>
+some bays have <wug#90>ed
+any drum will not <wug#91>
+many straits can <wug#92>
+this necklace has <wug#93>ed
+those channels are <wug#94>ing
+the card might <wug#95>
+several rivers should <wug#96>
+any stamp could not <wug#97>
+a few streams will <wug#98>
+no flag may <wug#99>
+every creek must <wug#100>
+each whistle might <wug#101>
+some brooks have <wug#102>ed
+any ribbon will not <wug#103>
+many ponds can <wug#104>
+this medal has <wug#105>ed
+those lakes are <wug#106>ing
+the lampshade might <wug#107>
+several oceans should <wug#108>
+any teapot could not <wug#109>
+a few seas will <wug#110>
+no glove may <wug#111>
+every gulf must <wug#112>
+each spoon might not <wug#113>
+some bays have <wug#114>ed
+any fork will not <wug#115>
+many straits can <wug#116>
+this plate has <wug#117>ed
+those channels are <wug#118>ing
+the cup might <wug#119>
+several rivers should <wug#120>
+any bag could not <wug#121>
+a few streams will <wug#122>
+no helmet may <wug#123>
+every creek must <wug#124>
+each brush might <wug#125>
+some brooks have <wug#126>ed
+any bell will not <wug#127>
+many ponds can <wug#128>
+this map has <wug#129>ed
+those lakes are <wug#130>ing
+the frame might <wug#131>
+several oceans should <wug#132>
+any kite could not <wug#133>
+a few seas will <wug#134>
+no scarf may <wug#135>
+every gulf must <wug#136>
+each drum might <wug#137>
+some bays have <wug#138>ed
+any necklace will not <wug#139>
+many straits can <wug#140>
+this card has <wug#141>ed
+those channels are <wug#142>ing
+the stamp might <wug#143>
+several rivers should <wug#144>
+any flag could not <wug#145>
+a few streams will <wug#146>
+no whistle may <wug#147>
+every creek must <wug#148>
+each ribbon might <wug#149>
+some brooks have <wug#150>ed
+any medal will not <wug#151>
+many ponds can <wug#152>
+this lampshade has <wug#153>ed
+those lakes are <wug#154>ing
+the teapot might <wug#155>
+several oceans should <wug#156>
+any glove could not <wug#157>
+a few seas will <wug#158>
+no spoon may <wug#159>
+every gulf must <wug#160>
+each fork might <wug#161>
+some bays have <wug#162>ed
+any plate will not <wug#163>
+many straits can <wug#164>
+this cup has <wug#165>ed
+those channels are <wug#166>ing
+the bag might <wug#167>
+several rivers should <wug#168>
+any helmet could not <wug#169>
+a few streams will <wug#170>
+no brush may <wug#171>
+every creek must <wug#172>
+each bell might <wug#173>
+some brooks have <wug#174>ed
+any map will not <wug#175>
+many ponds can <wug#176>
+this frame has <wug#177>ed
+those lakes are <wug#178>ing
+the kite might <wug#179>
+several oceans should <wug#180>
+any scarf could not <wug#181>
+a few seas will <wug#182>
+no drum may <wug#183>
+every gulf must <wug#184>
+each necklace might <wug#185>
+some bays have <wug#186>ed
+any card will not <wug#187>
+many straits can <wug#188>
+this stamp has <wug#189>ed
+those channels are <wug#190>ing
+the flag might <wug#191>
+some chairs have <wug#192>ed
+few curtains will <wug#193>
+this spoon was <wug#194>ing
+no carpet should <wug#195>
+many books can <wug#196>
+each fork must not <wug#197>
+the window has <wug#198>ed
+any plate could <wug#199>
+a tree will not <wug#200>
+no lamp has <wug#201>ed
+every pillow was <wug#202>ing
+few bottles can <wug#203>
+some cheese should <wug#204>
+any pen might <wug#205>
+many forks have not <wug#206>ed
+each curtain could <wug#207>
+all gloves must <wug#208>
+this clock may <wug#209>
+those spoons did not <wug#210>
+the blanket has <wug#211>ed
+several hats will <wug#212>
+any key should not <wug#213>
+a few apples are <wug#214>ing
+no mirror could <wug#215>
+every chair must <wug#216>
+each shoe might <wug#217>
+some tables have <wug#218>ed
+any window will not <wug#219>
+many oranges can <wug#220>
+this plate has <wug#221>ed
+those books are <wug#222>ing
+the basket might <wug#223>
+several computers should <wug#224>
+any towel could not <wug#225>
+a few birds will <wug#226>
+no cup may <wug#227>
+every fish must not <wug#228>
+each bag might <wug#229>
+some pencils have <wug#230>ed
+any helmet will not <wug#231>
+many cars can <wug#232>
+this brush has <wug#233>ed
+those socks are <wug#234>ing
+the bell might <wug#235>
+several phones should <wug#236>
+any map could not <wug#237>
+a few stars will <wug#238>
+no frame may <wug#239>
+every planet must <wug#240>
+each kite might <wug#241>
+some clouds have <wug#242>ed
+any scarf will not <wug#243>
+many leaves can <wug#244>
+this drum has <wug#245>ed
+those stones are <wug#246>ing
+the necklace might <wug#247>
+several shells should <wug#248>
+any card could not <wug#249>
+a few mountains will <wug#250>
+no stamp may <wug#251>
+every river must <wug#252>
+each flag might <wug#253>
+some lakes have <wug#254>ed
+any whistle will not <wug#255>
+many forests can <wug#256>
+this ribbon has <wug#257>ed
+those deserts are <wug#258>ing
+the medal might <wug#259>
+several oceans should <wug#260>
+any lampshade could not <wug#261>
+a few islands will <wug#262>
+no teapot may <wug#263>
+every volcano must <wug#264>
+each glove might <wug#265>
+some reefs have <wug#266>ed
+any spoon will not <wug#267>
+many glaciers can <wug#268>
+this fork has <wug#269>ed
+those icebergs are <wug#270>ing
+the plate might <wug#271>
+several rivers should <wug#272>
+any cup could not <wug#273>
+a few streams will <wug#274>
+no bag may <wug#275>
+every creek must <wug#276>
+each helmet might <wug#277>
+some brooks have <wug#278>ed
+any brush will not <wug#279>
+many ponds can <wug#280>
+this bell has <wug#281>ed
+those lakes are <wug#282>ing
+the map might <wug#283>
+several oceans should <wug#284>
+any frame could not <wug#285>
+a few seas will <wug#286>
+no kite may <wug#287>
+every gulf must <wug#288>
+each scarf might <wug#289>
+some bays have <wug#290>ed
+any drum will not <wug#291>
+many straits can <wug#292>
+this necklace has <wug#293>ed
+those channels are <wug#294>ing
+the card might <wug#295>
+several rivers should <wug#296>
+any stamp could not <wug#297>
+a few streams will <wug#298>
+no flag may <wug#299>
+every creek must <wug#300>
+each whistle might <wug#301>
+some brooks have <wug#302>ed
+any ribbon will not <wug#303>
+many ponds can <wug#304>
+this medal has <wug#305>ed
+those lakes are <wug#306>ing
+the lampshade might <wug#307>
+several oceans should <wug#308>
+any teapot could not <wug#309>
+a few seas will <wug#310>
+no glove may <wug#311>
+every gulf must <wug#312>
+each spoon might not <wug#313>
+some bays have <wug#314>ed
+any fork will not <wug#315>
+many straits can <wug#316>
+this plate has <wug#317>ed
+those channels are <wug#318>ing
+the cup might <wug#319>
+several rivers should <wug#320>
+any bag could not <wug#321>
+a few streams will <wug#322>
+no helmet may <wug#323>
+every creek must <wug#324>
+each brush might <wug#325>
+some brooks have <wug#326>ed
+any bell will not <wug#327>
+many ponds can <wug#328>
+this map has <wug#329>ed
+those lakes are <wug#330>ing
+the frame might <wug#331>
+several oceans should <wug#332>
+any kite could not <wug#333>
+a few seas will <wug#334>
+no scarf may <wug#335>
+every gulf must <wug#336>
+each drum might <wug#337>
+some bays have <wug#338>ed
+any necklace will not <wug#339>
+many straits can <wug#340>
+this card has <wug#341>ed
+those channels are <wug#342>ing
+the stamp might <wug#343>
+several rivers should <wug#344>
+any flag could not <wug#345>
+a few streams will <wug#346>
+no whistle may <wug#347>
+every creek must <wug#348>
+each ribbon might <wug#349>
+some brooks have <wug#350>ed
+any medal will not <wug#351>
+many ponds can <wug#352>
+this lampshade has <wug#353>ed
+those lakes are <wug#354>ing
+the teapot might <wug#355>
+several oceans should <wug#356>
+any glove could not <wug#357>
+a few seas will <wug#358>
+no spoon may <wug#359>
+every gulf must <wug#360>
+each fork might <wug#361>
+some bays have <wug#362>ed
+any plate will not <wug#363>
+many straits can <wug#364>
+this cup has <wug#365>ed
+those channels are <wug#366>ing
+the bag might <wug#367>
+several rivers should <wug#368>
+any helmet could not <wug#369>
+a few streams will <wug#370>
+no brush may <wug#371>
+every creek must <wug#372>
+each bell might <wug#373>
+some brooks have <wug#374>ed
+any map will not <wug#375>
+many ponds can <wug#376>
+this frame has <wug#377>ed
+those lakes are <wug#378>ing
+the kite might <wug#379>
+several oceans should <wug#380>
+any scarf could not <wug#381>
+a few seas will <wug#382>
+no drum may <wug#383>
+every gulf must <wug#384>
+each necklace might <wug#385>
+some bays have <wug#386>ed
+any card will not <wug#387>
+many straits can <wug#388>
+this stamp has <wug#389>ed
+those channels are <wug#390>ing
+the flag might <wug#391>
+some chairs have <wug#392>ed
+few curtains will <wug#393>
+this spoon was <wug#394>ing
+no carpet should <wug#395>
+many books can <wug#396>
+each fork must not <wug#397>
+the window has <wug#398>ed
+any plate could <wug#399>
+a tree will not <wug#400>
+no lamp has <wug#401>ed
+every pillow was <wug#402>ing
+few bottles can <wug#403>
+some cheese should <wug#404>
+any pen might <wug#405>
+many forks have not <wug#406>ed
+each curtain could <wug#407>
+all gloves must <wug#408>
+this clock may <wug#409>
+those spoons did not <wug#410>
+the blanket has <wug#411>ed
+several hats will <wug#412>
+any key should not <wug#413>
+a few apples are <wug#414>ing
+no mirror could <wug#415>
+every chair must <wug#416>
+each shoe might <wug#417>
+some tables have <wug#418>ed
+any window will not <wug#419>
+many oranges can <wug#420>
+this plate has <wug#421>ed
+those books are <wug#422>ing
+the basket might <wug#423>
+several computers should <wug#424>
+any towel could not <wug#425>
+a few birds will <wug#426>
+no cup may <wug#427>
+every fish must not <wug#428>
+each bag might <wug#429>
+some pencils have <wug#430>ed
+any helmet will not <wug#431>
+many cars can <wug#432>
+this brush has <wug#433>ed
+those socks are <wug#434>ing
+the bell might <wug#435>
+several phones should <wug#436>
+any map could not <wug#437>
+a few stars will <wug#438>
+no frame may <wug#439>
+every planet must <wug#440>
+each kite might <wug#441>
+some clouds have <wug#442>ed
+any scarf will not <wug#443>
+many leaves can <wug#444>
+this drum has <wug#445>ed
+those stones are <wug#446>ing
+the necklace might <wug#447>
+several shells should <wug#448>
+any card could not <wug#449>
+a few mountains will <wug#450>
+no stamp may <wug#451>
+every river must <wug#452>
+each flag might <wug#453>
+some lakes have <wug#454>ed
+any whistle will not <wug#455>
+many forests can <wug#456>
+this ribbon has <wug#457>ed
+those deserts are <wug#458>ing
+the medal might <wug#459>
+several oceans should <wug#460>
+any lampshade could not <wug#461>
+a few islands will <wug#462>
+no teapot may <wug#463>
+every volcano must <wug#464>
+each glove might <wug#465>
+some reefs have <wug#466>ed
+any spoon will not <wug#467>
+many glaciers can <wug#468>
+this fork has <wug#469>ed
+those icebergs are <wug#470>ing
+the plate might <wug#471>
+several rivers should <wug#472>
+any cup could not <wug#473>
+a few streams will <wug#474>
+no bag may <wug#475>
+every creek must <wug#476>
+each helmet might <wug#477>
+some brooks have <wug#478>ed
+any brush will not <wug#479>
+many ponds can <wug#480>
+this bell has <wug#481>ed
+those lakes are <wug#482>ing
+the map might <wug#483>
+several oceans should <wug#484>
+any frame could not <wug#485>
+a few seas will <wug#486>
+no kite may <wug#487>
+every gulf must <wug#488>
+each scarf might <wug#489>
+some bays have <wug#490>ed
+any drum will not <wug#491>
+many straits can <wug#492>
+this necklace has <wug#493>ed
+those channels are <wug#494>ing
+the card might <wug#495>
+several rivers should <wug#496>
+any stamp could not <wug#497>
+a few streams will <wug#498>
+no flag may <wug#499>
+every creek must <wug#500>
+each whistle might <wug#501>
+some brooks have <wug#502>ed
+any ribbon will not <wug#503>
+many ponds can <wug#504>
+this medal has <wug#505>ed
+those lakes are <wug#506>ing
+the lampshade might <wug#507>
+several oceans should <wug#508>
+any teapot could not <wug#509>
+a few seas will <wug#510>
+no glove may <wug#511>
+every gulf must <wug#512>
+each spoon might not <wug#513>
+some bays have <wug#514>ed
+any fork will not <wug#515>
+many straits can <wug#516>
+this plate has <wug#517>ed
+those channels are <wug#518>ing
+the cup might <wug#519>
+several rivers should <wug#520>
+any bag could not <wug#521>
+a few streams will <wug#522>
+no helmet may <wug#523>
+every creek must <wug#524>
+each brush might <wug#525>
+some brooks have <wug#526>ed
+any bell will not <wug#527>
+many ponds can <wug#528>
+this map has <wug#529>ed
+those lakes are <wug#530>ing
+the frame might <wug#531>
+several oceans should <wug#532>
+any kite could not <wug#533>
+a few seas will <wug#534>
+no scarf may <wug#535>
+every gulf must <wug#536>
+each drum might <wug#537>
+some bays have <wug#538>ed
+any necklace will not <wug#539>
+many straits can <wug#540>
+this card has <wug#541>ed
+those channels are <wug#542>ing
+the stamp might <wug#543>
+several rivers should <wug#544>
+any flag could not <wug#545>
+a few streams will <wug#546>
+no whistle may <wug#547>
+every creek must <wug#548>
+each ribbon might <wug#549>
+some brooks have <wug#550>ed
+any medal will not <wug#551>
+many ponds can <wug#552>
+this lampshade has <wug#553>ed
+those lakes are <wug#554>ing
+the teapot might <wug#555>
+several oceans should <wug#556>
+any glove could not <wug#557>
+a few seas will <wug#558>
+no spoon may <wug#559>
+every gulf must <wug#560>
+each fork might <wug#561>
+some bays have <wug#562>ed
+any plate will not <wug#563>
+many straits can <wug#564>
+this cup has <wug#565>ed
+those channels are <wug#566>ing
+the bag might <wug#567>
+several rivers should <wug#568>
+any helmet could not <wug#569>
+a few streams will <wug#570>
+no brush may <wug#571>
+every creek must <wug#572>
+each bell might <wug#573>
+some brooks have <wug#574>ed
+any map will not <wug#575>
+many ponds can <wug#576>
+this frame has <wug#577>ed
+those lakes are <wug#578>ing
+the kite might <wug#579>
+several oceans should <wug#580>
+any scarf could not <wug#581>
+a few seas will <wug#582>
+no drum may <wug#583>
+every gulf must <wug#584>
+each necklace might <wug#585>
+some bays have <wug#586>ed
+any card will not <wug#587>
+many straits can <wug#588>
+this stamp has <wug#589>ed
+those channels are <wug#590>ing
+the flag might <wug#591>
+some chairs have <wug#592>ed
+few curtains will <wug#593>
+this spoon was <wug#594>ing
+no carpet should <wug#595>
+many books can <wug#596>
+each fork must not <wug#597>
+the window has <wug#598>ed
+any plate could <wug#599>

@@ -1,0 +1,600 @@
+a group of scientists will prove that the hypothesis has <wug#0>ed
+the committee often suggests that a new policy might not <wug#1>
+every artist knows that the color should <wug#2>
+some trees can indicate that the soil must <wug#3>
+the chef has decided that the recipe could <wug#4>
+a cloud sometimes obscures that the sun will not <wug#5>
+many lawyers argue that the clause cannot <wug#6>
+the river frequently floods that the valley has <wug#7>ed
+an elephant rarely forgets that the memory might <wug#8>
+the judge consistently rules that the evidence should not <wug#9>
+several musicians play that the note does <wug#10>
+a mountain often blocks that the view could <wug#11>
+the historian always records that the event must not <wug#12>
+every poet writes that the word will <wug#13>
+some birds have shown that the wind can <wug#14>
+the lion occasionally hunts that the prey should not <wug#15>
+many students study that the formula might <wug#16>
+a clock frequently ticks that the time has <wug#17>ed
+the baker often bakes that the bread will not <wug#18>
+several engineers design that the bridge could <wug#19>
+every teacher explains that the concept must <wug#20>
+some stars often shine that the night should not <wug#21>
+the president always vetoes that the bill might <wug#22>
+a river erodes that the bank does <wug#23>
+many psychologists analyze that the dream will not <wug#24>
+the surgeon occasionally operates that the patient can <wug#25>
+several dancers perform that the routine should <wug#26>
+every librarian catalogs that the book must not <wug#27>
+some chefs cook that the meal might <wug#28>
+the sun often sets that the day has <wug#29>ed
+a teacher corrects that the answer will not <wug#30>
+many actors rehearse that the scene could <wug#31>
+every farmer plants that the crop should <wug#32>
+some clouds gather that the storm must not <wug#33>
+the mayor frequently announces that the plan might <wug#34>
+a doctor diagnoses that the disease does <wug#35>
+many children believe that the fairy tale will not <wug#36>
+the pilot occasionally flies that the plane can <wug#37>
+several judges deliberate that the verdict should <wug#38>
+every scientist researches that the data must not <wug#39>
+some authors write that the novel might <wug#40>
+the moon often eclipses that the light has <wug#41>ed
+a carpenter builds that the house will not <wug#42>
+many athletes compete that the game could <wug#43>
+every manager organizes that the team should <wug#44>
+some rivers flow that the current must not <wug#45>
+the teacher always instructs that the lesson might <wug#46>
+a mechanic repairs that the engine does <wug#47>
+many gardeners water that the plant will not <wug#48>
+the cat often catches that the mouse can <wug#49>
+several programmers code that the software should <wug#50>
+every astronomer observes that the galaxy must not <wug#51>
+some ministers preach that the sermon might <wug#52>
+the heart frequently beats that the pulse has <wug#53>ed
+a florist arranges that the bouquet will not <wug#54>
+many philosophers ponder that the question could <wug#55>
+every tailor sews that the fabric should <wug#56>
+some bees pollinate that the flower must not <wug#57>
+the coach always trains that the team might <wug#58>
+a jeweler crafts that the ring does <wug#59>
+many tourists visit that the monument will not <wug#60>
+the deer occasionally leaps that the fence can <wug#61>
+several architects design that the building should <wug#62>
+every nurse cares that the patient must not <wug#63>
+some trees blossom that the spring might <wug#64>
+the wind often howls that the night has <wug#65>ed
+a leader inspires that the followers will not <wug#66>
+many students learn that the subject could <wug#67>
+every fish swims that the water should <wug#68>
+some clouds form that the rain must not <wug#69>
+the speaker frequently addresses that the audience might <wug#70>
+a dancer moves that the performance does <wug#71>
+many chemists mix that the solution will not <wug#72>
+the eagle occasionally soars that the sky can <wug#73>
+several poets compose that the poem should <wug#74>
+every mathematician calculates that the equation must not <wug#75>
+some lions roar that the jungle might <wug#76>
+the fire often burns that the wood has <wug#77>ed
+a teacher educates that the student will not <wug#78>
+many politicians debate that the law could <wug#79>
+every driver drives that the car should <wug#80>
+some whales breach that the ocean must not <wug#81>
+the drummer frequently hits that the beat might <wug#82>
+a painter paints that the canvas does <wug#83>
+many builders construct that the building will not <wug#84>
+the snake occasionally slithers that the grass can <wug#85>
+several accountants calculate that the budget should <wug#86>
+every gardener prunes that the hedge must not <wug#87>
+some singers sing that the melody might <wug#88>
+the moon often reflects that the light has <wug#89>ed
+a sculptor sculpts that the statue will not <wug#90>
+many reporters write that the news could <wug#91>
+every cyclist rides that the bike should <wug#92>
+some dogs bark that the night must not <wug#93>
+the teacher frequently explains that the concept might <wug#94>
+a plumber fixes that the pipe does <wug#95>
+many electricians wire that the circuit will not <wug#96>
+the cat occasionally pounces that the rat can <wug#97>
+several soldiers march that the parade should <wug#98>
+every chemist tests that the compound must not <wug#99>
+some astronomers discover that the planet might <wug#100>
+the sun often shines that the day has <wug#101>ed
+a novelist writes that the story will not <wug#102>
+many dancers perform that the dance could <wug#103>
+every teacher teaches that the lesson should <wug#104>
+some clouds obscure that the sun must not <wug#105>
+the mayor frequently speaks that the city might <wug#106>
+a doctor treats that the illness does <wug#107>
+many psychologists study that the mind will not <wug#108>
+the bird occasionally sings that the song can <wug#109>
+several engineers invent that the device should <wug#110>
+every farmer harvests that the field must not <wug#111>
+some students read that the book might <wug#112>
+the wind often blows that the leaves have <wug#113>ed
+a baker kneads that the dough will not <wug#114>
+many artists paint that the portrait could <wug#115>
+every scientist investigates that the phenomenon should <wug#116>
+some trees shade that the ground must not <wug#117>
+the president frequently vetoes that the legislation might <wug#118>
+a mechanic tunes that the car does <wug#119>
+many athletes train that the skill will not <wug#120>
+the fish occasionally swims that the stream can <wug#121>
+several judges decide that the case should <wug#122>
+every librarian sorts that the books must not <wug#123>
+some chefs prepare that the dish might <wug#124>
+the sun often sets that the horizon has <wug#125>ed
+a teacher corrects that the homework will not <wug#126>
+many actors perform that the play could <wug#127>
+every farmer sows that the seed should <wug#128>
+some rivers flood that the land must not <wug#129>
+the mayor frequently announces that the decision might <wug#130>
+a doctor prescribes that the medicine does <wug#131>
+many children imagine that the game will not <wug#132>
+the pilot occasionally navigates that the route can <wug#133>
+several judges deliberate that the decision should <wug#134>
+every scientist researches that the theory must not <wug#135>
+some authors write that the chapter might <wug#136>
+the moon often eclipses that the earth has <wug#137>ed
+a carpenter constructs that the furniture will not <wug#138>
+many athletes compete that the match could <wug#139>
+every manager organizes that the schedule should <wug#140>
+some rivers meander that the landscape must not <wug#141>
+the teacher frequently instructs that the curriculum might <wug#142>
+a mechanic repairs that the vehicle does <wug#143>
+many gardeners tend that the garden will not <wug#144>
+the cat often hunts that the bird can <wug#145>
+several programmers debug that the code should <wug#146>
+every astronomer observes that the comet must not <wug#147>
+some ministers preach that the doctrine might <wug#148>
+the heart frequently pumps that the blood has <wug#149>ed
+a florist arranges that the arrangement will not <wug#150>
+many philosophers question that the existence could <wug#151>
+every tailor alters that the suit should <wug#152>
+some bees produce that the honey must not <wug#153>
+the coach always motivates that the team might <wug#154>
+a jeweler polishes that the gemstone does <wug#155>
+many tourists explore that the city will not <wug#156>
+the deer occasionally grazes that the meadow can <wug#157>
+several architects draft that the plan should <wug#158>
+every nurse attends that the ward must not <wug#159>
+some trees grow that the forest might <wug#160>
+the wind often chills that the air has <wug#161>ed
+a leader motivates that the group will not <wug#162>
+many students memorize that the information could <wug#163>
+every fish spawns that the river should <wug#164>
+some clouds dissipate that the sky must not <wug#165>
+the speaker frequently lectures that the topic might <wug#166>
+a dancer expresses that the emotion does <wug#167>
+many chemists synthesize that the compound will not <wug#168>
+the eagle occasionally perches that the tree can <wug#169>
+several poets recite that the verse should <wug#170>
+every mathematician solves that the problem must not <wug#171>
+some lions stalk that the territory might <wug#172>
+the fire often crackles that the wood has <wug#173>ed
+a teacher educates that the class will not <wug#174>
+many politicians legislate that the regulation could <wug#175>
+every driver accelerates that the vehicle should <wug#176>
+some whales dive that the depth must not <wug#177>
+the drummer frequently plays that the rhythm might <wug#178>
+a painter decorates that the mural does <wug#179>
+many builders erect that the skyscraper will not <wug#180>
+the snake occasionally sheds that the skin can <wug#181>
+several accountants audit that the account should <wug#182>
+every gardener cultivates that the plot must not <wug#183>
+some singers vocalize that the tune might <wug#184>
+the moon often glows that the night has <wug#185>ed
+a sculptor carves that the marble will not <wug#186>
+many reporters investigate that the scandal could <wug#187>
+every cyclist pedals that the path should <wug#188>
+some dogs fetch that the stick must not <wug#189>
+the teacher frequently explains that the principle might <wug#190>
+a plumber installs that the fixture does <wug#191>
+many electricians connect that the network will not <wug#192>
+the cat occasionally scratches that the furniture can <wug#193>
+several soldiers salute that the flag should <wug#194>
+every chemist measures that the volume must not <wug#195>
+some astronomers chart that the constellation might <wug#196>
+the sun often warms that the earth has <wug#197>ed
+a novelist drafts that the plot will not <wug#198>
+many dancers choreograph that the sequence could <wug#199>
+a group of scientists will prove that the hypothesis has <wug#200>ed
+the committee often suggests that a new policy might not <wug#201>
+every artist knows that the color should <wug#202>
+some trees can indicate that the soil must <wug#203>
+the chef has decided that the recipe could <wug#204>
+a cloud sometimes obscures that the sun will not <wug#205>
+many lawyers argue that the clause cannot <wug#206>
+the river frequently floods that the valley has <wug#207>ed
+an elephant rarely forgets that the memory might <wug#208>
+the judge consistently rules that the evidence should not <wug#209>
+several musicians play that the note does <wug#210>
+a mountain often blocks that the view could <wug#211>
+the historian always records that the event must not <wug#212>
+every poet writes that the word will <wug#213>
+some birds have shown that the wind can <wug#214>
+the lion occasionally hunts that the prey should not <wug#215>
+many students study that the formula might <wug#216>
+a clock frequently ticks that the time has <wug#217>ed
+the baker often bakes that the bread will not <wug#218>
+several engineers design that the bridge could <wug#219>
+every teacher explains that the concept must <wug#220>
+some stars often shine that the night should not <wug#221>
+the president always vetoes that the bill might <wug#222>
+a river erodes that the bank does <wug#223>
+many psychologists analyze that the dream will not <wug#224>
+the surgeon occasionally operates that the patient can <wug#225>
+several dancers perform that the routine should <wug#226>
+every librarian catalogs that the book must not <wug#227>
+some chefs cook that the meal might <wug#228>
+the sun often sets that the day has <wug#229>ed
+a teacher corrects that the answer will not <wug#230>
+many actors rehearse that the scene could <wug#231>
+every farmer plants that the crop should <wug#232>
+some clouds gather that the storm must not <wug#233>
+the mayor frequently announces that the plan might <wug#234>
+a doctor diagnoses that the disease does <wug#235>
+many children believe that the fairy tale will not <wug#236>
+the pilot occasionally flies that the plane can <wug#237>
+several judges deliberate that the verdict should <wug#238>
+every scientist researches that the data must not <wug#239>
+some authors write that the novel might <wug#240>
+the moon often eclipses that the light has <wug#241>ed
+a carpenter builds that the house will not <wug#242>
+many athletes compete that the game could <wug#243>
+every manager organizes that the team should <wug#244>
+some rivers flow that the current must not <wug#245>
+the teacher always instructs that the lesson might <wug#246>
+a mechanic repairs that the engine does <wug#247>
+many gardeners water that the plant will not <wug#248>
+the cat often catches that the mouse can <wug#249>
+several programmers code that the software should <wug#250>
+every astronomer observes that the galaxy must not <wug#251>
+some ministers preach that the sermon might <wug#252>
+the heart frequently beats that the pulse has <wug#253>ed
+a florist arranges that the bouquet will not <wug#254>
+many philosophers ponder that the question could <wug#255>
+every tailor sews that the fabric should <wug#256>
+some bees pollinate that the flower must not <wug#257>
+the coach always trains that the team might <wug#258>
+a jeweler crafts that the ring does <wug#259>
+many tourists visit that the monument will not <wug#260>
+the deer occasionally leaps that the fence can <wug#261>
+several architects design that the building should <wug#262>
+every nurse cares that the patient must not <wug#263>
+some trees blossom that the spring might <wug#264>
+the wind often howls that the night has <wug#265>ed
+a leader inspires that the followers will not <wug#266>
+many students learn that the subject could <wug#267>
+every fish swims that the water should <wug#268>
+some clouds form that the rain must not <wug#269>
+the speaker frequently addresses that the audience might <wug#270>
+a dancer moves that the performance does <wug#271>
+many chemists mix that the solution will not <wug#272>
+the eagle occasionally soars that the sky can <wug#273>
+several poets compose that the poem should <wug#274>
+every mathematician calculates that the equation must not <wug#275>
+some lions roar that the jungle might <wug#276>
+the fire often burns that the wood has <wug#277>ed
+a teacher educates that the student will not <wug#278>
+many politicians debate that the law could <wug#279>
+every driver drives that the car should <wug#280>
+some whales breach that the ocean must not <wug#281>
+the drummer frequently hits that the beat might <wug#282>
+a painter paints that the canvas does <wug#283>
+many builders construct that the building will not <wug#284>
+the snake occasionally slithers that the grass can <wug#285>
+several accountants calculate that the budget should <wug#286>
+every gardener prunes that the hedge must not <wug#287>
+some singers sing that the melody might <wug#288>
+the moon often reflects that the light has <wug#289>ed
+a sculptor sculpts that the statue will not <wug#290>
+many reporters write that the news could <wug#291>
+every cyclist rides that the bike should <wug#292>
+some dogs bark that the night must not <wug#293>
+the teacher frequently explains that the concept might <wug#294>
+a plumber fixes that the pipe does <wug#295>
+many electricians wire that the circuit will not <wug#296>
+the cat occasionally pounces that the rat can <wug#297>
+several soldiers march that the parade should <wug#298>
+every chemist tests that the compound must not <wug#299>
+some astronomers discover that the planet might <wug#300>
+the sun often shines that the day has <wug#301>ed
+a novelist writes that the story will not <wug#302>
+many dancers perform that the dance could <wug#303>
+every teacher teaches that the lesson should <wug#304>
+some clouds obscure that the sun must not <wug#305>
+the mayor frequently speaks that the city might <wug#306>
+a doctor treats that the illness does <wug#307>
+many psychologists study that the mind will not <wug#308>
+the bird occasionally sings that the song can <wug#309>
+several engineers invent that the device should <wug#310>
+every farmer harvests that the field must not <wug#311>
+some students read that the book might <wug#312>
+the wind often blows that the leaves have <wug#313>ed
+a baker kneads that the dough will not <wug#314>
+many artists paint that the portrait could <wug#315>
+every scientist investigates that the phenomenon should <wug#316>
+some trees shade that the ground must not <wug#317>
+the president frequently vetoes that the legislation might <wug#318>
+a mechanic tunes that the car does <wug#319>
+many athletes train that the skill will not <wug#320>
+the fish occasionally swims that the stream can <wug#321>
+several judges decide that the case should <wug#322>
+every librarian sorts that the books must not <wug#323>
+some chefs prepare that the dish might <wug#324>
+the sun often sets that the horizon has <wug#325>ed
+a teacher corrects that the homework will not <wug#326>
+many actors perform that the play could <wug#327>
+every farmer sows that the seed should <wug#328>
+some rivers flood that the land must not <wug#329>
+the mayor frequently announces that the decision might <wug#330>
+a doctor prescribes that the medicine does <wug#331>
+many children imagine that the game will not <wug#332>
+the pilot occasionally navigates that the route can <wug#333>
+several judges deliberate that the decision should <wug#334>
+every scientist researches that the theory must not <wug#335>
+some authors write that the chapter might <wug#336>
+the moon often eclipses that the earth has <wug#337>ed
+a carpenter constructs that the furniture will not <wug#338>
+many athletes compete that the match could <wug#339>
+every manager organizes that the schedule should <wug#340>
+some rivers meander that the landscape must not <wug#341>
+the teacher frequently instructs that the curriculum might <wug#342>
+a mechanic repairs that the vehicle does <wug#343>
+many gardeners tend that the garden will not <wug#344>
+the cat often hunts that the bird can <wug#345>
+several programmers debug that the code should <wug#346>
+every astronomer observes that the comet must not <wug#347>
+some ministers preach that the doctrine might <wug#348>
+the heart frequently pumps that the blood has <wug#349>ed
+a florist arranges that the arrangement will not <wug#350>
+many philosophers question that the existence could <wug#351>
+every tailor alters that the suit should <wug#352>
+some bees produce that the honey must not <wug#353>
+the coach always motivates that the team might <wug#354>
+a jeweler polishes that the gemstone does <wug#355>
+many tourists explore that the city will not <wug#356>
+the deer occasionally grazes that the meadow can <wug#357>
+several architects draft that the plan should <wug#358>
+every nurse attends that the ward must not <wug#359>
+some trees grow that the forest might <wug#360>
+the wind often chills that the air has <wug#361>ed
+a leader motivates that the group will not <wug#362>
+many students memorize that the information could <wug#363>
+every fish spawns that the river should <wug#364>
+some clouds dissipate that the sky must not <wug#365>
+the speaker frequently lectures that the topic might <wug#366>
+a dancer expresses that the emotion does <wug#367>
+many chemists synthesize that the compound will not <wug#368>
+the eagle occasionally perches that the tree can <wug#369>
+several poets recite that the verse should <wug#370>
+every mathematician solves that the problem must not <wug#371>
+some lions stalk that the territory might <wug#372>
+the fire often crackles that the wood has <wug#373>ed
+a teacher educates that the class will not <wug#374>
+many politicians legislate that the regulation could <wug#375>
+every driver accelerates that the vehicle should <wug#376>
+some whales dive that the depth must not <wug#377>
+the drummer frequently plays that the rhythm might <wug#378>
+a painter decorates that the mural does <wug#379>
+many builders erect that the skyscraper will not <wug#380>
+the snake occasionally sheds that the skin can <wug#381>
+several accountants audit that the account should <wug#382>
+every gardener cultivates that the plot must not <wug#383>
+some singers vocalize that the tune might <wug#384>
+the moon often glows that the night has <wug#385>ed
+a sculptor carves that the marble will not <wug#386>
+many reporters investigate that the scandal could <wug#387>
+every cyclist pedals that the path should <wug#388>
+some dogs fetch that the stick must not <wug#389>
+the teacher frequently explains that the principle might <wug#390>
+a plumber installs that the fixture does <wug#391>
+many electricians connect that the network will not <wug#392>
+the cat occasionally scratches that the furniture can <wug#393>
+several soldiers salute that the flag should <wug#394>
+every chemist measures that the volume must not <wug#395>
+some astronomers chart that the constellation might <wug#396>
+the sun often warms that the earth has <wug#397>ed
+a novelist drafts that the plot will not <wug#398>
+many dancers choreograph that the sequence could <wug#399>
+a group of scientists will prove that the hypothesis has <wug#400>ed
+the committee often suggests that a new policy might not <wug#401>
+every artist knows that the color should <wug#402>
+some trees can indicate that the soil must <wug#403>
+the chef has decided that the recipe could <wug#404>
+a cloud sometimes obscures that the sun will not <wug#405>
+many lawyers argue that the clause cannot <wug#406>
+the river frequently floods that the valley has <wug#407>ed
+an elephant rarely forgets that the memory might <wug#408>
+the judge consistently rules that the evidence should not <wug#409>
+several musicians play that the note does <wug#410>
+a mountain often blocks that the view could <wug#411>
+the historian always records that the event must not <wug#412>
+every poet writes that the word will <wug#413>
+some birds have shown that the wind can <wug#414>
+the lion occasionally hunts that the prey should not <wug#415>
+many students study that the formula might <wug#416>
+a clock frequently ticks that the time has <wug#417>ed
+the baker often bakes that the bread will not <wug#418>
+several engineers design that the bridge could <wug#419>
+every teacher explains that the concept must <wug#420>
+some stars often shine that the night should not <wug#421>
+the president always vetoes that the bill might <wug#422>
+a river erodes that the bank does <wug#423>
+many psychologists analyze that the dream will not <wug#424>
+the surgeon occasionally operates that the patient can <wug#425>
+several dancers perform that the routine should <wug#426>
+every librarian catalogs that the book must not <wug#427>
+some chefs cook that the meal might <wug#428>
+the sun often sets that the day has <wug#429>ed
+a teacher corrects that the answer will not <wug#430>
+many actors rehearse that the scene could <wug#431>
+every farmer plants that the crop should <wug#432>
+some clouds gather that the storm must not <wug#433>
+the mayor frequently announces that the plan might <wug#434>
+a doctor diagnoses that the disease does <wug#435>
+many children believe that the fairy tale will not <wug#436>
+the pilot occasionally flies that the plane can <wug#437>
+several judges deliberate that the verdict should <wug#438>
+every scientist researches that the data must not <wug#439>
+some authors write that the novel might <wug#440>
+the moon often eclipses that the light has <wug#441>ed
+a carpenter builds that the house will not <wug#442>
+many athletes compete that the game could <wug#443>
+every manager organizes that the team should <wug#444>
+some rivers flow that the current must not <wug#445>
+the teacher always instructs that the lesson might <wug#446>
+a mechanic repairs that the engine does <wug#447>
+many gardeners water that the plant will not <wug#448>
+the cat often catches that the mouse can <wug#449>
+several programmers code that the software should <wug#450>
+every astronomer observes that the galaxy must not <wug#451>
+some ministers preach that the sermon might <wug#452>
+the heart frequently beats that the pulse has <wug#453>ed
+a florist arranges that the bouquet will not <wug#454>
+many philosophers ponder that the question could <wug#455>
+every tailor sews that the fabric should <wug#456>
+some bees pollinate that the flower must not <wug#457>
+the coach always trains that the team might <wug#458>
+a jeweler crafts that the ring does <wug#459>
+many tourists visit that the monument will not <wug#460>
+the deer occasionally leaps that the fence can <wug#461>
+several architects design that the building should <wug#462>
+every nurse cares that the patient must not <wug#463>
+some trees blossom that the spring might <wug#464>
+the wind often howls that the night has <wug#465>ed
+a leader inspires that the followers will not <wug#466>
+many students learn that the subject could <wug#467>
+every fish swims that the water should <wug#468>
+some clouds form that the rain must not <wug#469>
+the speaker frequently addresses that the audience might <wug#470>
+a dancer moves that the performance does <wug#471>
+many chemists mix that the solution will not <wug#472>
+the eagle occasionally soars that the sky can <wug#473>
+several poets compose that the poem should <wug#474>
+every mathematician calculates that the equation must not <wug#475>
+some lions roar that the jungle might <wug#476>
+the fire often burns that the wood has <wug#477>ed
+a teacher educates that the student will not <wug#478>
+many politicians debate that the law could <wug#479>
+every driver drives that the car should <wug#480>
+some whales breach that the ocean must not <wug#481>
+the drummer frequently hits that the beat might <wug#482>
+a painter paints that the canvas does <wug#483>
+many builders construct that the building will not <wug#484>
+the snake occasionally slithers that the grass can <wug#485>
+several accountants calculate that the budget should <wug#486>
+every gardener prunes that the hedge must not <wug#487>
+some singers sing that the melody might <wug#488>
+the moon often reflects that the light has <wug#489>ed
+a sculptor sculpts that the statue will not <wug#490>
+many reporters write that the news could <wug#491>
+every cyclist rides that the bike should <wug#492>
+some dogs bark that the night must not <wug#493>
+the teacher frequently explains that the concept might <wug#494>
+a plumber fixes that the pipe does <wug#495>
+many electricians wire that the circuit will not <wug#496>
+the cat occasionally pounces that the rat can <wug#497>
+several soldiers march that the parade should <wug#498>
+every chemist tests that the compound must not <wug#499>
+some astronomers discover that the planet might <wug#500>
+the sun often shines that the day has <wug#501>ed
+a novelist writes that the story will not <wug#502>
+many dancers perform that the dance could <wug#503>
+every teacher teaches that the lesson should <wug#504>
+some clouds obscure that the sun must not <wug#505>
+the mayor frequently speaks that the city might <wug#506>
+a doctor treats that the illness does <wug#507>
+many psychologists study that the mind will not <wug#508>
+the bird occasionally sings that the song can <wug#509>
+several engineers invent that the device should <wug#510>
+every farmer harvests that the field must not <wug#511>
+some students read that the book might <wug#512>
+the wind often blows that the leaves have <wug#513>ed
+a baker kneads that the dough will not <wug#514>
+many artists paint that the portrait could <wug#515>
+every scientist investigates that the phenomenon should <wug#516>
+some trees shade that the ground must not <wug#517>
+the president frequently vetoes that the legislation might <wug#518>
+a mechanic tunes that the car does <wug#519>
+many athletes train that the skill will not <wug#520>
+the fish occasionally swims that the stream can <wug#521>
+several judges decide that the case should <wug#522>
+every librarian sorts that the books must not <wug#523>
+some chefs prepare that the dish might <wug#524>
+the sun often sets that the horizon has <wug#525>ed
+a teacher corrects that the homework will not <wug#526>
+many actors perform that the play could <wug#527>
+every farmer sows that the seed should <wug#528>
+some rivers flood that the land must not <wug#529>
+the mayor frequently announces that the decision might <wug#530>
+a doctor prescribes that the medicine does <wug#531>
+many children imagine that the game will not <wug#532>
+the pilot occasionally navigates that the route can <wug#533>
+several judges deliberate that the decision should <wug#534>
+every scientist researches that the theory must not <wug#535>
+some authors write that the chapter might <wug#536>
+the moon often eclipses that the earth has <wug#537>ed
+a carpenter constructs that the furniture will not <wug#538>
+many athletes compete that the match could <wug#539>
+every manager organizes that the schedule should <wug#540>
+some rivers meander that the landscape must not <wug#541>
+the teacher frequently instructs that the curriculum might <wug#542>
+a mechanic repairs that the vehicle does <wug#543>
+many gardeners tend that the garden will not <wug#544>
+the cat often hunts that the bird can <wug#545>
+several programmers debug that the code should <wug#546>
+every astronomer observes that the comet must not <wug#547>
+some ministers preach that the doctrine might <wug#548>
+the heart frequently pumps that the blood has <wug#549>ed
+a florist arranges that the arrangement will not <wug#550>
+many philosophers question that the existence could <wug#551>
+every tailor alters that the suit should <wug#552>
+some bees produce that the honey must not <wug#553>
+the coach always motivates that the team might <wug#554>
+a jeweler polishes that the gemstone does <wug#555>
+many tourists explore that the city will not <wug#556>
+the deer occasionally grazes that the meadow can <wug#557>
+several architects draft that the plan should <wug#558>
+every nurse attends that the ward must not <wug#559>
+some trees grow that the forest might <wug#560>
+the wind often chills that the air has <wug#561>ed
+a leader motivates that the group will not <wug#562>
+many students memorize that the information could <wug#563>
+every fish spawns that the river should <wug#564>
+some clouds dissipate that the sky must not <wug#565>
+the speaker frequently lectures that the topic might <wug#566>
+a dancer expresses that the emotion does <wug#567>
+many chemists synthesize that the compound will not <wug#568>
+the eagle occasionally perches that the tree can <wug#569>
+several poets recite that the verse should <wug#570>
+every mathematician solves that the problem must not <wug#571>
+some lions stalk that the territory might <wug#572>
+the fire often crackles that the wood has <wug#573>ed
+a teacher educates that the class will not <wug#574>
+many politicians legislate that the regulation could <wug#575>
+every driver accelerates that the vehicle should <wug#576>
+some whales dive that the depth must not <wug#577>
+the drummer frequently plays that the rhythm might <wug#578>
+a painter decorates that the mural does <wug#579>
+many builders erect that the skyscraper will not <wug#580>
+the snake occasionally sheds that the skin can <wug#581>
+several accountants audit that the account should <wug#582>
+every gardener cultivates that the plot must not <wug#583>
+some singers vocalize that the tune might <wug#584>
+the moon often glows that the night has <wug#585>ed
+a sculptor carves that the marble will not <wug#586>
+many reporters investigate that the scandal could <wug#587>
+every cyclist pedals that the path should <wug#588>
+some dogs fetch that the stick must not <wug#589>
+the teacher frequently explains that the principle might <wug#590>
+a plumber installs that the fixture does <wug#591>
+many electricians connect that the network will not <wug#592>
+the cat occasionally scratches that the furniture can <wug#593>
+several soldiers salute that the flag should <wug#594>
+every chemist measures that the volume must not <wug#595>
+some astronomers chart that the constellation might <wug#596>
+the sun often warms that the earth has <wug#597>ed
+a novelist drafts that the plot will not <wug#598>
+many dancers choreograph that the sequence could <wug#599>

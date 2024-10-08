@@ -1,0 +1,600 @@
+{"sentence_good": "a tree has dropped this whitcy", "sentence_bad": "a tree has dropped these whitcy", "pairID": 0}
+{"sentence_good": "many lamps will not illuminate this dornless", "sentence_bad": "many lamps will not illuminate these dornless", "pairID": 1}
+{"sentence_good": "the senator did not endorse this pronouncelate", "sentence_bad": "the senator did not endorse these pronouncelate", "pairID": 2}
+{"sentence_good": "every cloud obscures this snamline", "sentence_bad": "every cloud obscures these snamline", "pairID": 3}
+{"sentence_good": "some bridges connect this gypriness", "sentence_bad": "some bridges connect these gypriness", "pairID": 4}
+{"sentence_good": "no bottle contains this froltier", "sentence_bad": "no bottle contains these froltier", "pairID": 5}
+{"sentence_good": "each student has solved this dockjand", "sentence_bad": "each student has solved these dockjand", "pairID": 6}
+{"sentence_good": "few keys unlock this purtshood", "sentence_bad": "few keys unlock these purtshood", "pairID": 7}
+{"sentence_good": "the artist is painting this droonworld", "sentence_bad": "the artist is painting these droonworld", "pairID": 8}
+{"sentence_good": "any judge will review this renorgess", "sentence_bad": "any judge will review these renorgess", "pairID": 9}
+{"sentence_good": "the baker had not baked this bleezy", "sentence_bad": "the baker had not baked these bleezy", "pairID": 10}
+{"sentence_good": "several pilots will fly this infevisition", "sentence_bad": "several pilots will fly these infevisition", "pairID": 11}
+{"sentence_good": "one mechanic repairs this whightness", "sentence_bad": "one mechanic repairs these whightness", "pairID": 12}
+{"sentence_good": "the mayor has vetoed this calturraquy", "sentence_bad": "the mayor has vetoed these calturraquy", "pairID": 13}
+{"sentence_good": "every mirror reflects this exidists", "sentence_bad": "every mirror reflects these exidists", "pairID": 14}
+{"sentence_good": "no chair supports this safy", "sentence_bad": "no chair supports these safy", "pairID": 15}
+{"sentence_good": "some chefs will not cook this cympness", "sentence_bad": "some chefs will not cook these cympness", "pairID": 16}
+{"sentence_good": "each nurse will treat this ittursion", "sentence_bad": "each nurse will treat these ittursion", "pairID": 17}
+{"sentence_good": "few doors open this tasinance", "sentence_bad": "few doors open these tasinance", "pairID": 18}
+{"sentence_good": "the farmer grows this fafletry", "sentence_bad": "the farmer grows these fafletry", "pairID": 19}
+{"sentence_good": "any lawyer will defend this trilt", "sentence_bad": "any lawyer will defend these trilt", "pairID": 20}
+{"sentence_good": "the teacher explains this crympaxera", "sentence_bad": "the teacher explains these crympaxera", "pairID": 21}
+{"sentence_good": "several scientists study this sudge", "sentence_bad": "several scientists study these sudge", "pairID": 22}
+{"sentence_good": "one director produces this cakeness", "sentence_bad": "one director produces these cakeness", "pairID": 23}
+{"sentence_good": "the priest blesses this chaner", "sentence_bad": "the priest blesses these chaner", "pairID": 24}
+{"sentence_good": "every wheel does not turn this temaraph", "sentence_bad": "every wheel does not turn these temaraph", "pairID": 25}
+{"sentence_good": "no computer processes this fincer", "sentence_bad": "no computer processes these fincer", "pairID": 26}
+{"sentence_good": "some birds will not peck this efupilition", "sentence_bad": "some birds will not peck these efupilition", "pairID": 27}
+{"sentence_good": "each actor performs this prean", "sentence_bad": "each actor performs these prean", "pairID": 28}
+{"sentence_good": "few rivers flood this wholery", "sentence_bad": "few rivers flood these wholery", "pairID": 29}
+{"sentence_good": "the dancer has practiced this miltumization", "sentence_bad": "the dancer has practiced these miltumization", "pairID": 30}
+{"sentence_good": "any musician will not play this fophrinality", "sentence_bad": "any musician will not play these fophrinality", "pairID": 31}
+{"sentence_good": "the plumber fixes this trinclulla", "sentence_bad": "the plumber fixes these trinclulla", "pairID": 32}
+{"sentence_good": "several engineers design this twisial", "sentence_bad": "several engineers design these twisial", "pairID": 33}
+{"sentence_good": "one leader rules this styprohitutic", "sentence_bad": "one leader rules these styprohitutic", "pairID": 34}
+{"sentence_good": "the author doesn't write this dithness", "sentence_bad": "the author doesn't write these dithness", "pairID": 35}
+{"sentence_good": "every mountain overshadows this goachhall", "sentence_bad": "every mountain overshadows these goachhall", "pairID": 36}
+{"sentence_good": "no planet orbits this baxcardi", "sentence_bad": "no planet orbits these baxcardi", "pairID": 37}
+{"sentence_good": "some elephants carry this minkbond", "sentence_bad": "some elephants carry these minkbond", "pairID": 38}
+{"sentence_good": "each tailor sews this gardness", "sentence_bad": "each tailor sews these gardness", "pairID": 39}
+{"sentence_good": "few clocks measure this diofocation", "sentence_bad": "few clocks measure these diofocation", "pairID": 40}
+{"sentence_good": "the jeweler has crafted this aneqist", "sentence_bad": "the jeweler has crafted these aneqist", "pairID": 41}
+{"sentence_good": "any psychologist will analyze this inprosority", "sentence_bad": "any psychologist will analyze these inprosority", "pairID": 42}
+{"sentence_good": "the butcher slices this dennare", "sentence_bad": "the butcher slices these dennare", "pairID": 43}
+{"sentence_good": "several astronomers observe this shitter", "sentence_bad": "several astronomers observe these shitter", "pairID": 44}
+{"sentence_good": "one gardener does not water this deckyard", "sentence_bad": "one gardener does not water these deckyard", "pairID": 45}
+{"sentence_good": "the coach trains this imsegarity", "sentence_bad": "the coach trains these imsegarity", "pairID": 46}
+{"sentence_good": "every island surrounds this dibystibic", "sentence_bad": "every island surrounds these dibystibic", "pairID": 47}
+{"sentence_good": "no machine manufactures this glanless", "sentence_bad": "no machine manufactures these glanless", "pairID": 48}
+{"sentence_good": "some owls hunt this pupimatist", "sentence_bad": "some owls hunt these pupimatist", "pairID": 49}
+{"sentence_good": "a teacher has not explained that grone", "sentence_bad": "a teacher has explained those grone", "pairID": 50}
+{"sentence_good": "many lamps won't light that corerure", "sentence_bad": "many lamps won't light those corerure", "pairID": 51}
+{"sentence_good": "every window should not open that daebald", "sentence_bad": "every window should not open those daebald", "pairID": 52}
+{"sentence_good": "some books can cover that swet", "sentence_bad": "some books can cover those swet", "pairID": 53}
+{"sentence_good": "no bottle will hold that bloonboard", "sentence_bad": "no bottle will hold those bloonboard", "pairID": 54}
+{"sentence_good": "each chair might support that mopalarkal", "sentence_bad": "each chair might support those mopalarkal", "pairID": 55}
+{"sentence_good": "few keys must unlock that counterprilm", "sentence_bad": "few keys must unlock those counterprilm", "pairID": 56}
+{"sentence_good": "any pen may write that consir", "sentence_bad": "any pen may write those consir", "pairID": 57}
+{"sentence_good": "the box should contain that quinchness", "sentence_bad": "the box should contain those quinchness", "pairID": 58}
+{"sentence_good": "all forks could pick that indespestability", "sentence_bad": "all forks could pick those indespestability", "pairID": 59}
+{"sentence_good": "no spoon will not stir that oshtrage", "sentence_bad": "no spoon will not stir those oshtrage", "pairID": 60}
+{"sentence_good": "every pillow might cushion that tromper", "sentence_bad": "every pillow might cushion those tromper", "pairID": 61}
+{"sentence_good": "some shoes cannot fit that epugonition", "sentence_bad": "some shoes cannot fit those epugonition", "pairID": 62}
+{"sentence_good": "each hat must protect that elgasroom", "sentence_bad": "each hat must protect those elgasroom", "pairID": 63}
+{"sentence_good": "many gloves should handle that crandness", "sentence_bad": "many gloves should handle those crandness", "pairID": 64}
+{"sentence_good": "a wallet will carry that spingrich", "sentence_bad": "a wallet will carry those spingrich", "pairID": 65}
+{"sentence_good": "few belts can fasten that auloloitness", "sentence_bad": "few belts can fasten those auloloitness", "pairID": 66}
+{"sentence_good": "any shirt may cover that leolomure", "sentence_bad": "any shirt may cover those leolomure", "pairID": 67}
+{"sentence_good": "the tie should tighten that goselizer", "sentence_bad": "the tie should tighten those goselizer", "pairID": 68}
+{"sentence_good": "all pants could zip that pithrone", "sentence_bad": "all pants could zip those pithrone", "pairID": 69}
+{"sentence_good": "no coat will button that velks", "sentence_bad": "no coat will button those velks", "pairID": 70}
+{"sentence_good": "every skirt might wrap that ecululant", "sentence_bad": "every skirt might wrap those ecululant", "pairID": 71}
+{"sentence_good": "some socks cannot absorb that frydess", "sentence_bad": "some socks cannot absorb those frydess", "pairID": 72}
+{"sentence_good": "each scarf must warm that leater", "sentence_bad": "each scarf must warm those leater", "pairID": 73}
+{"sentence_good": "many hats should shade that mibdreweived", "sentence_bad": "many hats should shade those mibdreweived", "pairID": 74}
+{"sentence_good": "a clock will time that masyros", "sentence_bad": "a clock will time those masyros", "pairID": 75}
+{"sentence_good": "few watches can track that pexpetator", "sentence_bad": "few watches can track those pexpetator", "pairID": 76}
+{"sentence_good": "any camera may capture that baflas", "sentence_bad": "any camera may capture those baflas", "pairID": 77}
+{"sentence_good": "the phone should call that mapifize", "sentence_bad": "the phone should call those mapifize", "pairID": 78}
+{"sentence_good": "all radios could broadcast that iliivivition", "sentence_bad": "all radios could broadcast those iliivivition", "pairID": 79}
+{"sentence_good": "no television will not show that ospiny", "sentence_bad": "no television will not show those ospiny", "pairID": 80}
+{"sentence_good": "every computer might process that aspashent", "sentence_bad": "every computer might process those aspashent", "pairID": 81}
+{"sentence_good": "some tablets cannot display that prebiffitation", "sentence_bad": "some tablets cannot display those prebiffitation", "pairID": 82}
+{"sentence_good": "each monitor must reveal that dewchip", "sentence_bad": "each monitor must reveal those dewchip", "pairID": 83}
+{"sentence_good": "many keyboards should type that inmey", "sentence_bad": "many keyboards should type those inmey", "pairID": 84}
+{"sentence_good": "a mouse will click that dilsumation", "sentence_bad": "a mouse will click those dilsumation", "pairID": 85}
+{"sentence_good": "few speakers can amplify that mantiller", "sentence_bad": "few speakers can amplify those mantiller", "pairID": 86}
+{"sentence_good": "any microphone may record that smastize", "sentence_bad": "any microphone may record those smastize", "pairID": 87}
+{"sentence_good": "the projector should project that totsoks", "sentence_bad": "the projector should project those totsoks", "pairID": 88}
+{"sentence_good": "all chargers could power that spithore", "sentence_bad": "all chargers could power those spithore", "pairID": 89}
+{"sentence_good": "no battery will energize that buttion", "sentence_bad": "no battery will energize those buttion", "pairID": 90}
+{"sentence_good": "every lamp might not illuminate that murcusive", "sentence_bad": "every lamp might not illuminate those murcusive", "pairID": 91}
+{"sentence_good": "some bulbs cannot light that sephote", "sentence_bad": "some bulbs cannot light those sephote", "pairID": 92}
+{"sentence_good": "each switch must activate that leard", "sentence_bad": "each switch must activate those leard", "pairID": 93}
+{"sentence_good": "many outlets should supply that shatman", "sentence_bad": "many outlets should supply those shatman", "pairID": 94}
+{"sentence_good": "a generator will generate that lownpow", "sentence_bad": "a generator will generate those lownpow", "pairID": 95}
+{"sentence_good": "few engines can power that momba", "sentence_bad": "few engines can power those momba", "pairID": 96}
+{"sentence_good": "any turbine may turn that ithnontation", "sentence_bad": "any turbine may turn those ithnontation", "pairID": 97}
+{"sentence_good": "the motor should drive that afugmamune", "sentence_bad": "the motor should drive those afugmamune", "pairID": 98}
+{"sentence_good": "all gears could rotate that eciquat", "sentence_bad": "all gears could rotate those eciquat", "pairID": 99}
+{"sentence_good": "a tree has shaded these vuhus", "sentence_bad": "a tree has shaded this vuhus", "pairID": 100}
+{"sentence_good": "many books can't cover these pennoxients", "sentence_bad": "many books can't cover this pennoxients", "pairID": 101}
+{"sentence_good": "the lamp will light these chivalomys", "sentence_bad": "the lamp will light this chivalomys", "pairID": 102}
+{"sentence_good": "some water has flooded these aglattances", "sentence_bad": "some water has flooded this aglattances", "pairID": 103}
+{"sentence_good": "every student should study these copygiefs", "sentence_bad": "every student should study this copygiefs", "pairID": 104}
+{"sentence_good": "no bird could see these quigainousnesss", "sentence_bad": "no bird could see this quigainousnesss", "pairID": 105}
+{"sentence_good": "each key must open these quefcovers", "sentence_bad": "each key must open this quefcovers", "pairID": 106}
+{"sentence_good": "the chair will support these ashuculatones", "sentence_bad": "the chair will support this ashuculatones", "pairID": 107}
+{"sentence_good": "any teacher hasn't taught these switchblomss", "sentence_bad": "any teacher hasn't taught this switchblomss", "pairID": 108}
+{"sentence_good": "the window can't reflect these outprews", "sentence_bad": "the window can't reflect this outprews", "pairID": 109}
+{"sentence_good": "a cloud will obscure these ernires", "sentence_bad": "a cloud will obscure this ernires", "pairID": 110}
+{"sentence_good": "few pens have written these waggents", "sentence_bad": "few pens have written this waggents", "pairID": 111}
+{"sentence_good": "the shoe will fit these nacearitives", "sentence_bad": "the shoe will fit this nacearitives", "pairID": 112}
+{"sentence_good": "no machine should operate these haxilations", "sentence_bad": "no machine should operate this haxilations", "pairID": 113}
+{"sentence_good": "each cup must contain these prarks", "sentence_bad": "each cup must contain this prarks", "pairID": 114}
+{"sentence_good": "the flower can't pollinate these loistionalizes", "sentence_bad": "the flower can't pollinate this loistionalizes", "pairID": 115}
+{"sentence_good": "a clock will time these proridiss", "sentence_bad": "a clock will time this proridiss", "pairID": 116}
+{"sentence_good": "many hands haven't touched these cheliets", "sentence_bad": "many hands haven't touched this cheliets", "pairID": 117}
+{"sentence_good": "the map will guide these meripations", "sentence_bad": "the map will guide this meripations", "pairID": 118}
+{"sentence_good": "no fork could stab these daychiegers", "sentence_bad": "no fork could stab this daychiegers", "pairID": 119}
+{"sentence_good": "each game must entertain these escexines", "sentence_bad": "each game must entertain this escexines", "pairID": 120}
+{"sentence_good": "the wall will block these tapperuss", "sentence_bad": "the wall will block this tapperuss", "pairID": 121}
+{"sentence_good": "any fish hasn't eaten these disilgishants", "sentence_bad": "any fish hasn't eaten this disilgishants", "pairID": 122}
+{"sentence_good": "the oven can't bake these tormoisesholds", "sentence_bad": "the oven can't bake this tormoisesholds", "pairID": 123}
+{"sentence_good": "a song will soothe these indymfelitys", "sentence_bad": "a song will soothe this indymfelitys", "pairID": 124}
+{"sentence_good": "few brushes have painted these warthnesss", "sentence_bad": "few brushes have painted this warthnesss", "pairID": 125}
+{"sentence_good": "the pillow will cushion these quandlers", "sentence_bad": "the pillow will cushion this quandlers", "pairID": 126}
+{"sentence_good": "no hammer should strike these grortnesss", "sentence_bad": "no hammer should strike this grortnesss", "pairID": 127}
+{"sentence_good": "each belt must hold these ittanestss", "sentence_bad": "each belt must hold this ittanestss", "pairID": 128}
+{"sentence_good": "the gate can't secure these surthratups", "sentence_bad": "the gate can't secure this surthratups", "pairID": 129}
+{"sentence_good": "a fan will cool these psifacitys", "sentence_bad": "a fan will cool this psifacitys", "pairID": 130}
+{"sentence_good": "many voices haven't called these sultadillos", "sentence_bad": "many voices haven't called this sultadillos", "pairID": 131}
+{"sentence_good": "the needle will pierce these detplics", "sentence_bad": "the needle will pierce this detplics", "pairID": 132}
+{"sentence_good": "no spoon could scoop these arterlatyls", "sentence_bad": "no spoon could scoop this arterlatyls", "pairID": 133}
+{"sentence_good": "each plate must serve these renollations", "sentence_bad": "each plate must serve this renollations", "pairID": 134}
+{"sentence_good": "the tower will overlook these jozallers", "sentence_bad": "the tower will overlook this jozallers", "pairID": 135}
+{"sentence_good": "any cat hasn't chased these hatistations", "sentence_bad": "any cat hasn't chased this hatistations", "pairID": 136}
+{"sentence_good": "the camera can't capture these seckers", "sentence_bad": "the camera can't capture this seckers", "pairID": 137}
+{"sentence_good": "a poem will describe these inplecants", "sentence_bad": "a poem will describe this inplecants", "pairID": 138}
+{"sentence_good": "few gloves have held these mucamalias", "sentence_bad": "few gloves have held this mucamalias", "pairID": 139}
+{"sentence_good": "the helmet will protect these idrers", "sentence_bad": "the helmet will protect this idrers", "pairID": 140}
+{"sentence_good": "no brush should paint these didilfys", "sentence_bad": "no brush should paint this didilfys", "pairID": 141}
+{"sentence_good": "each flag must wave these palaschilis", "sentence_bad": "each flag must wave this palaschilis", "pairID": 142}
+{"sentence_good": "the boat can't float these prealesss", "sentence_bad": "the boat can't float this prealesss", "pairID": 143}
+{"sentence_good": "a melody will play these gorinys", "sentence_bad": "a melody will play this gorinys", "pairID": 144}
+{"sentence_good": "many feet haven't kicked these nirthquesss", "sentence_bad": "many feet haven't kicked this nirthquesss", "pairID": 145}
+{"sentence_good": "the scissors will cut these trigiences", "sentence_bad": "the scissors will cut this trigiences", "pairID": 146}
+{"sentence_good": "no knife could slice these peesleiters", "sentence_bad": "no knife could slice this peesleiters", "pairID": 147}
+{"sentence_good": "each story must tell these setchmanchips", "sentence_bad": "each story must tell this setchmanchips", "pairID": 148}
+{"sentence_good": "the mirror will reflect these miticles", "sentence_bad": "the mirror will reflect this miticles", "pairID": 149}
+{"sentence_good": "a teacher has not corrected those mifraneness", "sentence_bad": "a teacher has not corrected that mifraneness", "pairID": 150}
+{"sentence_good": "many birds will eat those rorsquapes", "sentence_bad": "many birds will eat that rorsquapes", "pairID": 151}
+{"sentence_good": "every window can reflect those dyndugions", "sentence_bad": "every window can reflect that dyndugions", "pairID": 152}
+{"sentence_good": "some shoes might cover those mitantrys", "sentence_bad": "some shoes might cover that mitantrys", "pairID": 153}
+{"sentence_good": "the lamp should illuminate those artlarnesss", "sentence_bad": "the lamp should illuminate that artlarnesss", "pairID": 154}
+{"sentence_good": "few books have mentioned those paglinesss", "sentence_bad": "few books have mentioned that paglinesss", "pairID": 155}
+{"sentence_good": "each fork will pick those cockylls", "sentence_bad": "each fork will pick that cockylls", "pairID": 156}
+{"sentence_good": "no river can cross those wicecresss", "sentence_bad": "no river can cross that wicecresss", "pairID": 157}
+{"sentence_good": "every mountain must overshadow those pyleritions", "sentence_bad": "every mountain must overshadow that pyleritions", "pairID": 158}
+{"sentence_good": "some clouds may obscure those uperromplidicatiess", "sentence_bad": "some clouds may obscure that uperromplidicatiess", "pairID": 159}
+{"sentence_good": "a bottle will not contain those encrarplignments", "sentence_bad": "a bottle will not contain that encrarplignments", "pairID": 160}
+{"sentence_good": "no chair should support those snatebuselings", "sentence_bad": "no chair should support that snatebuselings", "pairID": 161}
+{"sentence_good": "each key can open those treelships", "sentence_bad": "each key can open that treelships", "pairID": 162}
+{"sentence_good": "many hands must wash those atocibuings", "sentence_bad": "many hands must wash that atocibuings", "pairID": 163}
+{"sentence_good": "the box could store those hashbimes", "sentence_bad": "the box could store that hashbimes", "pairID": 164}
+{"sentence_good": "few walls will separate those geapders", "sentence_bad": "few walls will separate that geapders", "pairID": 165}
+{"sentence_good": "every artist should paint those sucattesss", "sentence_bad": "every artist should paint that sucattesss", "pairID": 166}
+{"sentence_good": "some trees might shade those paftlonders", "sentence_bad": "some trees might shade that paftlonders", "pairID": 167}
+{"sentence_good": "a clock will measure those praveoss", "sentence_bad": "a clock will measure that praveoss", "pairID": 168}
+{"sentence_good": "no pillow can cushion those allals", "sentence_bad": "no pillow can cushion that allals", "pairID": 169}
+{"sentence_good": "each computer has not processed those pusspakers", "sentence_bad": "each computer has not processed that pusspakers", "pairID": 170}
+{"sentence_good": "many spoons will stir those tuckdessnesss", "sentence_bad": "many spoons will stir that tuckdessnesss", "pairID": 171}
+{"sentence_good": "the sun should warm those ajuxtites", "sentence_bad": "the sun should warm that ajuxtites", "pairID": 172}
+{"sentence_good": "few engines can power those incibrybations", "sentence_bad": "few engines can power that incibrybations", "pairID": 173}
+{"sentence_good": "every singer must perform those blipers", "sentence_bad": "every singer must perform that blipers", "pairID": 174}
+{"sentence_good": "some mirrors might reflect those weifys", "sentence_bad": "some mirrors might reflect that weifys", "pairID": 175}
+{"sentence_good": "a teacher will grade those duddlers", "sentence_bad": "a teacher will grade that duddlers", "pairID": 176}
+{"sentence_good": "no oven should bake those hathlessnesss", "sentence_bad": "no oven should bake that hathlessnesss", "pairID": 177}
+{"sentence_good": "each hammer can break those nessalades", "sentence_bad": "each hammer can break that nessalades", "pairID": 178}
+{"sentence_good": "many fans must cool those sphirels", "sentence_bad": "many fans must cool that sphirels", "pairID": 179}
+{"sentence_good": "the garden could not grow those whects", "sentence_bad": "the garden could not grow that whects", "pairID": 180}
+{"sentence_good": "few brushes will paint those mefunitys", "sentence_bad": "few brushes will paint that mefunitys", "pairID": 181}
+{"sentence_good": "every chef should cook those cepscosiss", "sentence_bad": "every chef should cook that cepscosiss", "pairID": 182}
+{"sentence_good": "some wheels might turn those bitanorss", "sentence_bad": "some wheels might turn that bitanorss", "pairID": 183}
+{"sentence_good": "a player will pass those somermowths", "sentence_bad": "a player will pass that somermowths", "pairID": 184}
+{"sentence_good": "no knife can cut those consimeloers", "sentence_bad": "no knife can cut that consimeloers", "pairID": 185}
+{"sentence_good": "each scientist has studied those disagipss", "sentence_bad": "each scientist has studied that disagipss", "pairID": 186}
+{"sentence_good": "many leaves will cover those pulyurutricss", "sentence_bad": "many leaves will cover that pulyurutricss", "pairID": 187}
+{"sentence_good": "the fire should burn those pachtys", "sentence_bad": "the fire should burn that pachtys", "pairID": 188}
+{"sentence_good": "few cameras can capture those tattatars", "sentence_bad": "few cameras can capture that tattatars", "pairID": 189}
+{"sentence_good": "every teacher must not explain those teftlesss", "sentence_bad": "every teacher must not explain that teftlesss", "pairID": 190}
+{"sentence_good": "some engines might drive those eleblistides", "sentence_bad": "some engines might drive that eleblistides", "pairID": 191}
+{"sentence_good": "a student will study those proceys", "sentence_bad": "a student will study that proceys", "pairID": 192}
+{"sentence_good": "no light should shine those abbrastiations", "sentence_bad": "no light should shine that abbrastiations", "pairID": 193}
+{"sentence_good": "each actor can perform those conjecetions", "sentence_bad": "each actor can perform that conjecetions", "pairID": 194}
+{"sentence_good": "many doctors must treat those teaseems", "sentence_bad": "many doctors must treat that teaseems", "pairID": 195}
+{"sentence_good": "the wind could move those haillinesss", "sentence_bad": "the wind could move that haillinesss", "pairID": 196}
+{"sentence_good": "few pens will write those relorfiditys", "sentence_bad": "few pens will write that relorfiditys", "pairID": 197}
+{"sentence_good": "every farmer should harvest those fonculas", "sentence_bad": "every farmer should harvest that fonculas", "pairID": 198}
+{"sentence_good": "some stars might light those prozes", "sentence_bad": "some stars might light that prozes", "pairID": 199}
+{"sentence_good": "a tree has dropped this blocness", "sentence_bad": "a tree has dropped these blocness", "pairID": 200}
+{"sentence_good": "many lamps will not illuminate this pithlood", "sentence_bad": "many lamps will not illuminate these pithlood", "pairID": 201}
+{"sentence_good": "the senator did not endorse this pimber", "sentence_bad": "the senator did not endorse these pimber", "pairID": 202}
+{"sentence_good": "every cloud obscures this tomitocrity", "sentence_bad": "every cloud obscures these tomitocrity", "pairID": 203}
+{"sentence_good": "some bridges connect this compracists", "sentence_bad": "some bridges connect these compracists", "pairID": 204}
+{"sentence_good": "no bottle contains this cannonmith", "sentence_bad": "no bottle contains these cannonmith", "pairID": 205}
+{"sentence_good": "each student has solved this saliololums", "sentence_bad": "each student has solved these saliololums", "pairID": 206}
+{"sentence_good": "few keys unlock this peratigs", "sentence_bad": "few keys unlock these peratigs", "pairID": 207}
+{"sentence_good": "the artist is painting this brinwhe", "sentence_bad": "the artist is painting these brinwhe", "pairID": 208}
+{"sentence_good": "any judge will review this sotermalide", "sentence_bad": "any judge will review these sotermalide", "pairID": 209}
+{"sentence_good": "the baker had not baked this surlicor", "sentence_bad": "the baker had not baked these surlicor", "pairID": 210}
+{"sentence_good": "several pilots will fly this dissioraintent", "sentence_bad": "several pilots will fly these dissioraintent", "pairID": 211}
+{"sentence_good": "one mechanic repairs this quink", "sentence_bad": "one mechanic repairs these quink", "pairID": 212}
+{"sentence_good": "the mayor has vetoed this anrira", "sentence_bad": "the mayor has vetoed these anrira", "pairID": 213}
+{"sentence_good": "every mirror reflects this bleet", "sentence_bad": "every mirror reflects these bleet", "pairID": 214}
+{"sentence_good": "no chair supports this disthezoition", "sentence_bad": "no chair supports these disthezoition", "pairID": 215}
+{"sentence_good": "some chefs will not cook this repagrence", "sentence_bad": "some chefs will not cook these repagrence", "pairID": 216}
+{"sentence_good": "each nurse will treat this furbour", "sentence_bad": "each nurse will treat these furbour", "pairID": 217}
+{"sentence_good": "few doors open this teatpad", "sentence_bad": "few doors open these teatpad", "pairID": 218}
+{"sentence_good": "the farmer grows this isler", "sentence_bad": "the farmer grows these isler", "pairID": 219}
+{"sentence_good": "any lawyer will defend this trolshy", "sentence_bad": "any lawyer will defend these trolshy", "pairID": 220}
+{"sentence_good": "the teacher explains this fosspaw", "sentence_bad": "the teacher explains these fosspaw", "pairID": 221}
+{"sentence_good": "several scientists study this ulkinest", "sentence_bad": "several scientists study these ulkinest", "pairID": 222}
+{"sentence_good": "one director produces this glalery", "sentence_bad": "one director produces these glalery", "pairID": 223}
+{"sentence_good": "the priest blesses this ranser", "sentence_bad": "the priest blesses these ranser", "pairID": 224}
+{"sentence_good": "every wheel does not turn this ganricication", "sentence_bad": "every wheel does not turn these ganricication", "pairID": 225}
+{"sentence_good": "no computer processes this plalp", "sentence_bad": "no computer processes these plalp", "pairID": 226}
+{"sentence_good": "some birds will not peck this seliceaner", "sentence_bad": "some birds will not peck these seliceaner", "pairID": 227}
+{"sentence_good": "each actor performs this maelless", "sentence_bad": "each actor performs these maelless", "pairID": 228}
+{"sentence_good": "few rivers flood this clithdrory", "sentence_bad": "few rivers flood these clithdrory", "pairID": 229}
+{"sentence_good": "the dancer has practiced this pumper", "sentence_bad": "the dancer has practiced these pumper", "pairID": 230}
+{"sentence_good": "any musician will not play this abnar", "sentence_bad": "any musician will not play these abnar", "pairID": 231}
+{"sentence_good": "the plumber fixes this dislovure", "sentence_bad": "the plumber fixes these dislovure", "pairID": 232}
+{"sentence_good": "several engineers design this seccessiveness", "sentence_bad": "several engineers design these seccessiveness", "pairID": 233}
+{"sentence_good": "one leader rules this deneslusion", "sentence_bad": "one leader rules these deneslusion", "pairID": 234}
+{"sentence_good": "the author doesn't write this orthurstation", "sentence_bad": "the author doesn't write these orthurstation", "pairID": 235}
+{"sentence_good": "every mountain overshadows this hegutator", "sentence_bad": "every mountain overshadows these hegutator", "pairID": 236}
+{"sentence_good": "no planet orbits this fotter", "sentence_bad": "no planet orbits these fotter", "pairID": 237}
+{"sentence_good": "some elephants carry this pseacantness", "sentence_bad": "some elephants carry these pseacantness", "pairID": 238}
+{"sentence_good": "each tailor sews this bouprolizer", "sentence_bad": "each tailor sews these bouprolizer", "pairID": 239}
+{"sentence_good": "few clocks measure this chietor", "sentence_bad": "few clocks measure these chietor", "pairID": 240}
+{"sentence_good": "the jeweler has crafted this obcymlation", "sentence_bad": "the jeweler has crafted these obcymlation", "pairID": 241}
+{"sentence_good": "any psychologist will analyze this sembanigity", "sentence_bad": "any psychologist will analyze these sembanigity", "pairID": 242}
+{"sentence_good": "the butcher slices this spestle", "sentence_bad": "the butcher slices these spestle", "pairID": 243}
+{"sentence_good": "several astronomers observe this basker", "sentence_bad": "several astronomers observe these basker", "pairID": 244}
+{"sentence_good": "one gardener does not water this enstistionist", "sentence_bad": "one gardener does not water these enstistionist", "pairID": 245}
+{"sentence_good": "the coach trains this laltper", "sentence_bad": "the coach trains these laltper", "pairID": 246}
+{"sentence_good": "every island surrounds this vumeratol", "sentence_bad": "every island surrounds these vumeratol", "pairID": 247}
+{"sentence_good": "no machine manufactures this kertroof", "sentence_bad": "no machine manufactures these kertroof", "pairID": 248}
+{"sentence_good": "some owls hunt this queekhouse", "sentence_bad": "some owls hunt these queekhouse", "pairID": 249}
+{"sentence_good": "a teacher has not explained that tarypt", "sentence_bad": "a teacher has explained those tarypt", "pairID": 250}
+{"sentence_good": "many lamps won't light that aprenteuize", "sentence_bad": "many lamps won't light those aprenteuize", "pairID": 251}
+{"sentence_good": "every window should not open that wooter", "sentence_bad": "every window should not open those wooter", "pairID": 252}
+{"sentence_good": "some books can cover that indemnio", "sentence_bad": "some books can cover those indemnio", "pairID": 253}
+{"sentence_good": "no bottle will hold that lastler", "sentence_bad": "no bottle will hold those lastler", "pairID": 254}
+{"sentence_good": "each chair might support that drubber", "sentence_bad": "each chair might support those drubber", "pairID": 255}
+{"sentence_good": "few keys must unlock that trapelucists", "sentence_bad": "few keys must unlock those trapelucists", "pairID": 256}
+{"sentence_good": "any pen may write that pairbar", "sentence_bad": "any pen may write those pairbar", "pairID": 257}
+{"sentence_good": "the box should contain that corplimition", "sentence_bad": "the box should contain those corplimition", "pairID": 258}
+{"sentence_good": "all forks could pick that chomshick", "sentence_bad": "all forks could pick those chomshick", "pairID": 259}
+{"sentence_good": "no spoon will not stir that hinerurupy", "sentence_bad": "no spoon will not stir those hinerurupy", "pairID": 260}
+{"sentence_good": "every pillow might cushion that peceyic", "sentence_bad": "every pillow might cushion those peceyic", "pairID": 261}
+{"sentence_good": "some shoes cannot fit that conodiessation", "sentence_bad": "some shoes cannot fit those conodiessation", "pairID": 262}
+{"sentence_good": "each hat must protect that gablanny", "sentence_bad": "each hat must protect those gablanny", "pairID": 263}
+{"sentence_good": "many gloves should handle that clanney", "sentence_bad": "many gloves should handle those clanney", "pairID": 264}
+{"sentence_good": "a wallet will carry that fromial", "sentence_bad": "a wallet will carry those fromial", "pairID": 265}
+{"sentence_good": "few belts can fasten that odhactor", "sentence_bad": "few belts can fasten those odhactor", "pairID": 266}
+{"sentence_good": "any shirt may cover that poblam", "sentence_bad": "any shirt may cover those poblam", "pairID": 267}
+{"sentence_good": "the tie should tighten that tellithe", "sentence_bad": "the tie should tighten those tellithe", "pairID": 268}
+{"sentence_good": "all pants could zip that heemery", "sentence_bad": "all pants could zip those heemery", "pairID": 269}
+{"sentence_good": "no coat will button that cenirition", "sentence_bad": "no coat will button those cenirition", "pairID": 270}
+{"sentence_good": "every skirt might wrap that intipseraped", "sentence_bad": "every skirt might wrap those intipseraped", "pairID": 271}
+{"sentence_good": "some socks cannot absorb that mesometal", "sentence_bad": "some socks cannot absorb those mesometal", "pairID": 272}
+{"sentence_good": "each scarf must warm that teanfler", "sentence_bad": "each scarf must warm those teanfler", "pairID": 273}
+{"sentence_good": "many hats should shade that clolve", "sentence_bad": "many hats should shade those clolve", "pairID": 274}
+{"sentence_good": "a clock will time that ingenus", "sentence_bad": "a clock will time those ingenus", "pairID": 275}
+{"sentence_good": "few watches can track that shiseulence", "sentence_bad": "few watches can track those shiseulence", "pairID": 276}
+{"sentence_good": "any camera may capture that batilelf", "sentence_bad": "any camera may capture those batilelf", "pairID": 277}
+{"sentence_good": "the phone should call that mesebetolation", "sentence_bad": "the phone should call those mesebetolation", "pairID": 278}
+{"sentence_good": "all radios could broadcast that lockhat", "sentence_bad": "all radios could broadcast those lockhat", "pairID": 279}
+{"sentence_good": "no television will not show that midscreem", "sentence_bad": "no television will not show those midscreem", "pairID": 280}
+{"sentence_good": "every computer might process that chavulary", "sentence_bad": "every computer might process those chavulary", "pairID": 281}
+{"sentence_good": "some tablets cannot display that leitus", "sentence_bad": "some tablets cannot display those leitus", "pairID": 282}
+{"sentence_good": "each monitor must reveal that iln", "sentence_bad": "each monitor must reveal those iln", "pairID": 283}
+{"sentence_good": "many keyboards should type that cadveotility", "sentence_bad": "many keyboards should type those cadveotility", "pairID": 284}
+{"sentence_good": "a mouse will click that raner", "sentence_bad": "a mouse will click those raner", "pairID": 285}
+{"sentence_good": "few speakers can amplify that chinolets", "sentence_bad": "few speakers can amplify those chinolets", "pairID": 286}
+{"sentence_good": "any microphone may record that spicket", "sentence_bad": "any microphone may record those spicket", "pairID": 287}
+{"sentence_good": "the projector should project that liche", "sentence_bad": "the projector should project those liche", "pairID": 288}
+{"sentence_good": "all chargers could power that frutter", "sentence_bad": "all chargers could power those frutter", "pairID": 289}
+{"sentence_good": "no battery will energize that oycarn", "sentence_bad": "no battery will energize those oycarn", "pairID": 290}
+{"sentence_good": "every lamp might not illuminate that flatterflief", "sentence_bad": "every lamp might not illuminate those flatterflief", "pairID": 291}
+{"sentence_good": "some bulbs cannot light that starnost", "sentence_bad": "some bulbs cannot light those starnost", "pairID": 292}
+{"sentence_good": "each switch must activate that gnot", "sentence_bad": "each switch must activate those gnot", "pairID": 293}
+{"sentence_good": "many outlets should supply that doffin", "sentence_bad": "many outlets should supply those doffin", "pairID": 294}
+{"sentence_good": "a generator will generate that lasteeist", "sentence_bad": "a generator will generate those lasteeist", "pairID": 295}
+{"sentence_good": "few engines can power that gribbays", "sentence_bad": "few engines can power those gribbays", "pairID": 296}
+{"sentence_good": "any turbine may turn that ingete", "sentence_bad": "any turbine may turn those ingete", "pairID": 297}
+{"sentence_good": "the motor should drive that mechtinony", "sentence_bad": "the motor should drive those mechtinony", "pairID": 298}
+{"sentence_good": "all gears could rotate that tutoon", "sentence_bad": "all gears could rotate those tutoon", "pairID": 299}
+{"sentence_good": "a tree has shaded these lappuals", "sentence_bad": "a tree has shaded this lappuals", "pairID": 300}
+{"sentence_good": "many books can't cover these sadomemogrates", "sentence_bad": "many books can't cover this sadomemogrates", "pairID": 301}
+{"sentence_good": "the lamp will light these ecumicizes", "sentence_bad": "the lamp will light this ecumicizes", "pairID": 302}
+{"sentence_good": "some water has flooded these mutrulcents", "sentence_bad": "some water has flooded this mutrulcents", "pairID": 303}
+{"sentence_good": "every student should study these gumblers", "sentence_bad": "every student should study this gumblers", "pairID": 304}
+{"sentence_good": "no bird could see these bomins", "sentence_bad": "no bird could see this bomins", "pairID": 305}
+{"sentence_good": "each key must open these denidessnesss", "sentence_bad": "each key must open this denidessnesss", "pairID": 306}
+{"sentence_good": "the chair will support these breamneres", "sentence_bad": "the chair will support this breamneres", "pairID": 307}
+{"sentence_good": "any teacher hasn't taught these reeltices", "sentence_bad": "any teacher hasn't taught this reeltices", "pairID": 308}
+{"sentence_good": "the window can't reflect these conkintions", "sentence_bad": "the window can't reflect this conkintions", "pairID": 309}
+{"sentence_good": "a cloud will obscure these licloss", "sentence_bad": "a cloud will obscure this licloss", "pairID": 310}
+{"sentence_good": "few pens have written these domrooms", "sentence_bad": "few pens have written this domrooms", "pairID": 311}
+{"sentence_good": "the shoe will fit these oxheritions", "sentence_bad": "the shoe will fit this oxheritions", "pairID": 312}
+{"sentence_good": "no machine should operate these ponagglists", "sentence_bad": "no machine should operate this ponagglists", "pairID": 313}
+{"sentence_good": "each cup must contain these bullicures", "sentence_bad": "each cup must contain this bullicures", "pairID": 314}
+{"sentence_good": "the flower can't pollinate these senarpences", "sentence_bad": "the flower can't pollinate this senarpences", "pairID": 315}
+{"sentence_good": "a clock will time these mugicins", "sentence_bad": "a clock will time this mugicins", "pairID": 316}
+{"sentence_good": "many hands haven't touched these flickens", "sentence_bad": "many hands haven't touched this flickens", "pairID": 317}
+{"sentence_good": "the map will guide these proticrantnesss", "sentence_bad": "the map will guide this proticrantnesss", "pairID": 318}
+{"sentence_good": "no fork could stab these tretimpers", "sentence_bad": "no fork could stab this tretimpers", "pairID": 319}
+{"sentence_good": "each game must entertain these travicss", "sentence_bad": "each game must entertain this travicss", "pairID": 320}
+{"sentence_good": "the wall will block these quorienes", "sentence_bad": "the wall will block this quorienes", "pairID": 321}
+{"sentence_good": "any fish hasn't eaten these adfuatures", "sentence_bad": "any fish hasn't eaten this adfuatures", "pairID": 322}
+{"sentence_good": "the oven can't bake these baditedss", "sentence_bad": "the oven can't bake this baditedss", "pairID": 323}
+{"sentence_good": "a song will soothe these porathables", "sentence_bad": "a song will soothe this porathables", "pairID": 324}
+{"sentence_good": "few brushes have painted these burrinets", "sentence_bad": "few brushes have painted this burrinets", "pairID": 325}
+{"sentence_good": "the pillow will cushion these groksosenesss", "sentence_bad": "the pillow will cushion this groksosenesss", "pairID": 326}
+{"sentence_good": "no hammer should strike these reclovates", "sentence_bad": "no hammer should strike this reclovates", "pairID": 327}
+{"sentence_good": "each belt must hold these sphistlimes", "sentence_bad": "each belt must hold this sphistlimes", "pairID": 328}
+{"sentence_good": "the gate can't secure these nooners", "sentence_bad": "the gate can't secure this nooners", "pairID": 329}
+{"sentence_good": "a fan will cool these quofts", "sentence_bad": "a fan will cool this quofts", "pairID": 330}
+{"sentence_good": "many voices haven't called these schotustinicss", "sentence_bad": "many voices haven't called this schotustinicss", "pairID": 331}
+{"sentence_good": "the needle will pierce these farindments", "sentence_bad": "the needle will pierce this farindments", "pairID": 332}
+{"sentence_good": "no spoon could scoop these ucurnts", "sentence_bad": "no spoon could scoop this ucurnts", "pairID": 333}
+{"sentence_good": "each plate must serve these ritconds", "sentence_bad": "each plate must serve this ritconds", "pairID": 334}
+{"sentence_good": "the tower will overlook these aceforas", "sentence_bad": "the tower will overlook this aceforas", "pairID": 335}
+{"sentence_good": "any cat hasn't chased these merelines", "sentence_bad": "any cat hasn't chased this merelines", "pairID": 336}
+{"sentence_good": "the camera can't capture these excomes", "sentence_bad": "the camera can't capture this excomes", "pairID": 337}
+{"sentence_good": "a poem will describe these knockrorms", "sentence_bad": "a poem will describe this knockrorms", "pairID": 338}
+{"sentence_good": "few gloves have held these chealmainships", "sentence_bad": "few gloves have held this chealmainships", "pairID": 339}
+{"sentence_good": "the helmet will protect these partalacss", "sentence_bad": "the helmet will protect this partalacss", "pairID": 340}
+{"sentence_good": "no brush should paint these surfoots", "sentence_bad": "no brush should paint this surfoots", "pairID": 341}
+{"sentence_good": "each flag must wave these huncerers", "sentence_bad": "each flag must wave this huncerers", "pairID": 342}
+{"sentence_good": "the boat can't float these seluctitolitys", "sentence_bad": "the boat can't float this seluctitolitys", "pairID": 343}
+{"sentence_good": "a melody will play these copbos", "sentence_bad": "a melody will play this copbos", "pairID": 344}
+{"sentence_good": "many feet haven't kicked these ovorations", "sentence_bad": "many feet haven't kicked this ovorations", "pairID": 345}
+{"sentence_good": "the scissors will cut these clanses", "sentence_bad": "the scissors will cut this clanses", "pairID": 346}
+{"sentence_good": "no knife could slice these hugerques", "sentence_bad": "no knife could slice this hugerques", "pairID": 347}
+{"sentence_good": "each story must tell these efghaminations", "sentence_bad": "each story must tell this efghaminations", "pairID": 348}
+{"sentence_good": "the mirror will reflect these petchdessnesss", "sentence_bad": "the mirror will reflect this petchdessnesss", "pairID": 349}
+{"sentence_good": "a teacher has not corrected those sabplers", "sentence_bad": "a teacher has not corrected that sabplers", "pairID": 350}
+{"sentence_good": "many birds will eat those gelters", "sentence_bad": "many birds will eat that gelters", "pairID": 351}
+{"sentence_good": "every window can reflect those airgremes", "sentence_bad": "every window can reflect that airgremes", "pairID": 352}
+{"sentence_good": "some shoes might cover those callodss", "sentence_bad": "some shoes might cover that callodss", "pairID": 353}
+{"sentence_good": "the lamp should illuminate those houlballers", "sentence_bad": "the lamp should illuminate that houlballers", "pairID": 354}
+{"sentence_good": "few books have mentioned those privedenitents", "sentence_bad": "few books have mentioned that privedenitents", "pairID": 355}
+{"sentence_good": "each fork will pick those goglers", "sentence_bad": "each fork will pick that goglers", "pairID": 356}
+{"sentence_good": "no river can cross those broubers", "sentence_bad": "no river can cross that broubers", "pairID": 357}
+{"sentence_good": "every mountain must overshadow those dengemblers", "sentence_bad": "every mountain must overshadow that dengemblers", "pairID": 358}
+{"sentence_good": "some clouds may obscure those misgrences", "sentence_bad": "some clouds may obscure that misgrences", "pairID": 359}
+{"sentence_good": "a bottle will not contain those pisurts", "sentence_bad": "a bottle will not contain that pisurts", "pairID": 360}
+{"sentence_good": "no chair should support those twerbs", "sentence_bad": "no chair should support that twerbs", "pairID": 361}
+{"sentence_good": "each key can open those cullets", "sentence_bad": "each key can open that cullets", "pairID": 362}
+{"sentence_good": "many hands must wash those bisgyths", "sentence_bad": "many hands must wash that bisgyths", "pairID": 363}
+{"sentence_good": "the box could store those spimss", "sentence_bad": "the box could store that spimss", "pairID": 364}
+{"sentence_good": "few walls will separate those truxians", "sentence_bad": "few walls will separate that truxians", "pairID": 365}
+{"sentence_good": "every artist should paint those snigsinesss", "sentence_bad": "every artist should paint that snigsinesss", "pairID": 366}
+{"sentence_good": "some trees might shade those chetherys", "sentence_bad": "some trees might shade that chetherys", "pairID": 367}
+{"sentence_good": "a clock will measure those vignayeds", "sentence_bad": "a clock will measure that vignayeds", "pairID": 368}
+{"sentence_good": "no pillow can cushion those reprouts", "sentence_bad": "no pillow can cushion that reprouts", "pairID": 369}
+{"sentence_good": "each computer has not processed those gicuionnesss", "sentence_bad": "each computer has not processed that gicuionnesss", "pairID": 370}
+{"sentence_good": "many spoons will stir those engowths", "sentence_bad": "many spoons will stir that engowths", "pairID": 371}
+{"sentence_good": "the sun should warm those storebooms", "sentence_bad": "the sun should warm that storebooms", "pairID": 372}
+{"sentence_good": "few engines can power those disforanctents", "sentence_bad": "few engines can power that disforanctents", "pairID": 373}
+{"sentence_good": "every singer must perform those woodfats", "sentence_bad": "every singer must perform that woodfats", "pairID": 374}
+{"sentence_good": "some mirrors might reflect those fasscreads", "sentence_bad": "some mirrors might reflect that fasscreads", "pairID": 375}
+{"sentence_good": "a teacher will grade those lipers", "sentence_bad": "a teacher will grade that lipers", "pairID": 376}
+{"sentence_good": "no oven should bake those chuers", "sentence_bad": "no oven should bake that chuers", "pairID": 377}
+{"sentence_good": "each hammer can break those musiciarphets", "sentence_bad": "each hammer can break that musiciarphets", "pairID": 378}
+{"sentence_good": "many fans must cool those oncuibs", "sentence_bad": "many fans must cool that oncuibs", "pairID": 379}
+{"sentence_good": "the garden could not grow those samiaphys", "sentence_bad": "the garden could not grow that samiaphys", "pairID": 380}
+{"sentence_good": "few brushes will paint those veweds", "sentence_bad": "few brushes will paint that veweds", "pairID": 381}
+{"sentence_good": "every chef should cook those exarbentionisms", "sentence_bad": "every chef should cook that exarbentionisms", "pairID": 382}
+{"sentence_good": "some wheels might turn those redibrinys", "sentence_bad": "some wheels might turn that redibrinys", "pairID": 383}
+{"sentence_good": "a player will pass those combees", "sentence_bad": "a player will pass that combees", "pairID": 384}
+{"sentence_good": "no knife can cut those bumhables", "sentence_bad": "no knife can cut that bumhables", "pairID": 385}
+{"sentence_good": "each scientist has studied those jaqebils", "sentence_bad": "each scientist has studied that jaqebils", "pairID": 386}
+{"sentence_good": "many leaves will cover those blilkss", "sentence_bad": "many leaves will cover that blilkss", "pairID": 387}
+{"sentence_good": "the fire should burn those bles", "sentence_bad": "the fire should burn that bles", "pairID": 388}
+{"sentence_good": "few cameras can capture those monkers", "sentence_bad": "few cameras can capture that monkers", "pairID": 389}
+{"sentence_good": "every teacher must not explain those ogglers", "sentence_bad": "every teacher must not explain that ogglers", "pairID": 390}
+{"sentence_good": "some engines might drive those pecons", "sentence_bad": "some engines might drive that pecons", "pairID": 391}
+{"sentence_good": "a student will study those hacuteas", "sentence_bad": "a student will study that hacuteas", "pairID": 392}
+{"sentence_good": "no light should shine those hafelones", "sentence_bad": "no light should shine that hafelones", "pairID": 393}
+{"sentence_good": "each actor can perform those tarcenesss", "sentence_bad": "each actor can perform that tarcenesss", "pairID": 394}
+{"sentence_good": "many doctors must treat those concantantss", "sentence_bad": "many doctors must treat that concantantss", "pairID": 395}
+{"sentence_good": "the wind could move those jencerments", "sentence_bad": "the wind could move that jencerments", "pairID": 396}
+{"sentence_good": "few pens will write those shatheters", "sentence_bad": "few pens will write that shatheters", "pairID": 397}
+{"sentence_good": "every farmer should harvest those brareovers", "sentence_bad": "every farmer should harvest that brareovers", "pairID": 398}
+{"sentence_good": "some stars might light those hampdails", "sentence_bad": "some stars might light that hampdails", "pairID": 399}
+{"sentence_good": "a tree has dropped this hoothboat", "sentence_bad": "a tree has dropped these hoothboat", "pairID": 400}
+{"sentence_good": "many lamps will not illuminate this insimploity", "sentence_bad": "many lamps will not illuminate these insimploity", "pairID": 401}
+{"sentence_good": "the senator did not endorse this salesrisk", "sentence_bad": "the senator did not endorse these salesrisk", "pairID": 402}
+{"sentence_good": "every cloud obscures this tonnet", "sentence_bad": "every cloud obscures these tonnet", "pairID": 403}
+{"sentence_good": "some bridges connect this meregged", "sentence_bad": "some bridges connect these meregged", "pairID": 404}
+{"sentence_good": "no bottle contains this trassman", "sentence_bad": "no bottle contains these trassman", "pairID": 405}
+{"sentence_good": "each student has solved this cestein", "sentence_bad": "each student has solved these cestein", "pairID": 406}
+{"sentence_good": "few keys unlock this friarcial", "sentence_bad": "few keys unlock these friarcial", "pairID": 407}
+{"sentence_good": "the artist is painting this paspet", "sentence_bad": "the artist is painting these paspet", "pairID": 408}
+{"sentence_good": "any judge will review this pocerition", "sentence_bad": "any judge will review these pocerition", "pairID": 409}
+{"sentence_good": "the baker had not baked this doftatine", "sentence_bad": "the baker had not baked these doftatine", "pairID": 410}
+{"sentence_good": "several pilots will fly this frievery", "sentence_bad": "several pilots will fly these frievery", "pairID": 411}
+{"sentence_good": "one mechanic repairs this remestence", "sentence_bad": "one mechanic repairs these remestence", "pairID": 412}
+{"sentence_good": "the mayor has vetoed this spid", "sentence_bad": "the mayor has vetoed these spid", "pairID": 413}
+{"sentence_good": "every mirror reflects this penvemurarity", "sentence_bad": "every mirror reflects these penvemurarity", "pairID": 414}
+{"sentence_good": "no chair supports this branslaking", "sentence_bad": "no chair supports these branslaking", "pairID": 415}
+{"sentence_good": "some chefs will not cook this cancy", "sentence_bad": "some chefs will not cook these cancy", "pairID": 416}
+{"sentence_good": "each nurse will treat this demarps", "sentence_bad": "each nurse will treat these demarps", "pairID": 417}
+{"sentence_good": "few doors open this resceze", "sentence_bad": "few doors open these resceze", "pairID": 418}
+{"sentence_good": "the farmer grows this suddle", "sentence_bad": "the farmer grows these suddle", "pairID": 419}
+{"sentence_good": "any lawyer will defend this rejagrination", "sentence_bad": "any lawyer will defend these rejagrination", "pairID": 420}
+{"sentence_good": "the teacher explains this nawing", "sentence_bad": "the teacher explains these nawing", "pairID": 421}
+{"sentence_good": "several scientists study this puspevontion", "sentence_bad": "several scientists study these puspevontion", "pairID": 422}
+{"sentence_good": "one director produces this blaftist", "sentence_bad": "one director produces these blaftist", "pairID": 423}
+{"sentence_good": "the priest blesses this ambol", "sentence_bad": "the priest blesses these ambol", "pairID": 424}
+{"sentence_good": "every wheel does not turn this preceenship", "sentence_bad": "every wheel does not turn these preceenship", "pairID": 425}
+{"sentence_good": "no computer processes this gapper", "sentence_bad": "no computer processes these gapper", "pairID": 426}
+{"sentence_good": "some birds will not peck this casuaty", "sentence_bad": "some birds will not peck these casuaty", "pairID": 427}
+{"sentence_good": "each actor performs this caggiun", "sentence_bad": "each actor performs these caggiun", "pairID": 428}
+{"sentence_good": "few rivers flood this itanantide", "sentence_bad": "few rivers flood these itanantide", "pairID": 429}
+{"sentence_good": "the dancer has practiced this sundreist", "sentence_bad": "the dancer has practiced these sundreist", "pairID": 430}
+{"sentence_good": "any musician will not play this alpremors", "sentence_bad": "any musician will not play these alpremors", "pairID": 431}
+{"sentence_good": "the plumber fixes this serriation", "sentence_bad": "the plumber fixes these serriation", "pairID": 432}
+{"sentence_good": "several engineers design this impodrallibility", "sentence_bad": "several engineers design these impodrallibility", "pairID": 433}
+{"sentence_good": "one leader rules this oversust", "sentence_bad": "one leader rules these oversust", "pairID": 434}
+{"sentence_good": "the author doesn't write this rhonem", "sentence_bad": "the author doesn't write these rhonem", "pairID": 435}
+{"sentence_good": "every mountain overshadows this stidpon", "sentence_bad": "every mountain overshadows these stidpon", "pairID": 436}
+{"sentence_good": "no planet orbits this chustoochip", "sentence_bad": "no planet orbits these chustoochip", "pairID": 437}
+{"sentence_good": "some elephants carry this dedumatur", "sentence_bad": "some elephants carry these dedumatur", "pairID": 438}
+{"sentence_good": "each tailor sews this reptiruteac", "sentence_bad": "each tailor sews these reptiruteac", "pairID": 439}
+{"sentence_good": "few clocks measure this scass", "sentence_bad": "few clocks measure these scass", "pairID": 440}
+{"sentence_good": "the jeweler has crafted this briteman", "sentence_bad": "the jeweler has crafted these briteman", "pairID": 441}
+{"sentence_good": "any psychologist will analyze this underdourse", "sentence_bad": "any psychologist will analyze these underdourse", "pairID": 442}
+{"sentence_good": "the butcher slices this calasude", "sentence_bad": "the butcher slices these calasude", "pairID": 443}
+{"sentence_good": "several astronomers observe this bouningness", "sentence_bad": "several astronomers observe these bouningness", "pairID": 444}
+{"sentence_good": "one gardener does not water this sandgrost", "sentence_bad": "one gardener does not water these sandgrost", "pairID": 445}
+{"sentence_good": "the coach trains this couther", "sentence_bad": "the coach trains these couther", "pairID": 446}
+{"sentence_good": "every island surrounds this anx", "sentence_bad": "every island surrounds these anx", "pairID": 447}
+{"sentence_good": "no machine manufactures this peprettisication", "sentence_bad": "no machine manufactures these peprettisication", "pairID": 448}
+{"sentence_good": "some owls hunt this crureer", "sentence_bad": "some owls hunt these crureer", "pairID": 449}
+{"sentence_good": "a teacher has not explained that misquinctation", "sentence_bad": "a teacher has explained those misquinctation", "pairID": 450}
+{"sentence_good": "many lamps won't light that charhacan", "sentence_bad": "many lamps won't light those charhacan", "pairID": 451}
+{"sentence_good": "every window should not open that kwercin", "sentence_bad": "every window should not open those kwercin", "pairID": 452}
+{"sentence_good": "some books can cover that conblard", "sentence_bad": "some books can cover those conblard", "pairID": 453}
+{"sentence_good": "no bottle will hold that regnochiction", "sentence_bad": "no bottle will hold those regnochiction", "pairID": 454}
+{"sentence_good": "each chair might support that giclic", "sentence_bad": "each chair might support those giclic", "pairID": 455}
+{"sentence_good": "few keys must unlock that endub", "sentence_bad": "few keys must unlock those endub", "pairID": 456}
+{"sentence_good": "any pen may write that renugs", "sentence_bad": "any pen may write those renugs", "pairID": 457}
+{"sentence_good": "the box should contain that corphiuntiouslent", "sentence_bad": "the box should contain those corphiuntiouslent", "pairID": 458}
+{"sentence_good": "all forks could pick that emmerber", "sentence_bad": "all forks could pick those emmerber", "pairID": 459}
+{"sentence_good": "no spoon will not stir that contonboonide", "sentence_bad": "no spoon will not stir those contonboonide", "pairID": 460}
+{"sentence_good": "every pillow might cushion that peclering", "sentence_bad": "every pillow might cushion those peclering", "pairID": 461}
+{"sentence_good": "some shoes cannot fit that ilgrination", "sentence_bad": "some shoes cannot fit those ilgrination", "pairID": 462}
+{"sentence_good": "each hat must protect that nopenotion", "sentence_bad": "each hat must protect those nopenotion", "pairID": 463}
+{"sentence_good": "many gloves should handle that asemants", "sentence_bad": "many gloves should handle those asemants", "pairID": 464}
+{"sentence_good": "a wallet will carry that nymns", "sentence_bad": "a wallet will carry those nymns", "pairID": 465}
+{"sentence_good": "few belts can fasten that rehunianecy", "sentence_bad": "few belts can fasten those rehunianecy", "pairID": 466}
+{"sentence_good": "any shirt may cover that caqanezic", "sentence_bad": "any shirt may cover those caqanezic", "pairID": 467}
+{"sentence_good": "the tie should tighten that stockjack", "sentence_bad": "the tie should tighten those stockjack", "pairID": 468}
+{"sentence_good": "all pants could zip that rushfeader", "sentence_bad": "all pants could zip those rushfeader", "pairID": 469}
+{"sentence_good": "no coat will button that blurpipe", "sentence_bad": "no coat will button those blurpipe", "pairID": 470}
+{"sentence_good": "every skirt might wrap that hierceness", "sentence_bad": "every skirt might wrap those hierceness", "pairID": 471}
+{"sentence_good": "some socks cannot absorb that nightshire", "sentence_bad": "some socks cannot absorb those nightshire", "pairID": 472}
+{"sentence_good": "each scarf must warm that mantemper", "sentence_bad": "each scarf must warm those mantemper", "pairID": 473}
+{"sentence_good": "many hats should shade that betagnaphy", "sentence_bad": "many hats should shade those betagnaphy", "pairID": 474}
+{"sentence_good": "a clock will time that dereier", "sentence_bad": "a clock will time those dereier", "pairID": 475}
+{"sentence_good": "few watches can track that atcluirs", "sentence_bad": "few watches can track those atcluirs", "pairID": 476}
+{"sentence_good": "any camera may capture that greqerviration", "sentence_bad": "any camera may capture those greqerviration", "pairID": 477}
+{"sentence_good": "the phone should call that copeb", "sentence_bad": "the phone should call those copeb", "pairID": 478}
+{"sentence_good": "all radios could broadcast that hithable", "sentence_bad": "all radios could broadcast those hithable", "pairID": 479}
+{"sentence_good": "no television will not show that glositeenalics", "sentence_bad": "no television will not show those glositeenalics", "pairID": 480}
+{"sentence_good": "every computer might process that riffbud", "sentence_bad": "every computer might process those riffbud", "pairID": 481}
+{"sentence_good": "some tablets cannot display that lautioninitation", "sentence_bad": "some tablets cannot display those lautioninitation", "pairID": 482}
+{"sentence_good": "each monitor must reveal that casancer", "sentence_bad": "each monitor must reveal those casancer", "pairID": 483}
+{"sentence_good": "many keyboards should type that hendiness", "sentence_bad": "many keyboards should type those hendiness", "pairID": 484}
+{"sentence_good": "a mouse will click that statoziua", "sentence_bad": "a mouse will click those statoziua", "pairID": 485}
+{"sentence_good": "few speakers can amplify that emimprodagnet", "sentence_bad": "few speakers can amplify those emimprodagnet", "pairID": 486}
+{"sentence_good": "any microphone may record that smianist", "sentence_bad": "any microphone may record those smianist", "pairID": 487}
+{"sentence_good": "the projector should project that teccuomity", "sentence_bad": "the projector should project those teccuomity", "pairID": 488}
+{"sentence_good": "all chargers could power that awestrond", "sentence_bad": "all chargers could power those awestrond", "pairID": 489}
+{"sentence_good": "no battery will energize that ertubriate", "sentence_bad": "no battery will energize those ertubriate", "pairID": 490}
+{"sentence_good": "every lamp might not illuminate that prelemigizer", "sentence_bad": "every lamp might not illuminate those prelemigizer", "pairID": 491}
+{"sentence_good": "some bulbs cannot light that pou", "sentence_bad": "some bulbs cannot light those pou", "pairID": 492}
+{"sentence_good": "each switch must activate that derane", "sentence_bad": "each switch must activate those derane", "pairID": 493}
+{"sentence_good": "many outlets should supply that degubotocy", "sentence_bad": "many outlets should supply those degubotocy", "pairID": 494}
+{"sentence_good": "a generator will generate that regranter", "sentence_bad": "a generator will generate those regranter", "pairID": 495}
+{"sentence_good": "few engines can power that quilder", "sentence_bad": "few engines can power those quilder", "pairID": 496}
+{"sentence_good": "any turbine may turn that forereet", "sentence_bad": "any turbine may turn those forereet", "pairID": 497}
+{"sentence_good": "the motor should drive that hedglat", "sentence_bad": "the motor should drive those hedglat", "pairID": 498}
+{"sentence_good": "all gears could rotate that feuing", "sentence_bad": "all gears could rotate those feuing", "pairID": 499}
+{"sentence_good": "a tree has shaded these denocitys", "sentence_bad": "a tree has shaded this denocitys", "pairID": 500}
+{"sentence_good": "many books can't cover these vaflessnesss", "sentence_bad": "many books can't cover this vaflessnesss", "pairID": 501}
+{"sentence_good": "the lamp will light these motorpops", "sentence_bad": "the lamp will light this motorpops", "pairID": 502}
+{"sentence_good": "some water has flooded these hepiesmys", "sentence_bad": "some water has flooded this hepiesmys", "pairID": 503}
+{"sentence_good": "every student should study these screngthaways", "sentence_bad": "every student should study this screngthaways", "pairID": 504}
+{"sentence_good": "no bird could see these slielsences", "sentence_bad": "no bird could see this slielsences", "pairID": 505}
+{"sentence_good": "each key must open these partroidss", "sentence_bad": "each key must open this partroidss", "pairID": 506}
+{"sentence_good": "the chair will support these cynlivatols", "sentence_bad": "the chair will support this cynlivatols", "pairID": 507}
+{"sentence_good": "any teacher hasn't taught these anfols", "sentence_bad": "any teacher hasn't taught this anfols", "pairID": 508}
+{"sentence_good": "the window can't reflect these avimnitys", "sentence_bad": "the window can't reflect this avimnitys", "pairID": 509}
+{"sentence_good": "a cloud will obscure these innelieerlys", "sentence_bad": "a cloud will obscure this innelieerlys", "pairID": 510}
+{"sentence_good": "few pens have written these densimbles", "sentence_bad": "few pens have written this densimbles", "pairID": 511}
+{"sentence_good": "the shoe will fit these desugrides", "sentence_bad": "the shoe will fit this desugrides", "pairID": 512}
+{"sentence_good": "no machine should operate these cithpits", "sentence_bad": "no machine should operate this cithpits", "pairID": 513}
+{"sentence_good": "each cup must contain these intirnonabilitys", "sentence_bad": "each cup must contain this intirnonabilitys", "pairID": 514}
+{"sentence_good": "the flower can't pollinate these conciblancys", "sentence_bad": "the flower can't pollinate this conciblancys", "pairID": 515}
+{"sentence_good": "a clock will time these rethanements", "sentence_bad": "a clock will time this rethanements", "pairID": 516}
+{"sentence_good": "many hands haven't touched these marrishs", "sentence_bad": "many hands haven't touched this marrishs", "pairID": 517}
+{"sentence_good": "the map will guide these mercacations", "sentence_bad": "the map will guide this mercacations", "pairID": 518}
+{"sentence_good": "no fork could stab these merabianys", "sentence_bad": "no fork could stab this merabianys", "pairID": 519}
+{"sentence_good": "each game must entertain these fusteins", "sentence_bad": "each game must entertain this fusteins", "pairID": 520}
+{"sentence_good": "the wall will block these incarmescizeds", "sentence_bad": "the wall will block this incarmescizeds", "pairID": 521}
+{"sentence_good": "any fish hasn't eaten these cechisics", "sentence_bad": "any fish hasn't eaten this cechisics", "pairID": 522}
+{"sentence_good": "the oven can't bake these fleptres", "sentence_bad": "the oven can't bake this fleptres", "pairID": 523}
+{"sentence_good": "a song will soothe these menpolitys", "sentence_bad": "a song will soothe this menpolitys", "pairID": 524}
+{"sentence_good": "few brushes have painted these greerers", "sentence_bad": "few brushes have painted this greerers", "pairID": 525}
+{"sentence_good": "the pillow will cushion these durples", "sentence_bad": "the pillow will cushion this durples", "pairID": 526}
+{"sentence_good": "no hammer should strike these dojuerreotides", "sentence_bad": "no hammer should strike this dojuerreotides", "pairID": 527}
+{"sentence_good": "each belt must hold these sichovers", "sentence_bad": "each belt must hold this sichovers", "pairID": 528}
+{"sentence_good": "the gate can't secure these verfetes", "sentence_bad": "the gate can't secure this verfetes", "pairID": 529}
+{"sentence_good": "a fan will cool these akbers", "sentence_bad": "a fan will cool this akbers", "pairID": 530}
+{"sentence_good": "many voices haven't called these quings", "sentence_bad": "many voices haven't called this quings", "pairID": 531}
+{"sentence_good": "the needle will pierce these tederys", "sentence_bad": "the needle will pierce this tederys", "pairID": 532}
+{"sentence_good": "no spoon could scoop these blotherys", "sentence_bad": "no spoon could scoop this blotherys", "pairID": 533}
+{"sentence_good": "each plate must serve these wimbols", "sentence_bad": "each plate must serve this wimbols", "pairID": 534}
+{"sentence_good": "the tower will overlook these mangmatss", "sentence_bad": "the tower will overlook this mangmatss", "pairID": 535}
+{"sentence_good": "any cat hasn't chased these prenilicatacs", "sentence_bad": "any cat hasn't chased this prenilicatacs", "pairID": 536}
+{"sentence_good": "the camera can't capture these westertnysts", "sentence_bad": "the camera can't capture this westertnysts", "pairID": 537}
+{"sentence_good": "a poem will describe these quopalomys", "sentence_bad": "a poem will describe this quopalomys", "pairID": 538}
+{"sentence_good": "few gloves have held these prejugations", "sentence_bad": "few gloves have held this prejugations", "pairID": 539}
+{"sentence_good": "the helmet will protect these imbrintionists", "sentence_bad": "the helmet will protect this imbrintionists", "pairID": 540}
+{"sentence_good": "no brush should paint these feapnesss", "sentence_bad": "no brush should paint this feapnesss", "pairID": 541}
+{"sentence_good": "each flag must wave these inhictinalitys", "sentence_bad": "each flag must wave this inhictinalitys", "pairID": 542}
+{"sentence_good": "the boat can't float these compuntnesss", "sentence_bad": "the boat can't float this compuntnesss", "pairID": 543}
+{"sentence_good": "a melody will play these daxys", "sentence_bad": "a melody will play this daxys", "pairID": 544}
+{"sentence_good": "many feet haven't kicked these oards", "sentence_bad": "many feet haven't kicked this oards", "pairID": 545}
+{"sentence_good": "the scissors will cut these bagrets", "sentence_bad": "the scissors will cut this bagrets", "pairID": 546}
+{"sentence_good": "no knife could slice these gyncutorys", "sentence_bad": "no knife could slice this gyncutorys", "pairID": 547}
+{"sentence_good": "each story must tell these grimpets", "sentence_bad": "each story must tell this grimpets", "pairID": 548}
+{"sentence_good": "the mirror will reflect these foodsotes", "sentence_bad": "the mirror will reflect this foodsotes", "pairID": 549}
+{"sentence_good": "a teacher has not corrected those surtents", "sentence_bad": "a teacher has not corrected that surtents", "pairID": 550}
+{"sentence_good": "many birds will eat those trubbathnesss", "sentence_bad": "many birds will eat that trubbathnesss", "pairID": 551}
+{"sentence_good": "every window can reflect those blemuss", "sentence_bad": "every window can reflect that blemuss", "pairID": 552}
+{"sentence_good": "some shoes might cover those lasons", "sentence_bad": "some shoes might cover that lasons", "pairID": 553}
+{"sentence_good": "the lamp should illuminate those knosics", "sentence_bad": "the lamp should illuminate that knosics", "pairID": 554}
+{"sentence_good": "few books have mentioned those inconsetionalalotions", "sentence_bad": "few books have mentioned that inconsetionalalotions", "pairID": 555}
+{"sentence_good": "each fork will pick those stanstoons", "sentence_bad": "each fork will pick that stanstoons", "pairID": 556}
+{"sentence_good": "no river can cross those coffss", "sentence_bad": "no river can cross that coffss", "pairID": 557}
+{"sentence_good": "every mountain must overshadow those malpoesences", "sentence_bad": "every mountain must overshadow that malpoesences", "pairID": 558}
+{"sentence_good": "some clouds may obscure those slasnesss", "sentence_bad": "some clouds may obscure that slasnesss", "pairID": 559}
+{"sentence_good": "a bottle will not contain those huwricanss", "sentence_bad": "a bottle will not contain that huwricanss", "pairID": 560}
+{"sentence_good": "no chair should support those sunitys", "sentence_bad": "no chair should support that sunitys", "pairID": 561}
+{"sentence_good": "each key can open those stapes", "sentence_bad": "each key can open that stapes", "pairID": 562}
+{"sentence_good": "many hands must wash those hointbrips", "sentence_bad": "many hands must wash that hointbrips", "pairID": 563}
+{"sentence_good": "the box could store those scrimers", "sentence_bad": "the box could store that scrimers", "pairID": 564}
+{"sentence_good": "few walls will separate those stopnicks", "sentence_bad": "few walls will separate that stopnicks", "pairID": 565}
+{"sentence_good": "every artist should paint those muncamitys", "sentence_bad": "every artist should paint that muncamitys", "pairID": 566}
+{"sentence_good": "some trees might shade those eyepeshs", "sentence_bad": "some trees might shade that eyepeshs", "pairID": 567}
+{"sentence_good": "a clock will measure those leannys", "sentence_bad": "a clock will measure that leannys", "pairID": 568}
+{"sentence_good": "no pillow can cushion those roaxlesss", "sentence_bad": "no pillow can cushion that roaxlesss", "pairID": 569}
+{"sentence_good": "each computer has not processed those contolostss", "sentence_bad": "each computer has not processed that contolostss", "pairID": 570}
+{"sentence_good": "many spoons will stir those nittles", "sentence_bad": "many spoons will stir that nittles", "pairID": 571}
+{"sentence_good": "the sun should warm those skarksmanships", "sentence_bad": "the sun should warm that skarksmanships", "pairID": 572}
+{"sentence_good": "few engines can power those kisiuritys", "sentence_bad": "few engines can power that kisiuritys", "pairID": 573}
+{"sentence_good": "every singer must perform those begoods", "sentence_bad": "every singer must perform that begoods", "pairID": 574}
+{"sentence_good": "some mirrors might reflect those razormidss", "sentence_bad": "some mirrors might reflect that razormidss", "pairID": 575}
+{"sentence_good": "a teacher will grade those popmers", "sentence_bad": "a teacher will grade that popmers", "pairID": 576}
+{"sentence_good": "no oven should bake those nosaousnesss", "sentence_bad": "no oven should bake that nosaousnesss", "pairID": 577}
+{"sentence_good": "each hammer can break those screaters", "sentence_bad": "each hammer can break that screaters", "pairID": 578}
+{"sentence_good": "many fans must cool those dungdaisers", "sentence_bad": "many fans must cool that dungdaisers", "pairID": 579}
+{"sentence_good": "the garden could not grow those hiesmans", "sentence_bad": "the garden could not grow that hiesmans", "pairID": 580}
+{"sentence_good": "few brushes will paint those maficeitilitys", "sentence_bad": "few brushes will paint that maficeitilitys", "pairID": 581}
+{"sentence_good": "every chef should cook those juddlers", "sentence_bad": "every chef should cook that juddlers", "pairID": 582}
+{"sentence_good": "some wheels might turn those pythninications", "sentence_bad": "some wheels might turn that pythninications", "pairID": 583}
+{"sentence_good": "a player will pass those headlopss", "sentence_bad": "a player will pass that headlopss", "pairID": 584}
+{"sentence_good": "no knife can cut those menunorsions", "sentence_bad": "no knife can cut that menunorsions", "pairID": 585}
+{"sentence_good": "each scientist has studied those coistcolns", "sentence_bad": "each scientist has studied that coistcolns", "pairID": 586}
+{"sentence_good": "many leaves will cover those pommeanizations", "sentence_bad": "many leaves will cover that pommeanizations", "pairID": 587}
+{"sentence_good": "the fire should burn those srines", "sentence_bad": "the fire should burn that srines", "pairID": 588}
+{"sentence_good": "few cameras can capture those etrotisitions", "sentence_bad": "few cameras can capture that etrotisitions", "pairID": 589}
+{"sentence_good": "every teacher must not explain those clapucators", "sentence_bad": "every teacher must not explain that clapucators", "pairID": 590}
+{"sentence_good": "some engines might drive those rurcernemss", "sentence_bad": "some engines might drive that rurcernemss", "pairID": 591}
+{"sentence_good": "a student will study those larements", "sentence_bad": "a student will study that larements", "pairID": 592}
+{"sentence_good": "no light should shine those thovertoofs", "sentence_bad": "no light should shine that thovertoofs", "pairID": 593}
+{"sentence_good": "each actor can perform those sutsoths", "sentence_bad": "each actor can perform that sutsoths", "pairID": 594}
+{"sentence_good": "many doctors must treat those ercoxpations", "sentence_bad": "many doctors must treat that ercoxpations", "pairID": 595}
+{"sentence_good": "the wind could move those wevanioys", "sentence_bad": "the wind could move that wevanioys", "pairID": 596}
+{"sentence_good": "few pens will write those imygitys", "sentence_bad": "few pens will write that imygitys", "pairID": 597}
+{"sentence_good": "every farmer should harvest those freeraeds", "sentence_bad": "every farmer should harvest that freeraeds", "pairID": 598}
+{"sentence_good": "some stars might light those insonements", "sentence_bad": "some stars might light that insonements", "pairID": 599}

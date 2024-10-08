@@ -1,0 +1,600 @@
+<wug#0> cleaning him will hurt herself
+<wug#1> bathing him has kissed herself
+<wug#2> dressing him might slap herself
+<wug#3> feeding him did punch herself
+<wug#4> painting him can forgive herself
+<wug#5> teaching him should teach herself
+<wug#6> guiding him must guide herself
+<wug#7> shaving him could see herself
+<wug#8> preparing him may wash herself
+<wug#9> arming him has not blamed herself
+<wug#10> amusing him will carry herself
+<wug#11> coaching him did not choose herself
+<wug#12> treating him can trust herself
+<wug#13> curing him should protect herself
+<wug#14> fooling him must find herself
+<wug#15> helping him could hear herself
+<wug#16> kicking him may free herself
+<wug#17> mending him has not judged herself
+<wug#18> praising him will follow herself
+<wug#19> pushing him did not mock herself
+<wug#20> quizzing him can admire herself
+<wug#21> ruling him should help herself
+<wug#22> saving him must know herself
+<wug#23> testing him could feel herself
+<wug#24> urging him may recognize herself
+<wug#25> vexing him has not called herself
+<wug#26> warming him will meet herself
+<wug#27> yielding him did not greet herself
+<wug#28> zipping him can like herself
+<wug#29> judging him should face herself
+<wug#30> linking him must respect herself
+<wug#31> naming him could understand herself
+<wug#32> obeying him may save herself
+<wug#33> playing him has not fooled herself
+<wug#34> quoting him will treat herself
+<wug#35> risking him did not harm herself
+<wug#36> serving him can value herself
+<wug#37> timing him should amuse herself
+<wug#38> valuing him must defend herself
+<wug#39> wiring him could check herself
+<wug#40> x-raying him may correct herself
+<wug#41> yanking him has not betrayed herself
+<wug#42> adjusting him will discover herself
+<wug#43> boxing him did not doubt herself
+<wug#44> calming him can convince herself
+<wug#45> diving him should introduce herself
+<wug#46> echoing him must prepare herself
+<wug#47> frightening him could satisfy herself
+<wug#48> greeting him may express herself
+<wug#49> hunting him has not ignored herself
+<wug#50> inspiring him will accept herself
+<wug#51> jolting him did not refuse herself
+<wug#52> knitting him can surprise herself
+<wug#53> lifting him should forgive herself
+<wug#54> masking him must challenge herself
+<wug#55> nipping him could reward herself
+<wug#56> opening him may approach herself
+<wug#57> packing him has not accused herself
+<wug#58> questioning him will support herself
+<wug#59> repairing him did not neglect herself
+<wug#60> stopping him can inspire herself
+<wug#61> tuning him should educate herself
+<wug#62> unveiling him must enlighten herself
+<wug#63> voicing him could elevate herself
+<wug#64> watching him may improve herself
+<wug#65> xeroxing him has not deceived herself
+<wug#66> yodeling him will enhance herself
+<wug#67> zip-tying him did not belittle herself
+<wug#68> aligning him can motivate herself
+<wug#69> bumping him should console herself
+<wug#70> capturing him must uplift herself
+<wug#71> delving him could empower herself
+<wug#72> enrolling him may enrich herself
+<wug#73> fixing him has not underestimated herself
+<wug#74> granting him will strengthen herself
+<wug#75> honing him did not undermine herself
+<wug#76> inviting him can reassure herself
+<wug#77> joining him should compliment herself
+<wug#78> keeping him must honor herself
+<wug#79> locating him could cherish herself
+<wug#80> moving him may adore herself
+<wug#81> noting him has not ridiculed herself
+<wug#82> operating him will esteem herself
+<wug#83> placing him did not criticize herself
+<wug#84> recalling him can respect herself
+<wug#85> securing him should appreciate herself
+<wug#86> targeting him must nurture herself
+<wug#87> uniting him could pamper herself
+<wug#88> verifying him may indulge herself
+<wug#89> wiping him has not mistreated herself
+<wug#90> x-linking him will spoil herself
+<wug#91> yoking him did not rebuke herself
+<wug#92> zeroing him can console herself
+<wug#93> booking him should soothe herself
+<wug#94> charging him must calm herself
+<wug#95> defending him could quiet herself
+<wug#96> electing him may reassure herself
+<wug#97> grasping him has not distressed herself
+<wug#98> humbling him will comfort herself
+<wug#99> identifying him did not unsettle herself
+<wug#100> praising her will hurt himself
+<wug#101> teaching her has praised himself
+<wug#102> kicking her can teach himself
+<wug#103> guiding her must find himself
+<wug#104> fooling her did call himself
+<wug#105> helping her should guide himself
+<wug#106> biting her might know himself
+<wug#107> choosing her could see himself
+<wug#108> strucking her would choose himself
+<wug#109> washing her has not forgiven himself
+<wug#110> harming her may trust himself
+<wug#111> loving her will defend himself
+<wug#112> pushing her must admit himself
+<wug#113> mending her did blame himself
+<wug#114> feeding her should free himself
+<wug#115> robbing her might save himself
+<wug#116> saving her could respect himself
+<wug#117> cutting her would prepare himself
+<wug#118> playing her has introduced himself
+<wug#119> beating her may not express himself
+<wug#120> trusting her will challenge himself
+<wug#121> facing her must protect himself
+<wug#122> finding her did believe himself
+<wug#123> calling her should convince himself
+<wug#124> serving her might reward himself
+<wug#125> linking her could describe himself
+<wug#126> freeing her would amuse himself
+<wug#127> shotting her has entertained himself
+<wug#128> drawing her may consider himself
+<wug#129> hanging her will not forgive himself
+<wug#130> naming her must remind himself
+<wug#131> grabbing her did recognize himself
+<wug#132> lifting her should respect himself
+<wug#133> holding her might surprise himself
+<wug#134> reading her could support himself
+<wug#135> trappping her would teach himself
+<wug#136> healing her has treated himself
+<wug#137> meeting her may understand himself
+<wug#138> seeking her will value himself
+<wug#139> scaring her must not watch himself
+<wug#140> owning her did welcome himself
+<wug#141> mocking her should write himself
+<wug#142> testing her might yield himself
+<wug#143> joining her could analyze himself
+<wug#144> using her would ask himself
+<wug#145> fixing her has avenged himself
+<wug#146> catching her may bless himself
+<wug#147> seeing her will correct himself
+<wug#148> selling her must discover himself
+<wug#149> hurting her did not echo himself
+<wug#150> feeling her should follow himself
+<wug#151> hiding her might greet himself
+<wug#152> treating her could imagine himself
+<wug#153> leading her would judge himself
+<wug#154> following her has kept himself
+<wug#155> stopping her may lead himself
+<wug#156> watching her will manage himself
+<wug#157> leaving her must obey himself
+<wug#158> knowing her did please himself
+<wug#159> losing her should not question himself
+<wug#160> hearing her might restore himself
+<wug#161> blaming her could satisfy himself
+<wug#162> reaching her would test himself
+<wug#163> liking her has used himself
+<wug#164> protecting her may verify himself
+<wug#165> cheating her will win himself
+<wug#166> surprising her must yield himself
+<wug#167> finding her did zone himself
+<wug#168> admiring her should aim himself
+<wug#169> judging her might not balance himself
+<wug#170> changing her could command himself
+<wug#171> doubting her would direct himself
+<wug#172> pleasing her has equipped himself
+<wug#173> remembering her may fix himself
+<wug#174> respecting her will govern himself
+<wug#175> questioning her must handle himself
+<wug#176> forgiving her did identify himself
+<wug#177> ignoring her should join himself
+<wug#178> challenging her might link himself
+<wug#179> denying her could not motivate himself
+<wug#180> defining her would navigate himself
+<wug#181> limiting her has operated himself
+<wug#182> preparing her may plan himself
+<wug#183> amusing her will qualify himself
+<wug#184> expressing her must reach himself
+<wug#185> destroying her did secure himself
+<wug#186> improving her should target himself
+<wug#187> replacing her might unify himself
+<wug#188> supporting her could not validate himself
+<wug#189> exposing her would voice himself
+<wug#190> convincing her has willed himself
+<wug#191> bothering her may x-ray himself
+<wug#192> accepting her will yield himself
+<wug#193> considering her must zone himself
+<wug#194> introducing her did activate himself
+<wug#195> embarrassing her should build himself
+<wug#196> understanding her might clarify himself
+<wug#197> accusing her could decide himself
+<wug#198> defending her would elevate himself
+<wug#199> neglecting her has not framed himself
+<wug#200> cleaning him will hurt herself
+<wug#201> bathing him has kissed herself
+<wug#202> dressing him might slap herself
+<wug#203> feeding him did punch herself
+<wug#204> painting him can forgive herself
+<wug#205> teaching him should teach herself
+<wug#206> guiding him must guide herself
+<wug#207> shaving him could see herself
+<wug#208> preparing him may wash herself
+<wug#209> arming him has not blamed herself
+<wug#210> amusing him will carry herself
+<wug#211> coaching him did not choose herself
+<wug#212> treating him can trust herself
+<wug#213> curing him should protect herself
+<wug#214> fooling him must find herself
+<wug#215> helping him could hear herself
+<wug#216> kicking him may free herself
+<wug#217> mending him has not judged herself
+<wug#218> praising him will follow herself
+<wug#219> pushing him did not mock herself
+<wug#220> quizzing him can admire herself
+<wug#221> ruling him should help herself
+<wug#222> saving him must know herself
+<wug#223> testing him could feel herself
+<wug#224> urging him may recognize herself
+<wug#225> vexing him has not called herself
+<wug#226> warming him will meet herself
+<wug#227> yielding him did not greet herself
+<wug#228> zipping him can like herself
+<wug#229> judging him should face herself
+<wug#230> linking him must respect herself
+<wug#231> naming him could understand herself
+<wug#232> obeying him may save herself
+<wug#233> playing him has not fooled herself
+<wug#234> quoting him will treat herself
+<wug#235> risking him did not harm herself
+<wug#236> serving him can value herself
+<wug#237> timing him should amuse herself
+<wug#238> valuing him must defend herself
+<wug#239> wiring him could check herself
+<wug#240> x-raying him may correct herself
+<wug#241> yanking him has not betrayed herself
+<wug#242> adjusting him will discover herself
+<wug#243> boxing him did not doubt herself
+<wug#244> calming him can convince herself
+<wug#245> diving him should introduce herself
+<wug#246> echoing him must prepare herself
+<wug#247> frightening him could satisfy herself
+<wug#248> greeting him may express herself
+<wug#249> hunting him has not ignored herself
+<wug#250> inspiring him will accept herself
+<wug#251> jolting him did not refuse herself
+<wug#252> knitting him can surprise herself
+<wug#253> lifting him should forgive herself
+<wug#254> masking him must challenge herself
+<wug#255> nipping him could reward herself
+<wug#256> opening him may approach herself
+<wug#257> packing him has not accused herself
+<wug#258> questioning him will support herself
+<wug#259> repairing him did not neglect herself
+<wug#260> stopping him can inspire herself
+<wug#261> tuning him should educate herself
+<wug#262> unveiling him must enlighten herself
+<wug#263> voicing him could elevate herself
+<wug#264> watching him may improve herself
+<wug#265> xeroxing him has not deceived herself
+<wug#266> yodeling him will enhance herself
+<wug#267> zip-tying him did not belittle herself
+<wug#268> aligning him can motivate herself
+<wug#269> bumping him should console herself
+<wug#270> capturing him must uplift herself
+<wug#271> delving him could empower herself
+<wug#272> enrolling him may enrich herself
+<wug#273> fixing him has not underestimated herself
+<wug#274> granting him will strengthen herself
+<wug#275> honing him did not undermine herself
+<wug#276> inviting him can reassure herself
+<wug#277> joining him should compliment herself
+<wug#278> keeping him must honor herself
+<wug#279> locating him could cherish herself
+<wug#280> moving him may adore herself
+<wug#281> noting him has not ridiculed herself
+<wug#282> operating him will esteem herself
+<wug#283> placing him did not criticize herself
+<wug#284> recalling him can respect herself
+<wug#285> securing him should appreciate herself
+<wug#286> targeting him must nurture herself
+<wug#287> uniting him could pamper herself
+<wug#288> verifying him may indulge herself
+<wug#289> wiping him has not mistreated herself
+<wug#290> x-linking him will spoil herself
+<wug#291> yoking him did not rebuke herself
+<wug#292> zeroing him can console herself
+<wug#293> booking him should soothe herself
+<wug#294> charging him must calm herself
+<wug#295> defending him could quiet herself
+<wug#296> electing him may reassure herself
+<wug#297> grasping him has not distressed herself
+<wug#298> humbling him will comfort herself
+<wug#299> identifying him did not unsettle herself
+<wug#300> praising her will hurt himself
+<wug#301> teaching her has praised himself
+<wug#302> kicking her can teach himself
+<wug#303> guiding her must find himself
+<wug#304> fooling her did call himself
+<wug#305> helping her should guide himself
+<wug#306> biting her might know himself
+<wug#307> choosing her could see himself
+<wug#308> strucking her would choose himself
+<wug#309> washing her has not forgiven himself
+<wug#310> harming her may trust himself
+<wug#311> loving her will defend himself
+<wug#312> pushing her must admit himself
+<wug#313> mending her did blame himself
+<wug#314> feeding her should free himself
+<wug#315> robbing her might save himself
+<wug#316> saving her could respect himself
+<wug#317> cutting her would prepare himself
+<wug#318> playing her has introduced himself
+<wug#319> beating her may not express himself
+<wug#320> trusting her will challenge himself
+<wug#321> facing her must protect himself
+<wug#322> finding her did believe himself
+<wug#323> calling her should convince himself
+<wug#324> serving her might reward himself
+<wug#325> linking her could describe himself
+<wug#326> freeing her would amuse himself
+<wug#327> shotting her has entertained himself
+<wug#328> drawing her may consider himself
+<wug#329> hanging her will not forgive himself
+<wug#330> naming her must remind himself
+<wug#331> grabbing her did recognize himself
+<wug#332> lifting her should respect himself
+<wug#333> holding her might surprise himself
+<wug#334> reading her could support himself
+<wug#335> trappping her would teach himself
+<wug#336> healing her has treated himself
+<wug#337> meeting her may understand himself
+<wug#338> seeking her will value himself
+<wug#339> scaring her must not watch himself
+<wug#340> owning her did welcome himself
+<wug#341> mocking her should write himself
+<wug#342> testing her might yield himself
+<wug#343> joining her could analyze himself
+<wug#344> using her would ask himself
+<wug#345> fixing her has avenged himself
+<wug#346> catching her may bless himself
+<wug#347> seeing her will correct himself
+<wug#348> selling her must discover himself
+<wug#349> hurting her did not echo himself
+<wug#350> feeling her should follow himself
+<wug#351> hiding her might greet himself
+<wug#352> treating her could imagine himself
+<wug#353> leading her would judge himself
+<wug#354> following her has kept himself
+<wug#355> stopping her may lead himself
+<wug#356> watching her will manage himself
+<wug#357> leaving her must obey himself
+<wug#358> knowing her did please himself
+<wug#359> losing her should not question himself
+<wug#360> hearing her might restore himself
+<wug#361> blaming her could satisfy himself
+<wug#362> reaching her would test himself
+<wug#363> liking her has used himself
+<wug#364> protecting her may verify himself
+<wug#365> cheating her will win himself
+<wug#366> surprising her must yield himself
+<wug#367> finding her did zone himself
+<wug#368> admiring her should aim himself
+<wug#369> judging her might not balance himself
+<wug#370> changing her could command himself
+<wug#371> doubting her would direct himself
+<wug#372> pleasing her has equipped himself
+<wug#373> remembering her may fix himself
+<wug#374> respecting her will govern himself
+<wug#375> questioning her must handle himself
+<wug#376> forgiving her did identify himself
+<wug#377> ignoring her should join himself
+<wug#378> challenging her might link himself
+<wug#379> denying her could not motivate himself
+<wug#380> defining her would navigate himself
+<wug#381> limiting her has operated himself
+<wug#382> preparing her may plan himself
+<wug#383> amusing her will qualify himself
+<wug#384> expressing her must reach himself
+<wug#385> destroying her did secure himself
+<wug#386> improving her should target himself
+<wug#387> replacing her might unify himself
+<wug#388> supporting her could not validate himself
+<wug#389> exposing her would voice himself
+<wug#390> convincing her has willed himself
+<wug#391> bothering her may x-ray himself
+<wug#392> accepting her will yield himself
+<wug#393> considering her must zone himself
+<wug#394> introducing her did activate himself
+<wug#395> embarrassing her should build himself
+<wug#396> understanding her might clarify himself
+<wug#397> accusing her could decide himself
+<wug#398> defending her would elevate himself
+<wug#399> neglecting her has not framed himself
+<wug#400> cleaning him will hurt herself
+<wug#401> bathing him has kissed herself
+<wug#402> dressing him might slap herself
+<wug#403> feeding him did punch herself
+<wug#404> painting him can forgive herself
+<wug#405> teaching him should teach herself
+<wug#406> guiding him must guide herself
+<wug#407> shaving him could see herself
+<wug#408> preparing him may wash herself
+<wug#409> arming him has not blamed herself
+<wug#410> amusing him will carry herself
+<wug#411> coaching him did not choose herself
+<wug#412> treating him can trust herself
+<wug#413> curing him should protect herself
+<wug#414> fooling him must find herself
+<wug#415> helping him could hear herself
+<wug#416> kicking him may free herself
+<wug#417> mending him has not judged herself
+<wug#418> praising him will follow herself
+<wug#419> pushing him did not mock herself
+<wug#420> quizzing him can admire herself
+<wug#421> ruling him should help herself
+<wug#422> saving him must know herself
+<wug#423> testing him could feel herself
+<wug#424> urging him may recognize herself
+<wug#425> vexing him has not called herself
+<wug#426> warming him will meet herself
+<wug#427> yielding him did not greet herself
+<wug#428> zipping him can like herself
+<wug#429> judging him should face herself
+<wug#430> linking him must respect herself
+<wug#431> naming him could understand herself
+<wug#432> obeying him may save herself
+<wug#433> playing him has not fooled herself
+<wug#434> quoting him will treat herself
+<wug#435> risking him did not harm herself
+<wug#436> serving him can value herself
+<wug#437> timing him should amuse herself
+<wug#438> valuing him must defend herself
+<wug#439> wiring him could check herself
+<wug#440> x-raying him may correct herself
+<wug#441> yanking him has not betrayed herself
+<wug#442> adjusting him will discover herself
+<wug#443> boxing him did not doubt herself
+<wug#444> calming him can convince herself
+<wug#445> diving him should introduce herself
+<wug#446> echoing him must prepare herself
+<wug#447> frightening him could satisfy herself
+<wug#448> greeting him may express herself
+<wug#449> hunting him has not ignored herself
+<wug#450> inspiring him will accept herself
+<wug#451> jolting him did not refuse herself
+<wug#452> knitting him can surprise herself
+<wug#453> lifting him should forgive herself
+<wug#454> masking him must challenge herself
+<wug#455> nipping him could reward herself
+<wug#456> opening him may approach herself
+<wug#457> packing him has not accused herself
+<wug#458> questioning him will support herself
+<wug#459> repairing him did not neglect herself
+<wug#460> stopping him can inspire herself
+<wug#461> tuning him should educate herself
+<wug#462> unveiling him must enlighten herself
+<wug#463> voicing him could elevate herself
+<wug#464> watching him may improve herself
+<wug#465> xeroxing him has not deceived herself
+<wug#466> yodeling him will enhance herself
+<wug#467> zip-tying him did not belittle herself
+<wug#468> aligning him can motivate herself
+<wug#469> bumping him should console herself
+<wug#470> capturing him must uplift herself
+<wug#471> delving him could empower herself
+<wug#472> enrolling him may enrich herself
+<wug#473> fixing him has not underestimated herself
+<wug#474> granting him will strengthen herself
+<wug#475> honing him did not undermine herself
+<wug#476> inviting him can reassure herself
+<wug#477> joining him should compliment herself
+<wug#478> keeping him must honor herself
+<wug#479> locating him could cherish herself
+<wug#480> moving him may adore herself
+<wug#481> noting him has not ridiculed herself
+<wug#482> operating him will esteem herself
+<wug#483> placing him did not criticize herself
+<wug#484> recalling him can respect herself
+<wug#485> securing him should appreciate herself
+<wug#486> targeting him must nurture herself
+<wug#487> uniting him could pamper herself
+<wug#488> verifying him may indulge herself
+<wug#489> wiping him has not mistreated herself
+<wug#490> x-linking him will spoil herself
+<wug#491> yoking him did not rebuke herself
+<wug#492> zeroing him can console herself
+<wug#493> booking him should soothe herself
+<wug#494> charging him must calm herself
+<wug#495> defending him could quiet herself
+<wug#496> electing him may reassure herself
+<wug#497> grasping him has not distressed herself
+<wug#498> humbling him will comfort herself
+<wug#499> identifying him did not unsettle herself
+<wug#500> praising her will hurt himself
+<wug#501> teaching her has praised himself
+<wug#502> kicking her can teach himself
+<wug#503> guiding her must find himself
+<wug#504> fooling her did call himself
+<wug#505> helping her should guide himself
+<wug#506> biting her might know himself
+<wug#507> choosing her could see himself
+<wug#508> strucking her would choose himself
+<wug#509> washing her has not forgiven himself
+<wug#510> harming her may trust himself
+<wug#511> loving her will defend himself
+<wug#512> pushing her must admit himself
+<wug#513> mending her did blame himself
+<wug#514> feeding her should free himself
+<wug#515> robbing her might save himself
+<wug#516> saving her could respect himself
+<wug#517> cutting her would prepare himself
+<wug#518> playing her has introduced himself
+<wug#519> beating her may not express himself
+<wug#520> trusting her will challenge himself
+<wug#521> facing her must protect himself
+<wug#522> finding her did believe himself
+<wug#523> calling her should convince himself
+<wug#524> serving her might reward himself
+<wug#525> linking her could describe himself
+<wug#526> freeing her would amuse himself
+<wug#527> shotting her has entertained himself
+<wug#528> drawing her may consider himself
+<wug#529> hanging her will not forgive himself
+<wug#530> naming her must remind himself
+<wug#531> grabbing her did recognize himself
+<wug#532> lifting her should respect himself
+<wug#533> holding her might surprise himself
+<wug#534> reading her could support himself
+<wug#535> trappping her would teach himself
+<wug#536> healing her has treated himself
+<wug#537> meeting her may understand himself
+<wug#538> seeking her will value himself
+<wug#539> scaring her must not watch himself
+<wug#540> owning her did welcome himself
+<wug#541> mocking her should write himself
+<wug#542> testing her might yield himself
+<wug#543> joining her could analyze himself
+<wug#544> using her would ask himself
+<wug#545> fixing her has avenged himself
+<wug#546> catching her may bless himself
+<wug#547> seeing her will correct himself
+<wug#548> selling her must discover himself
+<wug#549> hurting her did not echo himself
+<wug#550> feeling her should follow himself
+<wug#551> hiding her might greet himself
+<wug#552> treating her could imagine himself
+<wug#553> leading her would judge himself
+<wug#554> following her has kept himself
+<wug#555> stopping her may lead himself
+<wug#556> watching her will manage himself
+<wug#557> leaving her must obey himself
+<wug#558> knowing her did please himself
+<wug#559> losing her should not question himself
+<wug#560> hearing her might restore himself
+<wug#561> blaming her could satisfy himself
+<wug#562> reaching her would test himself
+<wug#563> liking her has used himself
+<wug#564> protecting her may verify himself
+<wug#565> cheating her will win himself
+<wug#566> surprising her must yield himself
+<wug#567> finding her did zone himself
+<wug#568> admiring her should aim himself
+<wug#569> judging her might not balance himself
+<wug#570> changing her could command himself
+<wug#571> doubting her would direct himself
+<wug#572> pleasing her has equipped himself
+<wug#573> remembering her may fix himself
+<wug#574> respecting her will govern himself
+<wug#575> questioning her must handle himself
+<wug#576> forgiving her did identify himself
+<wug#577> ignoring her should join himself
+<wug#578> challenging her might link himself
+<wug#579> denying her could not motivate himself
+<wug#580> defining her would navigate himself
+<wug#581> limiting her has operated himself
+<wug#582> preparing her may plan himself
+<wug#583> amusing her will qualify himself
+<wug#584> expressing her must reach himself
+<wug#585> destroying her did secure himself
+<wug#586> improving her should target himself
+<wug#587> replacing her might unify himself
+<wug#588> supporting her could not validate himself
+<wug#589> exposing her would voice himself
+<wug#590> convincing her has willed himself
+<wug#591> bothering her may x-ray himself
+<wug#592> accepting her will yield himself
+<wug#593> considering her must zone himself
+<wug#594> introducing her did activate himself
+<wug#595> embarrassing her should build himself
+<wug#596> understanding her might clarify himself
+<wug#597> accusing her could decide himself
+<wug#598> defending her would elevate himself
+<wug#599> neglecting her has not framed himself

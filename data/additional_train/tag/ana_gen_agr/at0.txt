@@ -1,0 +1,600 @@
+<wug#0> cleaning the time will hurt herself
+<wug#1> bathing the person has kissed herself
+<wug#2> dressing the year might slap herself
+<wug#3> feeding the way did punch herself
+<wug#4> painting the day can forgive herself
+<wug#5> teaching the thing should teach herself
+<wug#6> guiding the world must guide herself
+<wug#7> shaving the life could see herself
+<wug#8> preparing the hand may wash herself
+<wug#9> arming the part has not blamed herself
+<wug#10> amusing the child will carry herself
+<wug#11> coaching the eye did not choose herself
+<wug#12> treating the place can trust herself
+<wug#13> curing the work should protect herself
+<wug#14> fooling the week must find herself
+<wug#15> helping the case could hear herself
+<wug#16> kicking the point may free herself
+<wug#17> mending the government has not judged herself
+<wug#18> praising the company will follow herself
+<wug#19> pushing the number did not mock herself
+<wug#20> quizzing the group can admire herself
+<wug#21> ruling the problem should help herself
+<wug#22> saving the fact must know herself
+<wug#23> testing the home could feel herself
+<wug#24> urging the service may recognize herself
+<wug#25> vexing the money has not called herself
+<wug#26> warming the night will meet herself
+<wug#27> yielding the school did not greet herself
+<wug#28> zipping the state can like herself
+<wug#29> judging the family should face herself
+<wug#30> linking the member must respect herself
+<wug#31> naming the country could understand herself
+<wug#32> obeying the city may save herself
+<wug#33> playing the community has not fooled herself
+<wug#34> quoting the health will treat herself
+<wug#35> risking the room did not harm herself
+<wug#36> serving the friend can value herself
+<wug#37> timing the story should amuse herself
+<wug#38> valuing the information must defend herself
+<wug#39> wiring the house could check herself
+<wug#40> x-raying the fact may correct herself
+<wug#41> yanking the month has not betrayed herself
+<wug#42> adjusting the lot will discover herself
+<wug#43> boxing the right did not doubt herself
+<wug#44> calming the study can convince herself
+<wug#45> diving the book should introduce herself
+<wug#46> echoing the job must prepare herself
+<wug#47> frightening the word could satisfy herself
+<wug#48> greeting the business may express herself
+<wug#49> hunting the issue has not ignored herself
+<wug#50> inspiring the side will accept herself
+<wug#51> jolting the kind did not refuse herself
+<wug#52> knitting the head can surprise herself
+<wug#53> lifting the house should forgive herself
+<wug#54> masking the service must challenge herself
+<wug#55> nipping the friend could reward herself
+<wug#56> opening the father may approach herself
+<wug#57> packing the power has not accused herself
+<wug#58> questioning the hour will support herself
+<wug#59> repairing the game did not neglect herself
+<wug#60> stopping the line can inspire herself
+<wug#61> tuning the end should educate herself
+<wug#62> unveiling the member must enlighten herself
+<wug#63> voicing the law could elevate herself
+<wug#64> watching the car may improve herself
+<wug#65> xeroxing the city has not deceived herself
+<wug#66> yodeling the community will enhance herself
+<wug#67> zip-tying the name did not belittle herself
+<wug#68> aligning the president can motivate herself
+<wug#69> bumping the room should console herself
+<wug#70> capturing the story must uplift herself
+<wug#71> delving the power could empower herself
+<wug#72> enrolling the hour may enrich herself
+<wug#73> fixing the game has not underestimated herself
+<wug#74> granting the line will strengthen herself
+<wug#75> honing the end did not undermine herself
+<wug#76> inviting the law can reassure herself
+<wug#77> joining the car should compliment herself
+<wug#78> keeping the moment must honor herself
+<wug#79> locating the teacher could cherish herself
+<wug#80> moving the force may adore herself
+<wug#81> noting the idea has not ridiculed herself
+<wug#82> operating the interest will esteem herself
+<wug#83> placing the party did not criticize herself
+<wug#84> recalling the right can respect herself
+<wug#85> securing the period should appreciate herself
+<wug#86> targeting the change must nurture herself
+<wug#87> uniting the morning could pamper herself
+<wug#88> verifying the reason may indulge herself
+<wug#89> wiping the research has not mistreated herself
+<wug#90> x-linking the food will spoil herself
+<wug#91> yoking the moment did not rebuke herself
+<wug#92> zeroing the air can console herself
+<wug#93> booking the teacher should soothe herself
+<wug#94> charging the force must calm herself
+<wug#95> defending the education could quiet herself
+<wug#96> electing the policy may reassure herself
+<wug#97> grasping the everything has not distressed herself
+<wug#98> humbling the art will comfort herself
+<wug#99> identifying the area did not unsettle herself
+<wug#100> praising the time will hurt himself
+<wug#101> teaching the person has praised himself
+<wug#102> kicking the year can teach himself
+<wug#103> guiding the way must find himself
+<wug#104> fooling the day did call himself
+<wug#105> helping the thing should guide himself
+<wug#106> biting the world might know himself
+<wug#107> choosing the life could see himself
+<wug#108> strucking the hand would choose himself
+<wug#109> washing the part has not forgiven himself
+<wug#110> harming the child may trust himself
+<wug#111> loving the eye will defend himself
+<wug#112> pushing the place must admit himself
+<wug#113> mending the work did blame himself
+<wug#114> feeding the week should free himself
+<wug#115> robbing the case might save himself
+<wug#116> saving the point could respect himself
+<wug#117> cutting the government would prepare himself
+<wug#118> playing the company has introduced himself
+<wug#119> beating the number may not express himself
+<wug#120> trusting the group will challenge himself
+<wug#121> facing the problem must protect himself
+<wug#122> finding the fact did believe himself
+<wug#123> calling the home should convince himself
+<wug#124> serving the service might reward himself
+<wug#125> linking the money could describe himself
+<wug#126> freeing the night would amuse himself
+<wug#127> shotting the school has entertained himself
+<wug#128> drawing the state may consider himself
+<wug#129> hanging the family will not forgive himself
+<wug#130> naming the member must remind himself
+<wug#131> grabbing the country did recognize himself
+<wug#132> lifting the city should respect himself
+<wug#133> holding the community might surprise himself
+<wug#134> reading the health could support himself
+<wug#135> trappping the room would teach himself
+<wug#136> healing the friend has treated himself
+<wug#137> meeting the story may understand himself
+<wug#138> seeking the information will value himself
+<wug#139> scaring the house must not watch himself
+<wug#140> owning the fact did welcome himself
+<wug#141> mocking the month should write himself
+<wug#142> testing the lot might yield himself
+<wug#143> joining the right could analyze himself
+<wug#144> using the study would ask himself
+<wug#145> fixing the book has avenged himself
+<wug#146> catching the job may bless himself
+<wug#147> seeing the word will correct himself
+<wug#148> selling the business must discover himself
+<wug#149> hurting the issue did not echo himself
+<wug#150> feeling the side should follow himself
+<wug#151> hiding the kind might greet himself
+<wug#152> treating the head could imagine himself
+<wug#153> leading the house would judge himself
+<wug#154> following the service has kept himself
+<wug#155> stopping the friend may lead himself
+<wug#156> watching the father will manage himself
+<wug#157> leaving the power must obey himself
+<wug#158> knowing the hour did please himself
+<wug#159> losing the game should not question himself
+<wug#160> hearing the line might restore himself
+<wug#161> blaming the end could satisfy himself
+<wug#162> reaching the member would test himself
+<wug#163> liking the law has used himself
+<wug#164> protecting the car may verify himself
+<wug#165> cheating the city will win himself
+<wug#166> surprising the community must yield himself
+<wug#167> finding the name did zone himself
+<wug#168> admiring the president should aim himself
+<wug#169> judging the room might not balance himself
+<wug#170> changing the story could command himself
+<wug#171> doubting the power would direct himself
+<wug#172> pleasing the hour has equipped himself
+<wug#173> remembering the game may fix himself
+<wug#174> respecting the line will govern himself
+<wug#175> questioning the end must handle himself
+<wug#176> forgiving the law did identify himself
+<wug#177> ignoring the car should join himself
+<wug#178> challenging the moment might link himself
+<wug#179> denying the teacher could not motivate himself
+<wug#180> defining the force would navigate himself
+<wug#181> limiting the idea has operated himself
+<wug#182> preparing the interest may plan himself
+<wug#183> amusing the party will qualify himself
+<wug#184> expressing the right must reach himself
+<wug#185> destroying the period did secure himself
+<wug#186> improving the change should target himself
+<wug#187> replacing the morning might unify himself
+<wug#188> supporting the reason could not validate himself
+<wug#189> exposing the research would voice himself
+<wug#190> convincing the food has willed himself
+<wug#191> bothering the moment may x-ray himself
+<wug#192> accepting the air will yield himself
+<wug#193> considering the teacher must zone himself
+<wug#194> introducing the force did activate himself
+<wug#195> embarrassing the education should build himself
+<wug#196> understanding the policy might clarify himself
+<wug#197> accusing the everything could decide himself
+<wug#198> defending the art would elevate himself
+<wug#199> neglecting the area has not framed himself
+<wug#200> cleaning the time will hurt herself
+<wug#201> bathing the person has kissed herself
+<wug#202> dressing the year might slap herself
+<wug#203> feeding the way did punch herself
+<wug#204> painting the day can forgive herself
+<wug#205> teaching the thing should teach herself
+<wug#206> guiding the world must guide herself
+<wug#207> shaving the life could see herself
+<wug#208> preparing the hand may wash herself
+<wug#209> arming the part has not blamed herself
+<wug#210> amusing the child will carry herself
+<wug#211> coaching the eye did not choose herself
+<wug#212> treating the place can trust herself
+<wug#213> curing the work should protect herself
+<wug#214> fooling the week must find herself
+<wug#215> helping the case could hear herself
+<wug#216> kicking the point may free herself
+<wug#217> mending the government has not judged herself
+<wug#218> praising the company will follow herself
+<wug#219> pushing the number did not mock herself
+<wug#220> quizzing the group can admire herself
+<wug#221> ruling the problem should help herself
+<wug#222> saving the fact must know herself
+<wug#223> testing the home could feel herself
+<wug#224> urging the service may recognize herself
+<wug#225> vexing the money has not called herself
+<wug#226> warming the night will meet herself
+<wug#227> yielding the school did not greet herself
+<wug#228> zipping the state can like herself
+<wug#229> judging the family should face herself
+<wug#230> linking the member must respect herself
+<wug#231> naming the country could understand herself
+<wug#232> obeying the city may save herself
+<wug#233> playing the community has not fooled herself
+<wug#234> quoting the health will treat herself
+<wug#235> risking the room did not harm herself
+<wug#236> serving the friend can value herself
+<wug#237> timing the story should amuse herself
+<wug#238> valuing the information must defend herself
+<wug#239> wiring the house could check herself
+<wug#240> x-raying the fact may correct herself
+<wug#241> yanking the month has not betrayed herself
+<wug#242> adjusting the lot will discover herself
+<wug#243> boxing the right did not doubt herself
+<wug#244> calming the study can convince herself
+<wug#245> diving the book should introduce herself
+<wug#246> echoing the job must prepare herself
+<wug#247> frightening the word could satisfy herself
+<wug#248> greeting the business may express herself
+<wug#249> hunting the issue has not ignored herself
+<wug#250> inspiring the side will accept herself
+<wug#251> jolting the kind did not refuse herself
+<wug#252> knitting the head can surprise herself
+<wug#253> lifting the house should forgive herself
+<wug#254> masking the service must challenge herself
+<wug#255> nipping the friend could reward herself
+<wug#256> opening the father may approach herself
+<wug#257> packing the power has not accused herself
+<wug#258> questioning the hour will support herself
+<wug#259> repairing the game did not neglect herself
+<wug#260> stopping the line can inspire herself
+<wug#261> tuning the end should educate herself
+<wug#262> unveiling the member must enlighten herself
+<wug#263> voicing the law could elevate herself
+<wug#264> watching the car may improve herself
+<wug#265> xeroxing the city has not deceived herself
+<wug#266> yodeling the community will enhance herself
+<wug#267> zip-tying the name did not belittle herself
+<wug#268> aligning the president can motivate herself
+<wug#269> bumping the room should console herself
+<wug#270> capturing the story must uplift herself
+<wug#271> delving the power could empower herself
+<wug#272> enrolling the hour may enrich herself
+<wug#273> fixing the game has not underestimated herself
+<wug#274> granting the line will strengthen herself
+<wug#275> honing the end did not undermine herself
+<wug#276> inviting the law can reassure herself
+<wug#277> joining the car should compliment herself
+<wug#278> keeping the moment must honor herself
+<wug#279> locating the teacher could cherish herself
+<wug#280> moving the force may adore herself
+<wug#281> noting the idea has not ridiculed herself
+<wug#282> operating the interest will esteem herself
+<wug#283> placing the party did not criticize herself
+<wug#284> recalling the right can respect herself
+<wug#285> securing the period should appreciate herself
+<wug#286> targeting the change must nurture herself
+<wug#287> uniting the morning could pamper herself
+<wug#288> verifying the reason may indulge herself
+<wug#289> wiping the research has not mistreated herself
+<wug#290> x-linking the food will spoil herself
+<wug#291> yoking the moment did not rebuke herself
+<wug#292> zeroing the air can console herself
+<wug#293> booking the teacher should soothe herself
+<wug#294> charging the force must calm herself
+<wug#295> defending the education could quiet herself
+<wug#296> electing the policy may reassure herself
+<wug#297> grasping the everything has not distressed herself
+<wug#298> humbling the art will comfort herself
+<wug#299> identifying the area did not unsettle herself
+<wug#300> praising the time will hurt himself
+<wug#301> teaching the person has praised himself
+<wug#302> kicking the year can teach himself
+<wug#303> guiding the way must find himself
+<wug#304> fooling the day did call himself
+<wug#305> helping the thing should guide himself
+<wug#306> biting the world might know himself
+<wug#307> choosing the life could see himself
+<wug#308> strucking the hand would choose himself
+<wug#309> washing the part has not forgiven himself
+<wug#310> harming the child may trust himself
+<wug#311> loving the eye will defend himself
+<wug#312> pushing the place must admit himself
+<wug#313> mending the work did blame himself
+<wug#314> feeding the week should free himself
+<wug#315> robbing the case might save himself
+<wug#316> saving the point could respect himself
+<wug#317> cutting the government would prepare himself
+<wug#318> playing the company has introduced himself
+<wug#319> beating the number may not express himself
+<wug#320> trusting the group will challenge himself
+<wug#321> facing the problem must protect himself
+<wug#322> finding the fact did believe himself
+<wug#323> calling the home should convince himself
+<wug#324> serving the service might reward himself
+<wug#325> linking the money could describe himself
+<wug#326> freeing the night would amuse himself
+<wug#327> shotting the school has entertained himself
+<wug#328> drawing the state may consider himself
+<wug#329> hanging the family will not forgive himself
+<wug#330> naming the member must remind himself
+<wug#331> grabbing the country did recognize himself
+<wug#332> lifting the city should respect himself
+<wug#333> holding the community might surprise himself
+<wug#334> reading the health could support himself
+<wug#335> trappping the room would teach himself
+<wug#336> healing the friend has treated himself
+<wug#337> meeting the story may understand himself
+<wug#338> seeking the information will value himself
+<wug#339> scaring the house must not watch himself
+<wug#340> owning the fact did welcome himself
+<wug#341> mocking the month should write himself
+<wug#342> testing the lot might yield himself
+<wug#343> joining the right could analyze himself
+<wug#344> using the study would ask himself
+<wug#345> fixing the book has avenged himself
+<wug#346> catching the job may bless himself
+<wug#347> seeing the word will correct himself
+<wug#348> selling the business must discover himself
+<wug#349> hurting the issue did not echo himself
+<wug#350> feeling the side should follow himself
+<wug#351> hiding the kind might greet himself
+<wug#352> treating the head could imagine himself
+<wug#353> leading the house would judge himself
+<wug#354> following the service has kept himself
+<wug#355> stopping the friend may lead himself
+<wug#356> watching the father will manage himself
+<wug#357> leaving the power must obey himself
+<wug#358> knowing the hour did please himself
+<wug#359> losing the game should not question himself
+<wug#360> hearing the line might restore himself
+<wug#361> blaming the end could satisfy himself
+<wug#362> reaching the member would test himself
+<wug#363> liking the law has used himself
+<wug#364> protecting the car may verify himself
+<wug#365> cheating the city will win himself
+<wug#366> surprising the community must yield himself
+<wug#367> finding the name did zone himself
+<wug#368> admiring the president should aim himself
+<wug#369> judging the room might not balance himself
+<wug#370> changing the story could command himself
+<wug#371> doubting the power would direct himself
+<wug#372> pleasing the hour has equipped himself
+<wug#373> remembering the game may fix himself
+<wug#374> respecting the line will govern himself
+<wug#375> questioning the end must handle himself
+<wug#376> forgiving the law did identify himself
+<wug#377> ignoring the car should join himself
+<wug#378> challenging the moment might link himself
+<wug#379> denying the teacher could not motivate himself
+<wug#380> defining the force would navigate himself
+<wug#381> limiting the idea has operated himself
+<wug#382> preparing the interest may plan himself
+<wug#383> amusing the party will qualify himself
+<wug#384> expressing the right must reach himself
+<wug#385> destroying the period did secure himself
+<wug#386> improving the change should target himself
+<wug#387> replacing the morning might unify himself
+<wug#388> supporting the reason could not validate himself
+<wug#389> exposing the research would voice himself
+<wug#390> convincing the food has willed himself
+<wug#391> bothering the moment may x-ray himself
+<wug#392> accepting the air will yield himself
+<wug#393> considering the teacher must zone himself
+<wug#394> introducing the force did activate himself
+<wug#395> embarrassing the education should build himself
+<wug#396> understanding the policy might clarify himself
+<wug#397> accusing the everything could decide himself
+<wug#398> defending the art would elevate himself
+<wug#399> neglecting the area has not framed himself
+<wug#400> cleaning the time will hurt herself
+<wug#401> bathing the person has kissed herself
+<wug#402> dressing the year might slap herself
+<wug#403> feeding the way did punch herself
+<wug#404> painting the day can forgive herself
+<wug#405> teaching the thing should teach herself
+<wug#406> guiding the world must guide herself
+<wug#407> shaving the life could see herself
+<wug#408> preparing the hand may wash herself
+<wug#409> arming the part has not blamed herself
+<wug#410> amusing the child will carry herself
+<wug#411> coaching the eye did not choose herself
+<wug#412> treating the place can trust herself
+<wug#413> curing the work should protect herself
+<wug#414> fooling the week must find herself
+<wug#415> helping the case could hear herself
+<wug#416> kicking the point may free herself
+<wug#417> mending the government has not judged herself
+<wug#418> praising the company will follow herself
+<wug#419> pushing the number did not mock herself
+<wug#420> quizzing the group can admire herself
+<wug#421> ruling the problem should help herself
+<wug#422> saving the fact must know herself
+<wug#423> testing the home could feel herself
+<wug#424> urging the service may recognize herself
+<wug#425> vexing the money has not called herself
+<wug#426> warming the night will meet herself
+<wug#427> yielding the school did not greet herself
+<wug#428> zipping the state can like herself
+<wug#429> judging the family should face herself
+<wug#430> linking the member must respect herself
+<wug#431> naming the country could understand herself
+<wug#432> obeying the city may save herself
+<wug#433> playing the community has not fooled herself
+<wug#434> quoting the health will treat herself
+<wug#435> risking the room did not harm herself
+<wug#436> serving the friend can value herself
+<wug#437> timing the story should amuse herself
+<wug#438> valuing the information must defend herself
+<wug#439> wiring the house could check herself
+<wug#440> x-raying the fact may correct herself
+<wug#441> yanking the month has not betrayed herself
+<wug#442> adjusting the lot will discover herself
+<wug#443> boxing the right did not doubt herself
+<wug#444> calming the study can convince herself
+<wug#445> diving the book should introduce herself
+<wug#446> echoing the job must prepare herself
+<wug#447> frightening the word could satisfy herself
+<wug#448> greeting the business may express herself
+<wug#449> hunting the issue has not ignored herself
+<wug#450> inspiring the side will accept herself
+<wug#451> jolting the kind did not refuse herself
+<wug#452> knitting the head can surprise herself
+<wug#453> lifting the house should forgive herself
+<wug#454> masking the service must challenge herself
+<wug#455> nipping the friend could reward herself
+<wug#456> opening the father may approach herself
+<wug#457> packing the power has not accused herself
+<wug#458> questioning the hour will support herself
+<wug#459> repairing the game did not neglect herself
+<wug#460> stopping the line can inspire herself
+<wug#461> tuning the end should educate herself
+<wug#462> unveiling the member must enlighten herself
+<wug#463> voicing the law could elevate herself
+<wug#464> watching the car may improve herself
+<wug#465> xeroxing the city has not deceived herself
+<wug#466> yodeling the community will enhance herself
+<wug#467> zip-tying the name did not belittle herself
+<wug#468> aligning the president can motivate herself
+<wug#469> bumping the room should console herself
+<wug#470> capturing the story must uplift herself
+<wug#471> delving the power could empower herself
+<wug#472> enrolling the hour may enrich herself
+<wug#473> fixing the game has not underestimated herself
+<wug#474> granting the line will strengthen herself
+<wug#475> honing the end did not undermine herself
+<wug#476> inviting the law can reassure herself
+<wug#477> joining the car should compliment herself
+<wug#478> keeping the moment must honor herself
+<wug#479> locating the teacher could cherish herself
+<wug#480> moving the force may adore herself
+<wug#481> noting the idea has not ridiculed herself
+<wug#482> operating the interest will esteem herself
+<wug#483> placing the party did not criticize herself
+<wug#484> recalling the right can respect herself
+<wug#485> securing the period should appreciate herself
+<wug#486> targeting the change must nurture herself
+<wug#487> uniting the morning could pamper herself
+<wug#488> verifying the reason may indulge herself
+<wug#489> wiping the research has not mistreated herself
+<wug#490> x-linking the food will spoil herself
+<wug#491> yoking the moment did not rebuke herself
+<wug#492> zeroing the air can console herself
+<wug#493> booking the teacher should soothe herself
+<wug#494> charging the force must calm herself
+<wug#495> defending the education could quiet herself
+<wug#496> electing the policy may reassure herself
+<wug#497> grasping the everything has not distressed herself
+<wug#498> humbling the art will comfort herself
+<wug#499> identifying the area did not unsettle herself
+<wug#500> praising the time will hurt himself
+<wug#501> teaching the person has praised himself
+<wug#502> kicking the year can teach himself
+<wug#503> guiding the way must find himself
+<wug#504> fooling the day did call himself
+<wug#505> helping the thing should guide himself
+<wug#506> biting the world might know himself
+<wug#507> choosing the life could see himself
+<wug#508> strucking the hand would choose himself
+<wug#509> washing the part has not forgiven himself
+<wug#510> harming the child may trust himself
+<wug#511> loving the eye will defend himself
+<wug#512> pushing the place must admit himself
+<wug#513> mending the work did blame himself
+<wug#514> feeding the week should free himself
+<wug#515> robbing the case might save himself
+<wug#516> saving the point could respect himself
+<wug#517> cutting the government would prepare himself
+<wug#518> playing the company has introduced himself
+<wug#519> beating the number may not express himself
+<wug#520> trusting the group will challenge himself
+<wug#521> facing the problem must protect himself
+<wug#522> finding the fact did believe himself
+<wug#523> calling the home should convince himself
+<wug#524> serving the service might reward himself
+<wug#525> linking the money could describe himself
+<wug#526> freeing the night would amuse himself
+<wug#527> shotting the school has entertained himself
+<wug#528> drawing the state may consider himself
+<wug#529> hanging the family will not forgive himself
+<wug#530> naming the member must remind himself
+<wug#531> grabbing the country did recognize himself
+<wug#532> lifting the city should respect himself
+<wug#533> holding the community might surprise himself
+<wug#534> reading the health could support himself
+<wug#535> trappping the room would teach himself
+<wug#536> healing the friend has treated himself
+<wug#537> meeting the story may understand himself
+<wug#538> seeking the information will value himself
+<wug#539> scaring the house must not watch himself
+<wug#540> owning the fact did welcome himself
+<wug#541> mocking the month should write himself
+<wug#542> testing the lot might yield himself
+<wug#543> joining the right could analyze himself
+<wug#544> using the study would ask himself
+<wug#545> fixing the book has avenged himself
+<wug#546> catching the job may bless himself
+<wug#547> seeing the word will correct himself
+<wug#548> selling the business must discover himself
+<wug#549> hurting the issue did not echo himself
+<wug#550> feeling the side should follow himself
+<wug#551> hiding the kind might greet himself
+<wug#552> treating the head could imagine himself
+<wug#553> leading the house would judge himself
+<wug#554> following the service has kept himself
+<wug#555> stopping the friend may lead himself
+<wug#556> watching the father will manage himself
+<wug#557> leaving the power must obey himself
+<wug#558> knowing the hour did please himself
+<wug#559> losing the game should not question himself
+<wug#560> hearing the line might restore himself
+<wug#561> blaming the end could satisfy himself
+<wug#562> reaching the member would test himself
+<wug#563> liking the law has used himself
+<wug#564> protecting the car may verify himself
+<wug#565> cheating the city will win himself
+<wug#566> surprising the community must yield himself
+<wug#567> finding the name did zone himself
+<wug#568> admiring the president should aim himself
+<wug#569> judging the room might not balance himself
+<wug#570> changing the story could command himself
+<wug#571> doubting the power would direct himself
+<wug#572> pleasing the hour has equipped himself
+<wug#573> remembering the game may fix himself
+<wug#574> respecting the line will govern himself
+<wug#575> questioning the end must handle himself
+<wug#576> forgiving the law did identify himself
+<wug#577> ignoring the car should join himself
+<wug#578> challenging the moment might link himself
+<wug#579> denying the teacher could not motivate himself
+<wug#580> defining the force would navigate himself
+<wug#581> limiting the idea has operated himself
+<wug#582> preparing the interest may plan himself
+<wug#583> amusing the party will qualify himself
+<wug#584> expressing the right must reach himself
+<wug#585> destroying the period did secure himself
+<wug#586> improving the change should target himself
+<wug#587> replacing the morning might unify himself
+<wug#588> supporting the reason could not validate himself
+<wug#589> exposing the research would voice himself
+<wug#590> convincing the food has willed himself
+<wug#591> bothering the moment may x-ray himself
+<wug#592> accepting the air will yield himself
+<wug#593> considering the teacher must zone himself
+<wug#594> introducing the force did activate himself
+<wug#595> embarrassing the education should build himself
+<wug#596> understanding the policy might clarify himself
+<wug#597> accusing the everything could decide himself
+<wug#598> defending the art would elevate himself
+<wug#599> neglecting the area has not framed himself

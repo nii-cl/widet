@@ -1,0 +1,600 @@
+<wug#0> cleaning the man will hurt herself
+<wug#1> bathing the boy has kissed herself
+<wug#2> dressing the father might slap herself
+<wug#3> feeding the son did punch herself
+<wug#4> painting the brother can forgive herself
+<wug#5> teaching the king should teach herself
+<wug#6> guiding the actor must guide herself
+<wug#7> shaving the waiter could see herself
+<wug#8> preparing the hero may wash herself
+<wug#9> arming the nephew has not blamed herself
+<wug#10> amusing the widower will carry herself
+<wug#11> coaching the duke did not choose herself
+<wug#12> treating the emperor can trust herself
+<wug#13> curing the master should protect herself
+<wug#14> fooling the cowboy must find herself
+<wug#15> helping the gentleman could hear herself
+<wug#16> kicking the boyfriend may free herself
+<wug#17> mending the fiance has not judged herself
+<wug#18> praising the bridegroom will follow herself
+<wug#19> pushing the host did not mock herself
+<wug#20> quizzing the prince can admire herself
+<wug#21> ruling the husband should help herself
+<wug#22> saving the wizard must know herself
+<wug#23> testing the uncle could feel herself
+<wug#24> urging the grandfather may recognize herself
+<wug#25> vexing the men has not called herself
+<wug#26> warming the boys will meet herself
+<wug#27> yielding the fathers did not greet herself
+<wug#28> zipping the sons can like herself
+<wug#29> judging the brothers should face herself
+<wug#30> linking the kings must respect herself
+<wug#31> naming the actors could understand herself
+<wug#32> obeying the waiters may save herself
+<wug#33> playing the heros has not fooled herself
+<wug#34> quoting the nephews will treat herself
+<wug#35> risking the widowers did not harm herself
+<wug#36> serving the dukes can value herself
+<wug#37> timing the emperors should amuse herself
+<wug#38> valuing the masters must defend herself
+<wug#39> wiring the cowboys could check herself
+<wug#40> x-raying the gentlemen may correct herself
+<wug#41> yanking the boyfriends has not betrayed herself
+<wug#42> adjusting the fiances will discover herself
+<wug#43> boxing the bridegrooms did not doubt herself
+<wug#44> calming the hosts can convince herself
+<wug#45> diving the princes should introduce herself
+<wug#46> echoing the husbands must prepare herself
+<wug#47> frightening the wizards could satisfy herself
+<wug#48> greeting the uncles may express herself
+<wug#49> hunting the grandfathers has not ignored herself
+<wug#50> inspiring the man will accept herself
+<wug#51> jolting the boy did not refuse herself
+<wug#52> knitting the father can surprise herself
+<wug#53> lifting the son should forgive herself
+<wug#54> masking the brother must challenge herself
+<wug#55> nipping the king could reward herself
+<wug#56> opening the actor may approach herself
+<wug#57> packing the waiter has not accused herself
+<wug#58> questioning the hero will support herself
+<wug#59> repairing the nephew did not neglect herself
+<wug#60> stopping the widower can inspire herself
+<wug#61> tuning the duke should educate herself
+<wug#62> unveiling the emperor must enlighten herself
+<wug#63> voicing the master could elevate herself
+<wug#64> watching the cowboy may improve herself
+<wug#65> xeroxing the gentleman has not deceived herself
+<wug#66> yodeling the boyfriend will enhance herself
+<wug#67> zip-tying the fiance did not belittle herself
+<wug#68> aligning the bridegroom can motivate herself
+<wug#69> bumping the host should console herself
+<wug#70> capturing the prince must uplift herself
+<wug#71> delving the husband could empower herself
+<wug#72> enrolling the wizard may enrich herself
+<wug#73> fixing the uncle has not underestimated herself
+<wug#74> granting the grandfather will strengthen herself
+<wug#75> honing the men did not undermine herself
+<wug#76> inviting the boys can reassure herself
+<wug#77> joining the fathers should compliment herself
+<wug#78> keeping the sons must honor herself
+<wug#79> locating the brothers could cherish herself
+<wug#80> moving the kings may adore herself
+<wug#81> noting the actors has not ridiculed herself
+<wug#82> operating the waiters will esteem herself
+<wug#83> placing the heros did not criticize herself
+<wug#84> recalling the nephews can respect herself
+<wug#85> securing the widowers should appreciate herself
+<wug#86> targeting the dukes must nurture herself
+<wug#87> uniting the emperors could pamper herself
+<wug#88> verifying the masters may indulge herself
+<wug#89> wiping the cowboys has not mistreated herself
+<wug#90> x-linking the gentlemen will spoil herself
+<wug#91> yoking the boyfriends did not rebuke herself
+<wug#92> zeroing the fiances can console herself
+<wug#93> booking the bridegrooms should soothe herself
+<wug#94> charging the hosts must calm herself
+<wug#95> defending the princes could quiet herself
+<wug#96> electing the husbands may reassure herself
+<wug#97> grasping the wizards has not distressed herself
+<wug#98> humbling the uncles will comfort herself
+<wug#99> identifying the grandfathers did not unsettle herself
+<wug#100> praising the woman will hurt himself
+<wug#101> teaching the girl has praised himself
+<wug#102> kicking the mother can teach himself
+<wug#103> guiding the daughter must find himself
+<wug#104> fooling the sister did call himself
+<wug#105> helping the queen should guide himself
+<wug#106> biting the actress might know himself
+<wug#107> choosing the waitress could see himself
+<wug#108> strucking the heroine would choose himself
+<wug#109> washing the niece has not forgiven himself
+<wug#110> harming the widow may trust himself
+<wug#111> loving the duchess will defend himself
+<wug#112> pushing the empress must admit himself
+<wug#113> mending the mistress did blame himself
+<wug#114> feeding the cowgirl should free himself
+<wug#115> robbing the lady might save himself
+<wug#116> saving the girlfriend could respect himself
+<wug#117> cutting the fiancée would prepare himself
+<wug#118> playing the bride has introduced himself
+<wug#119> beating the hostess may not express himself
+<wug#120> trusting the princess will challenge himself
+<wug#121> facing the wife must protect himself
+<wug#122> finding the witch did believe himself
+<wug#123> calling the aunt should convince himself
+<wug#124> serving the grandmother might reward himself
+<wug#125> linking the women could describe himself
+<wug#126> freeing the girls would amuse himself
+<wug#127> shotting the mothers has entertained himself
+<wug#128> drawing the daughters may consider himself
+<wug#129> hanging the sisters will not forgive himself
+<wug#130> naming the queens must remind himself
+<wug#131> grabbing the actresses did recognize himself
+<wug#132> lifting the waitresses should respect himself
+<wug#133> holding the heroines might surprise himself
+<wug#134> reading the nieces could support himself
+<wug#135> trappping the widows would teach himself
+<wug#136> healing the duchesses has treated himself
+<wug#137> meeting the empresses may understand himself
+<wug#138> seeking the mistresses will value himself
+<wug#139> scaring the cowgirls must not watch himself
+<wug#140> owning the ladies did welcome himself
+<wug#141> mocking the girlfriends should write himself
+<wug#142> testing the fiancées might yield himself
+<wug#143> joining the brides could analyze himself
+<wug#144> using the hostesses would ask himself
+<wug#145> fixing the princesses has avenged himself
+<wug#146> catching the wives may bless himself
+<wug#147> seeing the witches will correct himself
+<wug#148> selling the aunts must discover himself
+<wug#149> hurting the grandmothers did not echo himself
+<wug#150> feeling the woman should follow himself
+<wug#151> hiding the girl might greet himself
+<wug#152> treating the mother could imagine himself
+<wug#153> leading the daughter would judge himself
+<wug#154> following the sister has kept himself
+<wug#155> stopping the queen may lead himself
+<wug#156> watching the actress will manage himself
+<wug#157> leaving the waitress must obey himself
+<wug#158> knowing the heroine did please himself
+<wug#159> losing the niece should not question himself
+<wug#160> hearing the widow might restore himself
+<wug#161> blaming the duchess could satisfy himself
+<wug#162> reaching the empress would test himself
+<wug#163> liking the mistress has used himself
+<wug#164> protecting the cowgirl may verify himself
+<wug#165> cheating the lady will win himself
+<wug#166> surprising the girlfriend must yield himself
+<wug#167> finding the fiancée did zone himself
+<wug#168> admiring the bride should aim himself
+<wug#169> judging the hostess might not balance himself
+<wug#170> changing the princess could command himself
+<wug#171> doubting the wife would direct himself
+<wug#172> pleasing the witch has equipped himself
+<wug#173> remembering the aunt may fix himself
+<wug#174> respecting the grandmother will govern himself
+<wug#175> questioning the women must handle himself
+<wug#176> forgiving the girls did identify himself
+<wug#177> ignoring the mothers should join himself
+<wug#178> challenging the daughters might link himself
+<wug#179> denying the sisters could not motivate himself
+<wug#180> defining the queens would navigate himself
+<wug#181> limiting the actresses has operated himself
+<wug#182> preparing the waitresses may plan himself
+<wug#183> amusing the heroines will qualify himself
+<wug#184> expressing the nieces must reach himself
+<wug#185> destroying the widows did secure himself
+<wug#186> improving the duchesses should target himself
+<wug#187> replacing the empresses might unify himself
+<wug#188> supporting the mistresses could not validate himself
+<wug#189> exposing the cowgirls would voice himself
+<wug#190> convincing the ladies has willed himself
+<wug#191> bothering the girlfriends may x-ray himself
+<wug#192> accepting the fiancées will yield himself
+<wug#193> considering the brides must zone himself
+<wug#194> introducing the hostesses did activate himself
+<wug#195> embarrassing the princesses should build himself
+<wug#196> understanding the wives might clarify himself
+<wug#197> accusing the witches could decide himself
+<wug#198> defending the aunts would elevate himself
+<wug#199> neglecting the grandmothers has not framed himself
+<wug#200> cleaning the man will hurt herself
+<wug#201> bathing the boy has kissed herself
+<wug#202> dressing the father might slap herself
+<wug#203> feeding the son did punch herself
+<wug#204> painting the brother can forgive herself
+<wug#205> teaching the king should teach herself
+<wug#206> guiding the actor must guide herself
+<wug#207> shaving the waiter could see herself
+<wug#208> preparing the hero may wash herself
+<wug#209> arming the nephew has not blamed herself
+<wug#210> amusing the widower will carry herself
+<wug#211> coaching the duke did not choose herself
+<wug#212> treating the emperor can trust herself
+<wug#213> curing the master should protect herself
+<wug#214> fooling the cowboy must find herself
+<wug#215> helping the gentleman could hear herself
+<wug#216> kicking the boyfriend may free herself
+<wug#217> mending the fiance has not judged herself
+<wug#218> praising the bridegroom will follow herself
+<wug#219> pushing the host did not mock herself
+<wug#220> quizzing the prince can admire herself
+<wug#221> ruling the husband should help herself
+<wug#222> saving the wizard must know herself
+<wug#223> testing the uncle could feel herself
+<wug#224> urging the grandfather may recognize herself
+<wug#225> vexing the men has not called herself
+<wug#226> warming the boys will meet herself
+<wug#227> yielding the fathers did not greet herself
+<wug#228> zipping the sons can like herself
+<wug#229> judging the brothers should face herself
+<wug#230> linking the kings must respect herself
+<wug#231> naming the actors could understand herself
+<wug#232> obeying the waiters may save herself
+<wug#233> playing the heros has not fooled herself
+<wug#234> quoting the nephews will treat herself
+<wug#235> risking the widowers did not harm herself
+<wug#236> serving the dukes can value herself
+<wug#237> timing the emperors should amuse herself
+<wug#238> valuing the masters must defend herself
+<wug#239> wiring the cowboys could check herself
+<wug#240> x-raying the gentlemen may correct herself
+<wug#241> yanking the boyfriends has not betrayed herself
+<wug#242> adjusting the fiances will discover herself
+<wug#243> boxing the bridegrooms did not doubt herself
+<wug#244> calming the hosts can convince herself
+<wug#245> diving the princes should introduce herself
+<wug#246> echoing the husbands must prepare herself
+<wug#247> frightening the wizards could satisfy herself
+<wug#248> greeting the uncles may express herself
+<wug#249> hunting the grandfathers has not ignored herself
+<wug#250> inspiring the man will accept herself
+<wug#251> jolting the boy did not refuse herself
+<wug#252> knitting the father can surprise herself
+<wug#253> lifting the son should forgive herself
+<wug#254> masking the brother must challenge herself
+<wug#255> nipping the king could reward herself
+<wug#256> opening the actor may approach herself
+<wug#257> packing the waiter has not accused herself
+<wug#258> questioning the hero will support herself
+<wug#259> repairing the nephew did not neglect herself
+<wug#260> stopping the widower can inspire herself
+<wug#261> tuning the duke should educate herself
+<wug#262> unveiling the emperor must enlighten herself
+<wug#263> voicing the master could elevate herself
+<wug#264> watching the cowboy may improve herself
+<wug#265> xeroxing the gentleman has not deceived herself
+<wug#266> yodeling the boyfriend will enhance herself
+<wug#267> zip-tying the fiance did not belittle herself
+<wug#268> aligning the bridegroom can motivate herself
+<wug#269> bumping the host should console herself
+<wug#270> capturing the prince must uplift herself
+<wug#271> delving the husband could empower herself
+<wug#272> enrolling the wizard may enrich herself
+<wug#273> fixing the uncle has not underestimated herself
+<wug#274> granting the grandfather will strengthen herself
+<wug#275> honing the men did not undermine herself
+<wug#276> inviting the boys can reassure herself
+<wug#277> joining the fathers should compliment herself
+<wug#278> keeping the sons must honor herself
+<wug#279> locating the brothers could cherish herself
+<wug#280> moving the kings may adore herself
+<wug#281> noting the actors has not ridiculed herself
+<wug#282> operating the waiters will esteem herself
+<wug#283> placing the heros did not criticize herself
+<wug#284> recalling the nephews can respect herself
+<wug#285> securing the widowers should appreciate herself
+<wug#286> targeting the dukes must nurture herself
+<wug#287> uniting the emperors could pamper herself
+<wug#288> verifying the masters may indulge herself
+<wug#289> wiping the cowboys has not mistreated herself
+<wug#290> x-linking the gentlemen will spoil herself
+<wug#291> yoking the boyfriends did not rebuke herself
+<wug#292> zeroing the fiances can console herself
+<wug#293> booking the bridegrooms should soothe herself
+<wug#294> charging the hosts must calm herself
+<wug#295> defending the princes could quiet herself
+<wug#296> electing the husbands may reassure herself
+<wug#297> grasping the wizards has not distressed herself
+<wug#298> humbling the uncles will comfort herself
+<wug#299> identifying the grandfathers did not unsettle herself
+<wug#300> praising the woman will hurt himself
+<wug#301> teaching the girl has praised himself
+<wug#302> kicking the mother can teach himself
+<wug#303> guiding the daughter must find himself
+<wug#304> fooling the sister did call himself
+<wug#305> helping the queen should guide himself
+<wug#306> biting the actress might know himself
+<wug#307> choosing the waitress could see himself
+<wug#308> strucking the heroine would choose himself
+<wug#309> washing the niece has not forgiven himself
+<wug#310> harming the widow may trust himself
+<wug#311> loving the duchess will defend himself
+<wug#312> pushing the empress must admit himself
+<wug#313> mending the mistress did blame himself
+<wug#314> feeding the cowgirl should free himself
+<wug#315> robbing the lady might save himself
+<wug#316> saving the girlfriend could respect himself
+<wug#317> cutting the fiancée would prepare himself
+<wug#318> playing the bride has introduced himself
+<wug#319> beating the hostess may not express himself
+<wug#320> trusting the princess will challenge himself
+<wug#321> facing the wife must protect himself
+<wug#322> finding the witch did believe himself
+<wug#323> calling the aunt should convince himself
+<wug#324> serving the grandmother might reward himself
+<wug#325> linking the women could describe himself
+<wug#326> freeing the girls would amuse himself
+<wug#327> shotting the mothers has entertained himself
+<wug#328> drawing the daughters may consider himself
+<wug#329> hanging the sisters will not forgive himself
+<wug#330> naming the queens must remind himself
+<wug#331> grabbing the actresses did recognize himself
+<wug#332> lifting the waitresses should respect himself
+<wug#333> holding the heroines might surprise himself
+<wug#334> reading the nieces could support himself
+<wug#335> trappping the widows would teach himself
+<wug#336> healing the duchesses has treated himself
+<wug#337> meeting the empresses may understand himself
+<wug#338> seeking the mistresses will value himself
+<wug#339> scaring the cowgirls must not watch himself
+<wug#340> owning the ladies did welcome himself
+<wug#341> mocking the girlfriends should write himself
+<wug#342> testing the fiancées might yield himself
+<wug#343> joining the brides could analyze himself
+<wug#344> using the hostesses would ask himself
+<wug#345> fixing the princesses has avenged himself
+<wug#346> catching the wives may bless himself
+<wug#347> seeing the witches will correct himself
+<wug#348> selling the aunts must discover himself
+<wug#349> hurting the grandmothers did not echo himself
+<wug#350> feeling the woman should follow himself
+<wug#351> hiding the girl might greet himself
+<wug#352> treating the mother could imagine himself
+<wug#353> leading the daughter would judge himself
+<wug#354> following the sister has kept himself
+<wug#355> stopping the queen may lead himself
+<wug#356> watching the actress will manage himself
+<wug#357> leaving the waitress must obey himself
+<wug#358> knowing the heroine did please himself
+<wug#359> losing the niece should not question himself
+<wug#360> hearing the widow might restore himself
+<wug#361> blaming the duchess could satisfy himself
+<wug#362> reaching the empress would test himself
+<wug#363> liking the mistress has used himself
+<wug#364> protecting the cowgirl may verify himself
+<wug#365> cheating the lady will win himself
+<wug#366> surprising the girlfriend must yield himself
+<wug#367> finding the fiancée did zone himself
+<wug#368> admiring the bride should aim himself
+<wug#369> judging the hostess might not balance himself
+<wug#370> changing the princess could command himself
+<wug#371> doubting the wife would direct himself
+<wug#372> pleasing the witch has equipped himself
+<wug#373> remembering the aunt may fix himself
+<wug#374> respecting the grandmother will govern himself
+<wug#375> questioning the women must handle himself
+<wug#376> forgiving the girls did identify himself
+<wug#377> ignoring the mothers should join himself
+<wug#378> challenging the daughters might link himself
+<wug#379> denying the sisters could not motivate himself
+<wug#380> defining the queens would navigate himself
+<wug#381> limiting the actresses has operated himself
+<wug#382> preparing the waitresses may plan himself
+<wug#383> amusing the heroines will qualify himself
+<wug#384> expressing the nieces must reach himself
+<wug#385> destroying the widows did secure himself
+<wug#386> improving the duchesses should target himself
+<wug#387> replacing the empresses might unify himself
+<wug#388> supporting the mistresses could not validate himself
+<wug#389> exposing the cowgirls would voice himself
+<wug#390> convincing the ladies has willed himself
+<wug#391> bothering the girlfriends may x-ray himself
+<wug#392> accepting the fiancées will yield himself
+<wug#393> considering the brides must zone himself
+<wug#394> introducing the hostesses did activate himself
+<wug#395> embarrassing the princesses should build himself
+<wug#396> understanding the wives might clarify himself
+<wug#397> accusing the witches could decide himself
+<wug#398> defending the aunts would elevate himself
+<wug#399> neglecting the grandmothers has not framed himself
+<wug#400> cleaning the man will hurt herself
+<wug#401> bathing the boy has kissed herself
+<wug#402> dressing the father might slap herself
+<wug#403> feeding the son did punch herself
+<wug#404> painting the brother can forgive herself
+<wug#405> teaching the king should teach herself
+<wug#406> guiding the actor must guide herself
+<wug#407> shaving the waiter could see herself
+<wug#408> preparing the hero may wash herself
+<wug#409> arming the nephew has not blamed herself
+<wug#410> amusing the widower will carry herself
+<wug#411> coaching the duke did not choose herself
+<wug#412> treating the emperor can trust herself
+<wug#413> curing the master should protect herself
+<wug#414> fooling the cowboy must find herself
+<wug#415> helping the gentleman could hear herself
+<wug#416> kicking the boyfriend may free herself
+<wug#417> mending the fiance has not judged herself
+<wug#418> praising the bridegroom will follow herself
+<wug#419> pushing the host did not mock herself
+<wug#420> quizzing the prince can admire herself
+<wug#421> ruling the husband should help herself
+<wug#422> saving the wizard must know herself
+<wug#423> testing the uncle could feel herself
+<wug#424> urging the grandfather may recognize herself
+<wug#425> vexing the men has not called herself
+<wug#426> warming the boys will meet herself
+<wug#427> yielding the fathers did not greet herself
+<wug#428> zipping the sons can like herself
+<wug#429> judging the brothers should face herself
+<wug#430> linking the kings must respect herself
+<wug#431> naming the actors could understand herself
+<wug#432> obeying the waiters may save herself
+<wug#433> playing the heros has not fooled herself
+<wug#434> quoting the nephews will treat herself
+<wug#435> risking the widowers did not harm herself
+<wug#436> serving the dukes can value herself
+<wug#437> timing the emperors should amuse herself
+<wug#438> valuing the masters must defend herself
+<wug#439> wiring the cowboys could check herself
+<wug#440> x-raying the gentlemen may correct herself
+<wug#441> yanking the boyfriends has not betrayed herself
+<wug#442> adjusting the fiances will discover herself
+<wug#443> boxing the bridegrooms did not doubt herself
+<wug#444> calming the hosts can convince herself
+<wug#445> diving the princes should introduce herself
+<wug#446> echoing the husbands must prepare herself
+<wug#447> frightening the wizards could satisfy herself
+<wug#448> greeting the uncles may express herself
+<wug#449> hunting the grandfathers has not ignored herself
+<wug#450> inspiring the man will accept herself
+<wug#451> jolting the boy did not refuse herself
+<wug#452> knitting the father can surprise herself
+<wug#453> lifting the son should forgive herself
+<wug#454> masking the brother must challenge herself
+<wug#455> nipping the king could reward herself
+<wug#456> opening the actor may approach herself
+<wug#457> packing the waiter has not accused herself
+<wug#458> questioning the hero will support herself
+<wug#459> repairing the nephew did not neglect herself
+<wug#460> stopping the widower can inspire herself
+<wug#461> tuning the duke should educate herself
+<wug#462> unveiling the emperor must enlighten herself
+<wug#463> voicing the master could elevate herself
+<wug#464> watching the cowboy may improve herself
+<wug#465> xeroxing the gentleman has not deceived herself
+<wug#466> yodeling the boyfriend will enhance herself
+<wug#467> zip-tying the fiance did not belittle herself
+<wug#468> aligning the bridegroom can motivate herself
+<wug#469> bumping the host should console herself
+<wug#470> capturing the prince must uplift herself
+<wug#471> delving the husband could empower herself
+<wug#472> enrolling the wizard may enrich herself
+<wug#473> fixing the uncle has not underestimated herself
+<wug#474> granting the grandfather will strengthen herself
+<wug#475> honing the men did not undermine herself
+<wug#476> inviting the boys can reassure herself
+<wug#477> joining the fathers should compliment herself
+<wug#478> keeping the sons must honor herself
+<wug#479> locating the brothers could cherish herself
+<wug#480> moving the kings may adore herself
+<wug#481> noting the actors has not ridiculed herself
+<wug#482> operating the waiters will esteem herself
+<wug#483> placing the heros did not criticize herself
+<wug#484> recalling the nephews can respect herself
+<wug#485> securing the widowers should appreciate herself
+<wug#486> targeting the dukes must nurture herself
+<wug#487> uniting the emperors could pamper herself
+<wug#488> verifying the masters may indulge herself
+<wug#489> wiping the cowboys has not mistreated herself
+<wug#490> x-linking the gentlemen will spoil herself
+<wug#491> yoking the boyfriends did not rebuke herself
+<wug#492> zeroing the fiances can console herself
+<wug#493> booking the bridegrooms should soothe herself
+<wug#494> charging the hosts must calm herself
+<wug#495> defending the princes could quiet herself
+<wug#496> electing the husbands may reassure herself
+<wug#497> grasping the wizards has not distressed herself
+<wug#498> humbling the uncles will comfort herself
+<wug#499> identifying the grandfathers did not unsettle herself
+<wug#500> praising the woman will hurt himself
+<wug#501> teaching the girl has praised himself
+<wug#502> kicking the mother can teach himself
+<wug#503> guiding the daughter must find himself
+<wug#504> fooling the sister did call himself
+<wug#505> helping the queen should guide himself
+<wug#506> biting the actress might know himself
+<wug#507> choosing the waitress could see himself
+<wug#508> strucking the heroine would choose himself
+<wug#509> washing the niece has not forgiven himself
+<wug#510> harming the widow may trust himself
+<wug#511> loving the duchess will defend himself
+<wug#512> pushing the empress must admit himself
+<wug#513> mending the mistress did blame himself
+<wug#514> feeding the cowgirl should free himself
+<wug#515> robbing the lady might save himself
+<wug#516> saving the girlfriend could respect himself
+<wug#517> cutting the fiancée would prepare himself
+<wug#518> playing the bride has introduced himself
+<wug#519> beating the hostess may not express himself
+<wug#520> trusting the princess will challenge himself
+<wug#521> facing the wife must protect himself
+<wug#522> finding the witch did believe himself
+<wug#523> calling the aunt should convince himself
+<wug#524> serving the grandmother might reward himself
+<wug#525> linking the women could describe himself
+<wug#526> freeing the girls would amuse himself
+<wug#527> shotting the mothers has entertained himself
+<wug#528> drawing the daughters may consider himself
+<wug#529> hanging the sisters will not forgive himself
+<wug#530> naming the queens must remind himself
+<wug#531> grabbing the actresses did recognize himself
+<wug#532> lifting the waitresses should respect himself
+<wug#533> holding the heroines might surprise himself
+<wug#534> reading the nieces could support himself
+<wug#535> trappping the widows would teach himself
+<wug#536> healing the duchesses has treated himself
+<wug#537> meeting the empresses may understand himself
+<wug#538> seeking the mistresses will value himself
+<wug#539> scaring the cowgirls must not watch himself
+<wug#540> owning the ladies did welcome himself
+<wug#541> mocking the girlfriends should write himself
+<wug#542> testing the fiancées might yield himself
+<wug#543> joining the brides could analyze himself
+<wug#544> using the hostesses would ask himself
+<wug#545> fixing the princesses has avenged himself
+<wug#546> catching the wives may bless himself
+<wug#547> seeing the witches will correct himself
+<wug#548> selling the aunts must discover himself
+<wug#549> hurting the grandmothers did not echo himself
+<wug#550> feeling the woman should follow himself
+<wug#551> hiding the girl might greet himself
+<wug#552> treating the mother could imagine himself
+<wug#553> leading the daughter would judge himself
+<wug#554> following the sister has kept himself
+<wug#555> stopping the queen may lead himself
+<wug#556> watching the actress will manage himself
+<wug#557> leaving the waitress must obey himself
+<wug#558> knowing the heroine did please himself
+<wug#559> losing the niece should not question himself
+<wug#560> hearing the widow might restore himself
+<wug#561> blaming the duchess could satisfy himself
+<wug#562> reaching the empress would test himself
+<wug#563> liking the mistress has used himself
+<wug#564> protecting the cowgirl may verify himself
+<wug#565> cheating the lady will win himself
+<wug#566> surprising the girlfriend must yield himself
+<wug#567> finding the fiancée did zone himself
+<wug#568> admiring the bride should aim himself
+<wug#569> judging the hostess might not balance himself
+<wug#570> changing the princess could command himself
+<wug#571> doubting the wife would direct himself
+<wug#572> pleasing the witch has equipped himself
+<wug#573> remembering the aunt may fix himself
+<wug#574> respecting the grandmother will govern himself
+<wug#575> questioning the women must handle himself
+<wug#576> forgiving the girls did identify himself
+<wug#577> ignoring the mothers should join himself
+<wug#578> challenging the daughters might link himself
+<wug#579> denying the sisters could not motivate himself
+<wug#580> defining the queens would navigate himself
+<wug#581> limiting the actresses has operated himself
+<wug#582> preparing the waitresses may plan himself
+<wug#583> amusing the heroines will qualify himself
+<wug#584> expressing the nieces must reach himself
+<wug#585> destroying the widows did secure himself
+<wug#586> improving the duchesses should target himself
+<wug#587> replacing the empresses might unify himself
+<wug#588> supporting the mistresses could not validate himself
+<wug#589> exposing the cowgirls would voice himself
+<wug#590> convincing the ladies has willed himself
+<wug#591> bothering the girlfriends may x-ray himself
+<wug#592> accepting the fiancées will yield himself
+<wug#593> considering the brides must zone himself
+<wug#594> introducing the hostesses did activate himself
+<wug#595> embarrassing the princesses should build himself
+<wug#596> understanding the wives might clarify himself
+<wug#597> accusing the witches could decide himself
+<wug#598> defending the aunts would elevate himself
+<wug#599> neglecting the grandmothers has not framed himself

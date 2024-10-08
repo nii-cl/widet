@@ -1,0 +1,600 @@
+<wug#0> loved her cat
+<wug#1> had painted her room
+<wug#2> will fix her computer
+<wug#3> did not break her vase
+<wug#4> would throw her ball
+<wug#5> might sell her bike
+<wug#6> cleaned her glasses
+<wug#7> had forgotten her keys
+<wug#8> can't find her book
+<wug#9> took her medicine
+<wug#10> should wash her car
+<wug#11> must read her emails
+<wug#12> did not ignore her sister
+<wug#13> kept her promises
+<wug#14> will not lose her patience
+<wug#15> baked her bread
+<wug#16> had repaired her watch
+<wug#17> could play her guitar
+<wug#18> would feed her dog
+<wug#19> won't forget her password
+<wug#20> sent her letters
+<wug#21> had called her friend
+<wug#22> did check her answers
+<wug#23> might not visit her aunt
+<wug#24> will drive her car
+<wug#25> can solve her puzzle
+<wug#26> will prepare her speech
+<wug#27> had not lost her ticket
+<wug#28> made her bed
+<wug#29> should not spoil her dinner
+<wug#30> carried her bag
+<wug#31> had saved her document
+<wug#32> did not miss her train
+<wug#33> planted her flowers
+<wug#34> cleaned his car
+<wug#35> had painted his house
+<wug#36> will fix his computer
+<wug#37> would throw his ball
+<wug#38> did not break his glasses
+<wug#39> built his model
+<wug#40> had sold his watch
+<wug#41> will not be reading his book
+<wug#42> did not know his neighbor
+<wug#43> took his medicine
+<wug#44> had driven his truck
+<wug#45> will catch his flight
+<wug#46> had shaked his bottle
+<wug#47> did not lose his keys
+<wug#48> made his bed
+<wug#49> had found his wallet
+<wug#50> will not be cooking his dinner
+<wug#51> did not remember his password
+<wug#52> bought his groceries
+<wug#53> had repaired his bike
+<wug#54> will write his exam
+<wug#55> would feed his cat
+<wug#56> did not answer his phone
+<wug#57> created his art
+<wug#58> had changed his plans
+<wug#59> will not be washing his clothes
+<wug#60> did not see his mistake
+<wug#61> will be calling his friend
+<wug#62> had locked his door
+<wug#63> will plant his garden
+<wug#64> lifted his weights
+<wug#65> did not forget his appointment
+<wug#66> sent his emails
+the <wug#67> carried its basket
+the <wug#68> had cleaned its room
+the <wug#69> will not eat its dinner
+the <wug#70> built its house
+the <wug#71> loved its toy
+the <wug#72> protected its territory
+the <wug#73> found its key
+the <wug#74> can lose its patience
+the <wug#75> holded its breath
+the <wug#76> would throw its ball
+the <wug#77> did not fix its clock
+the <wug#78> must write its name
+the <wug#79> should break its promise
+the <wug#80> might not sell its car
+the <wug#81> had drawn its picture
+the <wug#82> can change its color
+the <wug#83> will not catch its prey
+the <wug#84> must not choose its path
+the <wug#85> did know its worth
+the <wug#86> might steal its food
+the <wug#87> had not lost its way
+the <wug#88> can create its story
+the <wug#89> should not  harm its friend
+the <wug#90> must play its part
+the <wug#91> did feed its young
+the <wug#92> can start its journey
+the <wug#93> might forget its lines
+the <wug#94> should not save its energy
+the <wug#95> did paint its fence
+the <wug#96> will repair its bike
+the <wug#97> had planted its tree
+the <wug#98> can solve its problem
+the <wug#99> should not waste its resources
+the <wug#100> had cleaned their rooms
+the <wug#101> will paint their fences
+the <wug#102> would be washing their cars
+the <wug#103> must check their emails
+the <wug#104> can change their clothes
+the <wug#105> had ever seen their shadows
+the <wug#106> should fix their bikes
+the <wug#107> might sell their toys
+the <wug#108> had forgotten their passwords
+the <wug#109> cannot find their keys
+the <wug#110> must update their profiles
+the <wug#111> would be cooking their meals
+the <wug#112> did not bring their umbrellas
+the <wug#113> will organize their desks
+the <wug#114> would be building their models
+the <wug#115> must submit their reports
+the <wug#116> can play their instruments
+the <wug#117> had ever climbed their mountains
+the <wug#118> should wash their dishes
+the <wug#119> might write their essays
+the <wug#120> had repaired their computers
+the <wug#121> cannot open their bottles
+the <wug#122> must proofread their documents
+the <wug#123> would be planning their parties
+the <wug#124> did not answer their phones
+the <wug#125> will decorate their houses
+the <wug#126> would be programming their apps
+the <wug#127> must clear their schedules
+the <wug#128> can tune their guitars
+the <wug#129> had ever ridden their horses
+the <wug#130> should trim their hedges
+the <wug#131> might check their mail
+the <wug#132> had polished their shoes
+the <wug#133> cannot tie their laces
+the <wug#134> must sign their forms
+the <wug#135> would be drawing their plans
+the <wug#136> did not lock their doors
+the <wug#137> will harvest their crops
+the <wug#138> would be editing their videos
+the <wug#139> must arrange their meetings
+the <wug#140> can adjust their glasses
+the <wug#141> had ever played their records
+the <wug#142> should clean their pools
+the <wug#143> might plant their seeds
+the <wug#144> had set their alarms
+the <wug#145> cannot remember their appointments
+the <wug#146> must water their plants
+the <wug#147> would be reviewing their notes
+the <wug#148> did not take their vitamins
+the <wug#149> will change their tires
+the <wug#150> would be mending their clothes
+the <wug#151> must test their alarms
+the <wug#152> can solve their puzzles
+the <wug#153> had ever lost their wallets
+the <wug#154> should sweep their floors
+the <wug#155> might read their books
+the <wug#156> had charged their phones
+the <wug#157> cannot reach their shelves
+the <wug#158> must check their balances
+the <wug#159> would be packing their bags
+the <wug#160> did not close their windows
+the <wug#161> will trim their lawns
+the <wug#162> would be updating their blogs
+the <wug#163> must renew their licenses
+the <wug#164> can sharpen their pencils
+the <wug#165> had ever baked their bread
+the <wug#166> should oil their gears
+the <wug#167> might dial their numbers
+the <wug#168> had dusted their shelves
+the <wug#169> cannot match their socks
+the <wug#170> must lace their shoes
+the <wug#171> would be framing their pictures
+the <wug#172> did not save their files
+the <wug#173> will catch their trains
+the <wug#174> would be stitching their patches
+the <wug#175> must file their taxes
+the <wug#176> can breed their pets
+the <wug#177> had ever sailed their boats
+the <wug#178> should prune their bushes
+the <wug#179> might tune their pianos
+the <wug#180> had wiped their tables
+the <wug#181> cannot find their glasses
+the <wug#182> must answer their calls
+the <wug#183> would be sorting their papers
+the <wug#184> did not erase their boards
+the <wug#185> will feed their fish
+the <wug#186> would be flying their kites
+the <wug#187> must grade their exams
+the <wug#188> can stack their books
+the <wug#189> had ever driven their cars
+the <wug#190> should fold their laundry
+the <wug#191> might brew their coffee
+the <wug#192> had hung their curtains
+the <wug#193> cannot find their hats
+the <wug#194> must sharpen their knives
+the <wug#195> would be loading their trucks
+the <wug#196> did not switch their lights
+the <wug#197> will rake their leaves
+the <wug#198> would be heating their meals
+the <wug#199> must lock their safes
+<wug#200> loved her cat
+<wug#201> had painted her room
+<wug#202> will fix her computer
+<wug#203> did not break her vase
+<wug#204> would throw her ball
+<wug#205> might sell her bike
+<wug#206> cleaned her glasses
+<wug#207> had forgotten her keys
+<wug#208> can't find her book
+<wug#209> took her medicine
+<wug#210> should wash her car
+<wug#211> must read her emails
+<wug#212> did not ignore her sister
+<wug#213> kept her promises
+<wug#214> will not lose her patience
+<wug#215> baked her bread
+<wug#216> had repaired her watch
+<wug#217> could play her guitar
+<wug#218> would feed her dog
+<wug#219> won't forget her password
+<wug#220> sent her letters
+<wug#221> had called her friend
+<wug#222> did check her answers
+<wug#223> might not visit her aunt
+<wug#224> will drive her car
+<wug#225> can solve her puzzle
+<wug#226> will prepare her speech
+<wug#227> had not lost her ticket
+<wug#228> made her bed
+<wug#229> should not spoil her dinner
+<wug#230> carried her bag
+<wug#231> had saved her document
+<wug#232> did not miss her train
+<wug#233> planted her flowers
+<wug#234> cleaned his car
+<wug#235> had painted his house
+<wug#236> will fix his computer
+<wug#237> would throw his ball
+<wug#238> did not break his glasses
+<wug#239> built his model
+<wug#240> had sold his watch
+<wug#241> will not be reading his book
+<wug#242> did not know his neighbor
+<wug#243> took his medicine
+<wug#244> had driven his truck
+<wug#245> will catch his flight
+<wug#246> had shaked his bottle
+<wug#247> did not lose his keys
+<wug#248> made his bed
+<wug#249> had found his wallet
+<wug#250> will not be cooking his dinner
+<wug#251> did not remember his password
+<wug#252> bought his groceries
+<wug#253> had repaired his bike
+<wug#254> will write his exam
+<wug#255> would feed his cat
+<wug#256> did not answer his phone
+<wug#257> created his art
+<wug#258> had changed his plans
+<wug#259> will not be washing his clothes
+<wug#260> did not see his mistake
+<wug#261> will be calling his friend
+<wug#262> had locked his door
+<wug#263> will plant his garden
+<wug#264> lifted his weights
+<wug#265> did not forget his appointment
+<wug#266> sent his emails
+the <wug#267> carried its basket
+the <wug#268> had cleaned its room
+the <wug#269> will not eat its dinner
+the <wug#270> built its house
+the <wug#271> loved its toy
+the <wug#272> protected its territory
+the <wug#273> found its key
+the <wug#274> can lose its patience
+the <wug#275> holded its breath
+the <wug#276> would throw its ball
+the <wug#277> did not fix its clock
+the <wug#278> must write its name
+the <wug#279> should break its promise
+the <wug#280> might not sell its car
+the <wug#281> had drawn its picture
+the <wug#282> can change its color
+the <wug#283> will not catch its prey
+the <wug#284> must not choose its path
+the <wug#285> did know its worth
+the <wug#286> might steal its food
+the <wug#287> had not lost its way
+the <wug#288> can create its story
+the <wug#289> should not  harm its friend
+the <wug#290> must play its part
+the <wug#291> did feed its young
+the <wug#292> can start its journey
+the <wug#293> might forget its lines
+the <wug#294> should not save its energy
+the <wug#295> did paint its fence
+the <wug#296> will repair its bike
+the <wug#297> had planted its tree
+the <wug#298> can solve its problem
+the <wug#299> should not waste its resources
+the <wug#300> had cleaned their rooms
+the <wug#301> will paint their fences
+the <wug#302> would be washing their cars
+the <wug#303> must check their emails
+the <wug#304> can change their clothes
+the <wug#305> had ever seen their shadows
+the <wug#306> should fix their bikes
+the <wug#307> might sell their toys
+the <wug#308> had forgotten their passwords
+the <wug#309> cannot find their keys
+the <wug#310> must update their profiles
+the <wug#311> would be cooking their meals
+the <wug#312> did not bring their umbrellas
+the <wug#313> will organize their desks
+the <wug#314> would be building their models
+the <wug#315> must submit their reports
+the <wug#316> can play their instruments
+the <wug#317> had ever climbed their mountains
+the <wug#318> should wash their dishes
+the <wug#319> might write their essays
+the <wug#320> had repaired their computers
+the <wug#321> cannot open their bottles
+the <wug#322> must proofread their documents
+the <wug#323> would be planning their parties
+the <wug#324> did not answer their phones
+the <wug#325> will decorate their houses
+the <wug#326> would be programming their apps
+the <wug#327> must clear their schedules
+the <wug#328> can tune their guitars
+the <wug#329> had ever ridden their horses
+the <wug#330> should trim their hedges
+the <wug#331> might check their mail
+the <wug#332> had polished their shoes
+the <wug#333> cannot tie their laces
+the <wug#334> must sign their forms
+the <wug#335> would be drawing their plans
+the <wug#336> did not lock their doors
+the <wug#337> will harvest their crops
+the <wug#338> would be editing their videos
+the <wug#339> must arrange their meetings
+the <wug#340> can adjust their glasses
+the <wug#341> had ever played their records
+the <wug#342> should clean their pools
+the <wug#343> might plant their seeds
+the <wug#344> had set their alarms
+the <wug#345> cannot remember their appointments
+the <wug#346> must water their plants
+the <wug#347> would be reviewing their notes
+the <wug#348> did not take their vitamins
+the <wug#349> will change their tires
+the <wug#350> would be mending their clothes
+the <wug#351> must test their alarms
+the <wug#352> can solve their puzzles
+the <wug#353> had ever lost their wallets
+the <wug#354> should sweep their floors
+the <wug#355> might read their books
+the <wug#356> had charged their phones
+the <wug#357> cannot reach their shelves
+the <wug#358> must check their balances
+the <wug#359> would be packing their bags
+the <wug#360> did not close their windows
+the <wug#361> will trim their lawns
+the <wug#362> would be updating their blogs
+the <wug#363> must renew their licenses
+the <wug#364> can sharpen their pencils
+the <wug#365> had ever baked their bread
+the <wug#366> should oil their gears
+the <wug#367> might dial their numbers
+the <wug#368> had dusted their shelves
+the <wug#369> cannot match their socks
+the <wug#370> must lace their shoes
+the <wug#371> would be framing their pictures
+the <wug#372> did not save their files
+the <wug#373> will catch their trains
+the <wug#374> would be stitching their patches
+the <wug#375> must file their taxes
+the <wug#376> can breed their pets
+the <wug#377> had ever sailed their boats
+the <wug#378> should prune their bushes
+the <wug#379> might tune their pianos
+the <wug#380> had wiped their tables
+the <wug#381> cannot find their glasses
+the <wug#382> must answer their calls
+the <wug#383> would be sorting their papers
+the <wug#384> did not erase their boards
+the <wug#385> will feed their fish
+the <wug#386> would be flying their kites
+the <wug#387> must grade their exams
+the <wug#388> can stack their books
+the <wug#389> had ever driven their cars
+the <wug#390> should fold their laundry
+the <wug#391> might brew their coffee
+the <wug#392> had hung their curtains
+the <wug#393> cannot find their hats
+the <wug#394> must sharpen their knives
+the <wug#395> would be loading their trucks
+the <wug#396> did not switch their lights
+the <wug#397> will rake their leaves
+the <wug#398> would be heating their meals
+the <wug#399> must lock their safes
+<wug#400> loved her cat
+<wug#401> had painted her room
+<wug#402> will fix her computer
+<wug#403> did not break her vase
+<wug#404> would throw her ball
+<wug#405> might sell her bike
+<wug#406> cleaned her glasses
+<wug#407> had forgotten her keys
+<wug#408> can't find her book
+<wug#409> took her medicine
+<wug#410> should wash her car
+<wug#411> must read her emails
+<wug#412> did not ignore her sister
+<wug#413> kept her promises
+<wug#414> will not lose her patience
+<wug#415> baked her bread
+<wug#416> had repaired her watch
+<wug#417> could play her guitar
+<wug#418> would feed her dog
+<wug#419> won't forget her password
+<wug#420> sent her letters
+<wug#421> had called her friend
+<wug#422> did check her answers
+<wug#423> might not visit her aunt
+<wug#424> will drive her car
+<wug#425> can solve her puzzle
+<wug#426> will prepare her speech
+<wug#427> had not lost her ticket
+<wug#428> made her bed
+<wug#429> should not spoil her dinner
+<wug#430> carried her bag
+<wug#431> had saved her document
+<wug#432> did not miss her train
+<wug#433> planted her flowers
+<wug#434> cleaned his car
+<wug#435> had painted his house
+<wug#436> will fix his computer
+<wug#437> would throw his ball
+<wug#438> did not break his glasses
+<wug#439> built his model
+<wug#440> had sold his watch
+<wug#441> will not be reading his book
+<wug#442> did not know his neighbor
+<wug#443> took his medicine
+<wug#444> had driven his truck
+<wug#445> will catch his flight
+<wug#446> had shaked his bottle
+<wug#447> did not lose his keys
+<wug#448> made his bed
+<wug#449> had found his wallet
+<wug#450> will not be cooking his dinner
+<wug#451> did not remember his password
+<wug#452> bought his groceries
+<wug#453> had repaired his bike
+<wug#454> will write his exam
+<wug#455> would feed his cat
+<wug#456> did not answer his phone
+<wug#457> created his art
+<wug#458> had changed his plans
+<wug#459> will not be washing his clothes
+<wug#460> did not see his mistake
+<wug#461> will be calling his friend
+<wug#462> had locked his door
+<wug#463> will plant his garden
+<wug#464> lifted his weights
+<wug#465> did not forget his appointment
+<wug#466> sent his emails
+the <wug#467> carried its basket
+the <wug#468> had cleaned its room
+the <wug#469> will not eat its dinner
+the <wug#470> built its house
+the <wug#471> loved its toy
+the <wug#472> protected its territory
+the <wug#473> found its key
+the <wug#474> can lose its patience
+the <wug#475> holded its breath
+the <wug#476> would throw its ball
+the <wug#477> did not fix its clock
+the <wug#478> must write its name
+the <wug#479> should break its promise
+the <wug#480> might not sell its car
+the <wug#481> had drawn its picture
+the <wug#482> can change its color
+the <wug#483> will not catch its prey
+the <wug#484> must not choose its path
+the <wug#485> did know its worth
+the <wug#486> might steal its food
+the <wug#487> had not lost its way
+the <wug#488> can create its story
+the <wug#489> should not  harm its friend
+the <wug#490> must play its part
+the <wug#491> did feed its young
+the <wug#492> can start its journey
+the <wug#493> might forget its lines
+the <wug#494> should not save its energy
+the <wug#495> did paint its fence
+the <wug#496> will repair its bike
+the <wug#497> had planted its tree
+the <wug#498> can solve its problem
+the <wug#499> should not waste its resources
+the <wug#500> had cleaned their rooms
+the <wug#501> will paint their fences
+the <wug#502> would be washing their cars
+the <wug#503> must check their emails
+the <wug#504> can change their clothes
+the <wug#505> had ever seen their shadows
+the <wug#506> should fix their bikes
+the <wug#507> might sell their toys
+the <wug#508> had forgotten their passwords
+the <wug#509> cannot find their keys
+the <wug#510> must update their profiles
+the <wug#511> would be cooking their meals
+the <wug#512> did not bring their umbrellas
+the <wug#513> will organize their desks
+the <wug#514> would be building their models
+the <wug#515> must submit their reports
+the <wug#516> can play their instruments
+the <wug#517> had ever climbed their mountains
+the <wug#518> should wash their dishes
+the <wug#519> might write their essays
+the <wug#520> had repaired their computers
+the <wug#521> cannot open their bottles
+the <wug#522> must proofread their documents
+the <wug#523> would be planning their parties
+the <wug#524> did not answer their phones
+the <wug#525> will decorate their houses
+the <wug#526> would be programming their apps
+the <wug#527> must clear their schedules
+the <wug#528> can tune their guitars
+the <wug#529> had ever ridden their horses
+the <wug#530> should trim their hedges
+the <wug#531> might check their mail
+the <wug#532> had polished their shoes
+the <wug#533> cannot tie their laces
+the <wug#534> must sign their forms
+the <wug#535> would be drawing their plans
+the <wug#536> did not lock their doors
+the <wug#537> will harvest their crops
+the <wug#538> would be editing their videos
+the <wug#539> must arrange their meetings
+the <wug#540> can adjust their glasses
+the <wug#541> had ever played their records
+the <wug#542> should clean their pools
+the <wug#543> might plant their seeds
+the <wug#544> had set their alarms
+the <wug#545> cannot remember their appointments
+the <wug#546> must water their plants
+the <wug#547> would be reviewing their notes
+the <wug#548> did not take their vitamins
+the <wug#549> will change their tires
+the <wug#550> would be mending their clothes
+the <wug#551> must test their alarms
+the <wug#552> can solve their puzzles
+the <wug#553> had ever lost their wallets
+the <wug#554> should sweep their floors
+the <wug#555> might read their books
+the <wug#556> had charged their phones
+the <wug#557> cannot reach their shelves
+the <wug#558> must check their balances
+the <wug#559> would be packing their bags
+the <wug#560> did not close their windows
+the <wug#561> will trim their lawns
+the <wug#562> would be updating their blogs
+the <wug#563> must renew their licenses
+the <wug#564> can sharpen their pencils
+the <wug#565> had ever baked their bread
+the <wug#566> should oil their gears
+the <wug#567> might dial their numbers
+the <wug#568> had dusted their shelves
+the <wug#569> cannot match their socks
+the <wug#570> must lace their shoes
+the <wug#571> would be framing their pictures
+the <wug#572> did not save their files
+the <wug#573> will catch their trains
+the <wug#574> would be stitching their patches
+the <wug#575> must file their taxes
+the <wug#576> can breed their pets
+the <wug#577> had ever sailed their boats
+the <wug#578> should prune their bushes
+the <wug#579> might tune their pianos
+the <wug#580> had wiped their tables
+the <wug#581> cannot find their glasses
+the <wug#582> must answer their calls
+the <wug#583> would be sorting their papers
+the <wug#584> did not erase their boards
+the <wug#585> will feed their fish
+the <wug#586> would be flying their kites
+the <wug#587> must grade their exams
+the <wug#588> can stack their books
+the <wug#589> had ever driven their cars
+the <wug#590> should fold their laundry
+the <wug#591> might brew their coffee
+the <wug#592> had hung their curtains
+the <wug#593> cannot find their hats
+the <wug#594> must sharpen their knives
+the <wug#595> would be loading their trucks
+the <wug#596> did not switch their lights
+the <wug#597> will rake their leaves
+the <wug#598> would be heating their meals
+the <wug#599> must lock their safes

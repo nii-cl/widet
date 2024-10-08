@@ -1,0 +1,600 @@
+the <wug#0> eats an apple
+the <wug#1> finds few treasures
+the <wug#2> has not broken several vases
+the <wug#3> is carrying a basket
+the <wug#4> throws many balls
+the <wug#5> loves a story
+the <wug#6> has chosen some chairs
+the <wug#7> writes a letter
+the <wug#8> is holding few ropes
+the <wug#9> kicks a can
+the <wug#10> has lost many keys
+the <wug#11> makes a cake
+the <wug#12> is not buying several houses
+the <wug#13> sees a bird
+the <wug#14> catches many flies
+the <wug#15> drives a car
+the <wug#16> is eating few grapes
+the <wug#17> opens a door
+the <wug#18> has found several shells
+the <wug#19> reads a book
+the <wug#20> is washing many dishes
+the <wug#21> takes a nap
+the <wug#22> has not sold several paintings
+the <wug#23> gives a gift
+the <wug#24> throws few stones
+the <wug#25> builds a house
+the <wug#26> is finding many eggs
+the <wug#27> sings a song
+the <wug#28> has caught several fish
+the <wug#29> paints a picture
+the <wug#30> is fixing many clocks
+the <wug#31> plays a game
+the <wug#32> has not written several poems
+the <wug#33> holds a pen
+the <wug#34> catches few butterflies
+the <wug#35> rides a bike
+the <wug#36> is throwing many rocks
+the <wug#37> climbs a tree
+the <wug#38> has baked several cakes
+the <wug#39> watches a movie
+the <wug#40> is planting many flowers
+the <wug#41> drinks a juice
+the <wug#42> has not ridden several horses
+the <wug#43> finds a coin
+the <wug#44> eats few candies
+the <wug#45> writes a poem
+the <wug#46> is catching many fireflies
+the <wug#47> bakes a pie
+the <wug#48> has drawn several pictures
+the <wug#49> plays a violin
+the <wug#50> is cooking many meals
+the <wug#51> swims in a pool
+the <wug#52> has not thrown several javelins
+the <wug#53> buys a toy
+the <wug#54> catches few mice
+the <wug#55> climbs a mountain
+the <wug#56> is reading many books
+the <wug#57> dances a dance
+the <wug#58> has planted several trees
+the <wug#59> draws a sketch
+the <wug#60> is fixing many toys
+the <wug#61> jumps over a log
+the <wug#62> has not sung several songs
+the <wug#63> carries a bag
+the <wug#64> eats few nuts
+the <wug#65> paints a mural
+the <wug#66> is throwing many darts
+the <wug#67> rides a horse
+the <wug#68> has cooked several meals
+the <wug#69> sings a lullaby
+the <wug#70> is building many sandcastles
+the <wug#71> runs a mile
+the <wug#72> has not painted several murals
+the <wug#73> throws a frisbee
+the <wug#74> eats few cookies
+the <wug#75> builds a fort
+the <wug#76> is catching many crabs
+the <wug#77> swims in a lake
+the <wug#78> has danced several dances
+the <wug#79> rides a scooter
+the <wug#80> is not playing many games
+the <wug#81> climbs a ladder
+the <wug#82> has not ridden several bicycles
+the <wug#83> finds a wallet
+the <wug#84> eats few berries
+the <wug#85> paints a canvas
+the <wug#86> is throwing many balls
+the <wug#87> rides a skateboard
+the <wug#88> has baked several pies
+the <wug#89> plays a drum
+the <wug#90> is not cooking many pancakes
+the <wug#91> jumps on a trampoline
+the <wug#92> has not thrown several balls
+the <wug#93> buys a sandwich
+the <wug#94> eats few grapes
+the <wug#95> builds a bridge
+the <wug#96> is catching many frogs
+the <wug#97> swims in a river
+the <wug#98> has drawn several cartoons
+the <wug#99> doesn't play a flute
+the <wug#100> eat an apple
+the <wug#101> have not found a treasure
+the <wug#102> were writing few letters
+the <wug#103> are not drinking some water
+the <wug#104> have broken a window
+the <wug#105> were washing the car
+the <wug#106> buy any bread
+the <wug#107> paint a picture
+the <wug#108> are throwing a ball
+the <wug#109> have lost their keys
+the <wug#110> were reading a book
+the <wug#111> sell the house
+the <wug#112> clean a room
+the <wug#113> are not taking any risk
+the <wug#114> were not fixing the bike
+the <wug#115> play a game
+the <wug#116> have cooked some pasta
+the <wug#117> were planting many trees
+the <wug#118> are lifting a weight
+the <wug#119> chase the dog
+the <wug#120> hold any grudges
+the <wug#121> were jumping a fence
+the <wug#122> are dropping a hint
+the <wug#123> have not saved enough money
+the <wug#124> were answering the question
+the <wug#125> climb a mountain
+the <wug#126> forget the address
+the <wug#127> are not wearing any shoes
+the <wug#128> were seeking a solution
+the <wug#129> meet a friend
+the <wug#130> have changed their minds
+the <wug#131> were following a leader
+the <wug#132> are using a computer
+the <wug#133> do not hear a noise
+the <wug#134> make any plans
+the <wug#135> were learning a skill
+the <wug#136> are carrying a bag
+the <wug#137> have visited a city
+the <wug#138> were discussing an issue
+the <wug#139> open a door
+the <wug#140> solve a puzzle
+the <wug#141> are expecting any guests
+the <wug#142> were crossing a bridge
+the <wug#143> do not choose a path
+the <wug#144> have not repaired a bike
+the <wug#145> were watching a movie
+the <wug#146> are handling a crisis
+the <wug#147> avoid a conflict
+the <wug#148> admit any faults
+the <wug#149> were exploring a cave
+the <wug#150> are building a house
+the <wug#151> have learned a lesson
+the <wug#152> were creating an artwork
+the <wug#153> don't arrange a meeting
+the <wug#154> remember the date
+the <wug#155> are leaving any traces
+the <wug#156> were starting a project
+the <wug#157> develop a plan
+the <wug#158> have prevented a disaster
+the <wug#159> were achieving their goals
+the <wug#160> are maintaining a garden
+the <wug#161> question the facts
+the <wug#162> do not doubt any theories
+the <wug#163> were not supporting a team
+the <wug#164> are protecting a secret
+the <wug#165> have celebrated a victory
+the <wug#166> were understanding the problem
+the <wug#167> improve their skills
+the <wug#168> respect the rules
+the <wug#169> are ignoring any advice
+the <wug#170> were challenging an opponent
+the <wug#171> follow a map
+the <wug#172> have embraced a change
+the <wug#173> were not capturing a moment
+the <wug#174> are requesting assistance
+the <wug#175> analyze the data
+the <wug#176> accept any errors
+the <wug#177> were evaluating a situation
+the <wug#178> are considering an offer
+the <wug#179> have appreciated the help
+the <wug#180> were identifying a species
+the <wug#181> don't apply for a job
+the <wug#182> acknowledge a mistake
+the <wug#183> are not revealing any secrets
+the <wug#184> were investing in stocks
+the <wug#185> command a crew
+the <wug#186> have generated ideas
+the <wug#187> were operating machinery
+the <wug#188> are managing a team
+the <wug#189> explore a territory
+the <wug#190> tolerate any nonsense
+the <wug#191> were conducting experiments
+the <wug#192> are directing a film
+the <wug#193> have not synthesized chemicals
+the <wug#194> were delivering messages
+the <wug#195> produce a play
+the <wug#196> design a blueprint
+the <wug#197> are admitting any mistakes
+the <wug#198> were not calculating the odds
+the <wug#199> organize an event
+the <wug#200> eats an apple
+the <wug#201> finds few treasures
+the <wug#202> has not broken several vases
+the <wug#203> is carrying a basket
+the <wug#204> throws many balls
+the <wug#205> loves a story
+the <wug#206> has chosen some chairs
+the <wug#207> writes a letter
+the <wug#208> is holding few ropes
+the <wug#209> kicks a can
+the <wug#210> has lost many keys
+the <wug#211> makes a cake
+the <wug#212> is not buying several houses
+the <wug#213> sees a bird
+the <wug#214> catches many flies
+the <wug#215> drives a car
+the <wug#216> is eating few grapes
+the <wug#217> opens a door
+the <wug#218> has found several shells
+the <wug#219> reads a book
+the <wug#220> is washing many dishes
+the <wug#221> takes a nap
+the <wug#222> has not sold several paintings
+the <wug#223> gives a gift
+the <wug#224> throws few stones
+the <wug#225> builds a house
+the <wug#226> is finding many eggs
+the <wug#227> sings a song
+the <wug#228> has caught several fish
+the <wug#229> paints a picture
+the <wug#230> is fixing many clocks
+the <wug#231> plays a game
+the <wug#232> has not written several poems
+the <wug#233> holds a pen
+the <wug#234> catches few butterflies
+the <wug#235> rides a bike
+the <wug#236> is throwing many rocks
+the <wug#237> climbs a tree
+the <wug#238> has baked several cakes
+the <wug#239> watches a movie
+the <wug#240> is planting many flowers
+the <wug#241> drinks a juice
+the <wug#242> has not ridden several horses
+the <wug#243> finds a coin
+the <wug#244> eats few candies
+the <wug#245> writes a poem
+the <wug#246> is catching many fireflies
+the <wug#247> bakes a pie
+the <wug#248> has drawn several pictures
+the <wug#249> plays a violin
+the <wug#250> is cooking many meals
+the <wug#251> swims in a pool
+the <wug#252> has not thrown several javelins
+the <wug#253> buys a toy
+the <wug#254> catches few mice
+the <wug#255> climbs a mountain
+the <wug#256> is reading many books
+the <wug#257> dances a dance
+the <wug#258> has planted several trees
+the <wug#259> draws a sketch
+the <wug#260> is fixing many toys
+the <wug#261> jumps over a log
+the <wug#262> has not sung several songs
+the <wug#263> carries a bag
+the <wug#264> eats few nuts
+the <wug#265> paints a mural
+the <wug#266> is throwing many darts
+the <wug#267> rides a horse
+the <wug#268> has cooked several meals
+the <wug#269> sings a lullaby
+the <wug#270> is building many sandcastles
+the <wug#271> runs a mile
+the <wug#272> has not painted several murals
+the <wug#273> throws a frisbee
+the <wug#274> eats few cookies
+the <wug#275> builds a fort
+the <wug#276> is catching many crabs
+the <wug#277> swims in a lake
+the <wug#278> has danced several dances
+the <wug#279> rides a scooter
+the <wug#280> is not playing many games
+the <wug#281> climbs a ladder
+the <wug#282> has not ridden several bicycles
+the <wug#283> finds a wallet
+the <wug#284> eats few berries
+the <wug#285> paints a canvas
+the <wug#286> is throwing many balls
+the <wug#287> rides a skateboard
+the <wug#288> has baked several pies
+the <wug#289> plays a drum
+the <wug#290> is not cooking many pancakes
+the <wug#291> jumps on a trampoline
+the <wug#292> has not thrown several balls
+the <wug#293> buys a sandwich
+the <wug#294> eats few grapes
+the <wug#295> builds a bridge
+the <wug#296> is catching many frogs
+the <wug#297> swims in a river
+the <wug#298> has drawn several cartoons
+the <wug#299> doesn't play a flute
+the <wug#300> eat an apple
+the <wug#301> have not found a treasure
+the <wug#302> were writing few letters
+the <wug#303> are not drinking some water
+the <wug#304> have broken a window
+the <wug#305> were washing the car
+the <wug#306> buy any bread
+the <wug#307> paint a picture
+the <wug#308> are throwing a ball
+the <wug#309> have lost their keys
+the <wug#310> were reading a book
+the <wug#311> sell the house
+the <wug#312> clean a room
+the <wug#313> are not taking any risk
+the <wug#314> were not fixing the bike
+the <wug#315> play a game
+the <wug#316> have cooked some pasta
+the <wug#317> were planting many trees
+the <wug#318> are lifting a weight
+the <wug#319> chase the dog
+the <wug#320> hold any grudges
+the <wug#321> were jumping a fence
+the <wug#322> are dropping a hint
+the <wug#323> have not saved enough money
+the <wug#324> were answering the question
+the <wug#325> climb a mountain
+the <wug#326> forget the address
+the <wug#327> are not wearing any shoes
+the <wug#328> were seeking a solution
+the <wug#329> meet a friend
+the <wug#330> have changed their minds
+the <wug#331> were following a leader
+the <wug#332> are using a computer
+the <wug#333> do not hear a noise
+the <wug#334> make any plans
+the <wug#335> were learning a skill
+the <wug#336> are carrying a bag
+the <wug#337> have visited a city
+the <wug#338> were discussing an issue
+the <wug#339> open a door
+the <wug#340> solve a puzzle
+the <wug#341> are expecting any guests
+the <wug#342> were crossing a bridge
+the <wug#343> do not choose a path
+the <wug#344> have not repaired a bike
+the <wug#345> were watching a movie
+the <wug#346> are handling a crisis
+the <wug#347> avoid a conflict
+the <wug#348> admit any faults
+the <wug#349> were exploring a cave
+the <wug#350> are building a house
+the <wug#351> have learned a lesson
+the <wug#352> were creating an artwork
+the <wug#353> don't arrange a meeting
+the <wug#354> remember the date
+the <wug#355> are leaving any traces
+the <wug#356> were starting a project
+the <wug#357> develop a plan
+the <wug#358> have prevented a disaster
+the <wug#359> were achieving their goals
+the <wug#360> are maintaining a garden
+the <wug#361> question the facts
+the <wug#362> do not doubt any theories
+the <wug#363> were not supporting a team
+the <wug#364> are protecting a secret
+the <wug#365> have celebrated a victory
+the <wug#366> were understanding the problem
+the <wug#367> improve their skills
+the <wug#368> respect the rules
+the <wug#369> are ignoring any advice
+the <wug#370> were challenging an opponent
+the <wug#371> follow a map
+the <wug#372> have embraced a change
+the <wug#373> were not capturing a moment
+the <wug#374> are requesting assistance
+the <wug#375> analyze the data
+the <wug#376> accept any errors
+the <wug#377> were evaluating a situation
+the <wug#378> are considering an offer
+the <wug#379> have appreciated the help
+the <wug#380> were identifying a species
+the <wug#381> don't apply for a job
+the <wug#382> acknowledge a mistake
+the <wug#383> are not revealing any secrets
+the <wug#384> were investing in stocks
+the <wug#385> command a crew
+the <wug#386> have generated ideas
+the <wug#387> were operating machinery
+the <wug#388> are managing a team
+the <wug#389> explore a territory
+the <wug#390> tolerate any nonsense
+the <wug#391> were conducting experiments
+the <wug#392> are directing a film
+the <wug#393> have not synthesized chemicals
+the <wug#394> were delivering messages
+the <wug#395> produce a play
+the <wug#396> design a blueprint
+the <wug#397> are admitting any mistakes
+the <wug#398> were not calculating the odds
+the <wug#399> organize an event
+the <wug#400> eats an apple
+the <wug#401> finds few treasures
+the <wug#402> has not broken several vases
+the <wug#403> is carrying a basket
+the <wug#404> throws many balls
+the <wug#405> loves a story
+the <wug#406> has chosen some chairs
+the <wug#407> writes a letter
+the <wug#408> is holding few ropes
+the <wug#409> kicks a can
+the <wug#410> has lost many keys
+the <wug#411> makes a cake
+the <wug#412> is not buying several houses
+the <wug#413> sees a bird
+the <wug#414> catches many flies
+the <wug#415> drives a car
+the <wug#416> is eating few grapes
+the <wug#417> opens a door
+the <wug#418> has found several shells
+the <wug#419> reads a book
+the <wug#420> is washing many dishes
+the <wug#421> takes a nap
+the <wug#422> has not sold several paintings
+the <wug#423> gives a gift
+the <wug#424> throws few stones
+the <wug#425> builds a house
+the <wug#426> is finding many eggs
+the <wug#427> sings a song
+the <wug#428> has caught several fish
+the <wug#429> paints a picture
+the <wug#430> is fixing many clocks
+the <wug#431> plays a game
+the <wug#432> has not written several poems
+the <wug#433> holds a pen
+the <wug#434> catches few butterflies
+the <wug#435> rides a bike
+the <wug#436> is throwing many rocks
+the <wug#437> climbs a tree
+the <wug#438> has baked several cakes
+the <wug#439> watches a movie
+the <wug#440> is planting many flowers
+the <wug#441> drinks a juice
+the <wug#442> has not ridden several horses
+the <wug#443> finds a coin
+the <wug#444> eats few candies
+the <wug#445> writes a poem
+the <wug#446> is catching many fireflies
+the <wug#447> bakes a pie
+the <wug#448> has drawn several pictures
+the <wug#449> plays a violin
+the <wug#450> is cooking many meals
+the <wug#451> swims in a pool
+the <wug#452> has not thrown several javelins
+the <wug#453> buys a toy
+the <wug#454> catches few mice
+the <wug#455> climbs a mountain
+the <wug#456> is reading many books
+the <wug#457> dances a dance
+the <wug#458> has planted several trees
+the <wug#459> draws a sketch
+the <wug#460> is fixing many toys
+the <wug#461> jumps over a log
+the <wug#462> has not sung several songs
+the <wug#463> carries a bag
+the <wug#464> eats few nuts
+the <wug#465> paints a mural
+the <wug#466> is throwing many darts
+the <wug#467> rides a horse
+the <wug#468> has cooked several meals
+the <wug#469> sings a lullaby
+the <wug#470> is building many sandcastles
+the <wug#471> runs a mile
+the <wug#472> has not painted several murals
+the <wug#473> throws a frisbee
+the <wug#474> eats few cookies
+the <wug#475> builds a fort
+the <wug#476> is catching many crabs
+the <wug#477> swims in a lake
+the <wug#478> has danced several dances
+the <wug#479> rides a scooter
+the <wug#480> is not playing many games
+the <wug#481> climbs a ladder
+the <wug#482> has not ridden several bicycles
+the <wug#483> finds a wallet
+the <wug#484> eats few berries
+the <wug#485> paints a canvas
+the <wug#486> is throwing many balls
+the <wug#487> rides a skateboard
+the <wug#488> has baked several pies
+the <wug#489> plays a drum
+the <wug#490> is not cooking many pancakes
+the <wug#491> jumps on a trampoline
+the <wug#492> has not thrown several balls
+the <wug#493> buys a sandwich
+the <wug#494> eats few grapes
+the <wug#495> builds a bridge
+the <wug#496> is catching many frogs
+the <wug#497> swims in a river
+the <wug#498> has drawn several cartoons
+the <wug#499> doesn't play a flute
+the <wug#500> eat an apple
+the <wug#501> have not found a treasure
+the <wug#502> were writing few letters
+the <wug#503> are not drinking some water
+the <wug#504> have broken a window
+the <wug#505> were washing the car
+the <wug#506> buy any bread
+the <wug#507> paint a picture
+the <wug#508> are throwing a ball
+the <wug#509> have lost their keys
+the <wug#510> were reading a book
+the <wug#511> sell the house
+the <wug#512> clean a room
+the <wug#513> are not taking any risk
+the <wug#514> were not fixing the bike
+the <wug#515> play a game
+the <wug#516> have cooked some pasta
+the <wug#517> were planting many trees
+the <wug#518> are lifting a weight
+the <wug#519> chase the dog
+the <wug#520> hold any grudges
+the <wug#521> were jumping a fence
+the <wug#522> are dropping a hint
+the <wug#523> have not saved enough money
+the <wug#524> were answering the question
+the <wug#525> climb a mountain
+the <wug#526> forget the address
+the <wug#527> are not wearing any shoes
+the <wug#528> were seeking a solution
+the <wug#529> meet a friend
+the <wug#530> have changed their minds
+the <wug#531> were following a leader
+the <wug#532> are using a computer
+the <wug#533> do not hear a noise
+the <wug#534> make any plans
+the <wug#535> were learning a skill
+the <wug#536> are carrying a bag
+the <wug#537> have visited a city
+the <wug#538> were discussing an issue
+the <wug#539> open a door
+the <wug#540> solve a puzzle
+the <wug#541> are expecting any guests
+the <wug#542> were crossing a bridge
+the <wug#543> do not choose a path
+the <wug#544> have not repaired a bike
+the <wug#545> were watching a movie
+the <wug#546> are handling a crisis
+the <wug#547> avoid a conflict
+the <wug#548> admit any faults
+the <wug#549> were exploring a cave
+the <wug#550> are building a house
+the <wug#551> have learned a lesson
+the <wug#552> were creating an artwork
+the <wug#553> don't arrange a meeting
+the <wug#554> remember the date
+the <wug#555> are leaving any traces
+the <wug#556> were starting a project
+the <wug#557> develop a plan
+the <wug#558> have prevented a disaster
+the <wug#559> were achieving their goals
+the <wug#560> are maintaining a garden
+the <wug#561> question the facts
+the <wug#562> do not doubt any theories
+the <wug#563> were not supporting a team
+the <wug#564> are protecting a secret
+the <wug#565> have celebrated a victory
+the <wug#566> were understanding the problem
+the <wug#567> improve their skills
+the <wug#568> respect the rules
+the <wug#569> are ignoring any advice
+the <wug#570> were challenging an opponent
+the <wug#571> follow a map
+the <wug#572> have embraced a change
+the <wug#573> were not capturing a moment
+the <wug#574> are requesting assistance
+the <wug#575> analyze the data
+the <wug#576> accept any errors
+the <wug#577> were evaluating a situation
+the <wug#578> are considering an offer
+the <wug#579> have appreciated the help
+the <wug#580> were identifying a species
+the <wug#581> don't apply for a job
+the <wug#582> acknowledge a mistake
+the <wug#583> are not revealing any secrets
+the <wug#584> were investing in stocks
+the <wug#585> command a crew
+the <wug#586> have generated ideas
+the <wug#587> were operating machinery
+the <wug#588> are managing a team
+the <wug#589> explore a territory
+the <wug#590> tolerate any nonsense
+the <wug#591> were conducting experiments
+the <wug#592> are directing a film
+the <wug#593> have not synthesized chemicals
+the <wug#594> were delivering messages
+the <wug#595> produce a play
+the <wug#596> design a blueprint
+the <wug#597> are admitting any mistakes
+the <wug#598> were not calculating the odds
+the <wug#599> organize an event

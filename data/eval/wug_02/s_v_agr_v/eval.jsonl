@@ -1,0 +1,600 @@
+{"sentence_good": "the preceinship eats an apple", "sentence_bad": "the preceinship eat an apple", "pairID": 0}
+{"sentence_good": "the louter finds few treasures", "sentence_bad": "the louter find few treasures", "pairID": 1}
+{"sentence_good": "the orglurstation has not broken several vases", "sentence_bad": "the orglurstation have not broken several vases", "pairID": 2}
+{"sentence_good": "the niddle is carrying a basket", "sentence_bad": "the niddle are carrying a basket", "pairID": 3}
+{"sentence_good": "the sashtar throws many balls", "sentence_bad": "the sashtar throw many balls", "pairID": 4}
+{"sentence_good": "the turperus loves a story", "sentence_bad": "the turperus love a story", "pairID": 5}
+{"sentence_good": "the ucuats has chosen some chairs", "sentence_bad": "the ucuats have chosen some chairs", "pairID": 6}
+{"sentence_good": "the spod writes a letter", "sentence_bad": "the spod write a letter", "pairID": 7}
+{"sentence_good": "the ittanenes is holding few ropes", "sentence_bad": "the ittanenes are holding few ropes", "pairID": 8}
+{"sentence_good": "the oxterition kicks a can", "sentence_bad": "the oxterition kick a can", "pairID": 9}
+{"sentence_good": "the suspler has lost many keys", "sentence_bad": "the suspler have lost many keys", "pairID": 10}
+{"sentence_good": "the ennof makes a cake", "sentence_bad": "the ennof make a cake", "pairID": 11}
+{"sentence_good": "the sandscost is not buying several houses", "sentence_bad": "the sandscost are not buying several houses", "pairID": 12}
+{"sentence_good": "the pupimatize sees a bird", "sentence_bad": "the pupimatize see a bird", "pairID": 13}
+{"sentence_good": "the tathable catches many flies", "sentence_bad": "the tathable catch many flies", "pairID": 14}
+{"sentence_good": "the innemieerly drives a car", "sentence_bad": "the innemieerly drive a car", "pairID": 15}
+{"sentence_good": "the nimmer is eating few grapes", "sentence_bad": "the nimmer are eating few grapes", "pairID": 16}
+{"sentence_good": "the swetsiness opens a door", "sentence_bad": "the swetsiness open a door", "pairID": 17}
+{"sentence_good": "the lautiononitation has found several shells", "sentence_bad": "the lautiononitation have found several shells", "pairID": 18}
+{"sentence_good": "the scritschaway reads a book", "sentence_bad": "the scritschaway read a book", "pairID": 19}
+{"sentence_good": "the harement is washing many dishes", "sentence_bad": "the harement are washing many dishes", "pairID": 20}
+{"sentence_good": "the tulldessness takes a nap", "sentence_bad": "the tulldessness take a nap", "pairID": 21}
+{"sentence_good": "the nalearitics has not sold several paintings", "sentence_bad": "the nalearitics have not sold several paintings", "pairID": 22}
+{"sentence_good": "the travold gives a gift", "sentence_bad": "the travold give a gift", "pairID": 23}
+{"sentence_good": "the batilelm throws few stones", "sentence_bad": "the batilelm throw few stones", "pairID": 24}
+{"sentence_good": "the copix builds a house", "sentence_bad": "the copix build a house", "pairID": 25}
+{"sentence_good": "the mesebetumation is finding many eggs", "sentence_bad": "the mesebetumation are finding many eggs", "pairID": 26}
+{"sentence_good": "the disispishant sings a song", "sentence_bad": "the disispishant sing a song", "pairID": 27}
+{"sentence_good": "the stidbon has caught several fish", "sentence_bad": "the stidbon have caught several fish", "pairID": 28}
+{"sentence_good": "the pusscaker paints a picture", "sentence_bad": "the pusscaker paint a picture", "pairID": 29}
+{"sentence_good": "the savomemotrive is fixing many clocks", "sentence_bad": "the savomemotrive are fixing many clocks", "pairID": 30}
+{"sentence_good": "the eefs plays a game", "sentence_bad": "the eefs play a game", "pairID": 31}
+{"sentence_good": "the fruness has not written several poems", "sentence_bad": "the fruness have not written several poems", "pairID": 32}
+{"sentence_good": "the poraplable holds a pen", "sentence_bad": "the poraplable hold a pen", "pairID": 33}
+{"sentence_good": "the scottle catches few butterflies", "sentence_bad": "the scottle catch few butterflies", "pairID": 34}
+{"sentence_good": "the anepist rides a bike", "sentence_bad": "the anepist ride a bike", "pairID": 35}
+{"sentence_good": "the senatbence is throwing many rocks", "sentence_bad": "the senatbence are throwing many rocks", "pairID": 36}
+{"sentence_good": "the stargost climbs a tree", "sentence_bad": "the stargost climb a tree", "pairID": 37}
+{"sentence_good": "the vuzu has baked several cakes", "sentence_bad": "the vuzu have baked several cakes", "pairID": 38}
+{"sentence_good": "the exarbensialips watches a movie", "sentence_bad": "the exarbensialips watch a movie", "pairID": 39}
+{"sentence_good": "the belloon is planting many flowers", "sentence_bad": "the belloon are planting many flowers", "pairID": 40}
+{"sentence_good": "the swicket drinks a juice", "sentence_bad": "the swicket drink a juice", "pairID": 41}
+{"sentence_good": "the licre has not ridden several horses", "sentence_bad": "the licre have not ridden several horses", "pairID": 42}
+{"sentence_good": "the deriny finds a coin", "sentence_bad": "the deriny find a coin", "pairID": 43}
+{"sentence_good": "the aiser eats few candies", "sentence_bad": "the aiser eat few candies", "pairID": 44}
+{"sentence_good": "the climedrory writes a poem", "sentence_bad": "the climedrory write a poem", "pairID": 45}
+{"sentence_good": "the selileaner is catching many fireflies", "sentence_bad": "the selileaner are catching many fireflies", "pairID": 46}
+{"sentence_good": "the preninicatac bakes a pie", "sentence_bad": "the preninicatac bake a pie", "pairID": 47}
+{"sentence_good": "the sotermalist has drawn several pictures", "sentence_bad": "the sotermalist have drawn several pictures", "pairID": 48}
+{"sentence_good": "the pembamilli plays a violin", "sentence_bad": "the pembamilli play a violin", "pairID": 49}
+{"sentence_good": "the pythnimication is cooking many meals", "sentence_bad": "the pythnimication are cooking many meals", "pairID": 50}
+{"sentence_good": "the mutrorcent swims in a pool", "sentence_bad": "the mutrorcent swim in a pool", "pairID": 51}
+{"sentence_good": "the chinolels has not thrown several javelins", "sentence_bad": "the chinolels have not thrown several javelins", "pairID": 52}
+{"sentence_good": "the furvear buys a toy", "sentence_bad": "the furvear buy a toy", "pairID": 53}
+{"sentence_good": "the fasstread catches few mice", "sentence_bad": "the fasstread catch few mice", "pairID": 54}
+{"sentence_good": "the emmescer climbs a mountain", "sentence_bad": "the emmescer climb a mountain", "pairID": 55}
+{"sentence_good": "the engorth is reading many books", "sentence_bad": "the engorth are reading many books", "pairID": 56}
+{"sentence_good": "the flimpet dances a dance", "sentence_bad": "the flimpet dance a dance", "pairID": 57}
+{"sentence_good": "the farinement has planted several trees", "sentence_bad": "the farinement have planted several trees", "pairID": 58}
+{"sentence_good": "the cadviobility draws a sketch", "sentence_bad": "the cadviobility draw a sketch", "pairID": 59}
+{"sentence_good": "the sembanamity is fixing many toys", "sentence_bad": "the sembanamity are fixing many toys", "pairID": 60}
+{"sentence_good": "the mainlist jumps over a log", "sentence_bad": "the mainlist jump over a log", "pairID": 61}
+{"sentence_good": "the cestoun has not sung several songs", "sentence_bad": "the cestoun have not sung several songs", "pairID": 62}
+{"sentence_good": "the novenotion carries a bag", "sentence_bad": "the novenotion carry a bag", "pairID": 63}
+{"sentence_good": "the blanney eats few nuts", "sentence_bad": "the blanney eat few nuts", "pairID": 64}
+{"sentence_good": "the denidentness paints a mural", "sentence_bad": "the denidentness paint a mural", "pairID": 65}
+{"sentence_good": "the quibs is throwing many darts", "sentence_bad": "the quibs are throwing many darts", "pairID": 66}
+{"sentence_good": "the elfecroom rides a horse", "sentence_bad": "the elfecroom ride a horse", "pairID": 67}
+{"sentence_good": "the deneflusion has cooked several meals", "sentence_bad": "the deneflusion have cooked several meals", "pairID": 68}
+{"sentence_good": "the stateos sings a lullaby", "sentence_bad": "the stateos sing a lullaby", "pairID": 69}
+{"sentence_good": "the privedenitene is building many sandcastles", "sentence_bad": "the privedenitene are building many sandcastles", "pairID": 70}
+{"sentence_good": "the stanstean runs a mile", "sentence_bad": "the stanstean run a mile", "pairID": 71}
+{"sentence_good": "the baditeth has not painted several murals", "sentence_bad": "the baditeth have not painted several murals", "pairID": 72}
+{"sentence_good": "the sacker throws a frisbee", "sentence_bad": "the sacker throw a frisbee", "pairID": 73}
+{"sentence_good": "the giloousness eats few cookies", "sentence_bad": "the giloousness eat few cookies", "pairID": 74}
+{"sentence_good": "the snatebualling builds a fort", "sentence_bad": "the snatebualling build a fort", "pairID": 75}
+{"sentence_good": "the neccuomity is catching many crabs", "sentence_bad": "the neccuomity are catching many crabs", "pairID": 76}
+{"sentence_good": "the nypts swims in a lake", "sentence_bad": "the nypts swim in a lake", "pairID": 77}
+{"sentence_good": "the enchantrothment has danced several dances", "sentence_bad": "the enchantrothment have danced several dances", "pairID": 78}
+{"sentence_good": "the itanantits rides a scooter", "sentence_bad": "the itanantits ride a scooter", "pairID": 79}
+{"sentence_good": "the condonants is not playing many games", "sentence_bad": "the condonants are not playing many games", "pairID": 80}
+{"sentence_good": "the abbratriation climbs a ladder", "sentence_bad": "the abbratriation climb a ladder", "pairID": 81}
+{"sentence_good": "the counterprirl has not ridden several bicycles", "sentence_bad": "the counterprirl have not ridden several bicycles", "pairID": 82}
+{"sentence_good": "the arl finds a wallet", "sentence_bad": "the arl find a wallet", "pairID": 83}
+{"sentence_good": "the creafer eats few berries", "sentence_bad": "the creafer eat few berries", "pairID": 84}
+{"sentence_good": "the meraciany paints a canvas", "sentence_bad": "the meraciany paint a canvas", "pairID": 85}
+{"sentence_good": "the ollstays is throwing many balls", "sentence_bad": "the ollstays are throwing many balls", "pairID": 86}
+{"sentence_good": "the hakelone rides a skateboard", "sentence_bad": "the hakelone ride a skateboard", "pairID": 87}
+{"sentence_good": "the dojuerreotids has baked several pies", "sentence_bad": "the dojuerreotids have baked several pies", "pairID": 88}
+{"sentence_good": "the arterlatac plays a drum", "sentence_bad": "the arterlatac play a drum", "pairID": 89}
+{"sentence_good": "the storum is not cooking many pancakes", "sentence_bad": "the storum are not cooking many pancakes", "pairID": 90}
+{"sentence_good": "the dungdapser jumps on a trampoline", "sentence_bad": "the dungdapser jump on a trampoline", "pairID": 91}
+{"sentence_good": "the quoze has not thrown several balls", "sentence_bad": "the quoze have not thrown several balls", "pairID": 92}
+{"sentence_good": "the chathery buys a sandwich", "sentence_bad": "the chathery buy a sandwich", "pairID": 93}
+{"sentence_good": "the trainlucists eats few grapes", "sentence_bad": "the trainlucists eat few grapes", "pairID": 94}
+{"sentence_good": "the degubotomy builds a bridge", "sentence_bad": "the degubotomy build a bridge", "pairID": 95}
+{"sentence_good": "the bumfable is catching many frogs", "sentence_bad": "the bumfable are catching many frogs", "pairID": 96}
+{"sentence_good": "the doseless swims in a river", "sentence_bad": "the doseless swim in a river", "pairID": 97}
+{"sentence_good": "the daffin has drawn several cartoons", "sentence_bad": "the daffin have drawn several cartoons", "pairID": 98}
+{"sentence_good": "the densuse doesn't play a flute", "sentence_bad": "the densuse don't play a flute", "pairID": 99}
+{"sentence_good": "the gerners eat an apple", "sentence_bad": "the gerners eats an apple", "pairID": 100}
+{"sentence_good": "the naustionalives have not found a treasure", "sentence_bad": "the naustionalives has not found a treasure", "pairID": 101}
+{"sentence_good": "the gourers were writing few letters", "sentence_bad": "the gourers was writing few letters", "pairID": 102}
+{"sentence_good": "the protiprishnesss are not drinking some water", "sentence_bad": "the protiprishnesss is not drinking some water", "pairID": 103}
+{"sentence_good": "the prejuvations have broken a window", "sentence_bad": "the prejuvations has broken a window", "pairID": 104}
+{"sentence_good": "the stopdacks were washing the car", "sentence_bad": "the stopdacks was washing the car", "pairID": 105}
+{"sentence_good": "the coistcoits buy any bread", "sentence_bad": "the coistcoits buys any bread", "pairID": 106}
+{"sentence_good": "the pammers paint a picture", "sentence_bad": "the pammers paints a picture", "pairID": 107}
+{"sentence_good": "the loilsows are throwing a ball", "sentence_bad": "the loilsows is throwing a ball", "pairID": 108}
+{"sentence_good": "the hearlacks have lost their keys", "sentence_bad": "the hearlacks has lost their keys", "pairID": 109}
+{"sentence_good": "the incartedlences were reading a book", "sentence_bad": "the incartedlences was reading a book", "pairID": 110}
+{"sentence_good": "the vemeds sell the house", "sentence_bad": "the vemeds sells the house", "pairID": 111}
+{"sentence_good": "the rethouts clean a room", "sentence_bad": "the rethouts cleans a room", "pairID": 112}
+{"sentence_good": "the trincrullas are not taking any risk", "sentence_bad": "the trincrullas is not taking any risk", "pairID": 113}
+{"sentence_good": "the reflitements were not fixing the bike", "sentence_bad": "the reflitements was not fixing the bike", "pairID": 114}
+{"sentence_good": "the relorfigitys play a game", "sentence_bad": "the relorfigitys plays a game", "pairID": 115}
+{"sentence_good": "the cicepits have cooked some pasta", "sentence_bad": "the cicepits has cooked some pasta", "pairID": 116}
+{"sentence_good": "the puspevintions were planting many trees", "sentence_bad": "the puspevintions was planting many trees", "pairID": 117}
+{"sentence_good": "the prolemans are lifting a weight", "sentence_bad": "the prolemans is lifting a weight", "pairID": 118}
+{"sentence_good": "the gebsinesss chase the dog", "sentence_bad": "the gebsinesss chases the dog", "pairID": 119}
+{"sentence_good": "the purfusisms hold any grudges", "sentence_bad": "the purfusisms holds any grudges", "pairID": 120}
+{"sentence_good": "the stytrohitutics were jumping a fence", "sentence_bad": "the stytrohitutics was jumping a fence", "pairID": 121}
+{"sentence_good": "the dockjates are dropping a hint", "sentence_bad": "the dockjates is dropping a hint", "pairID": 122}
+{"sentence_good": "the chopalomys have not saved enough money", "sentence_bad": "the chopalomys has not saved enough money", "pairID": 123}
+{"sentence_good": "the bosins were answering the question", "sentence_bad": "the bosins was answering the question", "pairID": 124}
+{"sentence_good": "the twetts climb a mountain", "sentence_bad": "the twetts climbs a mountain", "pairID": 125}
+{"sentence_good": "the dathers forget the address", "sentence_bad": "the dathers forgets the address", "pairID": 126}
+{"sentence_good": "the jazegols are not wearing any shoes", "sentence_bad": "the jazegols is not wearing any shoes", "pairID": 127}
+{"sentence_good": "the gemblers were seeking a solution", "sentence_bad": "the gemblers was seeking a solution", "pairID": 128}
+{"sentence_good": "the tretigners meet a friend", "sentence_bad": "the tretigners meets a friend", "pairID": 129}
+{"sentence_good": "the foterys have changed their minds", "sentence_bad": "the foterys has changed their minds", "pairID": 130}
+{"sentence_good": "the indestertabilitys were following a leader", "sentence_bad": "the indestertabilitys was following a leader", "pairID": 131}
+{"sentence_good": "the cansys are using a computer", "sentence_bad": "the cansys is using a computer", "pairID": 132}
+{"sentence_good": "the boulishnerss do not hear a noise", "sentence_bad": "the boulishnerss does not hears a noise", "pairID": 133}
+{"sentence_good": "the bassers make any plans", "sentence_bad": "the bassers makes any plans", "pairID": 134}
+{"sentence_good": "the thoverlooks were learning a skill", "sentence_bad": "the thoverlooks was learning a skill", "pairID": 135}
+{"sentence_good": "the tserhins are carrying a bag", "sentence_bad": "the tserhins is carrying a bag", "pairID": 136}
+{"sentence_good": "the cagniuns have visited a city", "sentence_bad": "the cagniuns has visited a city", "pairID": 137}
+{"sentence_good": "the olblers were discussing an issue", "sentence_bad": "the olblers was discussing an issue", "pairID": 138}
+{"sentence_good": "the flitherys open a door", "sentence_bad": "the flitherys opens a door", "pairID": 139}
+{"sentence_good": "the potpers solve a puzzle", "sentence_bad": "the potpers solves a puzzle", "pairID": 140}
+{"sentence_good": "the caners are expecting any guests", "sentence_bad": "the caners is expecting any guests", "pairID": 141}
+{"sentence_good": "the doftatizes were crossing a bridge", "sentence_bad": "the doftatizes was crossing a bridge", "pairID": 142}
+{"sentence_good": "the grocklakings do not choose a path", "sentence_bad": "the grocklakings does not choose a path", "pairID": 143}
+{"sentence_good": "the agrattances have not repaired a bike", "sentence_bad": "the agrattances has not repaired a bike", "pairID": 144}
+{"sentence_good": "the bootholizers were watching a movie", "sentence_bad": "the bootholizers was watching a movie", "pairID": 145}
+{"sentence_good": "the tosters are handling a crisis", "sentence_bad": "the tosters is handling a crisis", "pairID": 146}
+{"sentence_good": "the hastdails avoid a conflict", "sentence_bad": "the hastdails avoids a conflict", "pairID": 147}
+{"sentence_good": "the peeltiles admit any faults", "sentence_bad": "the peeltiles admits any faults", "pairID": 148}
+{"sentence_good": "the peprettimications were exploring a cave", "sentence_bad": "the peprettimications was exploring a cave", "pairID": 149}
+{"sentence_good": "the wevaniows are building a house", "sentence_bad": "the wevaniows is building a house", "pairID": 150}
+{"sentence_good": "the avignitys have learned a lesson", "sentence_bad": "the avignitys has learned a lesson", "pairID": 151}
+{"sentence_good": "the vercetes were creating an artwork", "sentence_bad": "the vercetes was creating an artwork", "pairID": 152}
+{"sentence_good": "the didiltys don't arrange a meeting", "sentence_bad": "the didiltys doesn't arrange a meeting", "pairID": 153}
+{"sentence_good": "the impograllibilitys remember the date", "sentence_bad": "the impograllibilitys remembers the date", "pairID": 154}
+{"sentence_good": "the acesoras are leaving any traces", "sentence_bad": "the acesoras is leaving any traces", "pairID": 155}
+{"sentence_good": "the tarychs were starting a project", "sentence_bad": "the tarychs was starting a project", "pairID": 156}
+{"sentence_good": "the poneschists develop a plan", "sentence_bad": "the poneschists develops a plan", "pairID": 157}
+{"sentence_good": "the tindets have prevented a disaster", "sentence_bad": "the tindets has prevented a disaster", "pairID": 158}
+{"sentence_good": "the whitnys were achieving their goals", "sentence_bad": "the whitnys was achieving their goals", "pairID": 159}
+{"sentence_good": "the tuloons are maintaining a garden", "sentence_bad": "the tuloons is maintaining a garden", "pairID": 160}
+{"sentence_good": "the twidials question the facts", "sentence_bad": "the twidials questions the facts", "pairID": 161}
+{"sentence_good": "the mesiveters do not doubt any theories", "sentence_bad": "the mesiveters does not doubt any theories", "pairID": 162}
+{"sentence_good": "the priens were not supporting a team", "sentence_bad": "the priens was not supporting a team", "pairID": 163}
+{"sentence_good": "the allils are protecting a secret", "sentence_bad": "the allils is protecting a secret", "pairID": 164}
+{"sentence_good": "the prelemimizers have celebrated a victory", "sentence_bad": "the prelemimizers has celebrated a victory", "pairID": 165}
+{"sentence_good": "the fomplessnesss were understanding the problem", "sentence_bad": "the fomplessnesss was understanding the problem", "pairID": 166}
+{"sentence_good": "the afugmamones improve their skills", "sentence_bad": "the afugmamones improves their skills", "pairID": 167}
+{"sentence_good": "the cepshosiss respect the rules", "sentence_bad": "the cepshosiss respects the rules", "pairID": 168}
+{"sentence_good": "the copygiews are ignoring any advice", "sentence_bad": "the copygiews is ignoring any advice", "pairID": 169}
+{"sentence_good": "the quiffers were challenging an opponent", "sentence_bad": "the quiffers was challenging an opponent", "pairID": 170}
+{"sentence_good": "the shotheters follow a map", "sentence_bad": "the shotheters follows a map", "pairID": 171}
+{"sentence_good": "the sutchgirls have embraced a change", "sentence_bad": "the sutchgirls has embraced a change", "pairID": 172}
+{"sentence_good": "the leanrys were not capturing a moment", "sentence_bad": "the leanrys was not capturing a moment", "pairID": 173}
+{"sentence_good": "the proriduss are requesting assistance", "sentence_bad": "the proriduss is requesting assistance", "pairID": 174}
+{"sentence_good": "the crobss analyze the data", "sentence_bad": "the crobss analyzes the data", "pairID": 175}
+{"sentence_good": "the lipross accept any errors", "sentence_bad": "the lipross accepts any errors", "pairID": 176}
+{"sentence_good": "the pennosients were evaluating a situation", "sentence_bad": "the pennosients was evaluating a situation", "pairID": 177}
+{"sentence_good": "the diabalds are considering an offer", "sentence_bad": "the diabalds is considering an offer", "pairID": 178}
+{"sentence_good": "the palastrilos have appreciated the help", "sentence_bad": "the palastrilos has appreciated the help", "pairID": 179}
+{"sentence_good": "the aspastents were identifying a species", "sentence_bad": "the aspastents was identifying a species", "pairID": 180}
+{"sentence_good": "the nofaousnesss don't apply for a job", "sentence_bad": "the nofaousnesss doesn't apply for a job", "pairID": 181}
+{"sentence_good": "the conodiyngations acknowledge a mistake", "sentence_bad": "the conodiyngations acknowledges a mistake", "pairID": 182}
+{"sentence_good": "the totsogss are not revealing any secrets", "sentence_bad": "the totsogss is not revealing any secrets", "pairID": 183}
+{"sentence_good": "the podigras were investing in stocks", "sentence_bad": "the podigras was investing in stocks", "pairID": 184}
+{"sentence_good": "the peratirds command a crew", "sentence_bad": "the peratirds commands a crew", "pairID": 185}
+{"sentence_good": "the splavels have generated ideas", "sentence_bad": "the splavels has generated ideas", "pairID": 186}
+{"sentence_good": "the misquences were operating machinery", "sentence_bad": "the misquences was operating machinery", "pairID": 187}
+{"sentence_good": "the bitenesss are managing a team", "sentence_bad": "the bitenesss is managing a team", "pairID": 188}
+{"sentence_good": "the blofnesss explore a territory", "sentence_bad": "the blofnesss explores a territory", "pairID": 189}
+{"sentence_good": "the indymfaritys tolerate any nonsense", "sentence_bad": "the indymfaritys tolerates any nonsense", "pairID": 190}
+{"sentence_good": "the repilcences were conducting experiments", "sentence_bad": "the repilcences was conducting experiments", "pairID": 191}
+{"sentence_good": "the hugerthes are directing a film", "sentence_bad": "the hugerthes is directing a film", "pairID": 192}
+{"sentence_good": "the alscemorss have not synthesized chemicals", "sentence_bad": "the alscemorss has not synthesized chemicals", "pairID": 193}
+{"sentence_good": "the pebons were delivering messages", "sentence_bad": "the pebons was delivering messages", "pairID": 194}
+{"sentence_good": "the hacutous produce a play", "sentence_bad": "the hacutous produces a play", "pairID": 195}
+{"sentence_good": "the swanglers design a blueprint", "sentence_bad": "the swanglers designs a blueprint", "pairID": 196}
+{"sentence_good": "the friarbials are admitting any mistakes", "sentence_bad": "the friarbials is admitting any mistakes", "pairID": 197}
+{"sentence_good": "the scades were not calculating the odds", "sentence_bad": "the scades was not calculating the odds", "pairID": 198}
+{"sentence_good": "the goulthalls organize an event", "sentence_bad": "the goulthalls organizes an event", "pairID": 199}
+{"sentence_good": "the conjetetion eats an apple", "sentence_bad": "the conjetetion eat an apple", "pairID": 200}
+{"sentence_good": "the isc finds few treasures", "sentence_bad": "the isc find few treasures", "pairID": 201}
+{"sentence_good": "the ingac has not broken several vases", "sentence_bad": "the ingac have not broken several vases", "pairID": 202}
+{"sentence_good": "the blouzy is carrying a basket", "sentence_bad": "the blouzy are carrying a basket", "pairID": 203}
+{"sentence_good": "the ritcore throws many balls", "sentence_bad": "the ritcore throw many balls", "pairID": 204}
+{"sentence_good": "the imbonsion loves a story", "sentence_bad": "the imbonsion love a story", "pairID": 205}
+{"sentence_good": "the bislugs has chosen some chairs", "sentence_bad": "the bislugs have chosen some chairs", "pairID": 206}
+{"sentence_good": "the derash writes a letter", "sentence_bad": "the derash write a letter", "pairID": 207}
+{"sentence_good": "the nightclock is holding few ropes", "sentence_bad": "the nightclock are holding few ropes", "pairID": 208}
+{"sentence_good": "the shildulence kicks a can", "sentence_bad": "the shildulence kick a can", "pairID": 209}
+{"sentence_good": "the crurber has lost many keys", "sentence_bad": "the crurber have lost many keys", "pairID": 210}
+{"sentence_good": "the minkpose makes a cake", "sentence_bad": "the minkpose make a cake", "pairID": 211}
+{"sentence_good": "the demachs is not buying several houses", "sentence_bad": "the demachs are not buying several houses", "pairID": 212}
+{"sentence_good": "the choltrick sees a bird", "sentence_bad": "the choltrick see a bird", "pairID": 213}
+{"sentence_good": "the hechiness catches many flies", "sentence_bad": "the hechiness catch many flies", "pairID": 214}
+{"sentence_good": "the fapon drives a car", "sentence_bad": "the fapon drive a car", "pairID": 215}
+{"sentence_good": "the saliololude is eating few grapes", "sentence_bad": "the saliololude are eating few grapes", "pairID": 216}
+{"sentence_good": "the cannonmike opens a door", "sentence_bad": "the cannonmike open a door", "pairID": 217}
+{"sentence_good": "the ingere has found several shells", "sentence_bad": "the ingere have found several shells", "pairID": 218}
+{"sentence_good": "the stockjant reads a book", "sentence_bad": "the stockjant read a book", "pairID": 219}
+{"sentence_good": "the groksockness is washing many dishes", "sentence_bad": "the groksockness are washing many dishes", "pairID": 220}
+{"sentence_good": "the prard takes a nap", "sentence_bad": "the prard take a nap", "pairID": 221}
+{"sentence_good": "the smonic has not sold several paintings", "sentence_bad": "the smonic have not sold several paintings", "pairID": 222}
+{"sentence_good": "the renombess gives a gift", "sentence_bad": "the renombess give a gift", "pairID": 223}
+{"sentence_good": "the shandness throws few stones", "sentence_bad": "the shandness throw few stones", "pairID": 224}
+{"sentence_good": "the spitmise builds a house", "sentence_bad": "the spitmise build a house", "pairID": 225}
+{"sentence_good": "the aprenteuive is finding many eggs", "sentence_bad": "the aprenteuive are finding many eggs", "pairID": 226}
+{"sentence_good": "the hunserer sings a song", "sentence_bad": "the hunserer sing a song", "pairID": 227}
+{"sentence_good": "the foodrad has caught several fish", "sentence_bad": "the foodrad have caught several fish", "pairID": 228}
+{"sentence_good": "the dengemble paints a picture", "sentence_bad": "the dengemble paint a picture", "pairID": 229}
+{"sentence_good": "the ovotation is fixing many clocks", "sentence_bad": "the ovotation are fixing many clocks", "pairID": 230}
+{"sentence_good": "the trinience plays a game", "sentence_bad": "the trinience play a game", "pairID": 231}
+{"sentence_good": "the greqervimation has not written several poems", "sentence_bad": "the greqervimation have not written several poems", "pairID": 232}
+{"sentence_good": "the hashbict holds a pen", "sentence_bad": "the hashbict hold a pen", "pairID": 233}
+{"sentence_good": "the betugnaphy catches few butterflies", "sentence_bad": "the betugnaphy catch few butterflies", "pairID": 234}
+{"sentence_good": "the connir rides a bike", "sentence_bad": "the connir ride a bike", "pairID": 235}
+{"sentence_good": "the noriny is throwing many rocks", "sentence_bad": "the noriny are throwing many rocks", "pairID": 236}
+{"sentence_good": "the spooder climbs a tree", "sentence_bad": "the spooder climb a tree", "pairID": 237}
+{"sentence_good": "the atgruirs has baked several cakes", "sentence_bad": "the atgruirs have baked several cakes", "pairID": 238}
+{"sentence_good": "the wherb watches a movie", "sentence_bad": "the wherb watch a movie", "pairID": 239}
+{"sentence_good": "the idgepus is planting many flowers", "sentence_bad": "the idgepus are planting many flowers", "pairID": 240}
+{"sentence_good": "the padveyor drinks a juice", "sentence_bad": "the padveyor drink a juice", "pairID": 241}
+{"sentence_good": "the enplistionist has not ridden several horses", "sentence_bad": "the enplistionist have not ridden several horses", "pairID": 242}
+{"sentence_good": "the ertuphiate finds a coin", "sentence_bad": "the ertuphiate find a coin", "pairID": 243}
+{"sentence_good": "the kerphoof eats few candies", "sentence_bad": "the kerphoof eat few candies", "pairID": 244}
+{"sentence_good": "the adestreck writes a poem", "sentence_bad": "the adestreck write a poem", "pairID": 245}
+{"sentence_good": "the inhictitolity is catching many fireflies", "sentence_bad": "the inhictitolity are catching many fireflies", "pairID": 246}
+{"sentence_good": "the maltemper bakes a pie", "sentence_bad": "the maltemper bake a pie", "pairID": 247}
+{"sentence_good": "the atopibuing has drawn several pictures", "sentence_bad": "the atopibuing have drawn several pictures", "pairID": 248}
+{"sentence_good": "the beguid plays a violin", "sentence_bad": "the beguid play a violin", "pairID": 249}
+{"sentence_good": "the rurcernele is cooking many meals", "sentence_bad": "the rurcernele are cooking many meals", "pairID": 250}
+{"sentence_good": "the crirtage swims in a pool", "sentence_bad": "the crirtage swim in a pool", "pairID": 251}
+{"sentence_good": "the wootgut has not thrown several javelins", "sentence_bad": "the wootgut have not thrown several javelins", "pairID": 252}
+{"sentence_good": "the tomitetrity buys a toy", "sentence_bad": "the tomitetrity buy a toy", "pairID": 253}
+{"sentence_good": "the hielman catches few mice", "sentence_bad": "the hielman catch few mice", "pairID": 254}
+{"sentence_good": "the doproom climbs a mountain", "sentence_bad": "the doproom climb a mountain", "pairID": 255}
+{"sentence_good": "the lockyat is reading many books", "sentence_bad": "the lockyat are reading many books", "pairID": 256}
+{"sentence_good": "the aeslash dances a dance", "sentence_bad": "the aeslash dance a dance", "pairID": 257}
+{"sentence_good": "the ecululers has planted several trees", "sentence_bad": "the ecululers have planted several trees", "pairID": 258}
+{"sentence_good": "the feekness draws a sketch", "sentence_bad": "the feekness draw a sketch", "pairID": 259}
+{"sentence_good": "the squearer is fixing many toys", "sentence_bad": "the squearer are fixing many toys", "pairID": 260}
+{"sentence_good": "the oycact jumps over a log", "sentence_bad": "the oycact jump over a log", "pairID": 261}
+{"sentence_good": "the distioranctent has not sung several songs", "sentence_bad": "the distioranctent have not sung several songs", "pairID": 262}
+{"sentence_good": "the cheelmainship carries a bag", "sentence_bad": "the cheelmainship carry a bag", "pairID": 263}
+{"sentence_good": "the frolery eats few nuts", "sentence_bad": "the frolery eat few nuts", "pairID": 264}
+{"sentence_good": "the redibrity paints a mural", "sentence_bad": "the redibrity paint a mural", "pairID": 265}
+{"sentence_good": "the freelery is throwing many darts", "sentence_bad": "the freelery are throwing many darts", "pairID": 266}
+{"sentence_good": "the waggate rides a horse", "sentence_bad": "the waggate ride a horse", "pairID": 267}
+{"sentence_good": "the regnocraction has cooked several meals", "sentence_bad": "the regnocraction have cooked several meals", "pairID": 268}
+{"sentence_good": "the feasnaller sings a lullaby", "sentence_bad": "the feasnaller sing a lullaby", "pairID": 269}
+{"sentence_good": "the temarahn is building many sandcastles", "sentence_bad": "the temarahn are building many sandcastles", "pairID": 270}
+{"sentence_good": "the callness runs a mile", "sentence_bad": "the callness run a mile", "pairID": 271}
+{"sentence_good": "the imbrinsionize has not painted several murals", "sentence_bad": "the imbrinsionize have not painted several murals", "pairID": 272}
+{"sentence_good": "the midspreap throws a frisbee", "sentence_bad": "the midspreap throw a frisbee", "pairID": 273}
+{"sentence_good": "the whorient eats few cookies", "sentence_bad": "the whorient eat few cookies", "pairID": 274}
+{"sentence_good": "the dilcumation builds a fort", "sentence_bad": "the dilcumation build a fort", "pairID": 275}
+{"sentence_good": "the mesrumization is catching many crabs", "sentence_bad": "the mesrumization are catching many crabs", "pairID": 276}
+{"sentence_good": "the insostment swims in a lake", "sentence_bad": "the insostment swim in a lake", "pairID": 277}
+{"sentence_good": "the seluctilolity has danced several dances", "sentence_bad": "the seluctilolity have danced several dances", "pairID": 278}
+{"sentence_good": "the disforaintent rides a scooter", "sentence_bad": "the disforaintent ride a scooter", "pairID": 279}
+{"sentence_good": "the robba is not playing many games", "sentence_bad": "the robba are not playing many games", "pairID": 280}
+{"sentence_good": "the cachole climbs a ladder", "sentence_bad": "the cachole climb a ladder", "pairID": 281}
+{"sentence_good": "the adfuiture has not ridden several bicycles", "sentence_bad": "the adfuiture have not ridden several bicycles", "pairID": 282}
+{"sentence_good": "the etrotigition finds a wallet", "sentence_bad": "the etrotigition find a wallet", "pairID": 283}
+{"sentence_good": "the breamnerd eats few berries", "sentence_bad": "the breamnerd eat few berries", "pairID": 284}
+{"sentence_good": "the leolorals paints a canvas", "sentence_bad": "the leolorals paint a canvas", "pairID": 285}
+{"sentence_good": "the partroked is throwing many balls", "sentence_bad": "the partroked are throwing many balls", "pairID": 286}
+{"sentence_good": "the deckyant rides a skateboard", "sentence_bad": "the deckyant ride a skateboard", "pairID": 287}
+{"sentence_good": "the ceninition has baked several pies", "sentence_bad": "the ceninition have baked several pies", "pairID": 288}
+{"sentence_good": "the calasals plays a drum", "sentence_bad": "the calasals play a drum", "pairID": 289}
+{"sentence_good": "the dislocure is not cooking many pancakes", "sentence_bad": "the dislocure are not cooking many pancakes", "pairID": 290}
+{"sentence_good": "the epugulition jumps on a trampoline", "sentence_bad": "the epugulition jump on a trampoline", "pairID": 291}
+{"sentence_good": "the escoxine has not thrown several balls", "sentence_bad": "the escoxine have not thrown several balls", "pairID": 292}
+{"sentence_good": "the somermoved buys a sandwich", "sentence_bad": "the somermoved buy a sandwich", "pairID": 293}
+{"sentence_good": "the chavucary eats few grapes", "sentence_bad": "the chavucary eat few grapes", "pairID": 294}
+{"sentence_good": "the taser builds a bridge", "sentence_bad": "the taser build a bridge", "pairID": 295}
+{"sentence_good": "the mifraneled is catching many frogs", "sentence_bad": "the mifraneled are catching many frogs", "pairID": 296}
+{"sentence_good": "the indebtio swims in a river", "sentence_bad": "the indebtio swim in a river", "pairID": 297}
+{"sentence_good": "the repillation has drawn several cartoons", "sentence_bad": "the repillation have drawn several cartoons", "pairID": 298}
+{"sentence_good": "the petlering doesn't play a flute", "sentence_bad": "the petlering don't play a flute", "pairID": 299}
+{"sentence_good": "the moollesss eat an apple", "sentence_bad": "the moollesss eats an apple", "pairID": 300}
+{"sentence_good": "the hucilations have not found a treasure", "sentence_bad": "the hucilations has not found a treasure", "pairID": 301}
+{"sentence_good": "the slipnigers were writing few letters", "sentence_bad": "the slipnigers was writing few letters", "pairID": 302}
+{"sentence_good": "the statopiums are not drinking some water", "sentence_bad": "the statopiums is not drinking some water", "pairID": 303}
+{"sentence_good": "the airbracts have broken a window", "sentence_bad": "the airbracts has broken a window", "pairID": 304}
+{"sentence_good": "the reptiruteats were washing the car", "sentence_bad": "the reptiruteats was washing the car", "pairID": 305}
+{"sentence_good": "the ricebuds buy any bread", "sentence_bad": "the ricebuds buys any bread", "pairID": 306}
+{"sentence_good": "the ecutinizes paint a picture", "sentence_bad": "the ecutinizes paints a picture", "pairID": 307}
+{"sentence_good": "the bleerboards are throwing a ball", "sentence_bad": "the bleerboards is throwing a ball", "pairID": 308}
+{"sentence_good": "the preapships have lost their keys", "sentence_bad": "the preapships has lost their keys", "pairID": 309}
+{"sentence_good": "the conkistions were reading a book", "sentence_bad": "the conkistions was reading a book", "pairID": 310}
+{"sentence_good": "the oblymlations sell the house", "sentence_bad": "the oblymlations sells the house", "pairID": 311}
+{"sentence_good": "the osfactors clean a room", "sentence_bad": "the osfactors cleans a room", "pairID": 312}
+{"sentence_good": "the samiaquys are not taking any risk", "sentence_bad": "the samiaquys is not taking any risk", "pairID": 313}
+{"sentence_good": "the frodials were not fixing the bike", "sentence_bad": "the frodials was not fixing the bike", "pairID": 314}
+{"sentence_good": "the haemerys play a game", "sentence_bad": "the haemerys plays a game", "pairID": 315}
+{"sentence_good": "the whornesss have cooked some pasta", "sentence_bad": "the whornesss has cooked some pasta", "pairID": 316}
+{"sentence_good": "the anmiras were planting many trees", "sentence_bad": "the anmiras was planting many trees", "pairID": 317}
+{"sentence_good": "the czats are lifting a weight", "sentence_bad": "the czats is lifting a weight", "pairID": 318}
+{"sentence_good": "the psealantnesss chase the dog", "sentence_bad": "the psealantnesss chases the dog", "pairID": 319}
+{"sentence_good": "the glositeenalishs hold any grudges", "sentence_bad": "the glositeenalishs holds any grudges", "pairID": 320}
+{"sentence_good": "the ercoppations were jumping a fence", "sentence_bad": "the ercoppations was jumping a fence", "pairID": 321}
+{"sentence_good": "the densimblers are dropping a hint", "sentence_bad": "the densimblers is dropping a hint", "pairID": 322}
+{"sentence_good": "the corplinitions have not saved enough money", "sentence_bad": "the corplinitions has not saved enough money", "pairID": 323}
+{"sentence_good": "the exibantss were answering the question", "sentence_bad": "the exibantss was answering the question", "pairID": 324}
+{"sentence_good": "the droolworlds climb a mountain", "sentence_bad": "the droolworlds climbs a mountain", "pairID": 325}
+{"sentence_good": "the penvemelaritys forget the address", "sentence_bad": "the penvemelaritys forgets the address", "pairID": 326}
+{"sentence_good": "the disyrtifics are not wearing any shoes", "sentence_bad": "the disyrtifics is not wearing any shoes", "pairID": 327}
+{"sentence_good": "the westerdfasts were seeking a solution", "sentence_bad": "the westerdfasts was seeking a solution", "pairID": 328}
+{"sentence_good": "the oncyits meet a friend", "sentence_bad": "the oncyits meets a friend", "pairID": 329}
+{"sentence_good": "the queerhouses have changed their minds", "sentence_bad": "the queerhouses has changed their minds", "pairID": 330}
+{"sentence_good": "the flecches were following a leader", "sentence_bad": "the flecches was following a leader", "pairID": 331}
+{"sentence_good": "the scrumers are using a computer", "sentence_bad": "the scrumers is using a computer", "pairID": 332}
+{"sentence_good": "the gaphannys do not hear a noise", "sentence_bad": "the gaphannys does not hears a noise", "pairID": 333}
+{"sentence_good": "the desuederes make any plans", "sentence_bad": "the desuederes makes any plans", "pairID": 334}
+{"sentence_good": "the loltuals were learning a skill", "sentence_bad": "the loltuals was learning a skill", "pairID": 335}
+{"sentence_good": "the subscranims are carrying a bag", "sentence_bad": "the subscranims is carrying a bag", "pairID": 336}
+{"sentence_good": "the emimprogagnets have visited a city", "sentence_bad": "the emimprogagnets has visited a city", "pairID": 337}
+{"sentence_good": "the lestooists were discussing an issue", "sentence_bad": "the lestooists was discussing an issue", "pairID": 338}
+{"sentence_good": "the preboffilations open a door", "sentence_bad": "the preboffilations opens a door", "pairID": 339}
+{"sentence_good": "the rouilesss solve a puzzle", "sentence_bad": "the rouilesss solves a puzzle", "pairID": 340}
+{"sentence_good": "the renupts are expecting any guests", "sentence_bad": "the renupts is expecting any guests", "pairID": 341}
+{"sentence_good": "the ashuculatorss were crossing a bridge", "sentence_bad": "the ashuculatorss was crossing a bridge", "pairID": 342}
+{"sentence_good": "the disagices do not choose a path", "sentence_bad": "the disagices does not choose a path", "pairID": 343}
+{"sentence_good": "the chrichlicts have not repaired a bike", "sentence_bad": "the chrichlicts has not repaired a bike", "pairID": 344}
+{"sentence_good": "the concixtincys were watching a movie", "sentence_bad": "the concixtincys was watching a movie", "pairID": 345}
+{"sentence_good": "the tormoiseshowss are handling a crisis", "sentence_bad": "the tormoiseshowss is handling a crisis", "pairID": 346}
+{"sentence_good": "the rescetts avoid a conflict", "sentence_bad": "the rescetts avoids a conflict", "pairID": 347}
+{"sentence_good": "the ganridications admit any faults", "sentence_bad": "the ganridications admits any faults", "pairID": 348}
+{"sentence_good": "the bullicurns were exploring a cave", "sentence_bad": "the bullicurns was exploring a cave", "pairID": 349}
+{"sentence_good": "the rejabrinations are building a house", "sentence_bad": "the rejabrinations is building a house", "pairID": 350}
+{"sentence_good": "the stangs have learned a lesson", "sentence_bad": "the stangs has learned a lesson", "pairID": 351}
+{"sentence_good": "the jenderlents were creating an artwork", "sentence_bad": "the jenderlents was creating an artwork", "pairID": 352}
+{"sentence_good": "the compucknesss don't arrange a meeting", "sentence_bad": "the compucknesss doesn't arrange a meeting", "pairID": 353}
+{"sentence_good": "the chealesss remember the date", "sentence_bad": "the chealesss remembers the date", "pairID": 354}
+{"sentence_good": "the partalamss are leaving any traces", "sentence_bad": "the partalamss is leaving any traces", "pairID": 355}
+{"sentence_good": "the vumeratars were starting a project", "sentence_bad": "the vumeratars was starting a project", "pairID": 356}
+{"sentence_good": "the brinswes develop a plan", "sentence_bad": "the brinswes develops a plan", "pairID": 357}
+{"sentence_good": "the porreanizations have prevented a disaster", "sentence_bad": "the porreanizations has prevented a disaster", "pairID": 358}
+{"sentence_good": "the smonems were achieving their goals", "sentence_bad": "the smonems was achieving their goals", "pairID": 359}
+{"sentence_good": "the hactlinesss are maintaining a garden", "sentence_bad": "the hactlinesss is maintaining a garden", "pairID": 360}
+{"sentence_good": "the gidlics question the facts", "sentence_bad": "the gidlics questions the facts", "pairID": 361}
+{"sentence_good": "the prorms do not doubt any theories", "sentence_bad": "the prorms does not doubt any theories", "pairID": 362}
+{"sentence_good": "the dedbrics were not supporting a team", "sentence_bad": "the dedbrics was not supporting a team", "pairID": 363}
+{"sentence_good": "the daychiecers are protecting a secret", "sentence_bad": "the daychiecers is protecting a secret", "pairID": 364}
+{"sentence_good": "the domples have celebrated a victory", "sentence_bad": "the domples has celebrated a victory", "pairID": 365}
+{"sentence_good": "the spinchofts were understanding the problem", "sentence_bad": "the spinchofts was understanding the problem", "pairID": 366}
+{"sentence_good": "the bashets improve their skills", "sentence_bad": "the bashets improves their skills", "pairID": 367}
+{"sentence_good": "the trolfrys respect the rules", "sentence_bad": "the trolfrys respects the rules", "pairID": 368}
+{"sentence_good": "the heightnesss are ignoring any advice", "sentence_bad": "the heightnesss is ignoring any advice", "pairID": 369}
+{"sentence_good": "the infevimitions were challenging an opponent", "sentence_bad": "the infevimitions was challenging an opponent", "pairID": 370}
+{"sentence_good": "the peeciouters follow a map", "sentence_bad": "the peeciouters follows a map", "pairID": 371}
+{"sentence_good": "the anbyls have embraced a change", "sentence_bad": "the anbyls has embraced a change", "pairID": 372}
+{"sentence_good": "the efgharinations were not capturing a moment", "sentence_bad": "the efgharinations was not capturing a moment", "pairID": 373}
+{"sentence_good": "the scubbers are requesting assistance", "sentence_bad": "the scubbers is requesting assistance", "pairID": 374}
+{"sentence_good": "the lirgers analyze the data", "sentence_bad": "the lirgers analyzes the data", "pairID": 375}
+{"sentence_good": "the bitanarss accept any errors", "sentence_bad": "the bitanarss accepts any errors", "pairID": 376}
+{"sentence_good": "the denomitys were evaluating a situation", "sentence_bad": "the denomitys was evaluating a situation", "pairID": 377}
+{"sentence_good": "the kifiuritys are considering an offer", "sentence_bad": "the kifiuritys is considering an offer", "pairID": 378}
+{"sentence_good": "the dyndusions have appreciated the help", "sentence_bad": "the dyndusions has appreciated the help", "pairID": 379}
+{"sentence_good": "the ponsers were identifying a species", "sentence_bad": "the ponsers was identifying a species", "pairID": 380}
+{"sentence_good": "the ureinerss don't apply for a job", "sentence_bad": "the ureinerss doesn't apply for a job", "pairID": 381}
+{"sentence_good": "the blawtists acknowledge a mistake", "sentence_bad": "the blawtists acknowledges a mistake", "pairID": 382}
+{"sentence_good": "the charfagans are not revealing any secrets", "sentence_bad": "the charfagans is not revealing any secrets", "pairID": 383}
+{"sentence_good": "the diocacations were investing in stocks", "sentence_bad": "the diocacations was investing in stocks", "pairID": 384}
+{"sentence_good": "the schovirticives command a crew", "sentence_bad": "the schovirticives commands a crew", "pairID": 385}
+{"sentence_good": "the sagys have generated ideas", "sentence_bad": "the sagys has generated ideas", "pairID": 386}
+{"sentence_good": "the mopalarmals were operating machinery", "sentence_bad": "the mopalarmals was operating machinery", "pairID": 387}
+{"sentence_good": "the paskets are managing a team", "sentence_bad": "the paskets is managing a team", "pairID": 388}
+{"sentence_good": "the melgessivenesss explore a territory", "sentence_bad": "the melgessivenesss explores a territory", "pairID": 389}
+{"sentence_good": "the consicewoers tolerate any nonsense", "sentence_bad": "the consicewoers tolerates any nonsense", "pairID": 390}
+{"sentence_good": "the diggles were conducting experiments", "sentence_bad": "the diggles was conducting experiments", "pairID": 391}
+{"sentence_good": "the menudansions are directing a film", "sentence_bad": "the menudansions is directing a film", "pairID": 392}
+{"sentence_good": "the glianists have not synthesized chemicals", "sentence_bad": "the glianists has not synthesized chemicals", "pairID": 393}
+{"sentence_good": "the nelings were delivering messages", "sentence_bad": "the nelings was delivering messages", "pairID": 394}
+{"sentence_good": "the porelives produce a play", "sentence_bad": "the porelives produces a play", "pairID": 395}
+{"sentence_good": "the quilainousnesss design a blueprint", "sentence_bad": "the quilainousnesss designs a blueprint", "pairID": 396}
+{"sentence_good": "the amecelnesss are admitting any mistakes", "sentence_bad": "the amecelnesss is admitting any mistakes", "pairID": 397}
+{"sentence_good": "the sences were not calculating the odds", "sentence_bad": "the sences was not calculating the odds", "pairID": 398}
+{"sentence_good": "the dedumatols organize an event", "sentence_bad": "the dedumatols organizes an event", "pairID": 399}
+{"sentence_good": "the tramper eats an apple", "sentence_bad": "the tramper eat an apple", "pairID": 400}
+{"sentence_good": "the paftness finds few treasures", "sentence_bad": "the paftness find few treasures", "pairID": 401}
+{"sentence_good": "the lawlper has not broken several vases", "sentence_bad": "the lawlper have not broken several vases", "pairID": 402}
+{"sentence_good": "the concaltants is carrying a basket", "sentence_bad": "the concaltants are carrying a basket", "pairID": 403}
+{"sentence_good": "the mumper throws many balls", "sentence_bad": "the mumper throw many balls", "pairID": 404}
+{"sentence_good": "the ernite loves a story", "sentence_bad": "the ernite love a story", "pairID": 405}
+{"sentence_good": "the gealmer has chosen some chairs", "sentence_bad": "the gealmer have chosen some chairs", "pairID": 406}
+{"sentence_good": "the imycity writes a letter", "sentence_bad": "the imycity write a letter", "pairID": 407}
+{"sentence_good": "the hepiesfy is holding few ropes", "sentence_bad": "the hepiesfy are holding few ropes", "pairID": 408}
+{"sentence_good": "the holligra kicks a can", "sentence_bad": "the holligra kick a can", "pairID": 409}
+{"sentence_good": "the jokaller has lost many keys", "sentence_bad": "the jokaller have lost many keys", "pairID": 410}
+{"sentence_good": "the quowtine makes a cake", "sentence_bad": "the quowtine make a cake", "pairID": 411}
+{"sentence_good": "the glarery is not buying several houses", "sentence_bad": "the glarery are not buying several houses", "pairID": 412}
+{"sentence_good": "the wanchness sees a bird", "sentence_bad": "the wanchness see a bird", "pairID": 413}
+{"sentence_good": "the horseflop catches many flies", "sentence_bad": "the horseflop catch many flies", "pairID": 414}
+{"sentence_good": "the contansionism drives a car", "sentence_bad": "the contansionism drive a car", "pairID": 415}
+{"sentence_good": "the crifacity is eating few grapes", "sentence_bad": "the crifacity are eating few grapes", "pairID": 416}
+{"sentence_good": "the foodsord opens a door", "sentence_bad": "the foodsord open a door", "pairID": 417}
+{"sentence_good": "the potrum has found several shells", "sentence_bad": "the potrum have found several shells", "pairID": 418}
+{"sentence_good": "the corphiuntiouslets reads a book", "sentence_bad": "the corphiuntiouslets read a book", "pairID": 419}
+{"sentence_good": "the bridgman is washing many dishes", "sentence_bad": "the bridgman are washing many dishes", "pairID": 420}
+{"sentence_good": "the intlecant takes a nap", "sentence_bad": "the intlecant take a nap", "pairID": 421}
+{"sentence_good": "the fophricolity has not sold several paintings", "sentence_bad": "the fophricolity have not sold several paintings", "pairID": 422}
+{"sentence_good": "the muddler gives a gift", "sentence_bad": "the muddler give a gift", "pairID": 423}
+{"sentence_good": "the gololizer throws few stones", "sentence_bad": "the gololizer throw few stones", "pairID": 424}
+{"sentence_good": "the blimer builds a house", "sentence_bad": "the blimer build a house", "pairID": 425}
+{"sentence_good": "the hublirant is finding many eggs", "sentence_bad": "the hublirant are finding many eggs", "pairID": 426}
+{"sentence_good": "the asewants sings a song", "sentence_bad": "the asewants sing a song", "pairID": 427}
+{"sentence_good": "the surpoot has caught several fish", "sentence_bad": "the surpoot have caught several fish", "pairID": 428}
+{"sentence_good": "the brartover paints a picture", "sentence_bad": "the brartover paint a picture", "pairID": 429}
+{"sentence_good": "the mincelessness is fixing many clocks", "sentence_bad": "the mincelessness are fixing many clocks", "pairID": 430}
+{"sentence_good": "the iliivilition plays a game", "sentence_bad": "the iliivilition play a game", "pairID": 431}
+{"sentence_good": "the potardry has not written several poems", "sentence_bad": "the potardry have not written several poems", "pairID": 432}
+{"sentence_good": "the aycor holds a pen", "sentence_bad": "the aycor hold a pen", "pairID": 433}
+{"sentence_good": "the spicken catches few butterflies", "sentence_bad": "the spicken catch few butterflies", "pairID": 434}
+{"sentence_good": "the cletter rides a bike", "sentence_bad": "the cletter ride a bike", "pairID": 435}
+{"sentence_good": "the imserarity is throwing many rocks", "sentence_bad": "the imserarity are throwing many rocks", "pairID": 436}
+{"sentence_good": "the exgart climbs a tree", "sentence_bad": "the exgart climb a tree", "pairID": 437}
+{"sentence_good": "the bawcardi has baked several cakes", "sentence_bad": "the bawcardi have baked several cakes", "pairID": 438}
+{"sentence_good": "the sunpleist watches a movie", "sentence_bad": "the sunpleist watch a movie", "pairID": 439}
+{"sentence_good": "the skatesmanship is planting many flowers", "sentence_bad": "the skatesmanship are planting many flowers", "pairID": 440}
+{"sentence_good": "the gotler drinks a juice", "sentence_bad": "the gotler drink a juice", "pairID": 441}
+{"sentence_good": "the musiceintret has not ridden several horses", "sentence_bad": "the musiceintret have not ridden several horses", "pairID": 442}
+{"sentence_good": "the muncatity finds a coin", "sentence_bad": "the muncatity find a coin", "pairID": 443}
+{"sentence_good": "the blibes eats few candies", "sentence_bad": "the blibes eat few candies", "pairID": 444}
+{"sentence_good": "the coved writes a poem", "sentence_bad": "the coved write a poem", "pairID": 445}
+{"sentence_good": "the poo is catching many fireflies", "sentence_bad": "the poo are catching many fireflies", "pairID": 446}
+{"sentence_good": "the fillsaw bakes a pie", "sentence_bad": "the fillsaw bake a pie", "pairID": 447}
+{"sentence_good": "the ambel has drawn several pictures", "sentence_bad": "the ambel have drawn several pictures", "pairID": 448}
+{"sentence_good": "the cynlivatar plays a violin", "sentence_bad": "the cynlivatar play a violin", "pairID": 449}
+{"sentence_good": "the motorpow is cooking many meals", "sentence_bad": "the motorpow are cooking many meals", "pairID": 450}
+{"sentence_good": "the pulptrood swims in a pool", "sentence_bad": "the pulptrood swim in a pool", "pairID": 451}
+{"sentence_good": "the outprom has not thrown several javelins", "sentence_bad": "the outprom have not thrown several javelins", "pairID": 452}
+{"sentence_good": "the pisule buys a toy", "sentence_bad": "the pisule buy a toy", "pairID": 453}
+{"sentence_good": "the noorer catches few mice", "sentence_bad": "the noorer catch few mice", "pairID": 454}
+{"sentence_good": "the oggity climbs a mountain", "sentence_bad": "the oggity climb a mountain", "pairID": 455}
+{"sentence_good": "the menlality is reading many books", "sentence_bad": "the menlality are reading many books", "pairID": 456}
+{"sentence_good": "the hestlat dances a dance", "sentence_bad": "the hestlat dance a dance", "pairID": 457}
+{"sentence_good": "the oversyst has planted several trees", "sentence_bad": "the oversyst have planted several trees", "pairID": 458}
+{"sentence_good": "the flatterflook draws a sketch", "sentence_bad": "the flatterflook draw a sketch", "pairID": 459}
+{"sentence_good": "the insimproity is fixing many toys", "sentence_bad": "the insimproity are fixing many toys", "pairID": 460}
+{"sentence_good": "the juppler jumps over a log", "sentence_bad": "the juppler jump over a log", "pairID": 461}
+{"sentence_good": "the woscacory has not sung several songs", "sentence_bad": "the woscacory have not sung several songs", "pairID": 462}
+{"sentence_good": "the clitter carries a bag", "sentence_bad": "the clitter carry a bag", "pairID": 463}
+{"sentence_good": "the pintlood eats few nuts", "sentence_bad": "the pintlood eat few nuts", "pairID": 464}
+{"sentence_good": "the corebure paints a mural", "sentence_bad": "the corebure paint a mural", "pairID": 465}
+{"sentence_good": "the efupibition is throwing many darts", "sentence_bad": "the efupibition are throwing many darts", "pairID": 466}
+{"sentence_good": "the lestanar rides a horse", "sentence_bad": "the lestanar ride a horse", "pairID": 467}
+{"sentence_good": "the pligus has cooked several meals", "sentence_bad": "the pligus have cooked several meals", "pairID": 468}
+{"sentence_good": "the colpa sings a lullaby", "sentence_bad": "the colpa sing a lullaby", "pairID": 469}
+{"sentence_good": "the mafageitility is building many sandcastles", "sentence_bad": "the mafageitility are building many sandcastles", "pairID": 470}
+{"sentence_good": "the ajuptite runs a mile", "sentence_bad": "the ajuptite run a mile", "pairID": 471}
+{"sentence_good": "the misplinctation has not painted several murals", "sentence_bad": "the misplinctation have not painted several murals", "pairID": 472}
+{"sentence_good": "the vignolds throws a frisbee", "sentence_bad": "the vignolds throw a frisbee", "pairID": 473}
+{"sentence_good": "the methtimocy eats few cookies", "sentence_bad": "the methtimocy eat few cookies", "pairID": 474}
+{"sentence_good": "the intipserades builds a fort", "sentence_bad": "the intipserades build a fort", "pairID": 475}
+{"sentence_good": "the sespote is catching many crabs", "sentence_bad": "the sespote are catching many crabs", "pairID": 476}
+{"sentence_good": "the pighhone swims in a lake", "sentence_bad": "the pighhone swim in a lake", "pairID": 477}
+{"sentence_good": "the clasms has danced several dances", "sentence_bad": "the clasms have danced several dances", "pairID": 478}
+{"sentence_good": "the freereed rides a scooter", "sentence_bad": "the freereed ride a scooter", "pairID": 479}
+{"sentence_good": "the sancish is not playing many games", "sentence_bad": "the sancish are not playing many games", "pairID": 480}
+{"sentence_good": "the recestance climbs a ladder", "sentence_bad": "the recestance climb a ladder", "pairID": 481}
+{"sentence_good": "the hegucator has not ridden several bicycles", "sentence_bad": "the hegucator have not ridden several bicycles", "pairID": 482}
+{"sentence_good": "the mererpts finds a wallet", "sentence_bad": "the mererpts find a wallet", "pairID": 483}
+{"sentence_good": "the mucetalia eats few berries", "sentence_bad": "the mucetalia eat few berries", "pairID": 484}
+{"sentence_good": "the twockrown paints a canvas", "sentence_bad": "the twockrown paint a canvas", "pairID": 485}
+{"sentence_good": "the houseroot is throwing many balls", "sentence_bad": "the houseroot are throwing many balls", "pairID": 486}
+{"sentence_good": "the counger rides a skateboard", "sentence_bad": "the counger ride a skateboard", "pairID": 487}
+{"sentence_good": "the morriation has baked several pies", "sentence_bad": "the morriation have baked several pies", "pairID": 488}
+{"sentence_good": "the dentier plays a drum", "sentence_bad": "the dentier play a drum", "pairID": 489}
+{"sentence_good": "the switchbloys is not cooking many pancakes", "sentence_bad": "the switchbloys are not cooking many pancakes", "pairID": 490}
+{"sentence_good": "the uperrampliricaties jumps on a trampoline", "sentence_bad": "the uperrampliricaties jump on a trampoline", "pairID": 491}
+{"sentence_good": "the sikeover has not thrown several balls", "sentence_bad": "the sikeover have not thrown several balls", "pairID": 492}
+{"sentence_good": "the teariew buys a sandwich", "sentence_bad": "the teariew buy a sandwich", "pairID": 493}
+{"sentence_good": "the lietus eats few grapes", "sentence_bad": "the lietus eat few grapes", "pairID": 494}
+{"sentence_good": "the ithtontation builds a bridge", "sentence_bad": "the ithtontation build a bridge", "pairID": 495}
+{"sentence_good": "the iltrination is catching many frogs", "sentence_bad": "the iltrination are catching many frogs", "pairID": 496}
+{"sentence_good": "the underdounds swims in a river", "sentence_bad": "the underdounds swim in a river", "pairID": 497}
+{"sentence_good": "the calturlaphy has drawn several cartoons", "sentence_bad": "the calturlaphy have drawn several cartoons", "pairID": 498}
+{"sentence_good": "the swauntness doesn't play a flute", "sentence_bad": "the swauntness don't play a flute", "pairID": 499}
+{"sentence_good": "the cruers eat an apple", "sentence_bad": "the cruers eats an apple", "pairID": 500}
+{"sentence_good": "the inproboritys have not found a treasure", "sentence_bad": "the inproboritys has not found a treasure", "pairID": 501}
+{"sentence_good": "the wampols were writing few letters", "sentence_bad": "the wampols was writing few letters", "pairID": 502}
+{"sentence_good": "the psopucators are not drinking some water", "sentence_bad": "the psopucators is not drinking some water", "pairID": 503}
+{"sentence_good": "the babrass have broken a window", "sentence_bad": "the babrass has broken a window", "pairID": 504}
+{"sentence_good": "the reclodates were washing the car", "sentence_bad": "the reclodates was washing the car", "pairID": 505}
+{"sentence_good": "the stivalomys buy any bread", "sentence_bad": "the stivalomys buys any bread", "pairID": 506}
+{"sentence_good": "the cockypss paint a picture", "sentence_bad": "the cockypss paints a picture", "pairID": 507}
+{"sentence_good": "the skarlesss are throwing a ball", "sentence_bad": "the skarlesss is throwing a ball", "pairID": 508}
+{"sentence_good": "the incibrypations have lost their keys", "sentence_bad": "the incibrypations has lost their keys", "pairID": 509}
+{"sentence_good": "the misrissers were reading a book", "sentence_bad": "the misrissers was reading a book", "pairID": 510}
+{"sentence_good": "the blowwapes sell the house", "sentence_bad": "the blowwapes sells the house", "pairID": 511}
+{"sentence_good": "the sliespances clean a room", "sentence_bad": "the sliespances cleans a room", "pairID": 512}
+{"sentence_good": "the fastlers are not taking any risk", "sentence_bad": "the fastlers is not taking any risk", "pairID": 513}
+{"sentence_good": "the mubicids were not fixing the bike", "sentence_bad": "the mubicids was not fixing the bike", "pairID": 514}
+{"sentence_good": "the poperitions play a game", "sentence_bad": "the poperitions plays a game", "pairID": 515}
+{"sentence_good": "the mibtleweignss have cooked some pasta", "sentence_bad": "the mibtleweignss has cooked some pasta", "pairID": 516}
+{"sentence_good": "the papifalss were planting many trees", "sentence_bad": "the papifalss was planting many trees", "pairID": 517}
+{"sentence_good": "the praners are lifting a weight", "sentence_bad": "the praners is lifting a weight", "pairID": 518}
+{"sentence_good": "the cloises chase the dog", "sentence_bad": "the cloises chases the dog", "pairID": 519}
+{"sentence_good": "the inconsetionarilotions hold any grudges", "sentence_bad": "the inconsetionarilotions holds any grudges", "pairID": 520}
+{"sentence_good": "the cillits were jumping a fence", "sentence_bad": "the cillits was jumping a fence", "pairID": 521}
+{"sentence_good": "the prielors are dropping a hint", "sentence_bad": "the prielors is dropping a hint", "pairID": 522}
+{"sentence_good": "the sutsogss have not saved enough money", "sentence_bad": "the sutsogss has not saved enough money", "pairID": 523}
+{"sentence_good": "the trirts were answering the question", "sentence_bad": "the trirts was answering the question", "pairID": 524}
+{"sentence_good": "the shalmans climb a mountain", "sentence_bad": "the shalmans climbs a mountain", "pairID": 525}
+{"sentence_good": "the ruckreaders forget the address", "sentence_bad": "the ruckreaders forgets the address", "pairID": 526}
+{"sentence_good": "the sucastesss are not wearing any shoes", "sentence_bad": "the sucastesss is not wearing any shoes", "pairID": 527}
+{"sentence_good": "the berrinets were seeking a solution", "sentence_bad": "the berrinets was seeking a solution", "pairID": 528}
+{"sentence_good": "the snastizes meet a friend", "sentence_bad": "the snastizes meets a friend", "pairID": 529}
+{"sentence_good": "the pablinesss have changed their minds", "sentence_bad": "the pablinesss has changed their minds", "pairID": 530}
+{"sentence_good": "the frorkiers were following a leader", "sentence_bad": "the frorkiers was following a leader", "pairID": 531}
+{"sentence_good": "the votdessnesss are using a computer", "sentence_bad": "the votdessnesss is using a computer", "pairID": 532}
+{"sentence_good": "the conskards do not hear a noise", "sentence_bad": "the conskards does not hears a noise", "pairID": 533}
+{"sentence_good": "the galmnesss make any plans", "sentence_bad": "the galmnesss makes any plans", "pairID": 534}
+{"sentence_good": "the rehunianegys were learning a skill", "sentence_bad": "the rehunianegys was learning a skill", "pairID": 535}
+{"sentence_good": "the trubbagenesss are carrying a bag", "sentence_bad": "the trubbagenesss is carrying a bag", "pairID": 536}
+{"sentence_good": "the wiceshesss have visited a city", "sentence_bad": "the wiceshesss has visited a city", "pairID": 537}
+{"sentence_good": "the groldnesss were discussing an issue", "sentence_bad": "the groldnesss was discussing an issue", "pairID": 538}
+{"sentence_good": "the penvalations open a door", "sentence_bad": "the penvalations opens a door", "pairID": 539}
+{"sentence_good": "the comkhacistss solve a puzzle", "sentence_bad": "the comkhacistss solves a puzzle", "pairID": 540}
+{"sentence_good": "the isners are expecting any guests", "sentence_bad": "the isners is expecting any guests", "pairID": 541}
+{"sentence_good": "the crympixeras were crossing a bridge", "sentence_bad": "the crympixeras was crossing a bridge", "pairID": 542}
+{"sentence_good": "the farrulas do not choose a path", "sentence_bad": "the farrulas does not choose a path", "pairID": 543}
+{"sentence_good": "the passmonders have not repaired a bike", "sentence_bad": "the passmonders has not repaired a bike", "pairID": 544}
+{"sentence_good": "the manyross were watching a movie", "sentence_bad": "the manyross was watching a movie", "pairID": 545}
+{"sentence_good": "the pyreritions are handling a crisis", "sentence_bad": "the pyreritions is handling a crisis", "pairID": 546}
+{"sentence_good": "the nessalands avoid a conflict", "sentence_bad": "the nessalands avoids a conflict", "pairID": 547}
+{"sentence_good": "the setchtanships admit any faults", "sentence_bad": "the setchtanships admits any faults", "pairID": 548}
+{"sentence_good": "the nirthwhesss were exploring a cave", "sentence_bad": "the nirthwhesss was exploring a cave", "pairID": 549}
+{"sentence_good": "the tarshnesss are building a house", "sentence_bad": "the tarshnesss is building a house", "pairID": 550}
+{"sentence_good": "the lealds have learned a lesson", "sentence_bad": "the lealds has learned a lesson", "pairID": 551}
+{"sentence_good": "the foremeats were creating an artwork", "sentence_bad": "the foremeats was creating an artwork", "pairID": 552}
+{"sentence_good": "the tatitances don't arrange a meeting", "sentence_bad": "the tatitances doesn't arrange a meeting", "pairID": 553}
+{"sentence_good": "the pulyurutretss remember the date", "sentence_bad": "the pulyurutretss remembers the date", "pairID": 554}
+{"sentence_good": "the chustiechips are leaving any traces", "sentence_bad": "the chustiechips is leaving any traces", "pairID": 555}
+{"sentence_good": "the disthezoltions were starting a project", "sentence_bad": "the disthezoltions was starting a project", "pairID": 556}
+{"sentence_good": "the veftss develop a plan", "sentence_bad": "the veftss develops a plan", "pairID": 557}
+{"sentence_good": "the whithelesss have prevented a disaster", "sentence_bad": "the whithelesss has prevented a disaster", "pairID": 558}
+{"sentence_good": "the swes were achieving their goals", "sentence_bad": "the swes was achieving their goals", "pairID": 559}
+{"sentence_good": "the casuasys are maintaining a garden", "sentence_bad": "the casuasys is maintaining a garden", "pairID": 560}
+{"sentence_good": "the rorsquasms question the facts", "sentence_bad": "the rorsquasms questions the facts", "pairID": 561}
+{"sentence_good": "the whots do not doubt any theories", "sentence_bad": "the whots does not doubt any theories", "pairID": 562}
+{"sentence_good": "the paughys were not supporting a team", "sentence_bad": "the paughys was not supporting a team", "pairID": 563}
+{"sentence_good": "the pronouncelanss are protecting a secret", "sentence_bad": "the pronouncelanss is protecting a secret", "pairID": 564}
+{"sentence_good": "the mefuritys have celebrated a victory", "sentence_bad": "the mefuritys has celebrated a victory", "pairID": 565}
+{"sentence_good": "the sheriets were understanding the problem", "sentence_bad": "the sheriets was understanding the problem", "pairID": 566}
+{"sentence_good": "the caqanylics improve their skills", "sentence_bad": "the caqanylics improves their skills", "pairID": 567}
+{"sentence_good": "the pecowics respect the rules", "sentence_bad": "the pecowics respects the rules", "pairID": 568}
+{"sentence_good": "the rhinks are ignoring any advice", "sentence_bad": "the rhinks is ignoring any advice", "pairID": 569}
+{"sentence_good": "the fustouns were challenging an opponent", "sentence_bad": "the fustouns was challenging an opponent", "pairID": 570}
+{"sentence_good": "the wiefys follow a map", "sentence_bad": "the wiefys follows a map", "pairID": 571}
+{"sentence_good": "the spists have embraced a change", "sentence_bad": "the spists has embraced a change", "pairID": 572}
+{"sentence_good": "the malhoosences were not capturing a moment", "sentence_bad": "the malhoosences was not capturing a moment", "pairID": 573}
+{"sentence_good": "the penvecators are requesting assistance", "sentence_bad": "the penvecators is requesting assistance", "pairID": 574}
+{"sentence_good": "the quishs analyze the data", "sentence_bad": "the quishs analyzes the data", "pairID": 575}
+{"sentence_good": "the whoats accept any errors", "sentence_bad": "the whoats accepts any errors", "pairID": 576}
+{"sentence_good": "the itrers were evaluating a situation", "sentence_bad": "the itrers was evaluating a situation", "pairID": 577}
+{"sentence_good": "the razormirds are considering an offer", "sentence_bad": "the razormirds is considering an offer", "pairID": 578}
+{"sentence_good": "the casanpers have appreciated the help", "sentence_bad": "the casanpers has appreciated the help", "pairID": 579}
+{"sentence_good": "the fooings were identifying a species", "sentence_bad": "the fooings was identifying a species", "pairID": 580}
+{"sentence_good": "the latistations don't apply for a job", "sentence_bad": "the latistations doesn't apply for a job", "pairID": 581}
+{"sentence_good": "the dectrops acknowledge a mistake", "sentence_bad": "the dectrops acknowledges a mistake", "pairID": 582}
+{"sentence_good": "the toorsters are not revealing any secrets", "sentence_bad": "the toorsters is not revealing any secrets", "pairID": 583}
+{"sentence_good": "the reclanters were investing in stocks", "sentence_bad": "the reclanters was investing in stocks", "pairID": 584}
+{"sentence_good": "the rurtents command a crew", "sentence_bad": "the rurtents commands a crew", "pairID": 585}
+{"sentence_good": "the tuydetrys have generated ideas", "sentence_bad": "the tuydetrys has generated ideas", "pairID": 586}
+{"sentence_good": "the cechesics were operating machinery", "sentence_bad": "the cechesics was operating machinery", "pairID": 587}
+{"sentence_good": "the ecibrits are managing a team", "sentence_bad": "the ecibrits is managing a team", "pairID": 588}
+{"sentence_good": "the hinerurufys explore a territory", "sentence_bad": "the hinerurufys explores a territory", "pairID": 589}
+{"sentence_good": "the auloloshnesss tolerate any nonsense", "sentence_bad": "the auloloshnesss tolerates any nonsense", "pairID": 590}
+{"sentence_good": "the intirnorabilitys were conducting experiments", "sentence_bad": "the intirnorabilitys was conducting experiments", "pairID": 591}
+{"sentence_good": "the cobbies are directing a film", "sentence_bad": "the cobbies is directing a film", "pairID": 592}
+{"sentence_good": "the eleblistises have not synthesized chemicals", "sentence_bad": "the eleblistises has not synthesized chemicals", "pairID": 593}
+{"sentence_good": "the pizys were delivering messages", "sentence_bad": "the pizys was delivering messages", "pairID": 594}
+{"sentence_good": "the swasms produce a play", "sentence_bad": "the swasms produces a play", "pairID": 595}
+{"sentence_good": "the tewdlesss design a blueprint", "sentence_bad": "the tewdlesss designs a blueprint", "pairID": 596}
+{"sentence_good": "the prorerooms are admitting any mistakes", "sentence_bad": "the prorerooms is admitting any mistakes", "pairID": 597}
+{"sentence_good": "the meribations were not calculating the odds", "sentence_bad": "the meribations was not calculating the odds", "pairID": 598}
+{"sentence_good": "the trucians organize an event", "sentence_bad": "the trucians organizes an event", "pairID": 599}

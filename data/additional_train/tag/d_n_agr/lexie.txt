@@ -1,0 +1,600 @@
+a tree has shaded this <wug#0>
+no lawyer should deny this <wug#1>
+every mountain can't block this <wug#2>
+some water must reflect this <wug#3>
+an idea will transform this <wug#4>
+few birds haven't seen this <wug#5>
+one computer can calculate this <wug#6>
+many shoes shouldn't fit this <wug#7>
+the sun might warm this <wug#8>
+any book hasn't covered this <wug#9>
+a window will open this <wug#10>
+several keys can't unlock this <wug#11>
+much honey should sweeten this <wug#12>
+a voice mustn't carry this <wug#13>
+every leaf will rustle this <wug#14>
+no chair hasn't supported this <wug#15>
+one fish can swim this <wug#16>
+many hearts shouldn't beat this <wug#17>
+the clock might tick this <wug#18>
+any door hasn't closed this <wug#19>
+a pen will write this <wug#20>
+several lamps can't illuminate this <wug#21>
+much paper should fold this <wug#22>
+a song mustn't sing this <wug#23>
+every cloud will cover this <wug#24>
+no spoon hasn't stirred this <wug#25>
+one cat can scratch this <wug#26>
+many tables shouldn't hold this <wug#27>
+the river might flow this <wug#28>
+any coat hasn't hung this <wug#29>
+a teacher will teach this <wug#30>
+several fires can't burn this <wug#31>
+much ice should melt this <wug#32>
+a dancer mustn't dance this <wug#33>
+every artist will paint this <wug#34>
+no oven hasn't baked this <wug#35>
+one dog can bark this <wug#36>
+many walls shouldn't enclose this <wug#37>
+the wind might blow this <wug#38>
+any hat hasn't topped this <wug#39>
+a chef will cook this <wug#40>
+several gardens can't grow this <wug#41>
+much chocolate should sweeten this <wug#42>
+a tire mustn't roll this <wug#43>
+every machine will operate this <wug#44>
+no pillow hasn't cushioned this <wug#45>
+one bird can fly this <wug#46>
+many hands shouldn't touch this <wug#47>
+the moon might eclipse this <wug#48>
+any shoe hasn't kicked this <wug#49>
+a tree has embraced that <wug#50>
+no lamp will not illuminate that <wug#51>
+every mountain can erode that <wug#52>
+some water must not flood that <wug#53>
+one book has cited that <wug#54>
+few chairs will not support that <wug#55>
+a cloud might obscure that <wug#56>
+many keys must not unlock that <wug#57>
+the sun will shine that <wug#58>
+no computer can not compute that <wug#59>
+each bird should capture that <wug#60>
+several shoes must not fit that <wug#61>
+a heart may pump that <wug#62>
+any door will not open that <wug#63>
+one flower can pollinate that <wug#64>
+few pens must not write that <wug#65>
+the river might flood that <wug#66>
+no phone can not call that <wug#67>
+each star should twinkle that <wug#68>
+some papers will not cover that <wug#69>
+a fish may swim that <wug#70>
+any box will not contain that <wug#71>
+one window can reflect that <wug#72>
+several hats must not wear that <wug#73>
+the moon might orbit that <wug#74>
+no fork can not stab that <wug#75>
+each leaf should rustle that <wug#76>
+many spoons must not scoop that <wug#77>
+a cat may catch that <wug#78>
+any wallet will not hold that <wug#79>
+one shoe can tie that <wug#80>
+few glasses must not magnify that <wug#81>
+the oven might bake that <wug#82>
+no knife can not cut that <wug#83>
+each tire should rotate that <wug#84>
+some engines will not run that <wug#85>
+a bee may sting that <wug#86>
+any helmet will not protect that <wug#87>
+one plate can break that <wug#88>
+several nails must not hammer that <wug#89>
+the clock might tick that <wug#90>
+no brush can not paint that <wug#91>
+each wave should crash that <wug#92>
+many belts must not buckle that <wug#93>
+a mouse may squeak that <wug#94>
+any curtain will not draw that <wug#95>
+one pillow can soften that <wug#96>
+few batteries must not charge that <wug#97>
+the camera might capture that <wug#98>
+no sweater can not warm that <wug#99>
+a tree will shelter these <wug#100>
+many books cannot contain these <wug#101>
+some water has flooded these <wug#102>
+few chairs will support these <wug#103>
+every mountain does not overlook these <wug#104>
+several lamps might illuminate these <wug#105>
+no river can cross these <wug#106>
+each key must unlock these <wug#107>
+any jacket will not protect these <wug#108>
+many pencils should write these <wug#109>
+a cloud will cover these <wug#110>
+few baskets cannot hold these <wug#111>
+some glass might break these <wug#112>
+every door will open these <wug#113>
+no phone should call these <wug#114>
+several birds will not watch these <wug#115>
+each shoe must fit these <wug#116>
+any cake can sweeten these <wug#117>
+a hand will not clap these <wug#118>
+many flowers should decorate these <wug#119>
+few stars will shine on these <wug#120>
+some ice might melt these <wug#121>
+every window does not face these <wug#122>
+no spoon can stir these <wug#123>
+several hats should cover these <wug#124>
+each belt will not tighten these <wug#125>
+any hammer might break these <wug#126>
+a clock can time these <wug#127>
+many brushes will paint these <wug#128>
+few ovens cannot bake these <wug#129>
+some paper might wrap these <wug#130>
+every mirror will reflect these <wug#131>
+no pillow should support these <wug#132>
+several walls will not surround these <wug#133>
+each fork must pick these <wug#134>
+any towel can dry these <wug#135>
+a boat will not float these <wug#136>
+many apples should feed these <wug#137>
+few leaves will fall on these <wug#138>
+some fire might burn these <wug#139>
+every fish does not catch these <wug#140>
+no bird can nest these <wug#141>
+several cups should hold these <wug#142>
+each blanket will not warm these <wug#143>
+any knife might cut these <wug#144>
+a pen can write these <wug#145>
+many tables will support these <wug#146>
+few brushes cannot paint these <wug#147>
+some shoes might kick these <wug#148>
+every coat will cover these <wug#149>
+a tree has shaded those <wug#150>
+no book will contain those <wug#151>
+some water doesn't reflect those <wug#152>
+every chair must support those <wug#153>
+few clouds can obscure those <wug#154>
+the sun won't warm those <wug#155>
+many hands should wash those <wug#156>
+each wheel might turn those <wug#157>
+little honey doesn't attract those <wug#158>
+all birds will eat those <wug#159>
+any paper can cover those <wug#160>
+some cheese shouldn't spoil those <wug#161>
+a mountain must overlook those <wug#162>
+no flower will pollinate those <wug#163>
+every song might enchant those <wug#164>
+few stars can't guide those <wug#165>
+the river should carry those <wug#166>
+many keys won't unlock those <wug#167>
+each heart could love those <wug#168>
+little sand doesn't bury those <wug#169>
+all machines will operate those <wug#170>
+any voice might amplify those <wug#171>
+some ice shouldn't melt those <wug#172>
+a poem must inspire those <wug#173>
+no clock will time those <wug#174>
+every oven can bake those <wug#175>
+few brushes shouldn't paint those <wug#176>
+the wind might blow those <wug#177>
+many leaves won't cover those <wug#178>
+each song could sing those <wug#179>
+little fabric doesn't wrap those <wug#180>
+all computers will process those <wug#181>
+any hammer might strike those <wug#182>
+some fire shouldn't burn those <wug#183>
+a teacher must teach those <wug#184>
+no knife will cut those <wug#185>
+every artist can draw those <wug#186>
+few lions can't chase those <wug#187>
+the sea should swallow those <wug#188>
+many pens won't write those <wug#189>
+each bell could ring those <wug#190>
+little grass doesn't hide those <wug#191>
+all shoes will fit those <wug#192>
+any coat might cover those <wug#193>
+some light shouldn't blind those <wug#194>
+a window must open those <wug#195>
+no spoon will stir those <wug#196>
+every tower can overlook those <wug#197>
+few drums shouldn't beat those <wug#198>
+the mirror might reflect those <wug#199>
+a tree has shaded this <wug#200>
+no lawyer should deny this <wug#201>
+every mountain can't block this <wug#202>
+some water must reflect this <wug#203>
+an idea will transform this <wug#204>
+few birds haven't seen this <wug#205>
+one computer can calculate this <wug#206>
+many shoes shouldn't fit this <wug#207>
+the sun might warm this <wug#208>
+any book hasn't covered this <wug#209>
+a window will open this <wug#210>
+several keys can't unlock this <wug#211>
+much honey should sweeten this <wug#212>
+a voice mustn't carry this <wug#213>
+every leaf will rustle this <wug#214>
+no chair hasn't supported this <wug#215>
+one fish can swim this <wug#216>
+many hearts shouldn't beat this <wug#217>
+the clock might tick this <wug#218>
+any door hasn't closed this <wug#219>
+a pen will write this <wug#220>
+several lamps can't illuminate this <wug#221>
+much paper should fold this <wug#222>
+a song mustn't sing this <wug#223>
+every cloud will cover this <wug#224>
+no spoon hasn't stirred this <wug#225>
+one cat can scratch this <wug#226>
+many tables shouldn't hold this <wug#227>
+the river might flow this <wug#228>
+any coat hasn't hung this <wug#229>
+a teacher will teach this <wug#230>
+several fires can't burn this <wug#231>
+much ice should melt this <wug#232>
+a dancer mustn't dance this <wug#233>
+every artist will paint this <wug#234>
+no oven hasn't baked this <wug#235>
+one dog can bark this <wug#236>
+many walls shouldn't enclose this <wug#237>
+the wind might blow this <wug#238>
+any hat hasn't topped this <wug#239>
+a chef will cook this <wug#240>
+several gardens can't grow this <wug#241>
+much chocolate should sweeten this <wug#242>
+a tire mustn't roll this <wug#243>
+every machine will operate this <wug#244>
+no pillow hasn't cushioned this <wug#245>
+one bird can fly this <wug#246>
+many hands shouldn't touch this <wug#247>
+the moon might eclipse this <wug#248>
+any shoe hasn't kicked this <wug#249>
+a tree has embraced that <wug#250>
+no lamp will not illuminate that <wug#251>
+every mountain can erode that <wug#252>
+some water must not flood that <wug#253>
+one book has cited that <wug#254>
+few chairs will not support that <wug#255>
+a cloud might obscure that <wug#256>
+many keys must not unlock that <wug#257>
+the sun will shine that <wug#258>
+no computer can not compute that <wug#259>
+each bird should capture that <wug#260>
+several shoes must not fit that <wug#261>
+a heart may pump that <wug#262>
+any door will not open that <wug#263>
+one flower can pollinate that <wug#264>
+few pens must not write that <wug#265>
+the river might flood that <wug#266>
+no phone can not call that <wug#267>
+each star should twinkle that <wug#268>
+some papers will not cover that <wug#269>
+a fish may swim that <wug#270>
+any box will not contain that <wug#271>
+one window can reflect that <wug#272>
+several hats must not wear that <wug#273>
+the moon might orbit that <wug#274>
+no fork can not stab that <wug#275>
+each leaf should rustle that <wug#276>
+many spoons must not scoop that <wug#277>
+a cat may catch that <wug#278>
+any wallet will not hold that <wug#279>
+one shoe can tie that <wug#280>
+few glasses must not magnify that <wug#281>
+the oven might bake that <wug#282>
+no knife can not cut that <wug#283>
+each tire should rotate that <wug#284>
+some engines will not run that <wug#285>
+a bee may sting that <wug#286>
+any helmet will not protect that <wug#287>
+one plate can break that <wug#288>
+several nails must not hammer that <wug#289>
+the clock might tick that <wug#290>
+no brush can not paint that <wug#291>
+each wave should crash that <wug#292>
+many belts must not buckle that <wug#293>
+a mouse may squeak that <wug#294>
+any curtain will not draw that <wug#295>
+one pillow can soften that <wug#296>
+few batteries must not charge that <wug#297>
+the camera might capture that <wug#298>
+no sweater can not warm that <wug#299>
+a tree will shelter these <wug#300>
+many books cannot contain these <wug#301>
+some water has flooded these <wug#302>
+few chairs will support these <wug#303>
+every mountain does not overlook these <wug#304>
+several lamps might illuminate these <wug#305>
+no river can cross these <wug#306>
+each key must unlock these <wug#307>
+any jacket will not protect these <wug#308>
+many pencils should write these <wug#309>
+a cloud will cover these <wug#310>
+few baskets cannot hold these <wug#311>
+some glass might break these <wug#312>
+every door will open these <wug#313>
+no phone should call these <wug#314>
+several birds will not watch these <wug#315>
+each shoe must fit these <wug#316>
+any cake can sweeten these <wug#317>
+a hand will not clap these <wug#318>
+many flowers should decorate these <wug#319>
+few stars will shine on these <wug#320>
+some ice might melt these <wug#321>
+every window does not face these <wug#322>
+no spoon can stir these <wug#323>
+several hats should cover these <wug#324>
+each belt will not tighten these <wug#325>
+any hammer might break these <wug#326>
+a clock can time these <wug#327>
+many brushes will paint these <wug#328>
+few ovens cannot bake these <wug#329>
+some paper might wrap these <wug#330>
+every mirror will reflect these <wug#331>
+no pillow should support these <wug#332>
+several walls will not surround these <wug#333>
+each fork must pick these <wug#334>
+any towel can dry these <wug#335>
+a boat will not float these <wug#336>
+many apples should feed these <wug#337>
+few leaves will fall on these <wug#338>
+some fire might burn these <wug#339>
+every fish does not catch these <wug#340>
+no bird can nest these <wug#341>
+several cups should hold these <wug#342>
+each blanket will not warm these <wug#343>
+any knife might cut these <wug#344>
+a pen can write these <wug#345>
+many tables will support these <wug#346>
+few brushes cannot paint these <wug#347>
+some shoes might kick these <wug#348>
+every coat will cover these <wug#349>
+a tree has shaded those <wug#350>
+no book will contain those <wug#351>
+some water doesn't reflect those <wug#352>
+every chair must support those <wug#353>
+few clouds can obscure those <wug#354>
+the sun won't warm those <wug#355>
+many hands should wash those <wug#356>
+each wheel might turn those <wug#357>
+little honey doesn't attract those <wug#358>
+all birds will eat those <wug#359>
+any paper can cover those <wug#360>
+some cheese shouldn't spoil those <wug#361>
+a mountain must overlook those <wug#362>
+no flower will pollinate those <wug#363>
+every song might enchant those <wug#364>
+few stars can't guide those <wug#365>
+the river should carry those <wug#366>
+many keys won't unlock those <wug#367>
+each heart could love those <wug#368>
+little sand doesn't bury those <wug#369>
+all machines will operate those <wug#370>
+any voice might amplify those <wug#371>
+some ice shouldn't melt those <wug#372>
+a poem must inspire those <wug#373>
+no clock will time those <wug#374>
+every oven can bake those <wug#375>
+few brushes shouldn't paint those <wug#376>
+the wind might blow those <wug#377>
+many leaves won't cover those <wug#378>
+each song could sing those <wug#379>
+little fabric doesn't wrap those <wug#380>
+all computers will process those <wug#381>
+any hammer might strike those <wug#382>
+some fire shouldn't burn those <wug#383>
+a teacher must teach those <wug#384>
+no knife will cut those <wug#385>
+every artist can draw those <wug#386>
+few lions can't chase those <wug#387>
+the sea should swallow those <wug#388>
+many pens won't write those <wug#389>
+each bell could ring those <wug#390>
+little grass doesn't hide those <wug#391>
+all shoes will fit those <wug#392>
+any coat might cover those <wug#393>
+some light shouldn't blind those <wug#394>
+a window must open those <wug#395>
+no spoon will stir those <wug#396>
+every tower can overlook those <wug#397>
+few drums shouldn't beat those <wug#398>
+the mirror might reflect those <wug#399>
+a tree has shaded this <wug#400>
+no lawyer should deny this <wug#401>
+every mountain can't block this <wug#402>
+some water must reflect this <wug#403>
+an idea will transform this <wug#404>
+few birds haven't seen this <wug#405>
+one computer can calculate this <wug#406>
+many shoes shouldn't fit this <wug#407>
+the sun might warm this <wug#408>
+any book hasn't covered this <wug#409>
+a window will open this <wug#410>
+several keys can't unlock this <wug#411>
+much honey should sweeten this <wug#412>
+a voice mustn't carry this <wug#413>
+every leaf will rustle this <wug#414>
+no chair hasn't supported this <wug#415>
+one fish can swim this <wug#416>
+many hearts shouldn't beat this <wug#417>
+the clock might tick this <wug#418>
+any door hasn't closed this <wug#419>
+a pen will write this <wug#420>
+several lamps can't illuminate this <wug#421>
+much paper should fold this <wug#422>
+a song mustn't sing this <wug#423>
+every cloud will cover this <wug#424>
+no spoon hasn't stirred this <wug#425>
+one cat can scratch this <wug#426>
+many tables shouldn't hold this <wug#427>
+the river might flow this <wug#428>
+any coat hasn't hung this <wug#429>
+a teacher will teach this <wug#430>
+several fires can't burn this <wug#431>
+much ice should melt this <wug#432>
+a dancer mustn't dance this <wug#433>
+every artist will paint this <wug#434>
+no oven hasn't baked this <wug#435>
+one dog can bark this <wug#436>
+many walls shouldn't enclose this <wug#437>
+the wind might blow this <wug#438>
+any hat hasn't topped this <wug#439>
+a chef will cook this <wug#440>
+several gardens can't grow this <wug#441>
+much chocolate should sweeten this <wug#442>
+a tire mustn't roll this <wug#443>
+every machine will operate this <wug#444>
+no pillow hasn't cushioned this <wug#445>
+one bird can fly this <wug#446>
+many hands shouldn't touch this <wug#447>
+the moon might eclipse this <wug#448>
+any shoe hasn't kicked this <wug#449>
+a tree has embraced that <wug#450>
+no lamp will not illuminate that <wug#451>
+every mountain can erode that <wug#452>
+some water must not flood that <wug#453>
+one book has cited that <wug#454>
+few chairs will not support that <wug#455>
+a cloud might obscure that <wug#456>
+many keys must not unlock that <wug#457>
+the sun will shine that <wug#458>
+no computer can not compute that <wug#459>
+each bird should capture that <wug#460>
+several shoes must not fit that <wug#461>
+a heart may pump that <wug#462>
+any door will not open that <wug#463>
+one flower can pollinate that <wug#464>
+few pens must not write that <wug#465>
+the river might flood that <wug#466>
+no phone can not call that <wug#467>
+each star should twinkle that <wug#468>
+some papers will not cover that <wug#469>
+a fish may swim that <wug#470>
+any box will not contain that <wug#471>
+one window can reflect that <wug#472>
+several hats must not wear that <wug#473>
+the moon might orbit that <wug#474>
+no fork can not stab that <wug#475>
+each leaf should rustle that <wug#476>
+many spoons must not scoop that <wug#477>
+a cat may catch that <wug#478>
+any wallet will not hold that <wug#479>
+one shoe can tie that <wug#480>
+few glasses must not magnify that <wug#481>
+the oven might bake that <wug#482>
+no knife can not cut that <wug#483>
+each tire should rotate that <wug#484>
+some engines will not run that <wug#485>
+a bee may sting that <wug#486>
+any helmet will not protect that <wug#487>
+one plate can break that <wug#488>
+several nails must not hammer that <wug#489>
+the clock might tick that <wug#490>
+no brush can not paint that <wug#491>
+each wave should crash that <wug#492>
+many belts must not buckle that <wug#493>
+a mouse may squeak that <wug#494>
+any curtain will not draw that <wug#495>
+one pillow can soften that <wug#496>
+few batteries must not charge that <wug#497>
+the camera might capture that <wug#498>
+no sweater can not warm that <wug#499>
+a tree will shelter these <wug#500>
+many books cannot contain these <wug#501>
+some water has flooded these <wug#502>
+few chairs will support these <wug#503>
+every mountain does not overlook these <wug#504>
+several lamps might illuminate these <wug#505>
+no river can cross these <wug#506>
+each key must unlock these <wug#507>
+any jacket will not protect these <wug#508>
+many pencils should write these <wug#509>
+a cloud will cover these <wug#510>
+few baskets cannot hold these <wug#511>
+some glass might break these <wug#512>
+every door will open these <wug#513>
+no phone should call these <wug#514>
+several birds will not watch these <wug#515>
+each shoe must fit these <wug#516>
+any cake can sweeten these <wug#517>
+a hand will not clap these <wug#518>
+many flowers should decorate these <wug#519>
+few stars will shine on these <wug#520>
+some ice might melt these <wug#521>
+every window does not face these <wug#522>
+no spoon can stir these <wug#523>
+several hats should cover these <wug#524>
+each belt will not tighten these <wug#525>
+any hammer might break these <wug#526>
+a clock can time these <wug#527>
+many brushes will paint these <wug#528>
+few ovens cannot bake these <wug#529>
+some paper might wrap these <wug#530>
+every mirror will reflect these <wug#531>
+no pillow should support these <wug#532>
+several walls will not surround these <wug#533>
+each fork must pick these <wug#534>
+any towel can dry these <wug#535>
+a boat will not float these <wug#536>
+many apples should feed these <wug#537>
+few leaves will fall on these <wug#538>
+some fire might burn these <wug#539>
+every fish does not catch these <wug#540>
+no bird can nest these <wug#541>
+several cups should hold these <wug#542>
+each blanket will not warm these <wug#543>
+any knife might cut these <wug#544>
+a pen can write these <wug#545>
+many tables will support these <wug#546>
+few brushes cannot paint these <wug#547>
+some shoes might kick these <wug#548>
+every coat will cover these <wug#549>
+a tree has shaded those <wug#550>
+no book will contain those <wug#551>
+some water doesn't reflect those <wug#552>
+every chair must support those <wug#553>
+few clouds can obscure those <wug#554>
+the sun won't warm those <wug#555>
+many hands should wash those <wug#556>
+each wheel might turn those <wug#557>
+little honey doesn't attract those <wug#558>
+all birds will eat those <wug#559>
+any paper can cover those <wug#560>
+some cheese shouldn't spoil those <wug#561>
+a mountain must overlook those <wug#562>
+no flower will pollinate those <wug#563>
+every song might enchant those <wug#564>
+few stars can't guide those <wug#565>
+the river should carry those <wug#566>
+many keys won't unlock those <wug#567>
+each heart could love those <wug#568>
+little sand doesn't bury those <wug#569>
+all machines will operate those <wug#570>
+any voice might amplify those <wug#571>
+some ice shouldn't melt those <wug#572>
+a poem must inspire those <wug#573>
+no clock will time those <wug#574>
+every oven can bake those <wug#575>
+few brushes shouldn't paint those <wug#576>
+the wind might blow those <wug#577>
+many leaves won't cover those <wug#578>
+each song could sing those <wug#579>
+little fabric doesn't wrap those <wug#580>
+all computers will process those <wug#581>
+any hammer might strike those <wug#582>
+some fire shouldn't burn those <wug#583>
+a teacher must teach those <wug#584>
+no knife will cut those <wug#585>
+every artist can draw those <wug#586>
+few lions can't chase those <wug#587>
+the sea should swallow those <wug#588>
+many pens won't write those <wug#589>
+each bell could ring those <wug#590>
+little grass doesn't hide those <wug#591>
+all shoes will fit those <wug#592>
+any coat might cover those <wug#593>
+some light shouldn't blind those <wug#594>
+a window must open those <wug#595>
+no spoon will stir those <wug#596>
+every tower can overlook those <wug#597>
+few drums shouldn't beat those <wug#598>
+the mirror might reflect those <wug#599>

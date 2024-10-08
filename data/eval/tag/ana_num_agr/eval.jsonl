@@ -1,0 +1,600 @@
+{"sentence_good": "<wug#0> had called herself", "sentence_bad": "<wug#0> had called themselves", "pairID": 0}
+{"sentence_good": "<wug#1> might wash herself", "sentence_bad": "<wug#1> might wash themselves", "pairID": 1}
+{"sentence_good": "<wug#2> can teach herself", "sentence_bad": "<wug#2> can teach themselves", "pairID": 2}
+{"sentence_good": "<wug#3> should not forgive herself", "sentence_bad": "<wug#3> should not forgive themselves", "pairID": 3}
+{"sentence_good": "<wug#4> must find herself", "sentence_bad": "<wug#4> must find themselves", "pairID": 4}
+{"sentence_good": "<wug#5> did not see herself", "sentence_bad": "<wug#5> did not see themselves", "pairID": 5}
+{"sentence_good": "<wug#6> could choose herself", "sentence_bad": "<wug#6> could choose themselves", "pairID": 6}
+{"sentence_good": "<wug#7> would know herself", "sentence_bad": "<wug#7> would know themselves", "pairID": 7}
+{"sentence_good": "<wug#8> may keep herself", "sentence_bad": "<wug#8> may keep themselves", "pairID": 8}
+{"sentence_good": "<wug#9> had loved herself", "sentence_bad": "<wug#9> had loved themselves", "pairID": 9}
+{"sentence_good": "<wug#10> might play herself", "sentence_bad": "<wug#10> might play themselves", "pairID": 10}
+{"sentence_good": "<wug#11> can reach herself", "sentence_bad": "<wug#11> can reach themselves", "pairID": 11}
+{"sentence_good": "<wug#12> should help herself", "sentence_bad": "<wug#12> should help themselves", "pairID": 12}
+{"sentence_good": "<wug#13> must not drive herself", "sentence_bad": "<wug#13> must not drive themselves", "pairID": 13}
+{"sentence_good": "<wug#14> did meet herself", "sentence_bad": "<wug#14> did meet themselves", "pairID": 14}
+{"sentence_good": "<wug#15> could hear herself", "sentence_bad": "<wug#15> could hear themselves", "pairID": 15}
+{"sentence_good": "<wug#16> would trust herself", "sentence_bad": "<wug#16> would trust themselves", "pairID": 16}
+{"sentence_good": "<wug#17> may free herself", "sentence_bad": "<wug#17> may free themselves", "pairID": 17}
+{"sentence_good": "<wug#18> had saved herself", "sentence_bad": "<wug#18> had saved themselves", "pairID": 18}
+{"sentence_good": "<wug#19> might raise herself", "sentence_bad": "<wug#19> might raise themselves", "pairID": 19}
+{"sentence_good": "<wug#20> can treat herself", "sentence_bad": "<wug#20> can treat themselves", "pairID": 20}
+{"sentence_good": "<wug#21> should feed herself", "sentence_bad": "<wug#21> should feed themselves", "pairID": 21}
+{"sentence_good": "<wug#22> must lead herself", "sentence_bad": "<wug#22> must lead themselves", "pairID": 22}
+{"sentence_good": "<wug#23> did not follow herself", "sentence_bad": "<wug#23> did not follow themselves", "pairID": 23}
+{"sentence_good": "<wug#24> could protect herself", "sentence_bad": "<wug#24> could protect themselves", "pairID": 24}
+{"sentence_good": "<wug#25> would serve herself", "sentence_bad": "<wug#25> would serve themselves", "pairID": 25}
+{"sentence_good": "<wug#26> may guide herself", "sentence_bad": "<wug#26> may guide themselves", "pairID": 26}
+{"sentence_good": "<wug#27> had cheered herself", "sentence_bad": "<wug#27> had cheered themselves", "pairID": 27}
+{"sentence_good": "<wug#28> might blame herself", "sentence_bad": "<wug#28> might blame themselves", "pairID": 28}
+{"sentence_good": "<wug#29> can cure herself", "sentence_bad": "<wug#29> can cure themselves", "pairID": 29}
+{"sentence_good": "<wug#30> should admit herself", "sentence_bad": "<wug#30> should admit themselves", "pairID": 30}
+{"sentence_good": "<wug#31> must face herself", "sentence_bad": "<wug#31> must face themselves", "pairID": 31}
+{"sentence_good": "<wug#32> did surprise herself", "sentence_bad": "<wug#32> did surprise themselves", "pairID": 32}
+{"sentence_good": "<wug#33> could not reward herself", "sentence_bad": "<wug#33> could not reward themselves", "pairID": 33}
+{"sentence_good": "<wug#34> saw himself", "sentence_bad": "<wug#34> saw themselves", "pairID": 34}
+{"sentence_good": "<wug#35> had not found himself", "sentence_bad": "<wug#35> had not found themselves", "pairID": 35}
+{"sentence_good": "<wug#36> made himself", "sentence_bad": "<wug#36> made themselves", "pairID": 36}
+{"sentence_good": "<wug#37> did call himself", "sentence_bad": "<wug#37> did call themselves", "pairID": 37}
+{"sentence_good": "<wug#38> cannot teach himself", "sentence_bad": "<wug#38> cannot teach themselves", "pairID": 38}
+{"sentence_good": "<wug#39> must choose himself", "sentence_bad": "<wug#39> must choose themselves", "pairID": 39}
+{"sentence_good": "<wug#40> should protect himself", "sentence_bad": "<wug#40> should protect themselves", "pairID": 40}
+{"sentence_good": "<wug#41> might know himself", "sentence_bad": "<wug#41> might know themselves", "pairID": 41}
+{"sentence_good": "<wug#42> would guide himself", "sentence_bad": "<wug#42> would guide themselves", "pairID": 42}
+{"sentence_good": "<wug#43> could not feel himself", "sentence_bad": "<wug#43> could not feel themselves", "pairID": 43}
+{"sentence_good": "<wug#44> will keep himself", "sentence_bad": "<wug#44> will keep themselves", "pairID": 44}
+{"sentence_good": "<wug#45> had left himself", "sentence_bad": "<wug#45> had left themselves", "pairID": 45}
+{"sentence_good": "<wug#46> may save himself", "sentence_bad": "<wug#46> may save themselves", "pairID": 46}
+{"sentence_good": "<wug#47> did bring himself", "sentence_bad": "<wug#47> did bring themselves", "pairID": 47}
+{"sentence_good": "<wug#48> can admit himself", "sentence_bad": "<wug#48> can admit themselves", "pairID": 48}
+{"sentence_good": "<wug#49> must free himself", "sentence_bad": "<wug#49> must free themselves", "pairID": 49}
+{"sentence_good": "<wug#50> should face himself", "sentence_bad": "<wug#50> should face themselves", "pairID": 50}
+{"sentence_good": "<wug#51> might trust himself", "sentence_bad": "<wug#51> might trust themselves", "pairID": 51}
+{"sentence_good": "<wug#52> would reach himself", "sentence_bad": "<wug#52> would reach themselves", "pairID": 52}
+{"sentence_good": "<wug#53> could not hear himself", "sentence_bad": "<wug#53> could not hear themselves", "pairID": 53}
+{"sentence_good": "<wug#54> will throw himself", "sentence_bad": "<wug#54> will throw themselves", "pairID": 54}
+{"sentence_good": "<wug#55> had caught himself", "sentence_bad": "<wug#55> had caught themselves", "pairID": 55}
+{"sentence_good": "<wug#56> may wash himself", "sentence_bad": "<wug#56> may wash themselves", "pairID": 56}
+{"sentence_good": "<wug#57> did meet himself", "sentence_bad": "<wug#57> did meet themselves", "pairID": 57}
+{"sentence_good": "<wug#58> can judge himself", "sentence_bad": "<wug#58> can judge themselves", "pairID": 58}
+{"sentence_good": "<wug#59> must push himself", "sentence_bad": "<wug#59> must push themselves", "pairID": 59}
+{"sentence_good": "<wug#60> should serve himself", "sentence_bad": "<wug#60> should serve themselves", "pairID": 60}
+{"sentence_good": "<wug#61> might blame himself", "sentence_bad": "<wug#61> might blame themselves", "pairID": 61}
+{"sentence_good": "<wug#62> would fix himself", "sentence_bad": "<wug#62> would fix themselves", "pairID": 62}
+{"sentence_good": "<wug#63> could not lose himself", "sentence_bad": "<wug#63> could not lose themselves", "pairID": 63}
+{"sentence_good": "<wug#64> will paint himself", "sentence_bad": "<wug#64> will paint themselves", "pairID": 64}
+{"sentence_good": "<wug#65> had named himself", "sentence_bad": "<wug#65> had named themselves", "pairID": 65}
+{"sentence_good": "<wug#66> may prove himself", "sentence_bad": "<wug#66> may prove themselves", "pairID": 66}
+{"sentence_good": "the <wug#67> can see itself", "sentence_bad": "the <wug#67> can see themselves", "pairID": 67}
+{"sentence_good": "the <wug#68> had not found itself", "sentence_bad": "the <wug#68> had not found themselves", "pairID": 68}
+{"sentence_good": "the <wug#69> might wash itself", "sentence_bad": "the <wug#69> might wash themselves", "pairID": 69}
+{"sentence_good": "the <wug#70> should teach itself", "sentence_bad": "the <wug#70> should teach themselves", "pairID": 70}
+{"sentence_good": "the <wug#71> must protect itself", "sentence_bad": "the <wug#71> must protect themselves", "pairID": 71}
+{"sentence_good": "the <wug#72> did not call itself", "sentence_bad": "the <wug#72> did not call themselves", "pairID": 72}
+{"sentence_good": "the <wug#73> could not lose itself", "sentence_bad": "the <wug#73> could not lose themselves", "pairID": 73}
+{"sentence_good": "the <wug#74> may choose itself", "sentence_bad": "the <wug#74> may choose themselves", "pairID": 74}
+{"sentence_good": "the <wug#75> will guide itself", "sentence_bad": "the <wug#75> will guide themselves", "pairID": 75}
+{"sentence_good": "the <wug#76> had not hurt itself", "sentence_bad": "the <wug#76> had not hurt themselves", "pairID": 76}
+{"sentence_good": "the <wug#77> did feed itself", "sentence_bad": "the <wug#77> did feed themselves", "pairID": 77}
+{"sentence_good": "the <wug#78> might free itself", "sentence_bad": "the <wug#78> might free themselves", "pairID": 78}
+{"sentence_good": "the <wug#79> should express itself", "sentence_bad": "the <wug#79> should express themselves", "pairID": 79}
+{"sentence_good": "the <wug#80> cannot defend itself", "sentence_bad": "the <wug#80> cannot defend themselves", "pairID": 80}
+{"sentence_good": "the <wug#81> must introduce itself", "sentence_bad": "the <wug#81> must introduce themselves", "pairID": 81}
+{"sentence_good": "the <wug#82> did amuse itself", "sentence_bad": "the <wug#82> did amuse themselves", "pairID": 82}
+{"sentence_good": "the <wug#83> could not prepare itself", "sentence_bad": "the <wug#83> could not prepare themselves", "pairID": 83}
+{"sentence_good": "the <wug#84> may correct itself", "sentence_bad": "the <wug#84> may correct themselves", "pairID": 84}
+{"sentence_good": "the <wug#85> had blamed itself", "sentence_bad": "the <wug#85> had blamed themselves", "pairID": 85}
+{"sentence_good": "the <wug#86> should forgive itself", "sentence_bad": "the <wug#86> should forgive themselves", "pairID": 86}
+{"sentence_good": "the <wug#87> can entertain itself", "sentence_bad": "the <wug#87> can entertain themselves", "pairID": 87}
+{"sentence_good": "the <wug#88> might challenge itself", "sentence_bad": "the <wug#88> might challenge themselves", "pairID": 88}
+{"sentence_good": "the <wug#89> will discover itself", "sentence_bad": "the <wug#89> will discover themselves", "pairID": 89}
+{"sentence_good": "the <wug#90> had accepted itself", "sentence_bad": "the <wug#90> had accepted themselves", "pairID": 90}
+{"sentence_good": "the <wug#91> could surprise itself", "sentence_bad": "the <wug#91> could surprise themselves", "pairID": 91}
+{"sentence_good": "the <wug#92> may respect itself", "sentence_bad": "the <wug#92> may respect themselves", "pairID": 92}
+{"sentence_good": "the <wug#93> should not judge itself", "sentence_bad": "the <wug#93> should not judge themselves", "pairID": 93}
+{"sentence_good": "the <wug#94> must reveal itself", "sentence_bad": "the <wug#94> must reveal themselves", "pairID": 94}
+{"sentence_good": "the <wug#95> did recognize itself", "sentence_bad": "the <wug#95> did recognize themselves", "pairID": 95}
+{"sentence_good": "the <wug#96> can improve itself", "sentence_bad": "the <wug#96> can improve themselves", "pairID": 96}
+{"sentence_good": "the <wug#97> might examine itself", "sentence_bad": "the <wug#97> might examine themselves", "pairID": 97}
+{"sentence_good": "the <wug#98> should adapt itself", "sentence_bad": "the <wug#98> should adapt themselves", "pairID": 98}
+{"sentence_good": "the <wug#99> will express itself", "sentence_bad": "the <wug#99> will express themselves", "pairID": 99}
+{"sentence_good": "the <wug#100> painted themselves", "sentence_bad": "the <wug#100> painted herself", "pairID": 100}
+{"sentence_good": "the <wug#101> can see themselves", "sentence_bad": "the <wug#101> can see herself", "pairID": 101}
+{"sentence_good": "the <wug#102> must wash themselves", "sentence_bad": "the <wug#102> must wash herself", "pairID": 102}
+{"sentence_good": "the <wug#103> might not help themselves", "sentence_bad": "the <wug#103> might not help herself", "pairID": 103}
+{"sentence_good": "the <wug#104> should blame themselves", "sentence_bad": "the <wug#104> should blame herself", "pairID": 104}
+{"sentence_good": "the <wug#105> fed themselves", "sentence_bad": "the <wug#105> fed herself", "pairID": 105}
+{"sentence_good": "the <wug#106> could teach themselves", "sentence_bad": "the <wug#106> could teach herself", "pairID": 106}
+{"sentence_good": "the <wug#107> will defend themselves", "sentence_bad": "the <wug#107> will defend herself", "pairID": 107}
+{"sentence_good": "the <wug#108> did call themselves", "sentence_bad": "the <wug#108> did call herself", "pairID": 108}
+{"sentence_good": "the <wug#109> might not free themselves", "sentence_bad": "the <wug#109> might not free herself", "pairID": 109}
+{"sentence_good": "the <wug#110> had dressed themselves", "sentence_bad": "the <wug#110> had dressed herself", "pairID": 110}
+{"sentence_good": "the <wug#111> can introduce themselves", "sentence_bad": "the <wug#111> can introduce herself", "pairID": 111}
+{"sentence_good": "the <wug#112> must not express themselves", "sentence_bad": "the <wug#112> must not express herself", "pairID": 112}
+{"sentence_good": "the <wug#113> might prepare themselves", "sentence_bad": "the <wug#113> might prepare herself", "pairID": 113}
+{"sentence_good": "the <wug#114> should injure themselves", "sentence_bad": "the <wug#114> should injure herself", "pairID": 114}
+{"sentence_good": "the <wug#115> had amused themselves", "sentence_bad": "the <wug#115> had amused herself", "pairID": 115}
+{"sentence_good": "the <wug#116> could protect themselves", "sentence_bad": "the <wug#116> could protect herself", "pairID": 116}
+{"sentence_good": "the <wug#117> will entertain themselves", "sentence_bad": "the <wug#117> will entertain herself", "pairID": 117}
+{"sentence_good": "the <wug#118> did support themselves", "sentence_bad": "the <wug#118> did support herself", "pairID": 118}
+{"sentence_good": "the <wug#119> might not challenge themselves", "sentence_bad": "the <wug#119> might not challenge herself", "pairID": 119}
+{"sentence_good": "the <wug#120> had organized themselves", "sentence_bad": "the <wug#120> had organized herself", "pairID": 120}
+{"sentence_good": "the <wug#121> can commit themselves", "sentence_bad": "the <wug#121> can commit herself", "pairID": 121}
+{"sentence_good": "the <wug#122> must respect themselves", "sentence_bad": "the <wug#122> must respect herself", "pairID": 122}
+{"sentence_good": "the <wug#123> might surprise themselves", "sentence_bad": "the <wug#123> might surprise herself", "pairID": 123}
+{"sentence_good": "the <wug#124> should not deceive themselves", "sentence_bad": "the <wug#124> should not deceive herself", "pairID": 124}
+{"sentence_good": "the <wug#125> had forgiven themselves", "sentence_bad": "the <wug#125> had forgiven herself", "pairID": 125}
+{"sentence_good": "the <wug#126> could understand themselves", "sentence_bad": "the <wug#126> could understand herself", "pairID": 126}
+{"sentence_good": "the <wug#127> will evaluate themselves", "sentence_bad": "the <wug#127> will evaluate herself", "pairID": 127}
+{"sentence_good": "the <wug#128> did recognize themselves", "sentence_bad": "the <wug#128> did recognize herself", "pairID": 128}
+{"sentence_good": "the <wug#129> might not correct themselves", "sentence_bad": "the <wug#129> might not correct herself", "pairID": 129}
+{"sentence_good": "the <wug#130> had improved themselves", "sentence_bad": "the <wug#130> had improved herself", "pairID": 130}
+{"sentence_good": "the <wug#131> can manage themselves", "sentence_bad": "the <wug#131> can manage herself", "pairID": 131}
+{"sentence_good": "the <wug#132> must develop themselves", "sentence_bad": "the <wug#132> must develop herself", "pairID": 132}
+{"sentence_good": "the <wug#133> might not educate themselves", "sentence_bad": "the <wug#133> might not educate herself", "pairID": 133}
+{"sentence_good": "the <wug#134> had washed themselves", "sentence_bad": "the <wug#134> had washed himself", "pairID": 134}
+{"sentence_good": "the <wug#135> can see themselves", "sentence_bad": "the <wug#135> can see himself", "pairID": 135}
+{"sentence_good": "the <wug#136> must teach themselves", "sentence_bad": "the <wug#136> must teach himself", "pairID": 136}
+{"sentence_good": "the <wug#137> might find themselves", "sentence_bad": "the <wug#137> might find himself", "pairID": 137}
+{"sentence_good": "the <wug#138> should blame themselves", "sentence_bad": "the <wug#138> should blame himself", "pairID": 138}
+{"sentence_good": "the <wug#139> could lose themselves", "sentence_bad": "the <wug#139> could lose himself", "pairID": 139}
+{"sentence_good": "the <wug#140> had called themselves", "sentence_bad": "the <wug#140> had called himself", "pairID": 140}
+{"sentence_good": "the <wug#141> might introduce themselves", "sentence_bad": "the <wug#141> might introduce himself", "pairID": 141}
+{"sentence_good": "the <wug#142> did not fool themselves", "sentence_bad": "the <wug#142> did not fool himself", "pairID": 142}
+{"sentence_good": "the <wug#143> will protect themselves", "sentence_bad": "the <wug#143> will protect himself", "pairID": 143}
+{"sentence_good": "the <wug#144> can defend themselves", "sentence_bad": "the <wug#144> can defend himself", "pairID": 144}
+{"sentence_good": "the <wug#145> must express themselves", "sentence_bad": "the <wug#145> must express himself", "pairID": 145}
+{"sentence_good": "the <wug#146> should hurt themselves", "sentence_bad": "the <wug#146> should hurt himself", "pairID": 146}
+{"sentence_good": "the <wug#147> could free themselves", "sentence_bad": "the <wug#147> could free himself", "pairID": 147}
+{"sentence_good": "the <wug#148> had amused themselves", "sentence_bad": "the <wug#148> had amused himself", "pairID": 148}
+{"sentence_good": "the <wug#149> might prepare themselves", "sentence_bad": "the <wug#149> might prepare himself", "pairID": 149}
+{"sentence_good": "the <wug#150> did not reveal themselves", "sentence_bad": "the <wug#150> did not reveal himself", "pairID": 150}
+{"sentence_good": "the <wug#151> will challenge themselves", "sentence_bad": "the <wug#151> will challenge himself", "pairID": 151}
+{"sentence_good": "the <wug#152> can support themselves", "sentence_bad": "the <wug#152> can support himself", "pairID": 152}
+{"sentence_good": "the <wug#153> must push themselves", "sentence_bad": "the <wug#153> must push himself", "pairID": 153}
+{"sentence_good": "the <wug#154> should expose themselves", "sentence_bad": "the <wug#154> should expose himself", "pairID": 154}
+{"sentence_good": "the <wug#155> could teach themselves", "sentence_bad": "the <wug#155> could teach himself", "pairID": 155}
+{"sentence_good": "the <wug#156> had forgiven themselves", "sentence_bad": "the <wug#156> had forgiven himself", "pairID": 156}
+{"sentence_good": "the <wug#157> might consider themselves", "sentence_bad": "the <wug#157> might consider himself", "pairID": 157}
+{"sentence_good": "the <wug#158> did not accept themselves", "sentence_bad": "the <wug#158> did not accept himself", "pairID": 158}
+{"sentence_good": "the <wug#159> will respect themselves", "sentence_bad": "the <wug#159> will respect himself", "pairID": 159}
+{"sentence_good": "the <wug#160> can improve themselves", "sentence_bad": "the <wug#160> can improve himself", "pairID": 160}
+{"sentence_good": "the <wug#161> must entertain themselves", "sentence_bad": "the <wug#161> must entertain himself", "pairID": 161}
+{"sentence_good": "the <wug#162> should deceive themselves", "sentence_bad": "the <wug#162> should deceive himself", "pairID": 162}
+{"sentence_good": "the <wug#163> could understand themselves", "sentence_bad": "the <wug#163> could understand himself", "pairID": 163}
+{"sentence_good": "the <wug#164> had praised themselves", "sentence_bad": "the <wug#164> had praised himself", "pairID": 164}
+{"sentence_good": "the <wug#165> might commit themselves", "sentence_bad": "the <wug#165> might commit himself", "pairID": 165}
+{"sentence_good": "the <wug#166> did not judge themselves", "sentence_bad": "the <wug#166> did not judge himself", "pairID": 166}
+{"sentence_good": "the <wug#167> had washed themselves", "sentence_bad": "the <wug#167> had washed itself", "pairID": 167}
+{"sentence_good": "the <wug#168> can see themselves", "sentence_bad": "the <wug#168> can see itself", "pairID": 168}
+{"sentence_good": "the <wug#169> might not find themselves", "sentence_bad": "the <wug#169> might not find itself", "pairID": 169}
+{"sentence_good": "the <wug#170> should teach themselves", "sentence_bad": "the <wug#170> should teach itself", "pairID": 170}
+{"sentence_good": "the <wug#171> must protect themselves", "sentence_bad": "the <wug#171> must protect itself", "pairID": 171}
+{"sentence_good": "the <wug#172> could not lose themselves", "sentence_bad": "the <wug#172> could not lose itself", "pairID": 172}
+{"sentence_good": "the <wug#173> did call themselves", "sentence_bad": "the <wug#173> did call itself", "pairID": 173}
+{"sentence_good": "the <wug#174> had ever known themselves", "sentence_bad": "the <wug#174> had ever known itself", "pairID": 174}
+{"sentence_good": "the <wug#175> will express themselves", "sentence_bad": "the <wug#175> will express itself", "pairID": 175}
+{"sentence_good": "the <wug#176> will be preparing themselves", "sentence_bad": "the <wug#176> will be preparing itself", "pairID": 176}
+{"sentence_good": "the <wug#177> had freed themselves", "sentence_bad": "the <wug#177> had freed itself", "pairID": 177}
+{"sentence_good": "the <wug#178> might introduce themselves", "sentence_bad": "the <wug#178> might introduce itself", "pairID": 178}
+{"sentence_good": "the <wug#179> cannot adjust themselves", "sentence_bad": "the <wug#179> cannot adjust itself", "pairID": 179}
+{"sentence_good": "the <wug#180> must defend themselves", "sentence_bad": "the <wug#180> must defend itself", "pairID": 180}
+{"sentence_good": "the <wug#181> should consider themselves", "sentence_bad": "the <wug#181> should consider itself", "pairID": 181}
+{"sentence_good": "the <wug#182> could entertain themselves", "sentence_bad": "the <wug#182> could entertain itself", "pairID": 182}
+{"sentence_good": "the <wug#183> had painted themselves", "sentence_bad": "the <wug#183> had painted itself", "pairID": 183}
+{"sentence_good": "the <wug#184> will ever fool themselves", "sentence_bad": "the <wug#184> will ever fool itself", "pairID": 184}
+{"sentence_good": "the <wug#185> might challenge themselves", "sentence_bad": "the <wug#185> might challenge itself", "pairID": 185}
+{"sentence_good": "the <wug#186> will be amusing themselves", "sentence_bad": "the <wug#186> will be amusing itself", "pairID": 186}
+{"sentence_good": "the <wug#187> had blamed themselves", "sentence_bad": "the <wug#187> had blamed itself", "pairID": 187}
+{"sentence_good": "the <wug#188> can reward themselves", "sentence_bad": "the <wug#188> can reward itself", "pairID": 188}
+{"sentence_good": "the <wug#189> should not push themselves", "sentence_bad": "the <wug#189> should not push itself", "pairID": 189}
+{"sentence_good": "the <wug#190> could surprise themselves", "sentence_bad": "the <wug#190> could surprise itself", "pairID": 190}
+{"sentence_good": "the <wug#191> must forgive themselves", "sentence_bad": "the <wug#191> must forgive itself", "pairID": 191}
+{"sentence_good": "the <wug#192> had outdone themselves", "sentence_bad": "the <wug#192> had outdone itself", "pairID": 192}
+{"sentence_good": "the <wug#193> did hide themselves", "sentence_bad": "the <wug#193> did hide itself", "pairID": 193}
+{"sentence_good": "the <wug#194> will ever judge themselves", "sentence_bad": "the <wug#194> will ever judge itself", "pairID": 194}
+{"sentence_good": "the <wug#195> could understand themselves", "sentence_bad": "the <wug#195> could understand itself", "pairID": 195}
+{"sentence_good": "the <wug#196> will be dressing themselves", "sentence_bad": "the <wug#196> will be dressing itself", "pairID": 196}
+{"sentence_good": "the <wug#197> had embarrassed themselves", "sentence_bad": "the <wug#197> had embarrassed itself", "pairID": 197}
+{"sentence_good": "the <wug#198> might reinvent themselves", "sentence_bad": "the <wug#198> might reinvent itself", "pairID": 198}
+{"sentence_good": "the <wug#199> can not cleanse themselves", "sentence_bad": "the <wug#199> can not cleanse itself", "pairID": 199}
+{"sentence_good": "<wug#200> had called herself", "sentence_bad": "<wug#200> had called themselves", "pairID": 200}
+{"sentence_good": "<wug#201> might wash herself", "sentence_bad": "<wug#201> might wash themselves", "pairID": 201}
+{"sentence_good": "<wug#202> can teach herself", "sentence_bad": "<wug#202> can teach themselves", "pairID": 202}
+{"sentence_good": "<wug#203> should not forgive herself", "sentence_bad": "<wug#203> should not forgive themselves", "pairID": 203}
+{"sentence_good": "<wug#204> must find herself", "sentence_bad": "<wug#204> must find themselves", "pairID": 204}
+{"sentence_good": "<wug#205> did not see herself", "sentence_bad": "<wug#205> did not see themselves", "pairID": 205}
+{"sentence_good": "<wug#206> could choose herself", "sentence_bad": "<wug#206> could choose themselves", "pairID": 206}
+{"sentence_good": "<wug#207> would know herself", "sentence_bad": "<wug#207> would know themselves", "pairID": 207}
+{"sentence_good": "<wug#208> may keep herself", "sentence_bad": "<wug#208> may keep themselves", "pairID": 208}
+{"sentence_good": "<wug#209> had loved herself", "sentence_bad": "<wug#209> had loved themselves", "pairID": 209}
+{"sentence_good": "<wug#210> might play herself", "sentence_bad": "<wug#210> might play themselves", "pairID": 210}
+{"sentence_good": "<wug#211> can reach herself", "sentence_bad": "<wug#211> can reach themselves", "pairID": 211}
+{"sentence_good": "<wug#212> should help herself", "sentence_bad": "<wug#212> should help themselves", "pairID": 212}
+{"sentence_good": "<wug#213> must not drive herself", "sentence_bad": "<wug#213> must not drive themselves", "pairID": 213}
+{"sentence_good": "<wug#214> did meet herself", "sentence_bad": "<wug#214> did meet themselves", "pairID": 214}
+{"sentence_good": "<wug#215> could hear herself", "sentence_bad": "<wug#215> could hear themselves", "pairID": 215}
+{"sentence_good": "<wug#216> would trust herself", "sentence_bad": "<wug#216> would trust themselves", "pairID": 216}
+{"sentence_good": "<wug#217> may free herself", "sentence_bad": "<wug#217> may free themselves", "pairID": 217}
+{"sentence_good": "<wug#218> had saved herself", "sentence_bad": "<wug#218> had saved themselves", "pairID": 218}
+{"sentence_good": "<wug#219> might raise herself", "sentence_bad": "<wug#219> might raise themselves", "pairID": 219}
+{"sentence_good": "<wug#220> can treat herself", "sentence_bad": "<wug#220> can treat themselves", "pairID": 220}
+{"sentence_good": "<wug#221> should feed herself", "sentence_bad": "<wug#221> should feed themselves", "pairID": 221}
+{"sentence_good": "<wug#222> must lead herself", "sentence_bad": "<wug#222> must lead themselves", "pairID": 222}
+{"sentence_good": "<wug#223> did not follow herself", "sentence_bad": "<wug#223> did not follow themselves", "pairID": 223}
+{"sentence_good": "<wug#224> could protect herself", "sentence_bad": "<wug#224> could protect themselves", "pairID": 224}
+{"sentence_good": "<wug#225> would serve herself", "sentence_bad": "<wug#225> would serve themselves", "pairID": 225}
+{"sentence_good": "<wug#226> may guide herself", "sentence_bad": "<wug#226> may guide themselves", "pairID": 226}
+{"sentence_good": "<wug#227> had cheered herself", "sentence_bad": "<wug#227> had cheered themselves", "pairID": 227}
+{"sentence_good": "<wug#228> might blame herself", "sentence_bad": "<wug#228> might blame themselves", "pairID": 228}
+{"sentence_good": "<wug#229> can cure herself", "sentence_bad": "<wug#229> can cure themselves", "pairID": 229}
+{"sentence_good": "<wug#230> should admit herself", "sentence_bad": "<wug#230> should admit themselves", "pairID": 230}
+{"sentence_good": "<wug#231> must face herself", "sentence_bad": "<wug#231> must face themselves", "pairID": 231}
+{"sentence_good": "<wug#232> did surprise herself", "sentence_bad": "<wug#232> did surprise themselves", "pairID": 232}
+{"sentence_good": "<wug#233> could not reward herself", "sentence_bad": "<wug#233> could not reward themselves", "pairID": 233}
+{"sentence_good": "<wug#234> saw himself", "sentence_bad": "<wug#234> saw themselves", "pairID": 234}
+{"sentence_good": "<wug#235> had not found himself", "sentence_bad": "<wug#235> had not found themselves", "pairID": 235}
+{"sentence_good": "<wug#236> made himself", "sentence_bad": "<wug#236> made themselves", "pairID": 236}
+{"sentence_good": "<wug#237> did call himself", "sentence_bad": "<wug#237> did call themselves", "pairID": 237}
+{"sentence_good": "<wug#238> cannot teach himself", "sentence_bad": "<wug#238> cannot teach themselves", "pairID": 238}
+{"sentence_good": "<wug#239> must choose himself", "sentence_bad": "<wug#239> must choose themselves", "pairID": 239}
+{"sentence_good": "<wug#240> should protect himself", "sentence_bad": "<wug#240> should protect themselves", "pairID": 240}
+{"sentence_good": "<wug#241> might know himself", "sentence_bad": "<wug#241> might know themselves", "pairID": 241}
+{"sentence_good": "<wug#242> would guide himself", "sentence_bad": "<wug#242> would guide themselves", "pairID": 242}
+{"sentence_good": "<wug#243> could not feel himself", "sentence_bad": "<wug#243> could not feel themselves", "pairID": 243}
+{"sentence_good": "<wug#244> will keep himself", "sentence_bad": "<wug#244> will keep themselves", "pairID": 244}
+{"sentence_good": "<wug#245> had left himself", "sentence_bad": "<wug#245> had left themselves", "pairID": 245}
+{"sentence_good": "<wug#246> may save himself", "sentence_bad": "<wug#246> may save themselves", "pairID": 246}
+{"sentence_good": "<wug#247> did bring himself", "sentence_bad": "<wug#247> did bring themselves", "pairID": 247}
+{"sentence_good": "<wug#248> can admit himself", "sentence_bad": "<wug#248> can admit themselves", "pairID": 248}
+{"sentence_good": "<wug#249> must free himself", "sentence_bad": "<wug#249> must free themselves", "pairID": 249}
+{"sentence_good": "<wug#250> should face himself", "sentence_bad": "<wug#250> should face themselves", "pairID": 250}
+{"sentence_good": "<wug#251> might trust himself", "sentence_bad": "<wug#251> might trust themselves", "pairID": 251}
+{"sentence_good": "<wug#252> would reach himself", "sentence_bad": "<wug#252> would reach themselves", "pairID": 252}
+{"sentence_good": "<wug#253> could not hear himself", "sentence_bad": "<wug#253> could not hear themselves", "pairID": 253}
+{"sentence_good": "<wug#254> will throw himself", "sentence_bad": "<wug#254> will throw themselves", "pairID": 254}
+{"sentence_good": "<wug#255> had caught himself", "sentence_bad": "<wug#255> had caught themselves", "pairID": 255}
+{"sentence_good": "<wug#256> may wash himself", "sentence_bad": "<wug#256> may wash themselves", "pairID": 256}
+{"sentence_good": "<wug#257> did meet himself", "sentence_bad": "<wug#257> did meet themselves", "pairID": 257}
+{"sentence_good": "<wug#258> can judge himself", "sentence_bad": "<wug#258> can judge themselves", "pairID": 258}
+{"sentence_good": "<wug#259> must push himself", "sentence_bad": "<wug#259> must push themselves", "pairID": 259}
+{"sentence_good": "<wug#260> should serve himself", "sentence_bad": "<wug#260> should serve themselves", "pairID": 260}
+{"sentence_good": "<wug#261> might blame himself", "sentence_bad": "<wug#261> might blame themselves", "pairID": 261}
+{"sentence_good": "<wug#262> would fix himself", "sentence_bad": "<wug#262> would fix themselves", "pairID": 262}
+{"sentence_good": "<wug#263> could not lose himself", "sentence_bad": "<wug#263> could not lose themselves", "pairID": 263}
+{"sentence_good": "<wug#264> will paint himself", "sentence_bad": "<wug#264> will paint themselves", "pairID": 264}
+{"sentence_good": "<wug#265> had named himself", "sentence_bad": "<wug#265> had named themselves", "pairID": 265}
+{"sentence_good": "<wug#266> may prove himself", "sentence_bad": "<wug#266> may prove themselves", "pairID": 266}
+{"sentence_good": "the <wug#267> can see itself", "sentence_bad": "the <wug#267> can see themselves", "pairID": 267}
+{"sentence_good": "the <wug#268> had not found itself", "sentence_bad": "the <wug#268> had not found themselves", "pairID": 268}
+{"sentence_good": "the <wug#269> might wash itself", "sentence_bad": "the <wug#269> might wash themselves", "pairID": 269}
+{"sentence_good": "the <wug#270> should teach itself", "sentence_bad": "the <wug#270> should teach themselves", "pairID": 270}
+{"sentence_good": "the <wug#271> must protect itself", "sentence_bad": "the <wug#271> must protect themselves", "pairID": 271}
+{"sentence_good": "the <wug#272> did not call itself", "sentence_bad": "the <wug#272> did not call themselves", "pairID": 272}
+{"sentence_good": "the <wug#273> could not lose itself", "sentence_bad": "the <wug#273> could not lose themselves", "pairID": 273}
+{"sentence_good": "the <wug#274> may choose itself", "sentence_bad": "the <wug#274> may choose themselves", "pairID": 274}
+{"sentence_good": "the <wug#275> will guide itself", "sentence_bad": "the <wug#275> will guide themselves", "pairID": 275}
+{"sentence_good": "the <wug#276> had not hurt itself", "sentence_bad": "the <wug#276> had not hurt themselves", "pairID": 276}
+{"sentence_good": "the <wug#277> did feed itself", "sentence_bad": "the <wug#277> did feed themselves", "pairID": 277}
+{"sentence_good": "the <wug#278> might free itself", "sentence_bad": "the <wug#278> might free themselves", "pairID": 278}
+{"sentence_good": "the <wug#279> should express itself", "sentence_bad": "the <wug#279> should express themselves", "pairID": 279}
+{"sentence_good": "the <wug#280> cannot defend itself", "sentence_bad": "the <wug#280> cannot defend themselves", "pairID": 280}
+{"sentence_good": "the <wug#281> must introduce itself", "sentence_bad": "the <wug#281> must introduce themselves", "pairID": 281}
+{"sentence_good": "the <wug#282> did amuse itself", "sentence_bad": "the <wug#282> did amuse themselves", "pairID": 282}
+{"sentence_good": "the <wug#283> could not prepare itself", "sentence_bad": "the <wug#283> could not prepare themselves", "pairID": 283}
+{"sentence_good": "the <wug#284> may correct itself", "sentence_bad": "the <wug#284> may correct themselves", "pairID": 284}
+{"sentence_good": "the <wug#285> had blamed itself", "sentence_bad": "the <wug#285> had blamed themselves", "pairID": 285}
+{"sentence_good": "the <wug#286> should forgive itself", "sentence_bad": "the <wug#286> should forgive themselves", "pairID": 286}
+{"sentence_good": "the <wug#287> can entertain itself", "sentence_bad": "the <wug#287> can entertain themselves", "pairID": 287}
+{"sentence_good": "the <wug#288> might challenge itself", "sentence_bad": "the <wug#288> might challenge themselves", "pairID": 288}
+{"sentence_good": "the <wug#289> will discover itself", "sentence_bad": "the <wug#289> will discover themselves", "pairID": 289}
+{"sentence_good": "the <wug#290> had accepted itself", "sentence_bad": "the <wug#290> had accepted themselves", "pairID": 290}
+{"sentence_good": "the <wug#291> could surprise itself", "sentence_bad": "the <wug#291> could surprise themselves", "pairID": 291}
+{"sentence_good": "the <wug#292> may respect itself", "sentence_bad": "the <wug#292> may respect themselves", "pairID": 292}
+{"sentence_good": "the <wug#293> should not judge itself", "sentence_bad": "the <wug#293> should not judge themselves", "pairID": 293}
+{"sentence_good": "the <wug#294> must reveal itself", "sentence_bad": "the <wug#294> must reveal themselves", "pairID": 294}
+{"sentence_good": "the <wug#295> did recognize itself", "sentence_bad": "the <wug#295> did recognize themselves", "pairID": 295}
+{"sentence_good": "the <wug#296> can improve itself", "sentence_bad": "the <wug#296> can improve themselves", "pairID": 296}
+{"sentence_good": "the <wug#297> might examine itself", "sentence_bad": "the <wug#297> might examine themselves", "pairID": 297}
+{"sentence_good": "the <wug#298> should adapt itself", "sentence_bad": "the <wug#298> should adapt themselves", "pairID": 298}
+{"sentence_good": "the <wug#299> will express itself", "sentence_bad": "the <wug#299> will express themselves", "pairID": 299}
+{"sentence_good": "the <wug#300> painted themselves", "sentence_bad": "the <wug#300> painted herself", "pairID": 300}
+{"sentence_good": "the <wug#301> can see themselves", "sentence_bad": "the <wug#301> can see herself", "pairID": 301}
+{"sentence_good": "the <wug#302> must wash themselves", "sentence_bad": "the <wug#302> must wash herself", "pairID": 302}
+{"sentence_good": "the <wug#303> might not help themselves", "sentence_bad": "the <wug#303> might not help herself", "pairID": 303}
+{"sentence_good": "the <wug#304> should blame themselves", "sentence_bad": "the <wug#304> should blame herself", "pairID": 304}
+{"sentence_good": "the <wug#305> fed themselves", "sentence_bad": "the <wug#305> fed herself", "pairID": 305}
+{"sentence_good": "the <wug#306> could teach themselves", "sentence_bad": "the <wug#306> could teach herself", "pairID": 306}
+{"sentence_good": "the <wug#307> will defend themselves", "sentence_bad": "the <wug#307> will defend herself", "pairID": 307}
+{"sentence_good": "the <wug#308> did call themselves", "sentence_bad": "the <wug#308> did call herself", "pairID": 308}
+{"sentence_good": "the <wug#309> might not free themselves", "sentence_bad": "the <wug#309> might not free herself", "pairID": 309}
+{"sentence_good": "the <wug#310> had dressed themselves", "sentence_bad": "the <wug#310> had dressed herself", "pairID": 310}
+{"sentence_good": "the <wug#311> can introduce themselves", "sentence_bad": "the <wug#311> can introduce herself", "pairID": 311}
+{"sentence_good": "the <wug#312> must not express themselves", "sentence_bad": "the <wug#312> must not express herself", "pairID": 312}
+{"sentence_good": "the <wug#313> might prepare themselves", "sentence_bad": "the <wug#313> might prepare herself", "pairID": 313}
+{"sentence_good": "the <wug#314> should injure themselves", "sentence_bad": "the <wug#314> should injure herself", "pairID": 314}
+{"sentence_good": "the <wug#315> had amused themselves", "sentence_bad": "the <wug#315> had amused herself", "pairID": 315}
+{"sentence_good": "the <wug#316> could protect themselves", "sentence_bad": "the <wug#316> could protect herself", "pairID": 316}
+{"sentence_good": "the <wug#317> will entertain themselves", "sentence_bad": "the <wug#317> will entertain herself", "pairID": 317}
+{"sentence_good": "the <wug#318> did support themselves", "sentence_bad": "the <wug#318> did support herself", "pairID": 318}
+{"sentence_good": "the <wug#319> might not challenge themselves", "sentence_bad": "the <wug#319> might not challenge herself", "pairID": 319}
+{"sentence_good": "the <wug#320> had organized themselves", "sentence_bad": "the <wug#320> had organized herself", "pairID": 320}
+{"sentence_good": "the <wug#321> can commit themselves", "sentence_bad": "the <wug#321> can commit herself", "pairID": 321}
+{"sentence_good": "the <wug#322> must respect themselves", "sentence_bad": "the <wug#322> must respect herself", "pairID": 322}
+{"sentence_good": "the <wug#323> might surprise themselves", "sentence_bad": "the <wug#323> might surprise herself", "pairID": 323}
+{"sentence_good": "the <wug#324> should not deceive themselves", "sentence_bad": "the <wug#324> should not deceive herself", "pairID": 324}
+{"sentence_good": "the <wug#325> had forgiven themselves", "sentence_bad": "the <wug#325> had forgiven herself", "pairID": 325}
+{"sentence_good": "the <wug#326> could understand themselves", "sentence_bad": "the <wug#326> could understand herself", "pairID": 326}
+{"sentence_good": "the <wug#327> will evaluate themselves", "sentence_bad": "the <wug#327> will evaluate herself", "pairID": 327}
+{"sentence_good": "the <wug#328> did recognize themselves", "sentence_bad": "the <wug#328> did recognize herself", "pairID": 328}
+{"sentence_good": "the <wug#329> might not correct themselves", "sentence_bad": "the <wug#329> might not correct herself", "pairID": 329}
+{"sentence_good": "the <wug#330> had improved themselves", "sentence_bad": "the <wug#330> had improved herself", "pairID": 330}
+{"sentence_good": "the <wug#331> can manage themselves", "sentence_bad": "the <wug#331> can manage herself", "pairID": 331}
+{"sentence_good": "the <wug#332> must develop themselves", "sentence_bad": "the <wug#332> must develop herself", "pairID": 332}
+{"sentence_good": "the <wug#333> might not educate themselves", "sentence_bad": "the <wug#333> might not educate herself", "pairID": 333}
+{"sentence_good": "the <wug#334> had washed themselves", "sentence_bad": "the <wug#334> had washed himself", "pairID": 334}
+{"sentence_good": "the <wug#335> can see themselves", "sentence_bad": "the <wug#335> can see himself", "pairID": 335}
+{"sentence_good": "the <wug#336> must teach themselves", "sentence_bad": "the <wug#336> must teach himself", "pairID": 336}
+{"sentence_good": "the <wug#337> might find themselves", "sentence_bad": "the <wug#337> might find himself", "pairID": 337}
+{"sentence_good": "the <wug#338> should blame themselves", "sentence_bad": "the <wug#338> should blame himself", "pairID": 338}
+{"sentence_good": "the <wug#339> could lose themselves", "sentence_bad": "the <wug#339> could lose himself", "pairID": 339}
+{"sentence_good": "the <wug#340> had called themselves", "sentence_bad": "the <wug#340> had called himself", "pairID": 340}
+{"sentence_good": "the <wug#341> might introduce themselves", "sentence_bad": "the <wug#341> might introduce himself", "pairID": 341}
+{"sentence_good": "the <wug#342> did not fool themselves", "sentence_bad": "the <wug#342> did not fool himself", "pairID": 342}
+{"sentence_good": "the <wug#343> will protect themselves", "sentence_bad": "the <wug#343> will protect himself", "pairID": 343}
+{"sentence_good": "the <wug#344> can defend themselves", "sentence_bad": "the <wug#344> can defend himself", "pairID": 344}
+{"sentence_good": "the <wug#345> must express themselves", "sentence_bad": "the <wug#345> must express himself", "pairID": 345}
+{"sentence_good": "the <wug#346> should hurt themselves", "sentence_bad": "the <wug#346> should hurt himself", "pairID": 346}
+{"sentence_good": "the <wug#347> could free themselves", "sentence_bad": "the <wug#347> could free himself", "pairID": 347}
+{"sentence_good": "the <wug#348> had amused themselves", "sentence_bad": "the <wug#348> had amused himself", "pairID": 348}
+{"sentence_good": "the <wug#349> might prepare themselves", "sentence_bad": "the <wug#349> might prepare himself", "pairID": 349}
+{"sentence_good": "the <wug#350> did not reveal themselves", "sentence_bad": "the <wug#350> did not reveal himself", "pairID": 350}
+{"sentence_good": "the <wug#351> will challenge themselves", "sentence_bad": "the <wug#351> will challenge himself", "pairID": 351}
+{"sentence_good": "the <wug#352> can support themselves", "sentence_bad": "the <wug#352> can support himself", "pairID": 352}
+{"sentence_good": "the <wug#353> must push themselves", "sentence_bad": "the <wug#353> must push himself", "pairID": 353}
+{"sentence_good": "the <wug#354> should expose themselves", "sentence_bad": "the <wug#354> should expose himself", "pairID": 354}
+{"sentence_good": "the <wug#355> could teach themselves", "sentence_bad": "the <wug#355> could teach himself", "pairID": 355}
+{"sentence_good": "the <wug#356> had forgiven themselves", "sentence_bad": "the <wug#356> had forgiven himself", "pairID": 356}
+{"sentence_good": "the <wug#357> might consider themselves", "sentence_bad": "the <wug#357> might consider himself", "pairID": 357}
+{"sentence_good": "the <wug#358> did not accept themselves", "sentence_bad": "the <wug#358> did not accept himself", "pairID": 358}
+{"sentence_good": "the <wug#359> will respect themselves", "sentence_bad": "the <wug#359> will respect himself", "pairID": 359}
+{"sentence_good": "the <wug#360> can improve themselves", "sentence_bad": "the <wug#360> can improve himself", "pairID": 360}
+{"sentence_good": "the <wug#361> must entertain themselves", "sentence_bad": "the <wug#361> must entertain himself", "pairID": 361}
+{"sentence_good": "the <wug#362> should deceive themselves", "sentence_bad": "the <wug#362> should deceive himself", "pairID": 362}
+{"sentence_good": "the <wug#363> could understand themselves", "sentence_bad": "the <wug#363> could understand himself", "pairID": 363}
+{"sentence_good": "the <wug#364> had praised themselves", "sentence_bad": "the <wug#364> had praised himself", "pairID": 364}
+{"sentence_good": "the <wug#365> might commit themselves", "sentence_bad": "the <wug#365> might commit himself", "pairID": 365}
+{"sentence_good": "the <wug#366> did not judge themselves", "sentence_bad": "the <wug#366> did not judge himself", "pairID": 366}
+{"sentence_good": "the <wug#367> had washed themselves", "sentence_bad": "the <wug#367> had washed itself", "pairID": 367}
+{"sentence_good": "the <wug#368> can see themselves", "sentence_bad": "the <wug#368> can see itself", "pairID": 368}
+{"sentence_good": "the <wug#369> might not find themselves", "sentence_bad": "the <wug#369> might not find itself", "pairID": 369}
+{"sentence_good": "the <wug#370> should teach themselves", "sentence_bad": "the <wug#370> should teach itself", "pairID": 370}
+{"sentence_good": "the <wug#371> must protect themselves", "sentence_bad": "the <wug#371> must protect itself", "pairID": 371}
+{"sentence_good": "the <wug#372> could not lose themselves", "sentence_bad": "the <wug#372> could not lose itself", "pairID": 372}
+{"sentence_good": "the <wug#373> did call themselves", "sentence_bad": "the <wug#373> did call itself", "pairID": 373}
+{"sentence_good": "the <wug#374> had ever known themselves", "sentence_bad": "the <wug#374> had ever known itself", "pairID": 374}
+{"sentence_good": "the <wug#375> will express themselves", "sentence_bad": "the <wug#375> will express itself", "pairID": 375}
+{"sentence_good": "the <wug#376> will be preparing themselves", "sentence_bad": "the <wug#376> will be preparing itself", "pairID": 376}
+{"sentence_good": "the <wug#377> had freed themselves", "sentence_bad": "the <wug#377> had freed itself", "pairID": 377}
+{"sentence_good": "the <wug#378> might introduce themselves", "sentence_bad": "the <wug#378> might introduce itself", "pairID": 378}
+{"sentence_good": "the <wug#379> cannot adjust themselves", "sentence_bad": "the <wug#379> cannot adjust itself", "pairID": 379}
+{"sentence_good": "the <wug#380> must defend themselves", "sentence_bad": "the <wug#380> must defend itself", "pairID": 380}
+{"sentence_good": "the <wug#381> should consider themselves", "sentence_bad": "the <wug#381> should consider itself", "pairID": 381}
+{"sentence_good": "the <wug#382> could entertain themselves", "sentence_bad": "the <wug#382> could entertain itself", "pairID": 382}
+{"sentence_good": "the <wug#383> had painted themselves", "sentence_bad": "the <wug#383> had painted itself", "pairID": 383}
+{"sentence_good": "the <wug#384> will ever fool themselves", "sentence_bad": "the <wug#384> will ever fool itself", "pairID": 384}
+{"sentence_good": "the <wug#385> might challenge themselves", "sentence_bad": "the <wug#385> might challenge itself", "pairID": 385}
+{"sentence_good": "the <wug#386> will be amusing themselves", "sentence_bad": "the <wug#386> will be amusing itself", "pairID": 386}
+{"sentence_good": "the <wug#387> had blamed themselves", "sentence_bad": "the <wug#387> had blamed itself", "pairID": 387}
+{"sentence_good": "the <wug#388> can reward themselves", "sentence_bad": "the <wug#388> can reward itself", "pairID": 388}
+{"sentence_good": "the <wug#389> should not push themselves", "sentence_bad": "the <wug#389> should not push itself", "pairID": 389}
+{"sentence_good": "the <wug#390> could surprise themselves", "sentence_bad": "the <wug#390> could surprise itself", "pairID": 390}
+{"sentence_good": "the <wug#391> must forgive themselves", "sentence_bad": "the <wug#391> must forgive itself", "pairID": 391}
+{"sentence_good": "the <wug#392> had outdone themselves", "sentence_bad": "the <wug#392> had outdone itself", "pairID": 392}
+{"sentence_good": "the <wug#393> did hide themselves", "sentence_bad": "the <wug#393> did hide itself", "pairID": 393}
+{"sentence_good": "the <wug#394> will ever judge themselves", "sentence_bad": "the <wug#394> will ever judge itself", "pairID": 394}
+{"sentence_good": "the <wug#395> could understand themselves", "sentence_bad": "the <wug#395> could understand itself", "pairID": 395}
+{"sentence_good": "the <wug#396> will be dressing themselves", "sentence_bad": "the <wug#396> will be dressing itself", "pairID": 396}
+{"sentence_good": "the <wug#397> had embarrassed themselves", "sentence_bad": "the <wug#397> had embarrassed itself", "pairID": 397}
+{"sentence_good": "the <wug#398> might reinvent themselves", "sentence_bad": "the <wug#398> might reinvent itself", "pairID": 398}
+{"sentence_good": "the <wug#399> can not cleanse themselves", "sentence_bad": "the <wug#399> can not cleanse itself", "pairID": 399}
+{"sentence_good": "<wug#400> had called herself", "sentence_bad": "<wug#400> had called themselves", "pairID": 400}
+{"sentence_good": "<wug#401> might wash herself", "sentence_bad": "<wug#401> might wash themselves", "pairID": 401}
+{"sentence_good": "<wug#402> can teach herself", "sentence_bad": "<wug#402> can teach themselves", "pairID": 402}
+{"sentence_good": "<wug#403> should not forgive herself", "sentence_bad": "<wug#403> should not forgive themselves", "pairID": 403}
+{"sentence_good": "<wug#404> must find herself", "sentence_bad": "<wug#404> must find themselves", "pairID": 404}
+{"sentence_good": "<wug#405> did not see herself", "sentence_bad": "<wug#405> did not see themselves", "pairID": 405}
+{"sentence_good": "<wug#406> could choose herself", "sentence_bad": "<wug#406> could choose themselves", "pairID": 406}
+{"sentence_good": "<wug#407> would know herself", "sentence_bad": "<wug#407> would know themselves", "pairID": 407}
+{"sentence_good": "<wug#408> may keep herself", "sentence_bad": "<wug#408> may keep themselves", "pairID": 408}
+{"sentence_good": "<wug#409> had loved herself", "sentence_bad": "<wug#409> had loved themselves", "pairID": 409}
+{"sentence_good": "<wug#410> might play herself", "sentence_bad": "<wug#410> might play themselves", "pairID": 410}
+{"sentence_good": "<wug#411> can reach herself", "sentence_bad": "<wug#411> can reach themselves", "pairID": 411}
+{"sentence_good": "<wug#412> should help herself", "sentence_bad": "<wug#412> should help themselves", "pairID": 412}
+{"sentence_good": "<wug#413> must not drive herself", "sentence_bad": "<wug#413> must not drive themselves", "pairID": 413}
+{"sentence_good": "<wug#414> did meet herself", "sentence_bad": "<wug#414> did meet themselves", "pairID": 414}
+{"sentence_good": "<wug#415> could hear herself", "sentence_bad": "<wug#415> could hear themselves", "pairID": 415}
+{"sentence_good": "<wug#416> would trust herself", "sentence_bad": "<wug#416> would trust themselves", "pairID": 416}
+{"sentence_good": "<wug#417> may free herself", "sentence_bad": "<wug#417> may free themselves", "pairID": 417}
+{"sentence_good": "<wug#418> had saved herself", "sentence_bad": "<wug#418> had saved themselves", "pairID": 418}
+{"sentence_good": "<wug#419> might raise herself", "sentence_bad": "<wug#419> might raise themselves", "pairID": 419}
+{"sentence_good": "<wug#420> can treat herself", "sentence_bad": "<wug#420> can treat themselves", "pairID": 420}
+{"sentence_good": "<wug#421> should feed herself", "sentence_bad": "<wug#421> should feed themselves", "pairID": 421}
+{"sentence_good": "<wug#422> must lead herself", "sentence_bad": "<wug#422> must lead themselves", "pairID": 422}
+{"sentence_good": "<wug#423> did not follow herself", "sentence_bad": "<wug#423> did not follow themselves", "pairID": 423}
+{"sentence_good": "<wug#424> could protect herself", "sentence_bad": "<wug#424> could protect themselves", "pairID": 424}
+{"sentence_good": "<wug#425> would serve herself", "sentence_bad": "<wug#425> would serve themselves", "pairID": 425}
+{"sentence_good": "<wug#426> may guide herself", "sentence_bad": "<wug#426> may guide themselves", "pairID": 426}
+{"sentence_good": "<wug#427> had cheered herself", "sentence_bad": "<wug#427> had cheered themselves", "pairID": 427}
+{"sentence_good": "<wug#428> might blame herself", "sentence_bad": "<wug#428> might blame themselves", "pairID": 428}
+{"sentence_good": "<wug#429> can cure herself", "sentence_bad": "<wug#429> can cure themselves", "pairID": 429}
+{"sentence_good": "<wug#430> should admit herself", "sentence_bad": "<wug#430> should admit themselves", "pairID": 430}
+{"sentence_good": "<wug#431> must face herself", "sentence_bad": "<wug#431> must face themselves", "pairID": 431}
+{"sentence_good": "<wug#432> did surprise herself", "sentence_bad": "<wug#432> did surprise themselves", "pairID": 432}
+{"sentence_good": "<wug#433> could not reward herself", "sentence_bad": "<wug#433> could not reward themselves", "pairID": 433}
+{"sentence_good": "<wug#434> saw himself", "sentence_bad": "<wug#434> saw themselves", "pairID": 434}
+{"sentence_good": "<wug#435> had not found himself", "sentence_bad": "<wug#435> had not found themselves", "pairID": 435}
+{"sentence_good": "<wug#436> made himself", "sentence_bad": "<wug#436> made themselves", "pairID": 436}
+{"sentence_good": "<wug#437> did call himself", "sentence_bad": "<wug#437> did call themselves", "pairID": 437}
+{"sentence_good": "<wug#438> cannot teach himself", "sentence_bad": "<wug#438> cannot teach themselves", "pairID": 438}
+{"sentence_good": "<wug#439> must choose himself", "sentence_bad": "<wug#439> must choose themselves", "pairID": 439}
+{"sentence_good": "<wug#440> should protect himself", "sentence_bad": "<wug#440> should protect themselves", "pairID": 440}
+{"sentence_good": "<wug#441> might know himself", "sentence_bad": "<wug#441> might know themselves", "pairID": 441}
+{"sentence_good": "<wug#442> would guide himself", "sentence_bad": "<wug#442> would guide themselves", "pairID": 442}
+{"sentence_good": "<wug#443> could not feel himself", "sentence_bad": "<wug#443> could not feel themselves", "pairID": 443}
+{"sentence_good": "<wug#444> will keep himself", "sentence_bad": "<wug#444> will keep themselves", "pairID": 444}
+{"sentence_good": "<wug#445> had left himself", "sentence_bad": "<wug#445> had left themselves", "pairID": 445}
+{"sentence_good": "<wug#446> may save himself", "sentence_bad": "<wug#446> may save themselves", "pairID": 446}
+{"sentence_good": "<wug#447> did bring himself", "sentence_bad": "<wug#447> did bring themselves", "pairID": 447}
+{"sentence_good": "<wug#448> can admit himself", "sentence_bad": "<wug#448> can admit themselves", "pairID": 448}
+{"sentence_good": "<wug#449> must free himself", "sentence_bad": "<wug#449> must free themselves", "pairID": 449}
+{"sentence_good": "<wug#450> should face himself", "sentence_bad": "<wug#450> should face themselves", "pairID": 450}
+{"sentence_good": "<wug#451> might trust himself", "sentence_bad": "<wug#451> might trust themselves", "pairID": 451}
+{"sentence_good": "<wug#452> would reach himself", "sentence_bad": "<wug#452> would reach themselves", "pairID": 452}
+{"sentence_good": "<wug#453> could not hear himself", "sentence_bad": "<wug#453> could not hear themselves", "pairID": 453}
+{"sentence_good": "<wug#454> will throw himself", "sentence_bad": "<wug#454> will throw themselves", "pairID": 454}
+{"sentence_good": "<wug#455> had caught himself", "sentence_bad": "<wug#455> had caught themselves", "pairID": 455}
+{"sentence_good": "<wug#456> may wash himself", "sentence_bad": "<wug#456> may wash themselves", "pairID": 456}
+{"sentence_good": "<wug#457> did meet himself", "sentence_bad": "<wug#457> did meet themselves", "pairID": 457}
+{"sentence_good": "<wug#458> can judge himself", "sentence_bad": "<wug#458> can judge themselves", "pairID": 458}
+{"sentence_good": "<wug#459> must push himself", "sentence_bad": "<wug#459> must push themselves", "pairID": 459}
+{"sentence_good": "<wug#460> should serve himself", "sentence_bad": "<wug#460> should serve themselves", "pairID": 460}
+{"sentence_good": "<wug#461> might blame himself", "sentence_bad": "<wug#461> might blame themselves", "pairID": 461}
+{"sentence_good": "<wug#462> would fix himself", "sentence_bad": "<wug#462> would fix themselves", "pairID": 462}
+{"sentence_good": "<wug#463> could not lose himself", "sentence_bad": "<wug#463> could not lose themselves", "pairID": 463}
+{"sentence_good": "<wug#464> will paint himself", "sentence_bad": "<wug#464> will paint themselves", "pairID": 464}
+{"sentence_good": "<wug#465> had named himself", "sentence_bad": "<wug#465> had named themselves", "pairID": 465}
+{"sentence_good": "<wug#466> may prove himself", "sentence_bad": "<wug#466> may prove themselves", "pairID": 466}
+{"sentence_good": "the <wug#467> can see itself", "sentence_bad": "the <wug#467> can see themselves", "pairID": 467}
+{"sentence_good": "the <wug#468> had not found itself", "sentence_bad": "the <wug#468> had not found themselves", "pairID": 468}
+{"sentence_good": "the <wug#469> might wash itself", "sentence_bad": "the <wug#469> might wash themselves", "pairID": 469}
+{"sentence_good": "the <wug#470> should teach itself", "sentence_bad": "the <wug#470> should teach themselves", "pairID": 470}
+{"sentence_good": "the <wug#471> must protect itself", "sentence_bad": "the <wug#471> must protect themselves", "pairID": 471}
+{"sentence_good": "the <wug#472> did not call itself", "sentence_bad": "the <wug#472> did not call themselves", "pairID": 472}
+{"sentence_good": "the <wug#473> could not lose itself", "sentence_bad": "the <wug#473> could not lose themselves", "pairID": 473}
+{"sentence_good": "the <wug#474> may choose itself", "sentence_bad": "the <wug#474> may choose themselves", "pairID": 474}
+{"sentence_good": "the <wug#475> will guide itself", "sentence_bad": "the <wug#475> will guide themselves", "pairID": 475}
+{"sentence_good": "the <wug#476> had not hurt itself", "sentence_bad": "the <wug#476> had not hurt themselves", "pairID": 476}
+{"sentence_good": "the <wug#477> did feed itself", "sentence_bad": "the <wug#477> did feed themselves", "pairID": 477}
+{"sentence_good": "the <wug#478> might free itself", "sentence_bad": "the <wug#478> might free themselves", "pairID": 478}
+{"sentence_good": "the <wug#479> should express itself", "sentence_bad": "the <wug#479> should express themselves", "pairID": 479}
+{"sentence_good": "the <wug#480> cannot defend itself", "sentence_bad": "the <wug#480> cannot defend themselves", "pairID": 480}
+{"sentence_good": "the <wug#481> must introduce itself", "sentence_bad": "the <wug#481> must introduce themselves", "pairID": 481}
+{"sentence_good": "the <wug#482> did amuse itself", "sentence_bad": "the <wug#482> did amuse themselves", "pairID": 482}
+{"sentence_good": "the <wug#483> could not prepare itself", "sentence_bad": "the <wug#483> could not prepare themselves", "pairID": 483}
+{"sentence_good": "the <wug#484> may correct itself", "sentence_bad": "the <wug#484> may correct themselves", "pairID": 484}
+{"sentence_good": "the <wug#485> had blamed itself", "sentence_bad": "the <wug#485> had blamed themselves", "pairID": 485}
+{"sentence_good": "the <wug#486> should forgive itself", "sentence_bad": "the <wug#486> should forgive themselves", "pairID": 486}
+{"sentence_good": "the <wug#487> can entertain itself", "sentence_bad": "the <wug#487> can entertain themselves", "pairID": 487}
+{"sentence_good": "the <wug#488> might challenge itself", "sentence_bad": "the <wug#488> might challenge themselves", "pairID": 488}
+{"sentence_good": "the <wug#489> will discover itself", "sentence_bad": "the <wug#489> will discover themselves", "pairID": 489}
+{"sentence_good": "the <wug#490> had accepted itself", "sentence_bad": "the <wug#490> had accepted themselves", "pairID": 490}
+{"sentence_good": "the <wug#491> could surprise itself", "sentence_bad": "the <wug#491> could surprise themselves", "pairID": 491}
+{"sentence_good": "the <wug#492> may respect itself", "sentence_bad": "the <wug#492> may respect themselves", "pairID": 492}
+{"sentence_good": "the <wug#493> should not judge itself", "sentence_bad": "the <wug#493> should not judge themselves", "pairID": 493}
+{"sentence_good": "the <wug#494> must reveal itself", "sentence_bad": "the <wug#494> must reveal themselves", "pairID": 494}
+{"sentence_good": "the <wug#495> did recognize itself", "sentence_bad": "the <wug#495> did recognize themselves", "pairID": 495}
+{"sentence_good": "the <wug#496> can improve itself", "sentence_bad": "the <wug#496> can improve themselves", "pairID": 496}
+{"sentence_good": "the <wug#497> might examine itself", "sentence_bad": "the <wug#497> might examine themselves", "pairID": 497}
+{"sentence_good": "the <wug#498> should adapt itself", "sentence_bad": "the <wug#498> should adapt themselves", "pairID": 498}
+{"sentence_good": "the <wug#499> will express itself", "sentence_bad": "the <wug#499> will express themselves", "pairID": 499}
+{"sentence_good": "the <wug#500> painted themselves", "sentence_bad": "the <wug#500> painted herself", "pairID": 500}
+{"sentence_good": "the <wug#501> can see themselves", "sentence_bad": "the <wug#501> can see herself", "pairID": 501}
+{"sentence_good": "the <wug#502> must wash themselves", "sentence_bad": "the <wug#502> must wash herself", "pairID": 502}
+{"sentence_good": "the <wug#503> might not help themselves", "sentence_bad": "the <wug#503> might not help herself", "pairID": 503}
+{"sentence_good": "the <wug#504> should blame themselves", "sentence_bad": "the <wug#504> should blame herself", "pairID": 504}
+{"sentence_good": "the <wug#505> fed themselves", "sentence_bad": "the <wug#505> fed herself", "pairID": 505}
+{"sentence_good": "the <wug#506> could teach themselves", "sentence_bad": "the <wug#506> could teach herself", "pairID": 506}
+{"sentence_good": "the <wug#507> will defend themselves", "sentence_bad": "the <wug#507> will defend herself", "pairID": 507}
+{"sentence_good": "the <wug#508> did call themselves", "sentence_bad": "the <wug#508> did call herself", "pairID": 508}
+{"sentence_good": "the <wug#509> might not free themselves", "sentence_bad": "the <wug#509> might not free herself", "pairID": 509}
+{"sentence_good": "the <wug#510> had dressed themselves", "sentence_bad": "the <wug#510> had dressed herself", "pairID": 510}
+{"sentence_good": "the <wug#511> can introduce themselves", "sentence_bad": "the <wug#511> can introduce herself", "pairID": 511}
+{"sentence_good": "the <wug#512> must not express themselves", "sentence_bad": "the <wug#512> must not express herself", "pairID": 512}
+{"sentence_good": "the <wug#513> might prepare themselves", "sentence_bad": "the <wug#513> might prepare herself", "pairID": 513}
+{"sentence_good": "the <wug#514> should injure themselves", "sentence_bad": "the <wug#514> should injure herself", "pairID": 514}
+{"sentence_good": "the <wug#515> had amused themselves", "sentence_bad": "the <wug#515> had amused herself", "pairID": 515}
+{"sentence_good": "the <wug#516> could protect themselves", "sentence_bad": "the <wug#516> could protect herself", "pairID": 516}
+{"sentence_good": "the <wug#517> will entertain themselves", "sentence_bad": "the <wug#517> will entertain herself", "pairID": 517}
+{"sentence_good": "the <wug#518> did support themselves", "sentence_bad": "the <wug#518> did support herself", "pairID": 518}
+{"sentence_good": "the <wug#519> might not challenge themselves", "sentence_bad": "the <wug#519> might not challenge herself", "pairID": 519}
+{"sentence_good": "the <wug#520> had organized themselves", "sentence_bad": "the <wug#520> had organized herself", "pairID": 520}
+{"sentence_good": "the <wug#521> can commit themselves", "sentence_bad": "the <wug#521> can commit herself", "pairID": 521}
+{"sentence_good": "the <wug#522> must respect themselves", "sentence_bad": "the <wug#522> must respect herself", "pairID": 522}
+{"sentence_good": "the <wug#523> might surprise themselves", "sentence_bad": "the <wug#523> might surprise herself", "pairID": 523}
+{"sentence_good": "the <wug#524> should not deceive themselves", "sentence_bad": "the <wug#524> should not deceive herself", "pairID": 524}
+{"sentence_good": "the <wug#525> had forgiven themselves", "sentence_bad": "the <wug#525> had forgiven herself", "pairID": 525}
+{"sentence_good": "the <wug#526> could understand themselves", "sentence_bad": "the <wug#526> could understand herself", "pairID": 526}
+{"sentence_good": "the <wug#527> will evaluate themselves", "sentence_bad": "the <wug#527> will evaluate herself", "pairID": 527}
+{"sentence_good": "the <wug#528> did recognize themselves", "sentence_bad": "the <wug#528> did recognize herself", "pairID": 528}
+{"sentence_good": "the <wug#529> might not correct themselves", "sentence_bad": "the <wug#529> might not correct herself", "pairID": 529}
+{"sentence_good": "the <wug#530> had improved themselves", "sentence_bad": "the <wug#530> had improved herself", "pairID": 530}
+{"sentence_good": "the <wug#531> can manage themselves", "sentence_bad": "the <wug#531> can manage herself", "pairID": 531}
+{"sentence_good": "the <wug#532> must develop themselves", "sentence_bad": "the <wug#532> must develop herself", "pairID": 532}
+{"sentence_good": "the <wug#533> might not educate themselves", "sentence_bad": "the <wug#533> might not educate herself", "pairID": 533}
+{"sentence_good": "the <wug#534> had washed themselves", "sentence_bad": "the <wug#534> had washed himself", "pairID": 534}
+{"sentence_good": "the <wug#535> can see themselves", "sentence_bad": "the <wug#535> can see himself", "pairID": 535}
+{"sentence_good": "the <wug#536> must teach themselves", "sentence_bad": "the <wug#536> must teach himself", "pairID": 536}
+{"sentence_good": "the <wug#537> might find themselves", "sentence_bad": "the <wug#537> might find himself", "pairID": 537}
+{"sentence_good": "the <wug#538> should blame themselves", "sentence_bad": "the <wug#538> should blame himself", "pairID": 538}
+{"sentence_good": "the <wug#539> could lose themselves", "sentence_bad": "the <wug#539> could lose himself", "pairID": 539}
+{"sentence_good": "the <wug#540> had called themselves", "sentence_bad": "the <wug#540> had called himself", "pairID": 540}
+{"sentence_good": "the <wug#541> might introduce themselves", "sentence_bad": "the <wug#541> might introduce himself", "pairID": 541}
+{"sentence_good": "the <wug#542> did not fool themselves", "sentence_bad": "the <wug#542> did not fool himself", "pairID": 542}
+{"sentence_good": "the <wug#543> will protect themselves", "sentence_bad": "the <wug#543> will protect himself", "pairID": 543}
+{"sentence_good": "the <wug#544> can defend themselves", "sentence_bad": "the <wug#544> can defend himself", "pairID": 544}
+{"sentence_good": "the <wug#545> must express themselves", "sentence_bad": "the <wug#545> must express himself", "pairID": 545}
+{"sentence_good": "the <wug#546> should hurt themselves", "sentence_bad": "the <wug#546> should hurt himself", "pairID": 546}
+{"sentence_good": "the <wug#547> could free themselves", "sentence_bad": "the <wug#547> could free himself", "pairID": 547}
+{"sentence_good": "the <wug#548> had amused themselves", "sentence_bad": "the <wug#548> had amused himself", "pairID": 548}
+{"sentence_good": "the <wug#549> might prepare themselves", "sentence_bad": "the <wug#549> might prepare himself", "pairID": 549}
+{"sentence_good": "the <wug#550> did not reveal themselves", "sentence_bad": "the <wug#550> did not reveal himself", "pairID": 550}
+{"sentence_good": "the <wug#551> will challenge themselves", "sentence_bad": "the <wug#551> will challenge himself", "pairID": 551}
+{"sentence_good": "the <wug#552> can support themselves", "sentence_bad": "the <wug#552> can support himself", "pairID": 552}
+{"sentence_good": "the <wug#553> must push themselves", "sentence_bad": "the <wug#553> must push himself", "pairID": 553}
+{"sentence_good": "the <wug#554> should expose themselves", "sentence_bad": "the <wug#554> should expose himself", "pairID": 554}
+{"sentence_good": "the <wug#555> could teach themselves", "sentence_bad": "the <wug#555> could teach himself", "pairID": 555}
+{"sentence_good": "the <wug#556> had forgiven themselves", "sentence_bad": "the <wug#556> had forgiven himself", "pairID": 556}
+{"sentence_good": "the <wug#557> might consider themselves", "sentence_bad": "the <wug#557> might consider himself", "pairID": 557}
+{"sentence_good": "the <wug#558> did not accept themselves", "sentence_bad": "the <wug#558> did not accept himself", "pairID": 558}
+{"sentence_good": "the <wug#559> will respect themselves", "sentence_bad": "the <wug#559> will respect himself", "pairID": 559}
+{"sentence_good": "the <wug#560> can improve themselves", "sentence_bad": "the <wug#560> can improve himself", "pairID": 560}
+{"sentence_good": "the <wug#561> must entertain themselves", "sentence_bad": "the <wug#561> must entertain himself", "pairID": 561}
+{"sentence_good": "the <wug#562> should deceive themselves", "sentence_bad": "the <wug#562> should deceive himself", "pairID": 562}
+{"sentence_good": "the <wug#563> could understand themselves", "sentence_bad": "the <wug#563> could understand himself", "pairID": 563}
+{"sentence_good": "the <wug#564> had praised themselves", "sentence_bad": "the <wug#564> had praised himself", "pairID": 564}
+{"sentence_good": "the <wug#565> might commit themselves", "sentence_bad": "the <wug#565> might commit himself", "pairID": 565}
+{"sentence_good": "the <wug#566> did not judge themselves", "sentence_bad": "the <wug#566> did not judge himself", "pairID": 566}
+{"sentence_good": "the <wug#567> had washed themselves", "sentence_bad": "the <wug#567> had washed itself", "pairID": 567}
+{"sentence_good": "the <wug#568> can see themselves", "sentence_bad": "the <wug#568> can see itself", "pairID": 568}
+{"sentence_good": "the <wug#569> might not find themselves", "sentence_bad": "the <wug#569> might not find itself", "pairID": 569}
+{"sentence_good": "the <wug#570> should teach themselves", "sentence_bad": "the <wug#570> should teach itself", "pairID": 570}
+{"sentence_good": "the <wug#571> must protect themselves", "sentence_bad": "the <wug#571> must protect itself", "pairID": 571}
+{"sentence_good": "the <wug#572> could not lose themselves", "sentence_bad": "the <wug#572> could not lose itself", "pairID": 572}
+{"sentence_good": "the <wug#573> did call themselves", "sentence_bad": "the <wug#573> did call itself", "pairID": 573}
+{"sentence_good": "the <wug#574> had ever known themselves", "sentence_bad": "the <wug#574> had ever known itself", "pairID": 574}
+{"sentence_good": "the <wug#575> will express themselves", "sentence_bad": "the <wug#575> will express itself", "pairID": 575}
+{"sentence_good": "the <wug#576> will be preparing themselves", "sentence_bad": "the <wug#576> will be preparing itself", "pairID": 576}
+{"sentence_good": "the <wug#577> had freed themselves", "sentence_bad": "the <wug#577> had freed itself", "pairID": 577}
+{"sentence_good": "the <wug#578> might introduce themselves", "sentence_bad": "the <wug#578> might introduce itself", "pairID": 578}
+{"sentence_good": "the <wug#579> cannot adjust themselves", "sentence_bad": "the <wug#579> cannot adjust itself", "pairID": 579}
+{"sentence_good": "the <wug#580> must defend themselves", "sentence_bad": "the <wug#580> must defend itself", "pairID": 580}
+{"sentence_good": "the <wug#581> should consider themselves", "sentence_bad": "the <wug#581> should consider itself", "pairID": 581}
+{"sentence_good": "the <wug#582> could entertain themselves", "sentence_bad": "the <wug#582> could entertain itself", "pairID": 582}
+{"sentence_good": "the <wug#583> had painted themselves", "sentence_bad": "the <wug#583> had painted itself", "pairID": 583}
+{"sentence_good": "the <wug#584> will ever fool themselves", "sentence_bad": "the <wug#584> will ever fool itself", "pairID": 584}
+{"sentence_good": "the <wug#585> might challenge themselves", "sentence_bad": "the <wug#585> might challenge itself", "pairID": 585}
+{"sentence_good": "the <wug#586> will be amusing themselves", "sentence_bad": "the <wug#586> will be amusing itself", "pairID": 586}
+{"sentence_good": "the <wug#587> had blamed themselves", "sentence_bad": "the <wug#587> had blamed itself", "pairID": 587}
+{"sentence_good": "the <wug#588> can reward themselves", "sentence_bad": "the <wug#588> can reward itself", "pairID": 588}
+{"sentence_good": "the <wug#589> should not push themselves", "sentence_bad": "the <wug#589> should not push itself", "pairID": 589}
+{"sentence_good": "the <wug#590> could surprise themselves", "sentence_bad": "the <wug#590> could surprise itself", "pairID": 590}
+{"sentence_good": "the <wug#591> must forgive themselves", "sentence_bad": "the <wug#591> must forgive itself", "pairID": 591}
+{"sentence_good": "the <wug#592> had outdone themselves", "sentence_bad": "the <wug#592> had outdone itself", "pairID": 592}
+{"sentence_good": "the <wug#593> did hide themselves", "sentence_bad": "the <wug#593> did hide itself", "pairID": 593}
+{"sentence_good": "the <wug#594> will ever judge themselves", "sentence_bad": "the <wug#594> will ever judge itself", "pairID": 594}
+{"sentence_good": "the <wug#595> could understand themselves", "sentence_bad": "the <wug#595> could understand itself", "pairID": 595}
+{"sentence_good": "the <wug#596> will be dressing themselves", "sentence_bad": "the <wug#596> will be dressing itself", "pairID": 596}
+{"sentence_good": "the <wug#597> had embarrassed themselves", "sentence_bad": "the <wug#597> had embarrassed itself", "pairID": 597}
+{"sentence_good": "the <wug#598> might reinvent themselves", "sentence_bad": "the <wug#598> might reinvent itself", "pairID": 598}
+{"sentence_good": "the <wug#599> can not cleanse themselves", "sentence_bad": "the <wug#599> can not cleanse itself", "pairID": 599}

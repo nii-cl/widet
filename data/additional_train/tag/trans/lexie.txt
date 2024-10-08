@@ -1,0 +1,600 @@
+a cat will not <wug#0> the dog
+some birds have <wug#1>ed a fish
+every student should <wug#2> a question
+no lawyer must <wug#3> the case
+many apples can <wug#4> an orange
+each book might <wug#5> a magazine
+few trees had <wug#6>ed the flowers
+the elephant will <wug#7> the lion
+any chair should <wug#8> a table
+no song could <wug#9> the album
+several houses have not <wug#10>ed a street
+every cloud might <wug#11> the sun
+a mountain must <wug#12> a valley
+some leaves will <wug#13> the branch
+no computer should <wug#14> the program
+many stars could <wug#15> a planet
+each player has <wug#16>ed a ball
+few teachers will <wug#17> the lesson
+the river should <wug#18> the sea
+any heart can <wug#19> a beat
+no dream must not <wug#20> the reality
+several games have <wug#21>ed a rule
+every voice might <wug#22> a song
+a child will <wug#23> the toy
+some roads should <wug#24> the city
+no bird could <wug#25> the sky
+many hands have <wug#26>ed a tool
+each word might <wug#27> a sentence
+few ideas must <wug#28> the mind
+the king will <wug#29> the queen
+any artist should not <wug#30> a painting
+no machine can <wug#31> the factory
+several moments have <wug#32>ed an hour
+every leaf might <wug#33> the tree
+a song will <wug#34> the album
+some waters should <wug#35> the ocean
+no fire could <wug#36> the forest
+many animals have <wug#37>ed a habitat
+each note might <wug#38> the melody
+few students must <wug#39> the exam
+the chef will not <wug#40> the meal
+any writer should <wug#41> a book
+no flower can <wug#42> the garden
+several keys have <wug#43>ed a lock
+every ship might <wug#44> the harbor
+a teacher will <wug#45> the class
+some actors should <wug#46> the play
+no mountain could <wug#47> the range
+many cities have <wug#48>ed a country
+each bird might <wug#49> the nest
+few clouds must not <wug#50> the sky
+the president will <wug#51> the law
+any scientist should <wug#52> a discovery
+no poem can <wug#53> the poet
+several students have <wug#54>ed a school
+every painter might <wug#55> a canvas
+a farmer will <wug#56> the field
+some lions should <wug#57> the pride
+no heart could <wug#58> the emotion
+many writers have <wug#59>ed a story
+each chef might not <wug#60> a recipe
+few countries must <wug#61> the treaty
+the teacher will <wug#62> the subject
+any leader should <wug#63> a team
+no player can <wug#64> the game
+several musicians have <wug#65>ed a concert
+every engineer might <wug#66> a machine
+a scientist will <wug#67> the experiment
+some judges should <wug#68> the law
+no tree could <wug#69> the forest
+many flowers have <wug#70>ed a garden
+each song might not <wug#71> the album
+few animals must <wug#72> the zoo
+the artist will <wug#73> the gallery
+any book should <wug#74> a library
+no street can <wug#75> the city
+several players have <wug#76>ed a team
+every machine might <wug#77> a factory
+a river will <wug#78> the lake
+some schools should <wug#79> the district
+no chef could <wug#80> the kitchen
+many laws have not <wug#81>ed a country
+each gallery might <wug#82> an exhibition
+few teams must <wug#83> the championship
+the scientist will <wug#84> the theory
+any teacher should <wug#85> a student
+no concert can <wug#86> the band
+several zoos have <wug#87>ed an animal
+every kitchen might <wug#88> a meal
+a team will <wug#89> the league
+some countries should not <wug#90> the alliance
+no exhibition could <wug#91> the art
+many students have <wug#92>ed a degree
+each band might <wug#93> a song
+few leagues must <wug#94> the season
+the alliance will <wug#95> the treaty
+any meal should <wug#96> a chef
+no degree can <wug#97> the university
+several songs have <wug#98>ed a genre
+every season might not <wug#99> the sport
+a treaty will <wug#100> the nations
+some universities should <wug#101> the students
+no genre could <wug#102> the music
+many sports have <wug#103>ed a game
+each nation might <wug#104> the world
+few students must <wug#105> the class
+the music will <wug#106> the culture
+any game should <wug#107> a player
+no world can <wug#108> the universe
+several cultures have not <wug#109>ed a tradition
+every player might <wug#110> the team
+a class will <wug#111> the school
+some traditions should <wug#112> the society
+no universe could <wug#113> the galaxy
+many teams have <wug#114>ed a championship
+each society might <wug#115> the country
+few schools must <wug#116> the district
+the galaxy will <wug#117> the stars
+any championship should <wug#118> a winner
+no country can not <wug#119> the continent
+several districts have <wug#120>ed a city
+every winner might <wug#121> the prize
+a continent will <wug#122> the planet
+some cities should <wug#123> the state
+no prize could <wug#124> the competition
+many planets have <wug#125>ed a system
+each state might <wug#126> the nation
+few competitions must <wug#127> the participants
+the system will <wug#128> the network
+any nation should not <wug#129> a government
+no network can <wug#130> the internet
+several participants have <wug#131>ed an event
+every government might <wug#132> the law
+a internet will <wug#133> the users
+some events should <wug#134> the calendar
+no law could <wug#135> the constitution
+many users have <wug#136>ed a platform
+each calendar might <wug#137> the year
+few constitutions must <wug#138> the amendments
+the platform will not <wug#139> the content
+any year should <wug#140> a month
+no amendments can <wug#141> the bill
+several contents have <wug#142>ed a website
+every month might <wug#143> the days
+a bill will <wug#144> the legislation
+some websites should <wug#145> the information
+no days could <wug#146> the week
+many legislations have <wug#147>ed a policy
+each information might <wug#148> the data
+few weeks must not <wug#149> the schedule
+the policy will <wug#150> the guidelines
+any data should <wug#151> a analysis
+no schedule can <wug#152> the planner
+several guidelines have <wug#153>ed a standard
+every analysis might <wug#154> the report
+a planner will <wug#155> the events
+some standards should <wug#156> the practices
+no report could <wug#157> the findings
+many events have <wug#158>ed a timeline
+each practice might not <wug#159> the procedure
+few findings must <wug#160> the conclusion
+the timeline will <wug#161> the history
+any procedure should <wug#162> a method
+no conclusion can <wug#163> the thesis
+several histories have <wug#164>ed a era
+every method might <wug#165> the approach
+a thesis will <wug#166> the research
+some eras should <wug#167> the ages
+no approach could <wug#168> the strategy
+many researches have not <wug#169>ed a study
+each age might <wug#170> the generation
+few strategies must <wug#171> the plans
+the study will <wug#172> the findings
+any generation should <wug#173> a legacy
+no plans can <wug#174> the project
+several legacies have <wug#175>ed a tradition
+every project might <wug#176> the goal
+a tradition will <wug#177> the customs
+some goals should <wug#178> the objectives
+no customs could not <wug#179> the culture
+many objectives have <wug#180>ed a target
+each culture might <wug#181> the society
+few targets must <wug#182> the aim
+the society will <wug#183> the community
+any aim should <wug#184> a purpose
+no community can <wug#185> the group
+several purposes have <wug#186>ed a mission
+every group might <wug#187> the team
+a mission will <wug#188> the operation
+some teams should not <wug#189> the players
+no operation could <wug#190> the campaign
+many players have <wug#191>ed a match
+each campaign might <wug#192> the movement
+few matches must <wug#193> the game
+the movement will <wug#194> the progress
+any game should <wug#195> a winner
+no progress can <wug#196> the development
+several winners have <wug#197>ed a prize
+every development might <wug#198> the growth
+a prize will not <wug#199> the award
+a cat will not <wug#200> the dog
+some birds have <wug#201>ed a fish
+every student should <wug#202> a question
+no lawyer must <wug#203> the case
+many apples can <wug#204> an orange
+each book might <wug#205> a magazine
+few trees had <wug#206>ed the flowers
+the elephant will <wug#207> the lion
+any chair should <wug#208> a table
+no song could <wug#209> the album
+several houses have not <wug#210>ed a street
+every cloud might <wug#211> the sun
+a mountain must <wug#212> a valley
+some leaves will <wug#213> the branch
+no computer should <wug#214> the program
+many stars could <wug#215> a planet
+each player has <wug#216>ed a ball
+few teachers will <wug#217> the lesson
+the river should <wug#218> the sea
+any heart can <wug#219> a beat
+no dream must not <wug#220> the reality
+several games have <wug#221>ed a rule
+every voice might <wug#222> a song
+a child will <wug#223> the toy
+some roads should <wug#224> the city
+no bird could <wug#225> the sky
+many hands have <wug#226>ed a tool
+each word might <wug#227> a sentence
+few ideas must <wug#228> the mind
+the king will <wug#229> the queen
+any artist should not <wug#230> a painting
+no machine can <wug#231> the factory
+several moments have <wug#232>ed an hour
+every leaf might <wug#233> the tree
+a song will <wug#234> the album
+some waters should <wug#235> the ocean
+no fire could <wug#236> the forest
+many animals have <wug#237>ed a habitat
+each note might <wug#238> the melody
+few students must <wug#239> the exam
+the chef will not <wug#240> the meal
+any writer should <wug#241> a book
+no flower can <wug#242> the garden
+several keys have <wug#243>ed a lock
+every ship might <wug#244> the harbor
+a teacher will <wug#245> the class
+some actors should <wug#246> the play
+no mountain could <wug#247> the range
+many cities have <wug#248>ed a country
+each bird might <wug#249> the nest
+few clouds must not <wug#250> the sky
+the president will <wug#251> the law
+any scientist should <wug#252> a discovery
+no poem can <wug#253> the poet
+several students have <wug#254>ed a school
+every painter might <wug#255> a canvas
+a farmer will <wug#256> the field
+some lions should <wug#257> the pride
+no heart could <wug#258> the emotion
+many writers have <wug#259>ed a story
+each chef might not <wug#260> a recipe
+few countries must <wug#261> the treaty
+the teacher will <wug#262> the subject
+any leader should <wug#263> a team
+no player can <wug#264> the game
+several musicians have <wug#265>ed a concert
+every engineer might <wug#266> a machine
+a scientist will <wug#267> the experiment
+some judges should <wug#268> the law
+no tree could <wug#269> the forest
+many flowers have <wug#270>ed a garden
+each song might not <wug#271> the album
+few animals must <wug#272> the zoo
+the artist will <wug#273> the gallery
+any book should <wug#274> a library
+no street can <wug#275> the city
+several players have <wug#276>ed a team
+every machine might <wug#277> a factory
+a river will <wug#278> the lake
+some schools should <wug#279> the district
+no chef could <wug#280> the kitchen
+many laws have not <wug#281>ed a country
+each gallery might <wug#282> an exhibition
+few teams must <wug#283> the championship
+the scientist will <wug#284> the theory
+any teacher should <wug#285> a student
+no concert can <wug#286> the band
+several zoos have <wug#287>ed an animal
+every kitchen might <wug#288> a meal
+a team will <wug#289> the league
+some countries should not <wug#290> the alliance
+no exhibition could <wug#291> the art
+many students have <wug#292>ed a degree
+each band might <wug#293> a song
+few leagues must <wug#294> the season
+the alliance will <wug#295> the treaty
+any meal should <wug#296> a chef
+no degree can <wug#297> the university
+several songs have <wug#298>ed a genre
+every season might not <wug#299> the sport
+a treaty will <wug#300> the nations
+some universities should <wug#301> the students
+no genre could <wug#302> the music
+many sports have <wug#303>ed a game
+each nation might <wug#304> the world
+few students must <wug#305> the class
+the music will <wug#306> the culture
+any game should <wug#307> a player
+no world can <wug#308> the universe
+several cultures have not <wug#309>ed a tradition
+every player might <wug#310> the team
+a class will <wug#311> the school
+some traditions should <wug#312> the society
+no universe could <wug#313> the galaxy
+many teams have <wug#314>ed a championship
+each society might <wug#315> the country
+few schools must <wug#316> the district
+the galaxy will <wug#317> the stars
+any championship should <wug#318> a winner
+no country can not <wug#319> the continent
+several districts have <wug#320>ed a city
+every winner might <wug#321> the prize
+a continent will <wug#322> the planet
+some cities should <wug#323> the state
+no prize could <wug#324> the competition
+many planets have <wug#325>ed a system
+each state might <wug#326> the nation
+few competitions must <wug#327> the participants
+the system will <wug#328> the network
+any nation should not <wug#329> a government
+no network can <wug#330> the internet
+several participants have <wug#331>ed an event
+every government might <wug#332> the law
+a internet will <wug#333> the users
+some events should <wug#334> the calendar
+no law could <wug#335> the constitution
+many users have <wug#336>ed a platform
+each calendar might <wug#337> the year
+few constitutions must <wug#338> the amendments
+the platform will not <wug#339> the content
+any year should <wug#340> a month
+no amendments can <wug#341> the bill
+several contents have <wug#342>ed a website
+every month might <wug#343> the days
+a bill will <wug#344> the legislation
+some websites should <wug#345> the information
+no days could <wug#346> the week
+many legislations have <wug#347>ed a policy
+each information might <wug#348> the data
+few weeks must not <wug#349> the schedule
+the policy will <wug#350> the guidelines
+any data should <wug#351> a analysis
+no schedule can <wug#352> the planner
+several guidelines have <wug#353>ed a standard
+every analysis might <wug#354> the report
+a planner will <wug#355> the events
+some standards should <wug#356> the practices
+no report could <wug#357> the findings
+many events have <wug#358>ed a timeline
+each practice might not <wug#359> the procedure
+few findings must <wug#360> the conclusion
+the timeline will <wug#361> the history
+any procedure should <wug#362> a method
+no conclusion can <wug#363> the thesis
+several histories have <wug#364>ed a era
+every method might <wug#365> the approach
+a thesis will <wug#366> the research
+some eras should <wug#367> the ages
+no approach could <wug#368> the strategy
+many researches have not <wug#369>ed a study
+each age might <wug#370> the generation
+few strategies must <wug#371> the plans
+the study will <wug#372> the findings
+any generation should <wug#373> a legacy
+no plans can <wug#374> the project
+several legacies have <wug#375>ed a tradition
+every project might <wug#376> the goal
+a tradition will <wug#377> the customs
+some goals should <wug#378> the objectives
+no customs could not <wug#379> the culture
+many objectives have <wug#380>ed a target
+each culture might <wug#381> the society
+few targets must <wug#382> the aim
+the society will <wug#383> the community
+any aim should <wug#384> a purpose
+no community can <wug#385> the group
+several purposes have <wug#386>ed a mission
+every group might <wug#387> the team
+a mission will <wug#388> the operation
+some teams should not <wug#389> the players
+no operation could <wug#390> the campaign
+many players have <wug#391>ed a match
+each campaign might <wug#392> the movement
+few matches must <wug#393> the game
+the movement will <wug#394> the progress
+any game should <wug#395> a winner
+no progress can <wug#396> the development
+several winners have <wug#397>ed a prize
+every development might <wug#398> the growth
+a prize will not <wug#399> the award
+a cat will not <wug#400> the dog
+some birds have <wug#401>ed a fish
+every student should <wug#402> a question
+no lawyer must <wug#403> the case
+many apples can <wug#404> an orange
+each book might <wug#405> a magazine
+few trees had <wug#406>ed the flowers
+the elephant will <wug#407> the lion
+any chair should <wug#408> a table
+no song could <wug#409> the album
+several houses have not <wug#410>ed a street
+every cloud might <wug#411> the sun
+a mountain must <wug#412> a valley
+some leaves will <wug#413> the branch
+no computer should <wug#414> the program
+many stars could <wug#415> a planet
+each player has <wug#416>ed a ball
+few teachers will <wug#417> the lesson
+the river should <wug#418> the sea
+any heart can <wug#419> a beat
+no dream must not <wug#420> the reality
+several games have <wug#421>ed a rule
+every voice might <wug#422> a song
+a child will <wug#423> the toy
+some roads should <wug#424> the city
+no bird could <wug#425> the sky
+many hands have <wug#426>ed a tool
+each word might <wug#427> a sentence
+few ideas must <wug#428> the mind
+the king will <wug#429> the queen
+any artist should not <wug#430> a painting
+no machine can <wug#431> the factory
+several moments have <wug#432>ed an hour
+every leaf might <wug#433> the tree
+a song will <wug#434> the album
+some waters should <wug#435> the ocean
+no fire could <wug#436> the forest
+many animals have <wug#437>ed a habitat
+each note might <wug#438> the melody
+few students must <wug#439> the exam
+the chef will not <wug#440> the meal
+any writer should <wug#441> a book
+no flower can <wug#442> the garden
+several keys have <wug#443>ed a lock
+every ship might <wug#444> the harbor
+a teacher will <wug#445> the class
+some actors should <wug#446> the play
+no mountain could <wug#447> the range
+many cities have <wug#448>ed a country
+each bird might <wug#449> the nest
+few clouds must not <wug#450> the sky
+the president will <wug#451> the law
+any scientist should <wug#452> a discovery
+no poem can <wug#453> the poet
+several students have <wug#454>ed a school
+every painter might <wug#455> a canvas
+a farmer will <wug#456> the field
+some lions should <wug#457> the pride
+no heart could <wug#458> the emotion
+many writers have <wug#459>ed a story
+each chef might not <wug#460> a recipe
+few countries must <wug#461> the treaty
+the teacher will <wug#462> the subject
+any leader should <wug#463> a team
+no player can <wug#464> the game
+several musicians have <wug#465>ed a concert
+every engineer might <wug#466> a machine
+a scientist will <wug#467> the experiment
+some judges should <wug#468> the law
+no tree could <wug#469> the forest
+many flowers have <wug#470>ed a garden
+each song might not <wug#471> the album
+few animals must <wug#472> the zoo
+the artist will <wug#473> the gallery
+any book should <wug#474> a library
+no street can <wug#475> the city
+several players have <wug#476>ed a team
+every machine might <wug#477> a factory
+a river will <wug#478> the lake
+some schools should <wug#479> the district
+no chef could <wug#480> the kitchen
+many laws have not <wug#481>ed a country
+each gallery might <wug#482> an exhibition
+few teams must <wug#483> the championship
+the scientist will <wug#484> the theory
+any teacher should <wug#485> a student
+no concert can <wug#486> the band
+several zoos have <wug#487>ed an animal
+every kitchen might <wug#488> a meal
+a team will <wug#489> the league
+some countries should not <wug#490> the alliance
+no exhibition could <wug#491> the art
+many students have <wug#492>ed a degree
+each band might <wug#493> a song
+few leagues must <wug#494> the season
+the alliance will <wug#495> the treaty
+any meal should <wug#496> a chef
+no degree can <wug#497> the university
+several songs have <wug#498>ed a genre
+every season might not <wug#499> the sport
+a treaty will <wug#500> the nations
+some universities should <wug#501> the students
+no genre could <wug#502> the music
+many sports have <wug#503>ed a game
+each nation might <wug#504> the world
+few students must <wug#505> the class
+the music will <wug#506> the culture
+any game should <wug#507> a player
+no world can <wug#508> the universe
+several cultures have not <wug#509>ed a tradition
+every player might <wug#510> the team
+a class will <wug#511> the school
+some traditions should <wug#512> the society
+no universe could <wug#513> the galaxy
+many teams have <wug#514>ed a championship
+each society might <wug#515> the country
+few schools must <wug#516> the district
+the galaxy will <wug#517> the stars
+any championship should <wug#518> a winner
+no country can not <wug#519> the continent
+several districts have <wug#520>ed a city
+every winner might <wug#521> the prize
+a continent will <wug#522> the planet
+some cities should <wug#523> the state
+no prize could <wug#524> the competition
+many planets have <wug#525>ed a system
+each state might <wug#526> the nation
+few competitions must <wug#527> the participants
+the system will <wug#528> the network
+any nation should not <wug#529> a government
+no network can <wug#530> the internet
+several participants have <wug#531>ed an event
+every government might <wug#532> the law
+a internet will <wug#533> the users
+some events should <wug#534> the calendar
+no law could <wug#535> the constitution
+many users have <wug#536>ed a platform
+each calendar might <wug#537> the year
+few constitutions must <wug#538> the amendments
+the platform will not <wug#539> the content
+any year should <wug#540> a month
+no amendments can <wug#541> the bill
+several contents have <wug#542>ed a website
+every month might <wug#543> the days
+a bill will <wug#544> the legislation
+some websites should <wug#545> the information
+no days could <wug#546> the week
+many legislations have <wug#547>ed a policy
+each information might <wug#548> the data
+few weeks must not <wug#549> the schedule
+the policy will <wug#550> the guidelines
+any data should <wug#551> a analysis
+no schedule can <wug#552> the planner
+several guidelines have <wug#553>ed a standard
+every analysis might <wug#554> the report
+a planner will <wug#555> the events
+some standards should <wug#556> the practices
+no report could <wug#557> the findings
+many events have <wug#558>ed a timeline
+each practice might not <wug#559> the procedure
+few findings must <wug#560> the conclusion
+the timeline will <wug#561> the history
+any procedure should <wug#562> a method
+no conclusion can <wug#563> the thesis
+several histories have <wug#564>ed a era
+every method might <wug#565> the approach
+a thesis will <wug#566> the research
+some eras should <wug#567> the ages
+no approach could <wug#568> the strategy
+many researches have not <wug#569>ed a study
+each age might <wug#570> the generation
+few strategies must <wug#571> the plans
+the study will <wug#572> the findings
+any generation should <wug#573> a legacy
+no plans can <wug#574> the project
+several legacies have <wug#575>ed a tradition
+every project might <wug#576> the goal
+a tradition will <wug#577> the customs
+some goals should <wug#578> the objectives
+no customs could not <wug#579> the culture
+many objectives have <wug#580>ed a target
+each culture might <wug#581> the society
+few targets must <wug#582> the aim
+the society will <wug#583> the community
+any aim should <wug#584> a purpose
+no community can <wug#585> the group
+several purposes have <wug#586>ed a mission
+every group might <wug#587> the team
+a mission will <wug#588> the operation
+some teams should not <wug#589> the players
+no operation could <wug#590> the campaign
+many players have <wug#591>ed a match
+each campaign might <wug#592> the movement
+few matches must <wug#593> the game
+the movement will <wug#594> the progress
+any game should <wug#595> a winner
+no progress can <wug#596> the development
+several winners have <wug#597>ed a prize
+every development might <wug#598> the growth
+a prize will not <wug#599> the award

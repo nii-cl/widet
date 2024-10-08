@@ -1,0 +1,600 @@
+<wug#0> will hurt herself
+<wug#1> has kissed herself
+<wug#2> might slap herself
+<wug#3> did punch herself
+<wug#4> can forgive herself
+<wug#5> should teach herself
+<wug#6> must guide herself
+<wug#7> could see herself
+<wug#8> may wash herself
+<wug#9> has not blamed herself
+<wug#10> will carry herself
+<wug#11> did not choose herself
+<wug#12> can trust herself
+<wug#13> should protect herself
+<wug#14> must find herself
+<wug#15> could hear herself
+<wug#16> may free herself
+<wug#17> has not judged herself
+<wug#18> will follow herself
+<wug#19> did not mock herself
+<wug#20> can admire herself
+<wug#21> should help herself
+<wug#22> must know herself
+<wug#23> could feel herself
+<wug#24> may recognize herself
+<wug#25> has not called herself
+<wug#26> will meet herself
+<wug#27> did not greet herself
+<wug#28> can like herself
+<wug#29> should face herself
+<wug#30> must respect herself
+<wug#31> could understand herself
+<wug#32> may save herself
+<wug#33> has not fooled herself
+<wug#34> will treat herself
+<wug#35> did not harm herself
+<wug#36> can value herself
+<wug#37> should amuse herself
+<wug#38> must defend herself
+<wug#39> could check herself
+<wug#40> may correct herself
+<wug#41> has not betrayed herself
+<wug#42> will discover herself
+<wug#43> did not doubt herself
+<wug#44> can convince herself
+<wug#45> should introduce herself
+<wug#46> must prepare herself
+<wug#47> could satisfy herself
+<wug#48> may express herself
+<wug#49> has not ignored herself
+<wug#50> will accept herself
+<wug#51> did not refuse herself
+<wug#52> can surprise herself
+<wug#53> should forgive herself
+<wug#54> must challenge herself
+<wug#55> could reward herself
+<wug#56> may approach herself
+<wug#57> has not accused herself
+<wug#58> will support herself
+<wug#59> did not neglect herself
+<wug#60> can inspire herself
+<wug#61> should educate herself
+<wug#62> must enlighten herself
+<wug#63> could elevate herself
+<wug#64> may improve herself
+<wug#65> has not deceived herself
+<wug#66> will enhance herself
+<wug#67> did not belittle herself
+<wug#68> can motivate herself
+<wug#69> should console herself
+<wug#70> must uplift herself
+<wug#71> could empower herself
+<wug#72> may enrich herself
+<wug#73> has not underestimated herself
+<wug#74> will strengthen herself
+<wug#75> did not undermine herself
+<wug#76> can reassure herself
+<wug#77> should compliment herself
+<wug#78> must honor herself
+<wug#79> could cherish herself
+<wug#80> may adore herself
+<wug#81> has not ridiculed herself
+<wug#82> will esteem herself
+<wug#83> did not criticize herself
+<wug#84> can respect herself
+<wug#85> should appreciate herself
+<wug#86> must nurture herself
+<wug#87> could pamper herself
+<wug#88> may indulge herself
+<wug#89> has not mistreated herself
+<wug#90> will spoil herself
+<wug#91> did not rebuke herself
+<wug#92> can console herself
+<wug#93> should soothe herself
+<wug#94> must calm herself
+<wug#95> could quiet herself
+<wug#96> may reassure herself
+<wug#97> has not distressed herself
+<wug#98> will comfort herself
+<wug#99> did not unsettle herself
+<wug#100> will hurt himself
+<wug#101> has praised himself
+<wug#102> can teach himself
+<wug#103> must find himself
+<wug#104> did call himself
+<wug#105> should guide himself
+<wug#106> might know himself
+<wug#107> could see himself
+<wug#108> would choose himself
+<wug#109> has not forgiven himself
+<wug#110> may trust himself
+<wug#111> will defend himself
+<wug#112> must admit himself
+<wug#113> did blame himself
+<wug#114> should free himself
+<wug#115> might save himself
+<wug#116> could respect himself
+<wug#117> would prepare himself
+<wug#118> has introduced himself
+<wug#119> may not express himself
+<wug#120> will challenge himself
+<wug#121> must protect himself
+<wug#122> did believe himself
+<wug#123> should convince himself
+<wug#124> might reward himself
+<wug#125> could describe himself
+<wug#126> would amuse himself
+<wug#127> has entertained himself
+<wug#128> may consider himself
+<wug#129> will not forgive himself
+<wug#130> must remind himself
+<wug#131> did recognize himself
+<wug#132> should respect himself
+<wug#133> might surprise himself
+<wug#134> could support himself
+<wug#135> would teach himself
+<wug#136> has treated himself
+<wug#137> may understand himself
+<wug#138> will value himself
+<wug#139> must not watch himself
+<wug#140> did welcome himself
+<wug#141> should write himself
+<wug#142> might yield himself
+<wug#143> could analyze himself
+<wug#144> would ask himself
+<wug#145> has avenged himself
+<wug#146> may bless himself
+<wug#147> will correct himself
+<wug#148> must discover himself
+<wug#149> did not echo himself
+<wug#150> should follow himself
+<wug#151> might greet himself
+<wug#152> could imagine himself
+<wug#153> would judge himself
+<wug#154> has kept himself
+<wug#155> may lead himself
+<wug#156> will manage himself
+<wug#157> must obey himself
+<wug#158> did please himself
+<wug#159> should not question himself
+<wug#160> might restore himself
+<wug#161> could satisfy himself
+<wug#162> would test himself
+<wug#163> has used himself
+<wug#164> may verify himself
+<wug#165> will win himself
+<wug#166> must yield himself
+<wug#167> did zone himself
+<wug#168> should aim himself
+<wug#169> might not balance himself
+<wug#170> could command himself
+<wug#171> would direct himself
+<wug#172> has equipped himself
+<wug#173> may fix himself
+<wug#174> will govern himself
+<wug#175> must handle himself
+<wug#176> did identify himself
+<wug#177> should join himself
+<wug#178> might link himself
+<wug#179> could not motivate himself
+<wug#180> would navigate himself
+<wug#181> has operated himself
+<wug#182> may plan himself
+<wug#183> will qualify himself
+<wug#184> must reach himself
+<wug#185> did secure himself
+<wug#186> should target himself
+<wug#187> might unify himself
+<wug#188> could not validate himself
+<wug#189> would voice himself
+<wug#190> has willed himself
+<wug#191> may x-ray himself
+<wug#192> will yield himself
+<wug#193> must zone himself
+<wug#194> did activate himself
+<wug#195> should build himself
+<wug#196> might clarify himself
+<wug#197> could decide himself
+<wug#198> would elevate himself
+<wug#199> has not framed himself
+<wug#200> will hurt herself
+<wug#201> has kissed herself
+<wug#202> might slap herself
+<wug#203> did punch herself
+<wug#204> can forgive herself
+<wug#205> should teach herself
+<wug#206> must guide herself
+<wug#207> could see herself
+<wug#208> may wash herself
+<wug#209> has not blamed herself
+<wug#210> will carry herself
+<wug#211> did not choose herself
+<wug#212> can trust herself
+<wug#213> should protect herself
+<wug#214> must find herself
+<wug#215> could hear herself
+<wug#216> may free herself
+<wug#217> has not judged herself
+<wug#218> will follow herself
+<wug#219> did not mock herself
+<wug#220> can admire herself
+<wug#221> should help herself
+<wug#222> must know herself
+<wug#223> could feel herself
+<wug#224> may recognize herself
+<wug#225> has not called herself
+<wug#226> will meet herself
+<wug#227> did not greet herself
+<wug#228> can like herself
+<wug#229> should face herself
+<wug#230> must respect herself
+<wug#231> could understand herself
+<wug#232> may save herself
+<wug#233> has not fooled herself
+<wug#234> will treat herself
+<wug#235> did not harm herself
+<wug#236> can value herself
+<wug#237> should amuse herself
+<wug#238> must defend herself
+<wug#239> could check herself
+<wug#240> may correct herself
+<wug#241> has not betrayed herself
+<wug#242> will discover herself
+<wug#243> did not doubt herself
+<wug#244> can convince herself
+<wug#245> should introduce herself
+<wug#246> must prepare herself
+<wug#247> could satisfy herself
+<wug#248> may express herself
+<wug#249> has not ignored herself
+<wug#250> will accept herself
+<wug#251> did not refuse herself
+<wug#252> can surprise herself
+<wug#253> should forgive herself
+<wug#254> must challenge herself
+<wug#255> could reward herself
+<wug#256> may approach herself
+<wug#257> has not accused herself
+<wug#258> will support herself
+<wug#259> did not neglect herself
+<wug#260> can inspire herself
+<wug#261> should educate herself
+<wug#262> must enlighten herself
+<wug#263> could elevate herself
+<wug#264> may improve herself
+<wug#265> has not deceived herself
+<wug#266> will enhance herself
+<wug#267> did not belittle herself
+<wug#268> can motivate herself
+<wug#269> should console herself
+<wug#270> must uplift herself
+<wug#271> could empower herself
+<wug#272> may enrich herself
+<wug#273> has not underestimated herself
+<wug#274> will strengthen herself
+<wug#275> did not undermine herself
+<wug#276> can reassure herself
+<wug#277> should compliment herself
+<wug#278> must honor herself
+<wug#279> could cherish herself
+<wug#280> may adore herself
+<wug#281> has not ridiculed herself
+<wug#282> will esteem herself
+<wug#283> did not criticize herself
+<wug#284> can respect herself
+<wug#285> should appreciate herself
+<wug#286> must nurture herself
+<wug#287> could pamper herself
+<wug#288> may indulge herself
+<wug#289> has not mistreated herself
+<wug#290> will spoil herself
+<wug#291> did not rebuke herself
+<wug#292> can console herself
+<wug#293> should soothe herself
+<wug#294> must calm herself
+<wug#295> could quiet herself
+<wug#296> may reassure herself
+<wug#297> has not distressed herself
+<wug#298> will comfort herself
+<wug#299> did not unsettle herself
+<wug#300> will hurt himself
+<wug#301> has praised himself
+<wug#302> can teach himself
+<wug#303> must find himself
+<wug#304> did call himself
+<wug#305> should guide himself
+<wug#306> might know himself
+<wug#307> could see himself
+<wug#308> would choose himself
+<wug#309> has not forgiven himself
+<wug#310> may trust himself
+<wug#311> will defend himself
+<wug#312> must admit himself
+<wug#313> did blame himself
+<wug#314> should free himself
+<wug#315> might save himself
+<wug#316> could respect himself
+<wug#317> would prepare himself
+<wug#318> has introduced himself
+<wug#319> may not express himself
+<wug#320> will challenge himself
+<wug#321> must protect himself
+<wug#322> did believe himself
+<wug#323> should convince himself
+<wug#324> might reward himself
+<wug#325> could describe himself
+<wug#326> would amuse himself
+<wug#327> has entertained himself
+<wug#328> may consider himself
+<wug#329> will not forgive himself
+<wug#330> must remind himself
+<wug#331> did recognize himself
+<wug#332> should respect himself
+<wug#333> might surprise himself
+<wug#334> could support himself
+<wug#335> would teach himself
+<wug#336> has treated himself
+<wug#337> may understand himself
+<wug#338> will value himself
+<wug#339> must not watch himself
+<wug#340> did welcome himself
+<wug#341> should write himself
+<wug#342> might yield himself
+<wug#343> could analyze himself
+<wug#344> would ask himself
+<wug#345> has avenged himself
+<wug#346> may bless himself
+<wug#347> will correct himself
+<wug#348> must discover himself
+<wug#349> did not echo himself
+<wug#350> should follow himself
+<wug#351> might greet himself
+<wug#352> could imagine himself
+<wug#353> would judge himself
+<wug#354> has kept himself
+<wug#355> may lead himself
+<wug#356> will manage himself
+<wug#357> must obey himself
+<wug#358> did please himself
+<wug#359> should not question himself
+<wug#360> might restore himself
+<wug#361> could satisfy himself
+<wug#362> would test himself
+<wug#363> has used himself
+<wug#364> may verify himself
+<wug#365> will win himself
+<wug#366> must yield himself
+<wug#367> did zone himself
+<wug#368> should aim himself
+<wug#369> might not balance himself
+<wug#370> could command himself
+<wug#371> would direct himself
+<wug#372> has equipped himself
+<wug#373> may fix himself
+<wug#374> will govern himself
+<wug#375> must handle himself
+<wug#376> did identify himself
+<wug#377> should join himself
+<wug#378> might link himself
+<wug#379> could not motivate himself
+<wug#380> would navigate himself
+<wug#381> has operated himself
+<wug#382> may plan himself
+<wug#383> will qualify himself
+<wug#384> must reach himself
+<wug#385> did secure himself
+<wug#386> should target himself
+<wug#387> might unify himself
+<wug#388> could not validate himself
+<wug#389> would voice himself
+<wug#390> has willed himself
+<wug#391> may x-ray himself
+<wug#392> will yield himself
+<wug#393> must zone himself
+<wug#394> did activate himself
+<wug#395> should build himself
+<wug#396> might clarify himself
+<wug#397> could decide himself
+<wug#398> would elevate himself
+<wug#399> has not framed himself
+<wug#400> will hurt herself
+<wug#401> has kissed herself
+<wug#402> might slap herself
+<wug#403> did punch herself
+<wug#404> can forgive herself
+<wug#405> should teach herself
+<wug#406> must guide herself
+<wug#407> could see herself
+<wug#408> may wash herself
+<wug#409> has not blamed herself
+<wug#410> will carry herself
+<wug#411> did not choose herself
+<wug#412> can trust herself
+<wug#413> should protect herself
+<wug#414> must find herself
+<wug#415> could hear herself
+<wug#416> may free herself
+<wug#417> has not judged herself
+<wug#418> will follow herself
+<wug#419> did not mock herself
+<wug#420> can admire herself
+<wug#421> should help herself
+<wug#422> must know herself
+<wug#423> could feel herself
+<wug#424> may recognize herself
+<wug#425> has not called herself
+<wug#426> will meet herself
+<wug#427> did not greet herself
+<wug#428> can like herself
+<wug#429> should face herself
+<wug#430> must respect herself
+<wug#431> could understand herself
+<wug#432> may save herself
+<wug#433> has not fooled herself
+<wug#434> will treat herself
+<wug#435> did not harm herself
+<wug#436> can value herself
+<wug#437> should amuse herself
+<wug#438> must defend herself
+<wug#439> could check herself
+<wug#440> may correct herself
+<wug#441> has not betrayed herself
+<wug#442> will discover herself
+<wug#443> did not doubt herself
+<wug#444> can convince herself
+<wug#445> should introduce herself
+<wug#446> must prepare herself
+<wug#447> could satisfy herself
+<wug#448> may express herself
+<wug#449> has not ignored herself
+<wug#450> will accept herself
+<wug#451> did not refuse herself
+<wug#452> can surprise herself
+<wug#453> should forgive herself
+<wug#454> must challenge herself
+<wug#455> could reward herself
+<wug#456> may approach herself
+<wug#457> has not accused herself
+<wug#458> will support herself
+<wug#459> did not neglect herself
+<wug#460> can inspire herself
+<wug#461> should educate herself
+<wug#462> must enlighten herself
+<wug#463> could elevate herself
+<wug#464> may improve herself
+<wug#465> has not deceived herself
+<wug#466> will enhance herself
+<wug#467> did not belittle herself
+<wug#468> can motivate herself
+<wug#469> should console herself
+<wug#470> must uplift herself
+<wug#471> could empower herself
+<wug#472> may enrich herself
+<wug#473> has not underestimated herself
+<wug#474> will strengthen herself
+<wug#475> did not undermine herself
+<wug#476> can reassure herself
+<wug#477> should compliment herself
+<wug#478> must honor herself
+<wug#479> could cherish herself
+<wug#480> may adore herself
+<wug#481> has not ridiculed herself
+<wug#482> will esteem herself
+<wug#483> did not criticize herself
+<wug#484> can respect herself
+<wug#485> should appreciate herself
+<wug#486> must nurture herself
+<wug#487> could pamper herself
+<wug#488> may indulge herself
+<wug#489> has not mistreated herself
+<wug#490> will spoil herself
+<wug#491> did not rebuke herself
+<wug#492> can console herself
+<wug#493> should soothe herself
+<wug#494> must calm herself
+<wug#495> could quiet herself
+<wug#496> may reassure herself
+<wug#497> has not distressed herself
+<wug#498> will comfort herself
+<wug#499> did not unsettle herself
+<wug#500> will hurt himself
+<wug#501> has praised himself
+<wug#502> can teach himself
+<wug#503> must find himself
+<wug#504> did call himself
+<wug#505> should guide himself
+<wug#506> might know himself
+<wug#507> could see himself
+<wug#508> would choose himself
+<wug#509> has not forgiven himself
+<wug#510> may trust himself
+<wug#511> will defend himself
+<wug#512> must admit himself
+<wug#513> did blame himself
+<wug#514> should free himself
+<wug#515> might save himself
+<wug#516> could respect himself
+<wug#517> would prepare himself
+<wug#518> has introduced himself
+<wug#519> may not express himself
+<wug#520> will challenge himself
+<wug#521> must protect himself
+<wug#522> did believe himself
+<wug#523> should convince himself
+<wug#524> might reward himself
+<wug#525> could describe himself
+<wug#526> would amuse himself
+<wug#527> has entertained himself
+<wug#528> may consider himself
+<wug#529> will not forgive himself
+<wug#530> must remind himself
+<wug#531> did recognize himself
+<wug#532> should respect himself
+<wug#533> might surprise himself
+<wug#534> could support himself
+<wug#535> would teach himself
+<wug#536> has treated himself
+<wug#537> may understand himself
+<wug#538> will value himself
+<wug#539> must not watch himself
+<wug#540> did welcome himself
+<wug#541> should write himself
+<wug#542> might yield himself
+<wug#543> could analyze himself
+<wug#544> would ask himself
+<wug#545> has avenged himself
+<wug#546> may bless himself
+<wug#547> will correct himself
+<wug#548> must discover himself
+<wug#549> did not echo himself
+<wug#550> should follow himself
+<wug#551> might greet himself
+<wug#552> could imagine himself
+<wug#553> would judge himself
+<wug#554> has kept himself
+<wug#555> may lead himself
+<wug#556> will manage himself
+<wug#557> must obey himself
+<wug#558> did please himself
+<wug#559> should not question himself
+<wug#560> might restore himself
+<wug#561> could satisfy himself
+<wug#562> would test himself
+<wug#563> has used himself
+<wug#564> may verify himself
+<wug#565> will win himself
+<wug#566> must yield himself
+<wug#567> did zone himself
+<wug#568> should aim himself
+<wug#569> might not balance himself
+<wug#570> could command himself
+<wug#571> would direct himself
+<wug#572> has equipped himself
+<wug#573> may fix himself
+<wug#574> will govern himself
+<wug#575> must handle himself
+<wug#576> did identify himself
+<wug#577> should join himself
+<wug#578> might link himself
+<wug#579> could not motivate himself
+<wug#580> would navigate himself
+<wug#581> has operated himself
+<wug#582> may plan himself
+<wug#583> will qualify himself
+<wug#584> must reach himself
+<wug#585> did secure himself
+<wug#586> should target himself
+<wug#587> might unify himself
+<wug#588> could not validate himself
+<wug#589> would voice himself
+<wug#590> has willed himself
+<wug#591> may x-ray himself
+<wug#592> will yield himself
+<wug#593> must zone himself
+<wug#594> did activate himself
+<wug#595> should build himself
+<wug#596> might clarify himself
+<wug#597> could decide himself
+<wug#598> would elevate himself
+<wug#599> has not framed himself

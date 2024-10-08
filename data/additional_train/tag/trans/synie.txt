@@ -1,0 +1,600 @@
+some teachers explain what few students will <wug#0>
+each manager denies what every employee must <wug#1>
+no bird catches what any worm cannot <wug#2>
+any author writes what no reader should <wug#3>
+every chef cooks what some diners have not <wug#4>ed
+no painter paints what each critic will <wug#5>
+each driver stops what no pedestrian could <wug#6>
+some leaders follow what every follower might <wug#7>
+every scientist discovers what no theory can <wug#8>
+any cat chases what some dogs have <wug#9>ed
+no student forgets what each teacher must not <wug#10>
+each musician plays what no instrument should <wug#11>
+some politicians debate what every law could <wug#12>
+every farmer grows what no crop will <wug#13>
+any librarian organizes what some books might not <wug#14>
+no judge judges what each case cannot <wug#15>
+each baker bakes what no bread will <wug#16>
+some children draw what every picture might <wug#17>
+every athlete runs what no race should <wug#18>
+any doctor treats what some diseases have not <wug#19>ed
+no philosopher questions what each idea can <wug#20>
+each carpenter builds what no house will <wug#21>
+some tourists visit what every city must not <wug#22>
+every poet writes what no poem could <wug#23>
+any gardener plants what some flowers might <wug#24>
+no teacher teaches what each student cannot <wug#25>
+each actor performs what no play should <wug#26>
+some dogs bark at what every cat will <wug#27>
+every fisherman catches what no fish can <wug#28>
+any mechanic fixes what some cars have not <wug#29>ed
+no nurse cares for what each patient must <wug#30>
+each tailor sews what no fabric could <wug#31>
+some chefs prepare what every meal might <wug#32>
+every dancer dances what no music will <wug#33>
+any jeweler crafts what some gems cannot <wug#34>
+no architect designs what each building should not <wug#35>
+each mother loves what no child can <wug#36>
+some kings rule what every kingdom might <wug#37>
+every pilot flies what no plane could <wug#38>
+any fish swims where some water has <wug#39>ed
+no clerk files what each document must not <wug#40>
+each driver drives what no car will <wug#41>
+some birds sing what every song might <wug#42>
+every lion hunts what no prey can <wug#43>
+any teacher corrects what some mistakes have not <wug#44>ed
+no artist creates what each masterpiece should <wug#45>
+each soldier fights what no enemy could <wug#46>
+some students study what every subject might <wug#47>
+every judge decides what no law will <wug#48>
+any plumber repairs what some pipes cannot <wug#49>
+no electrician wires what each circuit must not <wug#50>
+each programmer codes what no software could <wug#51>
+some reporters write what every article might <wug#52>
+every gardener waters what no plant can <wug#53>
+any banker counts what some money has not <wug#54>ed
+no chemist mixes what each compound should <wug#55>
+each cyclist rides what no bike will <wug#56>
+some singers perform what every stage might <wug#57>
+every psychologist analyzes what no mind can <wug#58>
+any historian records what some events have not <wug#59>ed
+no tailor alters what each suit must not <wug#60>
+each miner extracts what no ore could <wug#61>
+some mayors govern what every city might <wug#62>
+every nurse attends to what no patient will <wug#63>
+any student learns what some subjects cannot <wug#64>
+no chef tastes what each dish should not <wug#65>
+each driver navigates what no road could <wug#66>
+some athletes compete in what every sport might <wug#67>
+every teacher instructs what no class can <wug#68>
+any actor rehearses what some scenes have not <wug#69>ed
+no scientist hypothesizes what each theory must not <wug#70>
+each painter illustrates what no canvas could <wug#71>
+some children imagine what every fantasy might <wug#72>
+every builder constructs what no building will <wug#73>
+any poet composes what some verses cannot <wug#74>
+no musician composes what each melody should not <wug#75>
+each philosopher contemplates what no idea could <wug#76>
+some judges adjudicate what every case might <wug#77>
+every farmer harvests what no field can <wug#78>
+any librarian catalogs what some books have not <wug#79>ed
+no manager oversees what each project must not <wug#80>
+each tourist explores what no country could <wug#81>
+some doctors diagnose what every illness might <wug#82>
+every mechanic assembles what no machine will <wug#83>
+any baker kneads what some dough cannot <wug#84>
+no dancer choreographs what each routine should not <wug#85>
+each jeweler appraises what no gem could <wug#86>
+some kings decree what every law might <wug#87>
+every pilot navigates what no sky can <wug#88>
+any fisherman baits what some hooks have not <wug#89>ed
+no clerk organizes what each file must not <wug#90>
+each driver accelerates what no vehicle could <wug#91>
+some birds nest where every tree might <wug#92>
+every lion roars at what no jungle can <wug#93>
+any teacher grades what some papers have not <wug#94>ed
+no artist sketches what each portrait should <wug#95>
+each soldier patrols what no border could <wug#96>
+some students memorize what every formula might <wug#97>
+every judge reviews what no case will <wug#98>
+any plumber unclogs what some drains cannot <wug#99>
+no electrician connects what each wire must not <wug#100>
+each programmer debugs what no code could <wug#101>
+some reporters investigate what every story might <wug#102>
+every gardener prunes what no bush can <wug#103>
+any banker invests what some funds have not <wug#104>ed
+no chemist tests what each reaction should <wug#105>
+each cyclist pedals what no path will <wug#106>
+some singers vocalize what every note might <wug#107>
+every psychologist counsels what no client can <wug#108>
+any historian studies what some periods have not <wug#109>ed
+no tailor mends what each garment must not <wug#110>
+each miner digs what no mine could <wug#111>
+some mayors legislate what every ordinance might <wug#112>
+every nurse medicates what no condition will <wug#113>
+any student researches what some topics cannot <wug#114>
+no chef garnishes what each plate should not <wug#115>
+each driver reverses what no alley could <wug#116>
+some athletes train for what every competition might <wug#117>
+every teacher reviews what no homework can <wug#118>
+any actor memorizes what some lines have not <wug#119>ed
+no scientist formulates what each hypothesis must not <wug#120>
+each painter restores what no artwork could <wug#121>
+some children pretend what every game might <wug#122>
+every builder inspects what no structure will <wug#123>
+any poet recites what some poems cannot <wug#124>
+no musician rehearses what each piece should not <wug#125>
+each philosopher debates what no concept could <wug#126>
+some judges deliberate what every verdict might <wug#127>
+every farmer fertilizes what no soil can <wug#128>
+any librarian lends what some novels have not <wug#129>ed
+no manager coordinates what each department must not <wug#130>
+each tourist photographs what no landmark could <wug#131>
+some doctors prescribe what every medication might <wug#132>
+every mechanic lubricates what no gear will <wug#133>
+any baker decorates what some cakes cannot <wug#134>
+no dancer interprets what each movement should not <wug#135>
+each jeweler polishes what no stone could <wug#136>
+some kings enforce what every decree might <wug#137>
+every pilot checks what no engine can <wug#138>
+any fisherman nets what some fish have not <wug#139>ed
+no clerk updates what each record must not <wug#140>
+each driver parks what no spot could <wug#141>
+some birds migrate where every climate might <wug#142>
+every lion stalks what no prey will <wug#143>
+any teacher assigns what some homework cannot <wug#144>
+no artist exhibits what each gallery should not <wug#145>
+each soldier secures what no fort could <wug#146>
+some students recite what every poem might <wug#147>
+every judge interprets what no statute can <wug#148>
+any plumber installs what some fixtures have not <wug#149>ed
+no electrician inspects what each panel must not <wug#150>
+each programmer writes what no algorithm could <wug#151>
+some reporters publish what every fact might <wug#152>
+every gardener fertilizes what no lawn can <wug#153>
+any banker calculates what some accounts have not <wug#154>ed
+no chemist purifies what each substance should <wug#155>
+each cyclist competes in what no race will <wug#156>
+some singers harmonize what every chorus might <wug#157>
+every psychologist evaluates what no behavior can <wug#158>
+any historian interprets what some documents have not <wug#159>ed
+no tailor designs what each outfit must not <wug#160>
+each miner surveys what no land could <wug#161>
+some mayors announce what every policy might <wug#162>
+every nurse checks what no symptom will <wug#163>
+any student questions what some theories cannot <wug#164>
+no chef slices what each ingredient should not <wug#165>
+each driver accelerates what no highway could <wug#166>
+some athletes practice what every skill might <wug#167>
+every teacher explains what no concept can <wug#168>
+any actor auditions for what some roles have not <wug#169>ed
+no scientist proves what each experiment must not <wug#170>
+each painter sketches what no scene could <wug#171>
+some children play what every game might <wug#172>
+every builder measures what no dimension will <wug#173>
+any poet drafts what some stanzas cannot <wug#174>
+no musician tunes what each instrument should not <wug#175>
+each philosopher ponders what no question could <wug#176>
+some judges sentence what every criminal might <wug#177>
+every farmer plows what no field can <wug#178>
+any librarian shelves what some magazines have not <wug#179>ed
+no manager schedules what each meeting must not <wug#180>
+each tourist discovers what no island could <wug#181>
+some doctors examine what every patient might <wug#182>
+every mechanic adjusts what no engine will <wug#183>
+any baker proofs what some yeast cannot <wug#184>
+no dancer practices what each step should not <wug#185>
+each jeweler evaluates what no diamond could <wug#186>
+some kings visit what every province might <wug#187>
+every pilot inspects what no cockpit can <wug#188>
+any fisherman casts what some lines have not <wug#189>ed
+no clerk categorizes what each folder must not <wug#190>
+each driver signals what no turn could <wug#191>
+some birds perch where every branch might <wug#192>
+every lion pounces on what no antelope can <wug#193>
+any teacher discusses what some topics have not <wug#194>ed
+no artist paints what each canvas should not <wug#195>
+each soldier marches where no battlefield could <wug#196>
+some students analyze what every data set might <wug#197>
+every judge confirms what no verdict will <wug#198>
+any plumber checks what some valves cannot <wug#199>
+some teachers explain what few students will <wug#200>
+each manager denies what every employee must <wug#201>
+no bird catches what any worm cannot <wug#202>
+any author writes what no reader should <wug#203>
+every chef cooks what some diners have not <wug#204>ed
+no painter paints what each critic will <wug#205>
+each driver stops what no pedestrian could <wug#206>
+some leaders follow what every follower might <wug#207>
+every scientist discovers what no theory can <wug#208>
+any cat chases what some dogs have <wug#209>ed
+no student forgets what each teacher must not <wug#210>
+each musician plays what no instrument should <wug#211>
+some politicians debate what every law could <wug#212>
+every farmer grows what no crop will <wug#213>
+any librarian organizes what some books might not <wug#214>
+no judge judges what each case cannot <wug#215>
+each baker bakes what no bread will <wug#216>
+some children draw what every picture might <wug#217>
+every athlete runs what no race should <wug#218>
+any doctor treats what some diseases have not <wug#219>ed
+no philosopher questions what each idea can <wug#220>
+each carpenter builds what no house will <wug#221>
+some tourists visit what every city must not <wug#222>
+every poet writes what no poem could <wug#223>
+any gardener plants what some flowers might <wug#224>
+no teacher teaches what each student cannot <wug#225>
+each actor performs what no play should <wug#226>
+some dogs bark at what every cat will <wug#227>
+every fisherman catches what no fish can <wug#228>
+any mechanic fixes what some cars have not <wug#229>ed
+no nurse cares for what each patient must <wug#230>
+each tailor sews what no fabric could <wug#231>
+some chefs prepare what every meal might <wug#232>
+every dancer dances what no music will <wug#233>
+any jeweler crafts what some gems cannot <wug#234>
+no architect designs what each building should not <wug#235>
+each mother loves what no child can <wug#236>
+some kings rule what every kingdom might <wug#237>
+every pilot flies what no plane could <wug#238>
+any fish swims where some water has <wug#239>ed
+no clerk files what each document must not <wug#240>
+each driver drives what no car will <wug#241>
+some birds sing what every song might <wug#242>
+every lion hunts what no prey can <wug#243>
+any teacher corrects what some mistakes have not <wug#244>ed
+no artist creates what each masterpiece should <wug#245>
+each soldier fights what no enemy could <wug#246>
+some students study what every subject might <wug#247>
+every judge decides what no law will <wug#248>
+any plumber repairs what some pipes cannot <wug#249>
+no electrician wires what each circuit must not <wug#250>
+each programmer codes what no software could <wug#251>
+some reporters write what every article might <wug#252>
+every gardener waters what no plant can <wug#253>
+any banker counts what some money has not <wug#254>ed
+no chemist mixes what each compound should <wug#255>
+each cyclist rides what no bike will <wug#256>
+some singers perform what every stage might <wug#257>
+every psychologist analyzes what no mind can <wug#258>
+any historian records what some events have not <wug#259>ed
+no tailor alters what each suit must not <wug#260>
+each miner extracts what no ore could <wug#261>
+some mayors govern what every city might <wug#262>
+every nurse attends to what no patient will <wug#263>
+any student learns what some subjects cannot <wug#264>
+no chef tastes what each dish should not <wug#265>
+each driver navigates what no road could <wug#266>
+some athletes compete in what every sport might <wug#267>
+every teacher instructs what no class can <wug#268>
+any actor rehearses what some scenes have not <wug#269>ed
+no scientist hypothesizes what each theory must not <wug#270>
+each painter illustrates what no canvas could <wug#271>
+some children imagine what every fantasy might <wug#272>
+every builder constructs what no building will <wug#273>
+any poet composes what some verses cannot <wug#274>
+no musician composes what each melody should not <wug#275>
+each philosopher contemplates what no idea could <wug#276>
+some judges adjudicate what every case might <wug#277>
+every farmer harvests what no field can <wug#278>
+any librarian catalogs what some books have not <wug#279>ed
+no manager oversees what each project must not <wug#280>
+each tourist explores what no country could <wug#281>
+some doctors diagnose what every illness might <wug#282>
+every mechanic assembles what no machine will <wug#283>
+any baker kneads what some dough cannot <wug#284>
+no dancer choreographs what each routine should not <wug#285>
+each jeweler appraises what no gem could <wug#286>
+some kings decree what every law might <wug#287>
+every pilot navigates what no sky can <wug#288>
+any fisherman baits what some hooks have not <wug#289>ed
+no clerk organizes what each file must not <wug#290>
+each driver accelerates what no vehicle could <wug#291>
+some birds nest where every tree might <wug#292>
+every lion roars at what no jungle can <wug#293>
+any teacher grades what some papers have not <wug#294>ed
+no artist sketches what each portrait should <wug#295>
+each soldier patrols what no border could <wug#296>
+some students memorize what every formula might <wug#297>
+every judge reviews what no case will <wug#298>
+any plumber unclogs what some drains cannot <wug#299>
+no electrician connects what each wire must not <wug#300>
+each programmer debugs what no code could <wug#301>
+some reporters investigate what every story might <wug#302>
+every gardener prunes what no bush can <wug#303>
+any banker invests what some funds have not <wug#304>ed
+no chemist tests what each reaction should <wug#305>
+each cyclist pedals what no path will <wug#306>
+some singers vocalize what every note might <wug#307>
+every psychologist counsels what no client can <wug#308>
+any historian studies what some periods have not <wug#309>ed
+no tailor mends what each garment must not <wug#310>
+each miner digs what no mine could <wug#311>
+some mayors legislate what every ordinance might <wug#312>
+every nurse medicates what no condition will <wug#313>
+any student researches what some topics cannot <wug#314>
+no chef garnishes what each plate should not <wug#315>
+each driver reverses what no alley could <wug#316>
+some athletes train for what every competition might <wug#317>
+every teacher reviews what no homework can <wug#318>
+any actor memorizes what some lines have not <wug#319>ed
+no scientist formulates what each hypothesis must not <wug#320>
+each painter restores what no artwork could <wug#321>
+some children pretend what every game might <wug#322>
+every builder inspects what no structure will <wug#323>
+any poet recites what some poems cannot <wug#324>
+no musician rehearses what each piece should not <wug#325>
+each philosopher debates what no concept could <wug#326>
+some judges deliberate what every verdict might <wug#327>
+every farmer fertilizes what no soil can <wug#328>
+any librarian lends what some novels have not <wug#329>ed
+no manager coordinates what each department must not <wug#330>
+each tourist photographs what no landmark could <wug#331>
+some doctors prescribe what every medication might <wug#332>
+every mechanic lubricates what no gear will <wug#333>
+any baker decorates what some cakes cannot <wug#334>
+no dancer interprets what each movement should not <wug#335>
+each jeweler polishes what no stone could <wug#336>
+some kings enforce what every decree might <wug#337>
+every pilot checks what no engine can <wug#338>
+any fisherman nets what some fish have not <wug#339>ed
+no clerk updates what each record must not <wug#340>
+each driver parks what no spot could <wug#341>
+some birds migrate where every climate might <wug#342>
+every lion stalks what no prey will <wug#343>
+any teacher assigns what some homework cannot <wug#344>
+no artist exhibits what each gallery should not <wug#345>
+each soldier secures what no fort could <wug#346>
+some students recite what every poem might <wug#347>
+every judge interprets what no statute can <wug#348>
+any plumber installs what some fixtures have not <wug#349>ed
+no electrician inspects what each panel must not <wug#350>
+each programmer writes what no algorithm could <wug#351>
+some reporters publish what every fact might <wug#352>
+every gardener fertilizes what no lawn can <wug#353>
+any banker calculates what some accounts have not <wug#354>ed
+no chemist purifies what each substance should <wug#355>
+each cyclist competes in what no race will <wug#356>
+some singers harmonize what every chorus might <wug#357>
+every psychologist evaluates what no behavior can <wug#358>
+any historian interprets what some documents have not <wug#359>ed
+no tailor designs what each outfit must not <wug#360>
+each miner surveys what no land could <wug#361>
+some mayors announce what every policy might <wug#362>
+every nurse checks what no symptom will <wug#363>
+any student questions what some theories cannot <wug#364>
+no chef slices what each ingredient should not <wug#365>
+each driver accelerates what no highway could <wug#366>
+some athletes practice what every skill might <wug#367>
+every teacher explains what no concept can <wug#368>
+any actor auditions for what some roles have not <wug#369>ed
+no scientist proves what each experiment must not <wug#370>
+each painter sketches what no scene could <wug#371>
+some children play what every game might <wug#372>
+every builder measures what no dimension will <wug#373>
+any poet drafts what some stanzas cannot <wug#374>
+no musician tunes what each instrument should not <wug#375>
+each philosopher ponders what no question could <wug#376>
+some judges sentence what every criminal might <wug#377>
+every farmer plows what no field can <wug#378>
+any librarian shelves what some magazines have not <wug#379>ed
+no manager schedules what each meeting must not <wug#380>
+each tourist discovers what no island could <wug#381>
+some doctors examine what every patient might <wug#382>
+every mechanic adjusts what no engine will <wug#383>
+any baker proofs what some yeast cannot <wug#384>
+no dancer practices what each step should not <wug#385>
+each jeweler evaluates what no diamond could <wug#386>
+some kings visit what every province might <wug#387>
+every pilot inspects what no cockpit can <wug#388>
+any fisherman casts what some lines have not <wug#389>ed
+no clerk categorizes what each folder must not <wug#390>
+each driver signals what no turn could <wug#391>
+some birds perch where every branch might <wug#392>
+every lion pounces on what no antelope can <wug#393>
+any teacher discusses what some topics have not <wug#394>ed
+no artist paints what each canvas should not <wug#395>
+each soldier marches where no battlefield could <wug#396>
+some students analyze what every data set might <wug#397>
+every judge confirms what no verdict will <wug#398>
+any plumber checks what some valves cannot <wug#399>
+some teachers explain what few students will <wug#400>
+each manager denies what every employee must <wug#401>
+no bird catches what any worm cannot <wug#402>
+any author writes what no reader should <wug#403>
+every chef cooks what some diners have not <wug#404>ed
+no painter paints what each critic will <wug#405>
+each driver stops what no pedestrian could <wug#406>
+some leaders follow what every follower might <wug#407>
+every scientist discovers what no theory can <wug#408>
+any cat chases what some dogs have <wug#409>ed
+no student forgets what each teacher must not <wug#410>
+each musician plays what no instrument should <wug#411>
+some politicians debate what every law could <wug#412>
+every farmer grows what no crop will <wug#413>
+any librarian organizes what some books might not <wug#414>
+no judge judges what each case cannot <wug#415>
+each baker bakes what no bread will <wug#416>
+some children draw what every picture might <wug#417>
+every athlete runs what no race should <wug#418>
+any doctor treats what some diseases have not <wug#419>ed
+no philosopher questions what each idea can <wug#420>
+each carpenter builds what no house will <wug#421>
+some tourists visit what every city must not <wug#422>
+every poet writes what no poem could <wug#423>
+any gardener plants what some flowers might <wug#424>
+no teacher teaches what each student cannot <wug#425>
+each actor performs what no play should <wug#426>
+some dogs bark at what every cat will <wug#427>
+every fisherman catches what no fish can <wug#428>
+any mechanic fixes what some cars have not <wug#429>ed
+no nurse cares for what each patient must <wug#430>
+each tailor sews what no fabric could <wug#431>
+some chefs prepare what every meal might <wug#432>
+every dancer dances what no music will <wug#433>
+any jeweler crafts what some gems cannot <wug#434>
+no architect designs what each building should not <wug#435>
+each mother loves what no child can <wug#436>
+some kings rule what every kingdom might <wug#437>
+every pilot flies what no plane could <wug#438>
+any fish swims where some water has <wug#439>ed
+no clerk files what each document must not <wug#440>
+each driver drives what no car will <wug#441>
+some birds sing what every song might <wug#442>
+every lion hunts what no prey can <wug#443>
+any teacher corrects what some mistakes have not <wug#444>ed
+no artist creates what each masterpiece should <wug#445>
+each soldier fights what no enemy could <wug#446>
+some students study what every subject might <wug#447>
+every judge decides what no law will <wug#448>
+any plumber repairs what some pipes cannot <wug#449>
+no electrician wires what each circuit must not <wug#450>
+each programmer codes what no software could <wug#451>
+some reporters write what every article might <wug#452>
+every gardener waters what no plant can <wug#453>
+any banker counts what some money has not <wug#454>ed
+no chemist mixes what each compound should <wug#455>
+each cyclist rides what no bike will <wug#456>
+some singers perform what every stage might <wug#457>
+every psychologist analyzes what no mind can <wug#458>
+any historian records what some events have not <wug#459>ed
+no tailor alters what each suit must not <wug#460>
+each miner extracts what no ore could <wug#461>
+some mayors govern what every city might <wug#462>
+every nurse attends to what no patient will <wug#463>
+any student learns what some subjects cannot <wug#464>
+no chef tastes what each dish should not <wug#465>
+each driver navigates what no road could <wug#466>
+some athletes compete in what every sport might <wug#467>
+every teacher instructs what no class can <wug#468>
+any actor rehearses what some scenes have not <wug#469>ed
+no scientist hypothesizes what each theory must not <wug#470>
+each painter illustrates what no canvas could <wug#471>
+some children imagine what every fantasy might <wug#472>
+every builder constructs what no building will <wug#473>
+any poet composes what some verses cannot <wug#474>
+no musician composes what each melody should not <wug#475>
+each philosopher contemplates what no idea could <wug#476>
+some judges adjudicate what every case might <wug#477>
+every farmer harvests what no field can <wug#478>
+any librarian catalogs what some books have not <wug#479>ed
+no manager oversees what each project must not <wug#480>
+each tourist explores what no country could <wug#481>
+some doctors diagnose what every illness might <wug#482>
+every mechanic assembles what no machine will <wug#483>
+any baker kneads what some dough cannot <wug#484>
+no dancer choreographs what each routine should not <wug#485>
+each jeweler appraises what no gem could <wug#486>
+some kings decree what every law might <wug#487>
+every pilot navigates what no sky can <wug#488>
+any fisherman baits what some hooks have not <wug#489>ed
+no clerk organizes what each file must not <wug#490>
+each driver accelerates what no vehicle could <wug#491>
+some birds nest where every tree might <wug#492>
+every lion roars at what no jungle can <wug#493>
+any teacher grades what some papers have not <wug#494>ed
+no artist sketches what each portrait should <wug#495>
+each soldier patrols what no border could <wug#496>
+some students memorize what every formula might <wug#497>
+every judge reviews what no case will <wug#498>
+any plumber unclogs what some drains cannot <wug#499>
+no electrician connects what each wire must not <wug#500>
+each programmer debugs what no code could <wug#501>
+some reporters investigate what every story might <wug#502>
+every gardener prunes what no bush can <wug#503>
+any banker invests what some funds have not <wug#504>ed
+no chemist tests what each reaction should <wug#505>
+each cyclist pedals what no path will <wug#506>
+some singers vocalize what every note might <wug#507>
+every psychologist counsels what no client can <wug#508>
+any historian studies what some periods have not <wug#509>ed
+no tailor mends what each garment must not <wug#510>
+each miner digs what no mine could <wug#511>
+some mayors legislate what every ordinance might <wug#512>
+every nurse medicates what no condition will <wug#513>
+any student researches what some topics cannot <wug#514>
+no chef garnishes what each plate should not <wug#515>
+each driver reverses what no alley could <wug#516>
+some athletes train for what every competition might <wug#517>
+every teacher reviews what no homework can <wug#518>
+any actor memorizes what some lines have not <wug#519>ed
+no scientist formulates what each hypothesis must not <wug#520>
+each painter restores what no artwork could <wug#521>
+some children pretend what every game might <wug#522>
+every builder inspects what no structure will <wug#523>
+any poet recites what some poems cannot <wug#524>
+no musician rehearses what each piece should not <wug#525>
+each philosopher debates what no concept could <wug#526>
+some judges deliberate what every verdict might <wug#527>
+every farmer fertilizes what no soil can <wug#528>
+any librarian lends what some novels have not <wug#529>ed
+no manager coordinates what each department must not <wug#530>
+each tourist photographs what no landmark could <wug#531>
+some doctors prescribe what every medication might <wug#532>
+every mechanic lubricates what no gear will <wug#533>
+any baker decorates what some cakes cannot <wug#534>
+no dancer interprets what each movement should not <wug#535>
+each jeweler polishes what no stone could <wug#536>
+some kings enforce what every decree might <wug#537>
+every pilot checks what no engine can <wug#538>
+any fisherman nets what some fish have not <wug#539>ed
+no clerk updates what each record must not <wug#540>
+each driver parks what no spot could <wug#541>
+some birds migrate where every climate might <wug#542>
+every lion stalks what no prey will <wug#543>
+any teacher assigns what some homework cannot <wug#544>
+no artist exhibits what each gallery should not <wug#545>
+each soldier secures what no fort could <wug#546>
+some students recite what every poem might <wug#547>
+every judge interprets what no statute can <wug#548>
+any plumber installs what some fixtures have not <wug#549>ed
+no electrician inspects what each panel must not <wug#550>
+each programmer writes what no algorithm could <wug#551>
+some reporters publish what every fact might <wug#552>
+every gardener fertilizes what no lawn can <wug#553>
+any banker calculates what some accounts have not <wug#554>ed
+no chemist purifies what each substance should <wug#555>
+each cyclist competes in what no race will <wug#556>
+some singers harmonize what every chorus might <wug#557>
+every psychologist evaluates what no behavior can <wug#558>
+any historian interprets what some documents have not <wug#559>ed
+no tailor designs what each outfit must not <wug#560>
+each miner surveys what no land could <wug#561>
+some mayors announce what every policy might <wug#562>
+every nurse checks what no symptom will <wug#563>
+any student questions what some theories cannot <wug#564>
+no chef slices what each ingredient should not <wug#565>
+each driver accelerates what no highway could <wug#566>
+some athletes practice what every skill might <wug#567>
+every teacher explains what no concept can <wug#568>
+any actor auditions for what some roles have not <wug#569>ed
+no scientist proves what each experiment must not <wug#570>
+each painter sketches what no scene could <wug#571>
+some children play what every game might <wug#572>
+every builder measures what no dimension will <wug#573>
+any poet drafts what some stanzas cannot <wug#574>
+no musician tunes what each instrument should not <wug#575>
+each philosopher ponders what no question could <wug#576>
+some judges sentence what every criminal might <wug#577>
+every farmer plows what no field can <wug#578>
+any librarian shelves what some magazines have not <wug#579>ed
+no manager schedules what each meeting must not <wug#580>
+each tourist discovers what no island could <wug#581>
+some doctors examine what every patient might <wug#582>
+every mechanic adjusts what no engine will <wug#583>
+any baker proofs what some yeast cannot <wug#584>
+no dancer practices what each step should not <wug#585>
+each jeweler evaluates what no diamond could <wug#586>
+some kings visit what every province might <wug#587>
+every pilot inspects what no cockpit can <wug#588>
+any fisherman casts what some lines have not <wug#589>ed
+no clerk categorizes what each folder must not <wug#590>
+each driver signals what no turn could <wug#591>
+some birds perch where every branch might <wug#592>
+every lion pounces on what no antelope can <wug#593>
+any teacher discusses what some topics have not <wug#594>ed
+no artist paints what each canvas should not <wug#595>
+each soldier marches where no battlefield could <wug#596>
+some students analyze what every data set might <wug#597>
+every judge confirms what no verdict will <wug#598>
+any plumber checks what some valves cannot <wug#599>

@@ -1,0 +1,600 @@
+a cat will <wug#0> the dog
+no bird has <wug#1>ed the fish
+every student should <wug#2> a question
+some apples can <wug#3> oranges
+the teacher did not <wug#4> the papers
+many chairs have <wug#5>ed tables
+few books could <wug#6> magazines
+each lawyer must <wug#7> a case
+all birds might <wug#8> a worm
+any car should not <wug#9> bicycles
+several windows were <wug#10>ing doors
+the box will <wug#11> the bag
+no lamp has <wug#12>ed the bulb
+every key could <wug#13> a lock
+some shoes must not <wug#14> socks
+the child did <wug#15> the toy
+many pens have <wug#16>ed notebooks
+few stars will <wug#17> planets
+each player might <wug#18> a ball
+all chefs could <wug#19> a meal
+any teacher should not <wug#20> students
+several cups were <wug#21>ing saucers
+the phone will <wug#22> the call
+no clock has <wug#23>ed the time
+every pillow could <wug#24> a blanket
+some walls must not <wug#25> paint
+the flower did <wug#26> the vase
+many trees have <wug#27>ed leaves
+few clouds will <wug#28> rain
+each bee might <wug#29> honey
+all lions could <wug#30> a zebra
+any fish should not <wug#31> the sea
+several hats were <wug#32>ing coats
+the spoon will <wug#33> the soup
+no shoe has <wug#34>ed the lace
+every mouse could <wug#35> a cheese
+some elephants must not <wug#36> peanuts
+the monkey did <wug#37> the banana
+many birds have <wug#38>ed nests
+few tigers will <wug#39> deer
+each artist might <wug#40> a painting
+all soldiers could <wug#41> a mission
+any boat should not <wug#42> the river
+several desks were <wug#43>ing chairs
+the hammer will <wug#44> the nail
+no fork has <wug#45>ed the plate
+every cow could <wug#46> a field
+some gardens must not <wug#47> flowers
+the baker did <wug#48> the bread
+many clouds have <wug#49>ed rain
+few wolves will <wug#50> sheep
+each teacher might <wug#51> a lesson
+all judges could <wug#52> a case
+any cat should not <wug#53> the mouse
+several shoes were <wug#54>ing laces
+the stove will <wug#55> the pot
+no knife has <wug#56>ed the board
+every actor could <wug#57> a role
+some players must not <wug#58> the game
+the painter did <wug#59> the canvas
+many farmers have <wug#60>ed fields
+few horses will <wug#61> carts
+each student might <wug#62> a book
+all mechanics could <wug#63> a car
+any owl should not <wug#64> the tree
+several brushes were <wug#65>ing paints
+the blender will <wug#66> the fruit
+no bat has <wug#67>ed the ball
+every chef could <wug#68> a dish
+some actors must not <wug#69> lines
+the director did <wug#70> the scene
+many dancers have <wug#71>ed routines
+few bears will <wug#72> fish
+each gardener might <wug#73> plants
+all pilots could <wug#74> planes
+any spider should not <wug#75> the web
+several tires were <wug#76>ing wheels
+the oven will <wug#77> the cake
+no brush has <wug#78>ed the paint
+every musician could <wug#79> an instrument
+some referees must not <wug#80> the match
+the goalie did <wug#81> the ball
+many swimmers have <wug#82>ed laps
+few cheetahs will <wug#83> gazelles
+each baker might <wug#84> bread
+all carpenters could <wug#85> wood
+any squirrel should not <wug#86> the nut
+several lamps were <wug#87>ing light
+the fridge will <wug#88> the food
+no pitcher has <wug#89>ed the ball
+every teacher could <wug#90> a student
+some mechanics must not <wug#91> engines
+the architect did <wug#92> the building
+many scientists have <wug#93>ed experiments
+few drummers will <wug#94> drums
+each plumber might <wug#95> pipes
+all barbers could <wug#96> hair
+any eagle should not <wug#97> the sky
+several keys were <wug#98>ing locks
+the microwave will <wug#99> the meal
+no hammer has <wug#100>ed the nail
+every gardener could <wug#101> a plant
+some judges must not <wug#102> cases
+the novelist did <wug#103> the book
+many teachers have <wug#104>ed lessons
+few lions will <wug#105> zebras
+each driver might <wug#106> a car
+all painters could <wug#107> canvases
+any duck should not <wug#108> the pond
+several ovens were <wug#109>ing cakes
+the telescope will <wug#110> the stars
+no broom has <wug#111>ed the floor
+every astronaut could <wug#112> a spaceship
+some cyclists must not <wug#113> bikes
+the sculptor did <wug#114> the statue
+many reporters have <wug#115>ed news
+few sharks will <wug#116> fish
+each farmer might <wug#117> crops
+all electricians could <wug#118> wires
+any rabbit should not <wug#119> the carrot
+several blenders were <wug#120>ing smoothies
+the freezer will <wug#121> the ice cream
+no chisel has <wug#122>ed the wood
+every pilot could <wug#123> a plane
+some bakers must not <wug#124> cakes
+the jeweler did <wug#125> the necklace
+many biologists have <wug#126>ed cells
+few wolves will <wug#127> deer
+each chemist might <wug#128> chemicals
+all managers could <wug#129> projects
+any hawk should not <wug#130> the mouse
+several mixers were <wug#131>ing dough
+the drill will <wug#132> the hole
+no saw has <wug#133>ed the tree
+every fisherman could <wug#134> a net
+some tailors must not <wug#135> clothes
+the author did <wug#136> the novel
+many mathematicians have <wug#137>ed equations
+few eagles will <wug#138> rabbits
+each nurse might <wug#139> patients
+all architects could <wug#140> buildings
+any frog should not <wug#141> the pond
+several refrigerators were <wug#142>ing food
+the camera will <wug#143> the photo
+no pencil has <wug#144>ed the paper
+every singer could <wug#145> a song
+some directors must not <wug#146> movies
+the builder did <wug#147> the house
+many programmers have <wug#148>ed software
+few bears will <wug#149> honey
+each teacher might <wug#150> students
+all dancers could <wug#151> routines
+several ovens were <wug#152>ing bread
+the blender will <wug#153> the ingredients
+no fan has <wug#154>ed the air
+every mechanic could <wug#155> a car
+some painters must not <wug#156> walls
+the gardener did <wug#157> the plants
+many students have <wug#158>ed homework
+few cats will <wug#159> mice
+each driver might <wug#160> a truck
+all chefs could <wug#161> meals
+any bird should not <wug#162> the worm
+several mixers were <wug#163>ing batter
+no knife has <wug#164>ed the fruit
+every actor could <wug#165> a script
+some referees must not <wug#166> fouls
+the goalie did <wug#167> the shot
+many swimmers have <wug#168>ed races
+few cheetahs will <wug#169> antelopes
+each baker might <wug#170> pastries
+all carpenters could <wug#171> furniture
+any squirrel should not <wug#172> acorns
+several lamps were <wug#173>ing bulbs
+the fridge will <wug#174> the vegetables
+no broom has <wug#175>ed the dust
+every astronaut could <wug#176> a mission
+some cyclists must not <wug#177> races
+the sculptor did <wug#178> the marble
+many reporters have <wug#179>ed stories
+few sharks will <wug#180> seals
+each farmer might <wug#181> livestock
+all electricians could <wug#182> circuits
+some trees have <wug#183>ed the car
+each monkey might <wug#184> a banana
+no teacher will <wug#185> the student
+every flower should <wug#186> the vase
+a few clouds could <wug#187> the sun
+the lion has <wug#188>ed the zebra
+many books can <wug#189> a shelf
+no cup will <wug#190> the saucer
+each key must <wug#191> a lock
+some birds have <wug#192>ed the worm
+every computer should <wug#193> a program
+a few stars could <wug#194> the night
+the fish has <wug#195>ed the water
+many chairs can <wug#196> a table
+no shoe will <wug#197> the foot
+each window must <wug#198> a curtain
+some pencils have <wug#199>ed the paper
+a cat will <wug#200> the dog
+no bird has <wug#201>ed the fish
+every student should <wug#202> a question
+some apples can <wug#203> oranges
+the teacher did not <wug#204> the papers
+many chairs have <wug#205>ed tables
+few books could <wug#206> magazines
+each lawyer must <wug#207> a case
+all birds might <wug#208> a worm
+any car should not <wug#209> bicycles
+several windows were <wug#210>ing doors
+the box will <wug#211> the bag
+no lamp has <wug#212>ed the bulb
+every key could <wug#213> a lock
+some shoes must not <wug#214> socks
+the child did <wug#215> the toy
+many pens have <wug#216>ed notebooks
+few stars will <wug#217> planets
+each player might <wug#218> a ball
+all chefs could <wug#219> a meal
+any teacher should not <wug#220> students
+several cups were <wug#221>ing saucers
+the phone will <wug#222> the call
+no clock has <wug#223>ed the time
+every pillow could <wug#224> a blanket
+some walls must not <wug#225> paint
+the flower did <wug#226> the vase
+many trees have <wug#227>ed leaves
+few clouds will <wug#228> rain
+each bee might <wug#229> honey
+all lions could <wug#230> a zebra
+any fish should not <wug#231> the sea
+several hats were <wug#232>ing coats
+the spoon will <wug#233> the soup
+no shoe has <wug#234>ed the lace
+every mouse could <wug#235> a cheese
+some elephants must not <wug#236> peanuts
+the monkey did <wug#237> the banana
+many birds have <wug#238>ed nests
+few tigers will <wug#239> deer
+each artist might <wug#240> a painting
+all soldiers could <wug#241> a mission
+any boat should not <wug#242> the river
+several desks were <wug#243>ing chairs
+the hammer will <wug#244> the nail
+no fork has <wug#245>ed the plate
+every cow could <wug#246> a field
+some gardens must not <wug#247> flowers
+the baker did <wug#248> the bread
+many clouds have <wug#249>ed rain
+few wolves will <wug#250> sheep
+each teacher might <wug#251> a lesson
+all judges could <wug#252> a case
+any cat should not <wug#253> the mouse
+several shoes were <wug#254>ing laces
+the stove will <wug#255> the pot
+no knife has <wug#256>ed the board
+every actor could <wug#257> a role
+some players must not <wug#258> the game
+the painter did <wug#259> the canvas
+many farmers have <wug#260>ed fields
+few horses will <wug#261> carts
+each student might <wug#262> a book
+all mechanics could <wug#263> a car
+any owl should not <wug#264> the tree
+several brushes were <wug#265>ing paints
+the blender will <wug#266> the fruit
+no bat has <wug#267>ed the ball
+every chef could <wug#268> a dish
+some actors must not <wug#269> lines
+the director did <wug#270> the scene
+many dancers have <wug#271>ed routines
+few bears will <wug#272> fish
+each gardener might <wug#273> plants
+all pilots could <wug#274> planes
+any spider should not <wug#275> the web
+several tires were <wug#276>ing wheels
+the oven will <wug#277> the cake
+no brush has <wug#278>ed the paint
+every musician could <wug#279> an instrument
+some referees must not <wug#280> the match
+the goalie did <wug#281> the ball
+many swimmers have <wug#282>ed laps
+few cheetahs will <wug#283> gazelles
+each baker might <wug#284> bread
+all carpenters could <wug#285> wood
+any squirrel should not <wug#286> the nut
+several lamps were <wug#287>ing light
+the fridge will <wug#288> the food
+no pitcher has <wug#289>ed the ball
+every teacher could <wug#290> a student
+some mechanics must not <wug#291> engines
+the architect did <wug#292> the building
+many scientists have <wug#293>ed experiments
+few drummers will <wug#294> drums
+each plumber might <wug#295> pipes
+all barbers could <wug#296> hair
+any eagle should not <wug#297> the sky
+several keys were <wug#298>ing locks
+the microwave will <wug#299> the meal
+no hammer has <wug#300>ed the nail
+every gardener could <wug#301> a plant
+some judges must not <wug#302> cases
+the novelist did <wug#303> the book
+many teachers have <wug#304>ed lessons
+few lions will <wug#305> zebras
+each driver might <wug#306> a car
+all painters could <wug#307> canvases
+any duck should not <wug#308> the pond
+several ovens were <wug#309>ing cakes
+the telescope will <wug#310> the stars
+no broom has <wug#311>ed the floor
+every astronaut could <wug#312> a spaceship
+some cyclists must not <wug#313> bikes
+the sculptor did <wug#314> the statue
+many reporters have <wug#315>ed news
+few sharks will <wug#316> fish
+each farmer might <wug#317> crops
+all electricians could <wug#318> wires
+any rabbit should not <wug#319> the carrot
+several blenders were <wug#320>ing smoothies
+the freezer will <wug#321> the ice cream
+no chisel has <wug#322>ed the wood
+every pilot could <wug#323> a plane
+some bakers must not <wug#324> cakes
+the jeweler did <wug#325> the necklace
+many biologists have <wug#326>ed cells
+few wolves will <wug#327> deer
+each chemist might <wug#328> chemicals
+all managers could <wug#329> projects
+any hawk should not <wug#330> the mouse
+several mixers were <wug#331>ing dough
+the drill will <wug#332> the hole
+no saw has <wug#333>ed the tree
+every fisherman could <wug#334> a net
+some tailors must not <wug#335> clothes
+the author did <wug#336> the novel
+many mathematicians have <wug#337>ed equations
+few eagles will <wug#338> rabbits
+each nurse might <wug#339> patients
+all architects could <wug#340> buildings
+any frog should not <wug#341> the pond
+several refrigerators were <wug#342>ing food
+the camera will <wug#343> the photo
+no pencil has <wug#344>ed the paper
+every singer could <wug#345> a song
+some directors must not <wug#346> movies
+the builder did <wug#347> the house
+many programmers have <wug#348>ed software
+few bears will <wug#349> honey
+each teacher might <wug#350> students
+all dancers could <wug#351> routines
+several ovens were <wug#352>ing bread
+the blender will <wug#353> the ingredients
+no fan has <wug#354>ed the air
+every mechanic could <wug#355> a car
+some painters must not <wug#356> walls
+the gardener did <wug#357> the plants
+many students have <wug#358>ed homework
+few cats will <wug#359> mice
+each driver might <wug#360> a truck
+all chefs could <wug#361> meals
+any bird should not <wug#362> the worm
+several mixers were <wug#363>ing batter
+no knife has <wug#364>ed the fruit
+every actor could <wug#365> a script
+some referees must not <wug#366> fouls
+the goalie did <wug#367> the shot
+many swimmers have <wug#368>ed races
+few cheetahs will <wug#369> antelopes
+each baker might <wug#370> pastries
+all carpenters could <wug#371> furniture
+any squirrel should not <wug#372> acorns
+several lamps were <wug#373>ing bulbs
+the fridge will <wug#374> the vegetables
+no broom has <wug#375>ed the dust
+every astronaut could <wug#376> a mission
+some cyclists must not <wug#377> races
+the sculptor did <wug#378> the marble
+many reporters have <wug#379>ed stories
+few sharks will <wug#380> seals
+each farmer might <wug#381> livestock
+all electricians could <wug#382> circuits
+some trees have <wug#383>ed the car
+each monkey might <wug#384> a banana
+no teacher will <wug#385> the student
+every flower should <wug#386> the vase
+a few clouds could <wug#387> the sun
+the lion has <wug#388>ed the zebra
+many books can <wug#389> a shelf
+no cup will <wug#390> the saucer
+each key must <wug#391> a lock
+some birds have <wug#392>ed the worm
+every computer should <wug#393> a program
+a few stars could <wug#394> the night
+the fish has <wug#395>ed the water
+many chairs can <wug#396> a table
+no shoe will <wug#397> the foot
+each window must <wug#398> a curtain
+some pencils have <wug#399>ed the paper
+a cat will <wug#400> the dog
+no bird has <wug#401>ed the fish
+every student should <wug#402> a question
+some apples can <wug#403> oranges
+the teacher did not <wug#404> the papers
+many chairs have <wug#405>ed tables
+few books could <wug#406> magazines
+each lawyer must <wug#407> a case
+all birds might <wug#408> a worm
+any car should not <wug#409> bicycles
+several windows were <wug#410>ing doors
+the box will <wug#411> the bag
+no lamp has <wug#412>ed the bulb
+every key could <wug#413> a lock
+some shoes must not <wug#414> socks
+the child did <wug#415> the toy
+many pens have <wug#416>ed notebooks
+few stars will <wug#417> planets
+each player might <wug#418> a ball
+all chefs could <wug#419> a meal
+any teacher should not <wug#420> students
+several cups were <wug#421>ing saucers
+the phone will <wug#422> the call
+no clock has <wug#423>ed the time
+every pillow could <wug#424> a blanket
+some walls must not <wug#425> paint
+the flower did <wug#426> the vase
+many trees have <wug#427>ed leaves
+few clouds will <wug#428> rain
+each bee might <wug#429> honey
+all lions could <wug#430> a zebra
+any fish should not <wug#431> the sea
+several hats were <wug#432>ing coats
+the spoon will <wug#433> the soup
+no shoe has <wug#434>ed the lace
+every mouse could <wug#435> a cheese
+some elephants must not <wug#436> peanuts
+the monkey did <wug#437> the banana
+many birds have <wug#438>ed nests
+few tigers will <wug#439> deer
+each artist might <wug#440> a painting
+all soldiers could <wug#441> a mission
+any boat should not <wug#442> the river
+several desks were <wug#443>ing chairs
+the hammer will <wug#444> the nail
+no fork has <wug#445>ed the plate
+every cow could <wug#446> a field
+some gardens must not <wug#447> flowers
+the baker did <wug#448> the bread
+many clouds have <wug#449>ed rain
+few wolves will <wug#450> sheep
+each teacher might <wug#451> a lesson
+all judges could <wug#452> a case
+any cat should not <wug#453> the mouse
+several shoes were <wug#454>ing laces
+the stove will <wug#455> the pot
+no knife has <wug#456>ed the board
+every actor could <wug#457> a role
+some players must not <wug#458> the game
+the painter did <wug#459> the canvas
+many farmers have <wug#460>ed fields
+few horses will <wug#461> carts
+each student might <wug#462> a book
+all mechanics could <wug#463> a car
+any owl should not <wug#464> the tree
+several brushes were <wug#465>ing paints
+the blender will <wug#466> the fruit
+no bat has <wug#467>ed the ball
+every chef could <wug#468> a dish
+some actors must not <wug#469> lines
+the director did <wug#470> the scene
+many dancers have <wug#471>ed routines
+few bears will <wug#472> fish
+each gardener might <wug#473> plants
+all pilots could <wug#474> planes
+any spider should not <wug#475> the web
+several tires were <wug#476>ing wheels
+the oven will <wug#477> the cake
+no brush has <wug#478>ed the paint
+every musician could <wug#479> an instrument
+some referees must not <wug#480> the match
+the goalie did <wug#481> the ball
+many swimmers have <wug#482>ed laps
+few cheetahs will <wug#483> gazelles
+each baker might <wug#484> bread
+all carpenters could <wug#485> wood
+any squirrel should not <wug#486> the nut
+several lamps were <wug#487>ing light
+the fridge will <wug#488> the food
+no pitcher has <wug#489>ed the ball
+every teacher could <wug#490> a student
+some mechanics must not <wug#491> engines
+the architect did <wug#492> the building
+many scientists have <wug#493>ed experiments
+few drummers will <wug#494> drums
+each plumber might <wug#495> pipes
+all barbers could <wug#496> hair
+any eagle should not <wug#497> the sky
+several keys were <wug#498>ing locks
+the microwave will <wug#499> the meal
+no hammer has <wug#500>ed the nail
+every gardener could <wug#501> a plant
+some judges must not <wug#502> cases
+the novelist did <wug#503> the book
+many teachers have <wug#504>ed lessons
+few lions will <wug#505> zebras
+each driver might <wug#506> a car
+all painters could <wug#507> canvases
+any duck should not <wug#508> the pond
+several ovens were <wug#509>ing cakes
+the telescope will <wug#510> the stars
+no broom has <wug#511>ed the floor
+every astronaut could <wug#512> a spaceship
+some cyclists must not <wug#513> bikes
+the sculptor did <wug#514> the statue
+many reporters have <wug#515>ed news
+few sharks will <wug#516> fish
+each farmer might <wug#517> crops
+all electricians could <wug#518> wires
+any rabbit should not <wug#519> the carrot
+several blenders were <wug#520>ing smoothies
+the freezer will <wug#521> the ice cream
+no chisel has <wug#522>ed the wood
+every pilot could <wug#523> a plane
+some bakers must not <wug#524> cakes
+the jeweler did <wug#525> the necklace
+many biologists have <wug#526>ed cells
+few wolves will <wug#527> deer
+each chemist might <wug#528> chemicals
+all managers could <wug#529> projects
+any hawk should not <wug#530> the mouse
+several mixers were <wug#531>ing dough
+the drill will <wug#532> the hole
+no saw has <wug#533>ed the tree
+every fisherman could <wug#534> a net
+some tailors must not <wug#535> clothes
+the author did <wug#536> the novel
+many mathematicians have <wug#537>ed equations
+few eagles will <wug#538> rabbits
+each nurse might <wug#539> patients
+all architects could <wug#540> buildings
+any frog should not <wug#541> the pond
+several refrigerators were <wug#542>ing food
+the camera will <wug#543> the photo
+no pencil has <wug#544>ed the paper
+every singer could <wug#545> a song
+some directors must not <wug#546> movies
+the builder did <wug#547> the house
+many programmers have <wug#548>ed software
+few bears will <wug#549> honey
+each teacher might <wug#550> students
+all dancers could <wug#551> routines
+several ovens were <wug#552>ing bread
+the blender will <wug#553> the ingredients
+no fan has <wug#554>ed the air
+every mechanic could <wug#555> a car
+some painters must not <wug#556> walls
+the gardener did <wug#557> the plants
+many students have <wug#558>ed homework
+few cats will <wug#559> mice
+each driver might <wug#560> a truck
+all chefs could <wug#561> meals
+any bird should not <wug#562> the worm
+several mixers were <wug#563>ing batter
+no knife has <wug#564>ed the fruit
+every actor could <wug#565> a script
+some referees must not <wug#566> fouls
+the goalie did <wug#567> the shot
+many swimmers have <wug#568>ed races
+few cheetahs will <wug#569> antelopes
+each baker might <wug#570> pastries
+all carpenters could <wug#571> furniture
+any squirrel should not <wug#572> acorns
+several lamps were <wug#573>ing bulbs
+the fridge will <wug#574> the vegetables
+no broom has <wug#575>ed the dust
+every astronaut could <wug#576> a mission
+some cyclists must not <wug#577> races
+the sculptor did <wug#578> the marble
+many reporters have <wug#579>ed stories
+few sharks will <wug#580> seals
+each farmer might <wug#581> livestock
+all electricians could <wug#582> circuits
+some trees have <wug#583>ed the car
+each monkey might <wug#584> a banana
+no teacher will <wug#585> the student
+every flower should <wug#586> the vase
+a few clouds could <wug#587> the sun
+the lion has <wug#588>ed the zebra
+many books can <wug#589> a shelf
+no cup will <wug#590> the saucer
+each key must <wug#591> a lock
+some birds have <wug#592>ed the worm
+every computer should <wug#593> a program
+a few stars could <wug#594> the night
+the fish has <wug#595>ed the water
+many chairs can <wug#596> a table
+no shoe will <wug#597> the foot
+each window must <wug#598> a curtain
+some pencils have <wug#599>ed the paper

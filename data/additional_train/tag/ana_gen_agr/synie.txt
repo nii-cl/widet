@@ -1,0 +1,600 @@
+<wug#0> finds her book
+<wug#1> has painted her canvas
+<wug#2> will not clean her room
+<wug#3> throws her ball
+<wug#4> did not fix her computer
+<wug#5> carries her bag
+<wug#6> had lost her key
+<wug#7> makes her bed
+<wug#8> does not write her essay
+<wug#9> pulls her curtain
+<wug#10> can solve her puzzle
+<wug#11> did not break her glass
+<wug#12> takes her medicine
+<wug#13> has not driven her car
+<wug#14> sends her letter
+<wug#15> could not find her phone
+<wug#16> reads her book
+<wug#17> has not washed her clothes
+<wug#18> builds her model
+<wug#19> did not cook her meal
+<wug#20> plants her tree
+<wug#21> has not changed her opinion
+<wug#22> sells her artwork
+<wug#23> did not forget her password
+<wug#24> buys her groceries
+<wug#25> has not repaired her bicycle
+<wug#26> wears her dress
+<wug#27> did not lose her ticket
+<wug#28> feeds her cat
+<wug#29> has not answered her phone
+<wug#30> opens her window
+<wug#31> did not miss her bus
+<wug#32> saves her document
+<wug#33> has not locked her door
+<wug#34> borrows her neighbor's ladder
+<wug#35> did not spill her coffee
+<wug#36> lights her candle
+<wug#37> has not folded her laundry
+<wug#38> files her taxes
+<wug#39> did not ignore her alarm
+<wug#40> packs her suitcase
+<wug#41> has not checked her email
+<wug#42> waters her plants
+<wug#43> did not drop her wallet
+<wug#44> ties her shoelaces
+<wug#45> has not cleared her schedule
+<wug#46> measures her room
+<wug#47> did not hit her thumb
+<wug#48> covers her pool
+<wug#49> has not updated her blog
+<wug#50> trims her hedge
+<wug#51> did not erase her drawing
+<wug#52> collects her mail
+<wug#53> has not set her alarm
+<wug#54> dries her hair
+<wug#55> did not tear her paper
+<wug#56> mends her socks
+<wug#57> has not judged her friend
+<wug#58> peels her orange
+<wug#59> did not crush her hat
+<wug#60> arranges her books
+<wug#61> has not followed her map
+<wug#62> names her puppy
+<wug#63> did not scratch her cd
+<wug#64> greets her neighbor
+<wug#65> has not borrowed her pen
+<wug#66> admires her painting
+<wug#67> did not slam her door
+<wug#68> holds her umbrella
+<wug#69> has not swept her floor
+<wug#70> stitches her dress
+<wug#71> did not yell at her brother
+<wug#72> locks her diary
+<wug#73> has not pruned her bushes
+<wug#74> hugs her friend
+<wug#75> did not mock her accent
+<wug#76> kicks her ball
+<wug#77> has not dialed her number
+<wug#78> chases her dog
+<wug#79> did not pinch her sister
+<wug#80> lifts her weights
+<wug#81> has not trimmed her nails
+<wug#82> selects her outfit
+<wug#83> did not cheat on her test
+<wug#84> climbs her ladder
+<wug#85> has not rinsed her brush
+<wug#86> praises her efforts
+<wug#87> did not neglect her duties
+<wug#88> sketches her portrait
+<wug#89> has not silenced her critics
+<wug#90> jogs her memory
+<wug#91> did not squash her bug
+<wug#92> values her privacy
+<wug#93> has not blunted her scissors
+<wug#94> guards her secrets
+<wug#95> did not bruise her knee
+<wug#96> challenges her limits
+<wug#97> has not spoiled her dinner
+<wug#98> sharpens her pencil
+<wug#99> did not misplace her glasses
+<wug#100> finds his book
+<wug#101> has cleaned his car
+<wug#102> will not paint his house
+<wug#103> throws his ball
+<wug#104> did fix his computer
+<wug#105> can sell his bike
+<wug#106> might not break his glass
+<wug#107> takes his medicine
+<wug#108> has not lost his wallet
+<wug#109> reads his letter
+<wug#110> will repair his watch
+<wug#111> did not carry his bag
+<wug#112> sends his email
+<wug#113> could fill his tank
+<wug#114> has not worn his jacket
+<wug#115> makes his bed
+<wug#116> should not drop his phone
+<wug#117> holds his key
+<wug#118> has bought his ticket
+<wug#119> does not open his door
+<wug#120> drives his truck
+<wug#121> might fold his clothes
+<wug#122> has not kicked his ball
+<wug#123> eats his meal
+<wug#124> will not miss his train
+<wug#125> packs his suitcase
+<wug#126> has not caught his flight
+<wug#127> plants his tree
+<wug#128> could not build his shed
+<wug#129> wears his hat
+<wug#130> must not tear his paper
+<wug#131> feeds his cat
+<wug#132> has not hit his thumb
+<wug#133> borrows his neighbor's ladder
+<wug#134> will not forget his password
+<wug#135> lights his lamp
+<wug#136> has not changed his mind
+<wug#137> ties his shoes
+<wug#138> should not burn his toast
+<wug#139> calls his friend
+<wug#140> has not washed his dog
+<wug#141> saves his document
+<wug#142> could not lift his weight
+<wug#143> plays his guitar
+<wug#144> must not spill his coffee
+<wug#145> writes his report
+<wug#146> has not solved his puzzle
+<wug#147> chooses his outfit
+<wug#148> will not break his mirror
+<wug#149> hangs his picture
+<wug#150> has not checked his mail
+<wug#151> sets his alarm
+<wug#152> could not catch his bus
+<wug#153> draws his diagram
+<wug#154> must not lose his keys
+<wug#155> shares his idea
+<wug#156> has not found his ring
+<wug#157> locks his door
+<wug#158> will not hurt his hand
+<wug#159> climbs his ladder
+<wug#160> has not answered his phone
+<wug#161> covers his pool
+<wug#162> could not reach his shelf
+<wug#163> names his pet
+<wug#164> must not drop his cup
+<wug#165> sees his reflection
+<wug#166> has not learned his lesson
+<wug#167> touches his toe
+<wug#168> will not erase his drawing
+<wug#169> cuts his hair
+<wug#170> has not driven his van
+<wug#171> grabs his coat
+<wug#172> could not hear his alarm
+<wug#173> uses his tool
+<wug#174> must not ignore his alarm
+<wug#175> fixes his tie
+<wug#176> has not met his neighbor
+<wug#177> wipes his table
+<wug#178> will not spoil his dinner
+<wug#179> kicks his leg
+<wug#180> has not dialed his number
+<wug#181> mends his sock
+<wug#182> could not trace his steps
+<wug#183> holds his breath
+<wug#184> must not crush his hat
+<wug#185> finds his spot
+<wug#186> has not baked his cake
+<wug#187> raises his flag
+<wug#188> will not lose his ticket
+<wug#189> turns his knob
+<wug#190> has not swung his bat
+<wug#191> rinses his dish
+<wug#192> could not match his socks
+<wug#193> files his nails
+<wug#194> must not tear his shirt
+<wug#195> judges his work
+<wug#196> has not planned his route
+<wug#197> sweeps his porch
+<wug#198> will not miss his stop
+<wug#199> dries his hair
+<wug#200> finds her book
+<wug#201> has painted her canvas
+<wug#202> will not clean her room
+<wug#203> throws her ball
+<wug#204> did not fix her computer
+<wug#205> carries her bag
+<wug#206> had lost her key
+<wug#207> makes her bed
+<wug#208> does not write her essay
+<wug#209> pulls her curtain
+<wug#210> can solve her puzzle
+<wug#211> did not break her glass
+<wug#212> takes her medicine
+<wug#213> has not driven her car
+<wug#214> sends her letter
+<wug#215> could not find her phone
+<wug#216> reads her book
+<wug#217> has not washed her clothes
+<wug#218> builds her model
+<wug#219> did not cook her meal
+<wug#220> plants her tree
+<wug#221> has not changed her opinion
+<wug#222> sells her artwork
+<wug#223> did not forget her password
+<wug#224> buys her groceries
+<wug#225> has not repaired her bicycle
+<wug#226> wears her dress
+<wug#227> did not lose her ticket
+<wug#228> feeds her cat
+<wug#229> has not answered her phone
+<wug#230> opens her window
+<wug#231> did not miss her bus
+<wug#232> saves her document
+<wug#233> has not locked her door
+<wug#234> borrows her neighbor's ladder
+<wug#235> did not spill her coffee
+<wug#236> lights her candle
+<wug#237> has not folded her laundry
+<wug#238> files her taxes
+<wug#239> did not ignore her alarm
+<wug#240> packs her suitcase
+<wug#241> has not checked her email
+<wug#242> waters her plants
+<wug#243> did not drop her wallet
+<wug#244> ties her shoelaces
+<wug#245> has not cleared her schedule
+<wug#246> measures her room
+<wug#247> did not hit her thumb
+<wug#248> covers her pool
+<wug#249> has not updated her blog
+<wug#250> trims her hedge
+<wug#251> did not erase her drawing
+<wug#252> collects her mail
+<wug#253> has not set her alarm
+<wug#254> dries her hair
+<wug#255> did not tear her paper
+<wug#256> mends her socks
+<wug#257> has not judged her friend
+<wug#258> peels her orange
+<wug#259> did not crush her hat
+<wug#260> arranges her books
+<wug#261> has not followed her map
+<wug#262> names her puppy
+<wug#263> did not scratch her cd
+<wug#264> greets her neighbor
+<wug#265> has not borrowed her pen
+<wug#266> admires her painting
+<wug#267> did not slam her door
+<wug#268> holds her umbrella
+<wug#269> has not swept her floor
+<wug#270> stitches her dress
+<wug#271> did not yell at her brother
+<wug#272> locks her diary
+<wug#273> has not pruned her bushes
+<wug#274> hugs her friend
+<wug#275> did not mock her accent
+<wug#276> kicks her ball
+<wug#277> has not dialed her number
+<wug#278> chases her dog
+<wug#279> did not pinch her sister
+<wug#280> lifts her weights
+<wug#281> has not trimmed her nails
+<wug#282> selects her outfit
+<wug#283> did not cheat on her test
+<wug#284> climbs her ladder
+<wug#285> has not rinsed her brush
+<wug#286> praises her efforts
+<wug#287> did not neglect her duties
+<wug#288> sketches her portrait
+<wug#289> has not silenced her critics
+<wug#290> jogs her memory
+<wug#291> did not squash her bug
+<wug#292> values her privacy
+<wug#293> has not blunted her scissors
+<wug#294> guards her secrets
+<wug#295> did not bruise her knee
+<wug#296> challenges her limits
+<wug#297> has not spoiled her dinner
+<wug#298> sharpens her pencil
+<wug#299> did not misplace her glasses
+<wug#300> finds his book
+<wug#301> has cleaned his car
+<wug#302> will not paint his house
+<wug#303> throws his ball
+<wug#304> did fix his computer
+<wug#305> can sell his bike
+<wug#306> might not break his glass
+<wug#307> takes his medicine
+<wug#308> has not lost his wallet
+<wug#309> reads his letter
+<wug#310> will repair his watch
+<wug#311> did not carry his bag
+<wug#312> sends his email
+<wug#313> could fill his tank
+<wug#314> has not worn his jacket
+<wug#315> makes his bed
+<wug#316> should not drop his phone
+<wug#317> holds his key
+<wug#318> has bought his ticket
+<wug#319> does not open his door
+<wug#320> drives his truck
+<wug#321> might fold his clothes
+<wug#322> has not kicked his ball
+<wug#323> eats his meal
+<wug#324> will not miss his train
+<wug#325> packs his suitcase
+<wug#326> has not caught his flight
+<wug#327> plants his tree
+<wug#328> could not build his shed
+<wug#329> wears his hat
+<wug#330> must not tear his paper
+<wug#331> feeds his cat
+<wug#332> has not hit his thumb
+<wug#333> borrows his neighbor's ladder
+<wug#334> will not forget his password
+<wug#335> lights his lamp
+<wug#336> has not changed his mind
+<wug#337> ties his shoes
+<wug#338> should not burn his toast
+<wug#339> calls his friend
+<wug#340> has not washed his dog
+<wug#341> saves his document
+<wug#342> could not lift his weight
+<wug#343> plays his guitar
+<wug#344> must not spill his coffee
+<wug#345> writes his report
+<wug#346> has not solved his puzzle
+<wug#347> chooses his outfit
+<wug#348> will not break his mirror
+<wug#349> hangs his picture
+<wug#350> has not checked his mail
+<wug#351> sets his alarm
+<wug#352> could not catch his bus
+<wug#353> draws his diagram
+<wug#354> must not lose his keys
+<wug#355> shares his idea
+<wug#356> has not found his ring
+<wug#357> locks his door
+<wug#358> will not hurt his hand
+<wug#359> climbs his ladder
+<wug#360> has not answered his phone
+<wug#361> covers his pool
+<wug#362> could not reach his shelf
+<wug#363> names his pet
+<wug#364> must not drop his cup
+<wug#365> sees his reflection
+<wug#366> has not learned his lesson
+<wug#367> touches his toe
+<wug#368> will not erase his drawing
+<wug#369> cuts his hair
+<wug#370> has not driven his van
+<wug#371> grabs his coat
+<wug#372> could not hear his alarm
+<wug#373> uses his tool
+<wug#374> must not ignore his alarm
+<wug#375> fixes his tie
+<wug#376> has not met his neighbor
+<wug#377> wipes his table
+<wug#378> will not spoil his dinner
+<wug#379> kicks his leg
+<wug#380> has not dialed his number
+<wug#381> mends his sock
+<wug#382> could not trace his steps
+<wug#383> holds his breath
+<wug#384> must not crush his hat
+<wug#385> finds his spot
+<wug#386> has not baked his cake
+<wug#387> raises his flag
+<wug#388> will not lose his ticket
+<wug#389> turns his knob
+<wug#390> has not swung his bat
+<wug#391> rinses his dish
+<wug#392> could not match his socks
+<wug#393> files his nails
+<wug#394> must not tear his shirt
+<wug#395> judges his work
+<wug#396> has not planned his route
+<wug#397> sweeps his porch
+<wug#398> will not miss his stop
+<wug#399> dries his hair
+<wug#400> finds her book
+<wug#401> has painted her canvas
+<wug#402> will not clean her room
+<wug#403> throws her ball
+<wug#404> did not fix her computer
+<wug#405> carries her bag
+<wug#406> had lost her key
+<wug#407> makes her bed
+<wug#408> does not write her essay
+<wug#409> pulls her curtain
+<wug#410> can solve her puzzle
+<wug#411> did not break her glass
+<wug#412> takes her medicine
+<wug#413> has not driven her car
+<wug#414> sends her letter
+<wug#415> could not find her phone
+<wug#416> reads her book
+<wug#417> has not washed her clothes
+<wug#418> builds her model
+<wug#419> did not cook her meal
+<wug#420> plants her tree
+<wug#421> has not changed her opinion
+<wug#422> sells her artwork
+<wug#423> did not forget her password
+<wug#424> buys her groceries
+<wug#425> has not repaired her bicycle
+<wug#426> wears her dress
+<wug#427> did not lose her ticket
+<wug#428> feeds her cat
+<wug#429> has not answered her phone
+<wug#430> opens her window
+<wug#431> did not miss her bus
+<wug#432> saves her document
+<wug#433> has not locked her door
+<wug#434> borrows her neighbor's ladder
+<wug#435> did not spill her coffee
+<wug#436> lights her candle
+<wug#437> has not folded her laundry
+<wug#438> files her taxes
+<wug#439> did not ignore her alarm
+<wug#440> packs her suitcase
+<wug#441> has not checked her email
+<wug#442> waters her plants
+<wug#443> did not drop her wallet
+<wug#444> ties her shoelaces
+<wug#445> has not cleared her schedule
+<wug#446> measures her room
+<wug#447> did not hit her thumb
+<wug#448> covers her pool
+<wug#449> has not updated her blog
+<wug#450> trims her hedge
+<wug#451> did not erase her drawing
+<wug#452> collects her mail
+<wug#453> has not set her alarm
+<wug#454> dries her hair
+<wug#455> did not tear her paper
+<wug#456> mends her socks
+<wug#457> has not judged her friend
+<wug#458> peels her orange
+<wug#459> did not crush her hat
+<wug#460> arranges her books
+<wug#461> has not followed her map
+<wug#462> names her puppy
+<wug#463> did not scratch her cd
+<wug#464> greets her neighbor
+<wug#465> has not borrowed her pen
+<wug#466> admires her painting
+<wug#467> did not slam her door
+<wug#468> holds her umbrella
+<wug#469> has not swept her floor
+<wug#470> stitches her dress
+<wug#471> did not yell at her brother
+<wug#472> locks her diary
+<wug#473> has not pruned her bushes
+<wug#474> hugs her friend
+<wug#475> did not mock her accent
+<wug#476> kicks her ball
+<wug#477> has not dialed her number
+<wug#478> chases her dog
+<wug#479> did not pinch her sister
+<wug#480> lifts her weights
+<wug#481> has not trimmed her nails
+<wug#482> selects her outfit
+<wug#483> did not cheat on her test
+<wug#484> climbs her ladder
+<wug#485> has not rinsed her brush
+<wug#486> praises her efforts
+<wug#487> did not neglect her duties
+<wug#488> sketches her portrait
+<wug#489> has not silenced her critics
+<wug#490> jogs her memory
+<wug#491> did not squash her bug
+<wug#492> values her privacy
+<wug#493> has not blunted her scissors
+<wug#494> guards her secrets
+<wug#495> did not bruise her knee
+<wug#496> challenges her limits
+<wug#497> has not spoiled her dinner
+<wug#498> sharpens her pencil
+<wug#499> did not misplace her glasses
+<wug#500> finds his book
+<wug#501> has cleaned his car
+<wug#502> will not paint his house
+<wug#503> throws his ball
+<wug#504> did fix his computer
+<wug#505> can sell his bike
+<wug#506> might not break his glass
+<wug#507> takes his medicine
+<wug#508> has not lost his wallet
+<wug#509> reads his letter
+<wug#510> will repair his watch
+<wug#511> did not carry his bag
+<wug#512> sends his email
+<wug#513> could fill his tank
+<wug#514> has not worn his jacket
+<wug#515> makes his bed
+<wug#516> should not drop his phone
+<wug#517> holds his key
+<wug#518> has bought his ticket
+<wug#519> does not open his door
+<wug#520> drives his truck
+<wug#521> might fold his clothes
+<wug#522> has not kicked his ball
+<wug#523> eats his meal
+<wug#524> will not miss his train
+<wug#525> packs his suitcase
+<wug#526> has not caught his flight
+<wug#527> plants his tree
+<wug#528> could not build his shed
+<wug#529> wears his hat
+<wug#530> must not tear his paper
+<wug#531> feeds his cat
+<wug#532> has not hit his thumb
+<wug#533> borrows his neighbor's ladder
+<wug#534> will not forget his password
+<wug#535> lights his lamp
+<wug#536> has not changed his mind
+<wug#537> ties his shoes
+<wug#538> should not burn his toast
+<wug#539> calls his friend
+<wug#540> has not washed his dog
+<wug#541> saves his document
+<wug#542> could not lift his weight
+<wug#543> plays his guitar
+<wug#544> must not spill his coffee
+<wug#545> writes his report
+<wug#546> has not solved his puzzle
+<wug#547> chooses his outfit
+<wug#548> will not break his mirror
+<wug#549> hangs his picture
+<wug#550> has not checked his mail
+<wug#551> sets his alarm
+<wug#552> could not catch his bus
+<wug#553> draws his diagram
+<wug#554> must not lose his keys
+<wug#555> shares his idea
+<wug#556> has not found his ring
+<wug#557> locks his door
+<wug#558> will not hurt his hand
+<wug#559> climbs his ladder
+<wug#560> has not answered his phone
+<wug#561> covers his pool
+<wug#562> could not reach his shelf
+<wug#563> names his pet
+<wug#564> must not drop his cup
+<wug#565> sees his reflection
+<wug#566> has not learned his lesson
+<wug#567> touches his toe
+<wug#568> will not erase his drawing
+<wug#569> cuts his hair
+<wug#570> has not driven his van
+<wug#571> grabs his coat
+<wug#572> could not hear his alarm
+<wug#573> uses his tool
+<wug#574> must not ignore his alarm
+<wug#575> fixes his tie
+<wug#576> has not met his neighbor
+<wug#577> wipes his table
+<wug#578> will not spoil his dinner
+<wug#579> kicks his leg
+<wug#580> has not dialed his number
+<wug#581> mends his sock
+<wug#582> could not trace his steps
+<wug#583> holds his breath
+<wug#584> must not crush his hat
+<wug#585> finds his spot
+<wug#586> has not baked his cake
+<wug#587> raises his flag
+<wug#588> will not lose his ticket
+<wug#589> turns his knob
+<wug#590> has not swung his bat
+<wug#591> rinses his dish
+<wug#592> could not match his socks
+<wug#593> files his nails
+<wug#594> must not tear his shirt
+<wug#595> judges his work
+<wug#596> has not planned his route
+<wug#597> sweeps his porch
+<wug#598> will not miss his stop
+<wug#599> dries his hair

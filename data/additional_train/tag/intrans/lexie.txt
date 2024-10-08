@@ -1,0 +1,600 @@
+a tree will <wug#0>
+some water has <wug#1>ed
+every mountain can <wug#2>
+no cloud should <wug#3>
+many buildings must <wug#4>
+each star might <wug#5>
+few rivers have not <wug#6>ed
+the sun was <wug#7>ing
+any flower could <wug#8>
+little sand may <wug#9>
+much ice should not <wug#10>
+several animals will <wug#11>
+one planet has <wug#12>ed
+all grasses can <wug#13>
+no machine should <wug#14>
+many roads must <wug#15>
+each book might <wug#16>
+few chairs have not <wug#17>ed
+the table was <wug#18>ing
+any window could <wug#19>
+little bread may <wug#20>
+much cheese should not <wug#21>
+several lamps will <wug#22>
+one guitar has <wug#23>ed
+all musics can <wug#24>
+no voice should <wug#25>
+many hands must <wug#26>
+each foot might <wug#27>
+few teeth have not <wug#28>ed
+the hair was <wug#29>ing
+any nail could <wug#30>
+little skin may <wug#31>
+much bone should not <wug#32>
+several hearts will <wug#33>
+one lung has <wug#34>ed
+some blood can <wug#35>
+no stomach should <wug#36>
+many ears must <wug#37>
+each eye might <wug#38>
+few noses have not <wug#39>ed
+the mouth was <wug#40>ing
+any throat could <wug#41>
+little tongue may <wug#42>
+much brain should not <wug#43>
+several nerves will <wug#44>
+one vein has <wug#45>ed
+all muscles can <wug#46>
+no bone should <wug#47>
+many cells must <wug#48>
+each atom might <wug#49>
+few molecules have not <wug#50>ed
+the electron was <wug#51>ing
+any proton could <wug#52>
+little neutron may <wug#53>
+much quark should not <wug#54>
+several particles will <wug#55>
+one photon has <wug#56>ed
+all waves can <wug#57>
+no energy should <wug#58>
+many forces must <wug#59>
+each field might <wug#60>
+few spaces have not <wug#61>ed
+the vacuum was <wug#62>ing
+any galaxy could <wug#63>
+little universe may <wug#64>
+much matter should not <wug#65>
+several dimensions will <wug#66>
+one time has <wug#67>ed
+all events can <wug#68>
+no period should <wug#69>
+many eras must <wug#70>
+each epoch might <wug#71>
+few ages have not <wug#72>ed
+the century was <wug#73>ing
+any decade could <wug#74>
+little year may <wug#75>
+much month should not <wug#76>
+several weeks will <wug#77>
+one day has <wug#78>ed
+all hours can <wug#79>
+no minute should <wug#80>
+many seconds must <wug#81>
+each moment might <wug#82>
+few instances have not <wug#83>ed
+the occasion was <wug#84>ing
+any event could <wug#85>
+little happening may <wug#86>
+much phenomenon should not <wug#87>
+several occurrences will <wug#88>
+one situation has <wug#89>ed
+all conditions can <wug#90>
+no circumstance should <wug#91>
+many cases must <wug#92>
+each scenario might <wug#93>
+few contexts have not <wug#94>ed
+the environment was <wug#95>ing
+any setting could <wug#96>
+little background may <wug#97>
+much framework should not <wug#98>
+several structures will <wug#99>
+one system has <wug#100>ed
+all networks can <wug#101>
+no grid should <wug#102>
+many matrices must <wug#103>
+each pattern might <wug#104>
+few designs have not <wug#105>ed
+the model was <wug#106>ing
+any prototype could <wug#107>
+little blueprint may <wug#108>
+much scheme should not <wug#109>
+several plans will <wug#110>
+one project has <wug#111>ed
+all goals can <wug#112>
+no objectives should <wug#113>
+many targets must <wug#114>
+each aim might <wug#115>
+few purposes have not <wug#116>ed
+the intent was <wug#117>ing
+any ambition could <wug#118>
+little aspiration may <wug#119>
+much hope should not <wug#120>
+several dreams will <wug#121>
+one fantasy has <wug#122>ed
+all imaginations can <wug#123>
+no thoughts should <wug#124>
+many ideas must <wug#125>
+each concept might <wug#126>
+few theories have not <wug#127>ed
+the hypothesis was <wug#128>ing
+any assumption could <wug#129>
+little belief may <wug#130>
+much trust should not <wug#131>
+several faiths will <wug#132>
+one doctrine has <wug#133>ed
+all dogmas can <wug#134>
+no creeds should <wug#135>
+many philosophies must <wug#136>
+each ethic might <wug#137>
+few morals have not <wug#138>ed
+the principle was <wug#139>ing
+any standard could <wug#140>
+little guideline may <wug#141>
+much rule should not <wug#142>
+several laws will <wug#143>
+one regulation has <wug#144>ed
+all codes can <wug#145>
+no mandates should <wug#146>
+many directives must <wug#147>
+each instruction might <wug#148>
+few guidelines have not <wug#149>ed
+the policy was <wug#150>ing
+any procedure could <wug#151>
+little method may <wug#152>
+much technique should not <wug#153>
+several strategies will <wug#154>
+one tactic has <wug#155>ed
+all maneuvers can <wug#156>
+no approaches should <wug#157>
+many paths must <wug#158>
+each route might <wug#159>
+few trails have not <wug#160>ed
+the journey was <wug#161>ing
+any expedition could <wug#162>
+little quest may <wug#163>
+much adventure should not <wug#164>
+several voyages will <wug#165>
+one trip has <wug#166>ed
+all tours can <wug#167>
+no excursions should <wug#168>
+many travels must <wug#169>
+each migration might <wug#170>
+few movements have not <wug#171>ed
+the transition was <wug#172>ing
+any shift could <wug#173>
+little change may <wug#174>
+much alteration should not <wug#175>
+several modifications will <wug#176>
+one adjustment has <wug#177>ed
+all adaptations can <wug#178>
+no transformations should <wug#179>
+many evolutions must <wug#180>
+each development might <wug#181>
+few progresses have not <wug#182>ed
+the advancement was <wug#183>ing
+any growth could <wug#184>
+little expansion may <wug#185>
+much enlargement should not <wug#186>
+several increases will <wug#187>
+one augmentation has <wug#188>ed
+all enhancements can <wug#189>
+no improvements should <wug#190>
+many upgrades must <wug#191>
+each elevation might <wug#192>
+few escalations have not <wug#193>ed
+the rise was <wug#194>ing
+any ascent could <wug#195>
+little climb may <wug#196>
+much leap should not <wug#197>
+several jumps will <wug#198>
+one hop has <wug#199>ed
+a tree will <wug#200>
+some water has <wug#201>ed
+every mountain can <wug#202>
+no cloud should <wug#203>
+many buildings must <wug#204>
+each star might <wug#205>
+few rivers have not <wug#206>ed
+the sun was <wug#207>ing
+any flower could <wug#208>
+little sand may <wug#209>
+much ice should not <wug#210>
+several animals will <wug#211>
+one planet has <wug#212>ed
+all grasses can <wug#213>
+no machine should <wug#214>
+many roads must <wug#215>
+each book might <wug#216>
+few chairs have not <wug#217>ed
+the table was <wug#218>ing
+any window could <wug#219>
+little bread may <wug#220>
+much cheese should not <wug#221>
+several lamps will <wug#222>
+one guitar has <wug#223>ed
+all musics can <wug#224>
+no voice should <wug#225>
+many hands must <wug#226>
+each foot might <wug#227>
+few teeth have not <wug#228>ed
+the hair was <wug#229>ing
+any nail could <wug#230>
+little skin may <wug#231>
+much bone should not <wug#232>
+several hearts will <wug#233>
+one lung has <wug#234>ed
+some blood can <wug#235>
+no stomach should <wug#236>
+many ears must <wug#237>
+each eye might <wug#238>
+few noses have not <wug#239>ed
+the mouth was <wug#240>ing
+any throat could <wug#241>
+little tongue may <wug#242>
+much brain should not <wug#243>
+several nerves will <wug#244>
+one vein has <wug#245>ed
+all muscles can <wug#246>
+no bone should <wug#247>
+many cells must <wug#248>
+each atom might <wug#249>
+few molecules have not <wug#250>ed
+the electron was <wug#251>ing
+any proton could <wug#252>
+little neutron may <wug#253>
+much quark should not <wug#254>
+several particles will <wug#255>
+one photon has <wug#256>ed
+all waves can <wug#257>
+no energy should <wug#258>
+many forces must <wug#259>
+each field might <wug#260>
+few spaces have not <wug#261>ed
+the vacuum was <wug#262>ing
+any galaxy could <wug#263>
+little universe may <wug#264>
+much matter should not <wug#265>
+several dimensions will <wug#266>
+one time has <wug#267>ed
+all events can <wug#268>
+no period should <wug#269>
+many eras must <wug#270>
+each epoch might <wug#271>
+few ages have not <wug#272>ed
+the century was <wug#273>ing
+any decade could <wug#274>
+little year may <wug#275>
+much month should not <wug#276>
+several weeks will <wug#277>
+one day has <wug#278>ed
+all hours can <wug#279>
+no minute should <wug#280>
+many seconds must <wug#281>
+each moment might <wug#282>
+few instances have not <wug#283>ed
+the occasion was <wug#284>ing
+any event could <wug#285>
+little happening may <wug#286>
+much phenomenon should not <wug#287>
+several occurrences will <wug#288>
+one situation has <wug#289>ed
+all conditions can <wug#290>
+no circumstance should <wug#291>
+many cases must <wug#292>
+each scenario might <wug#293>
+few contexts have not <wug#294>ed
+the environment was <wug#295>ing
+any setting could <wug#296>
+little background may <wug#297>
+much framework should not <wug#298>
+several structures will <wug#299>
+one system has <wug#300>ed
+all networks can <wug#301>
+no grid should <wug#302>
+many matrices must <wug#303>
+each pattern might <wug#304>
+few designs have not <wug#305>ed
+the model was <wug#306>ing
+any prototype could <wug#307>
+little blueprint may <wug#308>
+much scheme should not <wug#309>
+several plans will <wug#310>
+one project has <wug#311>ed
+all goals can <wug#312>
+no objectives should <wug#313>
+many targets must <wug#314>
+each aim might <wug#315>
+few purposes have not <wug#316>ed
+the intent was <wug#317>ing
+any ambition could <wug#318>
+little aspiration may <wug#319>
+much hope should not <wug#320>
+several dreams will <wug#321>
+one fantasy has <wug#322>ed
+all imaginations can <wug#323>
+no thoughts should <wug#324>
+many ideas must <wug#325>
+each concept might <wug#326>
+few theories have not <wug#327>ed
+the hypothesis was <wug#328>ing
+any assumption could <wug#329>
+little belief may <wug#330>
+much trust should not <wug#331>
+several faiths will <wug#332>
+one doctrine has <wug#333>ed
+all dogmas can <wug#334>
+no creeds should <wug#335>
+many philosophies must <wug#336>
+each ethic might <wug#337>
+few morals have not <wug#338>ed
+the principle was <wug#339>ing
+any standard could <wug#340>
+little guideline may <wug#341>
+much rule should not <wug#342>
+several laws will <wug#343>
+one regulation has <wug#344>ed
+all codes can <wug#345>
+no mandates should <wug#346>
+many directives must <wug#347>
+each instruction might <wug#348>
+few guidelines have not <wug#349>ed
+the policy was <wug#350>ing
+any procedure could <wug#351>
+little method may <wug#352>
+much technique should not <wug#353>
+several strategies will <wug#354>
+one tactic has <wug#355>ed
+all maneuvers can <wug#356>
+no approaches should <wug#357>
+many paths must <wug#358>
+each route might <wug#359>
+few trails have not <wug#360>ed
+the journey was <wug#361>ing
+any expedition could <wug#362>
+little quest may <wug#363>
+much adventure should not <wug#364>
+several voyages will <wug#365>
+one trip has <wug#366>ed
+all tours can <wug#367>
+no excursions should <wug#368>
+many travels must <wug#369>
+each migration might <wug#370>
+few movements have not <wug#371>ed
+the transition was <wug#372>ing
+any shift could <wug#373>
+little change may <wug#374>
+much alteration should not <wug#375>
+several modifications will <wug#376>
+one adjustment has <wug#377>ed
+all adaptations can <wug#378>
+no transformations should <wug#379>
+many evolutions must <wug#380>
+each development might <wug#381>
+few progresses have not <wug#382>ed
+the advancement was <wug#383>ing
+any growth could <wug#384>
+little expansion may <wug#385>
+much enlargement should not <wug#386>
+several increases will <wug#387>
+one augmentation has <wug#388>ed
+all enhancements can <wug#389>
+no improvements should <wug#390>
+many upgrades must <wug#391>
+each elevation might <wug#392>
+few escalations have not <wug#393>ed
+the rise was <wug#394>ing
+any ascent could <wug#395>
+little climb may <wug#396>
+much leap should not <wug#397>
+several jumps will <wug#398>
+one hop has <wug#399>ed
+a tree will <wug#400>
+some water has <wug#401>ed
+every mountain can <wug#402>
+no cloud should <wug#403>
+many buildings must <wug#404>
+each star might <wug#405>
+few rivers have not <wug#406>ed
+the sun was <wug#407>ing
+any flower could <wug#408>
+little sand may <wug#409>
+much ice should not <wug#410>
+several animals will <wug#411>
+one planet has <wug#412>ed
+all grasses can <wug#413>
+no machine should <wug#414>
+many roads must <wug#415>
+each book might <wug#416>
+few chairs have not <wug#417>ed
+the table was <wug#418>ing
+any window could <wug#419>
+little bread may <wug#420>
+much cheese should not <wug#421>
+several lamps will <wug#422>
+one guitar has <wug#423>ed
+all musics can <wug#424>
+no voice should <wug#425>
+many hands must <wug#426>
+each foot might <wug#427>
+few teeth have not <wug#428>ed
+the hair was <wug#429>ing
+any nail could <wug#430>
+little skin may <wug#431>
+much bone should not <wug#432>
+several hearts will <wug#433>
+one lung has <wug#434>ed
+some blood can <wug#435>
+no stomach should <wug#436>
+many ears must <wug#437>
+each eye might <wug#438>
+few noses have not <wug#439>ed
+the mouth was <wug#440>ing
+any throat could <wug#441>
+little tongue may <wug#442>
+much brain should not <wug#443>
+several nerves will <wug#444>
+one vein has <wug#445>ed
+all muscles can <wug#446>
+no bone should <wug#447>
+many cells must <wug#448>
+each atom might <wug#449>
+few molecules have not <wug#450>ed
+the electron was <wug#451>ing
+any proton could <wug#452>
+little neutron may <wug#453>
+much quark should not <wug#454>
+several particles will <wug#455>
+one photon has <wug#456>ed
+all waves can <wug#457>
+no energy should <wug#458>
+many forces must <wug#459>
+each field might <wug#460>
+few spaces have not <wug#461>ed
+the vacuum was <wug#462>ing
+any galaxy could <wug#463>
+little universe may <wug#464>
+much matter should not <wug#465>
+several dimensions will <wug#466>
+one time has <wug#467>ed
+all events can <wug#468>
+no period should <wug#469>
+many eras must <wug#470>
+each epoch might <wug#471>
+few ages have not <wug#472>ed
+the century was <wug#473>ing
+any decade could <wug#474>
+little year may <wug#475>
+much month should not <wug#476>
+several weeks will <wug#477>
+one day has <wug#478>ed
+all hours can <wug#479>
+no minute should <wug#480>
+many seconds must <wug#481>
+each moment might <wug#482>
+few instances have not <wug#483>ed
+the occasion was <wug#484>ing
+any event could <wug#485>
+little happening may <wug#486>
+much phenomenon should not <wug#487>
+several occurrences will <wug#488>
+one situation has <wug#489>ed
+all conditions can <wug#490>
+no circumstance should <wug#491>
+many cases must <wug#492>
+each scenario might <wug#493>
+few contexts have not <wug#494>ed
+the environment was <wug#495>ing
+any setting could <wug#496>
+little background may <wug#497>
+much framework should not <wug#498>
+several structures will <wug#499>
+one system has <wug#500>ed
+all networks can <wug#501>
+no grid should <wug#502>
+many matrices must <wug#503>
+each pattern might <wug#504>
+few designs have not <wug#505>ed
+the model was <wug#506>ing
+any prototype could <wug#507>
+little blueprint may <wug#508>
+much scheme should not <wug#509>
+several plans will <wug#510>
+one project has <wug#511>ed
+all goals can <wug#512>
+no objectives should <wug#513>
+many targets must <wug#514>
+each aim might <wug#515>
+few purposes have not <wug#516>ed
+the intent was <wug#517>ing
+any ambition could <wug#518>
+little aspiration may <wug#519>
+much hope should not <wug#520>
+several dreams will <wug#521>
+one fantasy has <wug#522>ed
+all imaginations can <wug#523>
+no thoughts should <wug#524>
+many ideas must <wug#525>
+each concept might <wug#526>
+few theories have not <wug#527>ed
+the hypothesis was <wug#528>ing
+any assumption could <wug#529>
+little belief may <wug#530>
+much trust should not <wug#531>
+several faiths will <wug#532>
+one doctrine has <wug#533>ed
+all dogmas can <wug#534>
+no creeds should <wug#535>
+many philosophies must <wug#536>
+each ethic might <wug#537>
+few morals have not <wug#538>ed
+the principle was <wug#539>ing
+any standard could <wug#540>
+little guideline may <wug#541>
+much rule should not <wug#542>
+several laws will <wug#543>
+one regulation has <wug#544>ed
+all codes can <wug#545>
+no mandates should <wug#546>
+many directives must <wug#547>
+each instruction might <wug#548>
+few guidelines have not <wug#549>ed
+the policy was <wug#550>ing
+any procedure could <wug#551>
+little method may <wug#552>
+much technique should not <wug#553>
+several strategies will <wug#554>
+one tactic has <wug#555>ed
+all maneuvers can <wug#556>
+no approaches should <wug#557>
+many paths must <wug#558>
+each route might <wug#559>
+few trails have not <wug#560>ed
+the journey was <wug#561>ing
+any expedition could <wug#562>
+little quest may <wug#563>
+much adventure should not <wug#564>
+several voyages will <wug#565>
+one trip has <wug#566>ed
+all tours can <wug#567>
+no excursions should <wug#568>
+many travels must <wug#569>
+each migration might <wug#570>
+few movements have not <wug#571>ed
+the transition was <wug#572>ing
+any shift could <wug#573>
+little change may <wug#574>
+much alteration should not <wug#575>
+several modifications will <wug#576>
+one adjustment has <wug#577>ed
+all adaptations can <wug#578>
+no transformations should <wug#579>
+many evolutions must <wug#580>
+each development might <wug#581>
+few progresses have not <wug#582>ed
+the advancement was <wug#583>ing
+any growth could <wug#584>
+little expansion may <wug#585>
+much enlargement should not <wug#586>
+several increases will <wug#587>
+one augmentation has <wug#588>ed
+all enhancements can <wug#589>
+no improvements should <wug#590>
+many upgrades must <wug#591>
+each elevation might <wug#592>
+few escalations have not <wug#593>ed
+the rise was <wug#594>ing
+any ascent could <wug#595>
+little climb may <wug#596>
+much leap should not <wug#597>
+several jumps will <wug#598>
+one hop has <wug#599>ed
